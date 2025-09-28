@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Bakkerij > Gebak en taart > Stuks gebak",
+  "breadcrumbs": "Bakkerij > Gebak en taart > Stuks gebak",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "gebakje-vers",
+      "displayName": "Gebakje Vers",
+      "productCount": 11,
+      "filePath": "gebakje-vers.jsonl",
+      "indexPath": "gebakje-vers-index.json",
+      "statsPath": "gebakje-vers-stats.json",
+      "averageProtein": 4.1,
+      "halalCompliance": 27
+    }
+  ],
+  "totalProducts": 11,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Gebak En Taart",
+        "path": "../index.json"
+      },
+      {
+        "name": "Stuks Gebak",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bakkerij/gebak-en-taart"
+  }
+}

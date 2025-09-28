@@ -1,0 +1,16 @@
+{
+  "extends": "../../tsconfig.node.json",
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "noEmit": true,
+    "erasableSyntaxOnly": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": ["src/**/*", "tests/**/*"],
+  "exclude": []
+}

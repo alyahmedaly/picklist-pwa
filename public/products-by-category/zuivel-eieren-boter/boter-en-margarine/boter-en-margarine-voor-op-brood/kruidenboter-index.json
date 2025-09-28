@@ -1,0 +1,80 @@
+[
+  {
+    "id": "217306",
+    "name": "AH Kruidenboter met knoflook",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Kruidenboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560663",
+    "name": "AH Kruidenboter",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Kruidenboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67873",
+    "name": "Campina Botergoud kruidenboter",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438383335?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Kruidenboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231699",
+    "name": "AH Kruidenboter",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313738343136?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Kruidenboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222148",
+    "name": "Meggle Kruidenboter original bel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373630343331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Kruidenboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560686",
+    "name": "AH Knoflookboter",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738373138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Kruidenboter"
+    ],
+    "isFood": true
+  }
+]

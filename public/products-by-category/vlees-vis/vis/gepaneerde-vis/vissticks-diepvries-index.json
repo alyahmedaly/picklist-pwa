@@ -1,0 +1,132 @@
+[
+  {
+    "id": "533327",
+    "name": "Iglo Vissticks omega 3",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vissticks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211934",
+    "name": "Iglo Vissticks omega-3",
+    "price": 4.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vissticks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533325",
+    "name": "Iglo Vissticks",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939393033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vissticks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533326",
+    "name": "Iglo Vissticks",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vissticks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "111167",
+    "name": "Iglo Kapiteins klassiekers schatzoekers",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vissticks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467462",
+    "name": "AH Vissticks",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373033343036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vissticks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514768",
+    "name": "Iglo Oven visrosti's",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vissticks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191096",
+    "name": "Iglo Vissticks",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vissticks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445472",
+    "name": "Iglo Vissticks",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vissticks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564305",
+    "name": "Iglo Vissticks rösti",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933373130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vissticks (diepvries)"
+    ],
+    "isFood": true
+  }
+]

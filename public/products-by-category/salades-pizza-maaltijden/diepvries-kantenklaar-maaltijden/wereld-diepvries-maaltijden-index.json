@@ -1,0 +1,98 @@
+[
+  {
+    "id": "186928",
+    "name": "Iglo Roerbaksensatie paella kipfilet garnalen",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Wereld diepvries maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564078",
+    "name": "Crop's Paella",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Wereld diepvries maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496865",
+    "name": "Lazy Vegan Tikka masala maaltijd",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Wereld diepvries maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564364",
+    "name": "Fitmeals Pulled chicken curry",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393539303039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Wereld diepvries maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544497",
+    "name": "Iglo Roerbak sensatie kip teriyaki",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831353935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Wereld diepvries maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417692",
+    "name": "Iglo Linzen curry groente en zilvervliesrijst",
+    "price": 3.99,
+    "image": "NA",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Wereld diepvries maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417691",
+    "name": "Iglo Spelt risotto met groenten BEL",
+    "price": 4.1,
+    "image": "NA",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Wereld diepvries maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417690",
+    "name": "Iglo Bulgur mediteraanse groenten bel",
+    "price": 3.99,
+    "image": "NA",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Wereld diepvries maaltijden"
+    ],
+    "isFood": true
+  }
+]

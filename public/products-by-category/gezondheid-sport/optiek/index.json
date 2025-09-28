@@ -1,0 +1,50 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "lenzen-lenzenvloeistof",
+      "displayName": "Lenzen Lenzenvloeistof",
+      "productCount": 44,
+      "hasSubdirectories": false,
+      "indexPath": "lenzen-lenzenvloeistof/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "leesbrillen",
+      "displayName": "Leesbrillen",
+      "productCount": 5,
+      "filePath": "leesbrillen.jsonl",
+      "indexPath": "leesbrillen-index.json",
+      "statsPath": "leesbrillen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 49,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 49,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../index.json"
+      },
+      {
+        "name": "Optiek",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "gezondheid-sport"
+  }
+}

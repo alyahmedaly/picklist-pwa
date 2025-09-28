@@ -1,0 +1,75 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "kleding-en-accessoires",
+      "displayName": "Kleding En Accessoires",
+      "productCount": 87,
+      "hasSubdirectories": true,
+      "indexPath": "kleding-en-accessoires/index.json"
+    },
+    {
+      "name": "bloemen-plantverzorging",
+      "displayName": "Bloemen Plantverzorging",
+      "productCount": 61,
+      "hasSubdirectories": false,
+      "indexPath": "bloemen-plantverzorging/index.json"
+    },
+    {
+      "name": "tafelen",
+      "displayName": "Tafelen",
+      "productCount": 30,
+      "hasSubdirectories": true,
+      "indexPath": "tafelen/index.json"
+    },
+    {
+      "name": "koken",
+      "displayName": "Koken",
+      "productCount": 19,
+      "hasSubdirectories": true,
+      "indexPath": "koken/index.json"
+    },
+    {
+      "name": "feestje-gelegenheid",
+      "displayName": "Feestje Gelegenheid",
+      "productCount": 10,
+      "hasSubdirectories": false,
+      "indexPath": "feestje-gelegenheid/index.json"
+    },
+    {
+      "name": "kantoorartikelen",
+      "displayName": "Kantoorartikelen",
+      "productCount": 8,
+      "hasSubdirectories": false,
+      "indexPath": "kantoorartikelen/index.json"
+    },
+    {
+      "name": "wonen-slapen",
+      "displayName": "Wonen Slapen",
+      "productCount": 8,
+      "hasSubdirectories": true,
+      "indexPath": "wonen-slapen/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 223,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 223,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koken Tafelen Vrije Tijd",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

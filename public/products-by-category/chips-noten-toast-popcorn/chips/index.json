@@ -1,0 +1,104 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "smaakvarianten-chips",
+      "displayName": "Smaakvarianten Chips",
+      "productCount": 58,
+      "hasSubdirectories": false,
+      "indexPath": "smaakvarianten-chips/index.json"
+    },
+    {
+      "name": "nacho-tortilla-chips",
+      "displayName": "Nacho Tortilla Chips",
+      "productCount": 33,
+      "hasSubdirectories": false,
+      "indexPath": "nacho-tortilla-chips/index.json"
+    },
+    {
+      "name": "chips-minder-vet-zout",
+      "displayName": "Chips Minder Vet Zout",
+      "productCount": 19,
+      "hasSubdirectories": false,
+      "indexPath": "chips-minder-vet-zout/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "chips-met-een-vormpje",
+      "displayName": "Chips Met Een Vormpje",
+      "productCount": 29,
+      "filePath": "chips-met-een-vormpje.jsonl",
+      "indexPath": "chips-met-een-vormpje-index.json",
+      "statsPath": "chips-met-een-vormpje-stats.json",
+      "averageProtein": 5.6,
+      "halalCompliance": 62
+    },
+    {
+      "name": "paprika-chips",
+      "displayName": "Paprika Chips",
+      "productCount": 22,
+      "filePath": "paprika-chips.jsonl",
+      "indexPath": "paprika-chips-index.json",
+      "statsPath": "paprika-chips-stats.json",
+      "averageProtein": 5.9,
+      "halalCompliance": 86
+    },
+    {
+      "name": "naturel-chips",
+      "displayName": "Naturel Chips",
+      "productCount": 21,
+      "filePath": "naturel-chips.jsonl",
+      "indexPath": "naturel-chips-index.json",
+      "statsPath": "naturel-chips-stats.json",
+      "averageProtein": 5.1,
+      "halalCompliance": 71
+    },
+    {
+      "name": "luxe-chips",
+      "displayName": "Luxe Chips",
+      "productCount": 15,
+      "filePath": "luxe-chips.jsonl",
+      "indexPath": "luxe-chips-index.json",
+      "statsPath": "luxe-chips-stats.json",
+      "averageProtein": 5.9,
+      "halalCompliance": 100
+    },
+    {
+      "name": "uitdeelzakjes-chips",
+      "displayName": "Uitdeelzakjes Chips",
+      "productCount": 11,
+      "filePath": "uitdeelzakjes-chips.jsonl",
+      "indexPath": "uitdeelzakjes-chips-index.json",
+      "statsPath": "uitdeelzakjes-chips-stats.json",
+      "averageProtein": 6.2,
+      "halalCompliance": 73
+    }
+  ],
+  "totalProducts": 208,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 208,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Chips Noten Toast Popcorn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Chips",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "chips-noten-toast-popcorn"
+  }
+}

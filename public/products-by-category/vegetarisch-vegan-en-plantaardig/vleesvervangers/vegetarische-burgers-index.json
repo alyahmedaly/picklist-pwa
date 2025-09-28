@@ -1,0 +1,326 @@
+[
+  {
+    "id": "572423",
+    "name": "AH Vegetarische mozzarella basilicum burger",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136303334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580467",
+    "name": "Beyond Meat Smash burger",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567844",
+    "name": "Redefine Meat Premium burgers",
+    "price": 4.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132353732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563716",
+    "name": "This Plantaardige burgers",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502390",
+    "name": "Vegetarische Slager Vegan pluimfeestburger",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393930303437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457669",
+    "name": "Beyond Meat Plant-based burger",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731323235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517005",
+    "name": "AH Vegan jalapeno burger",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631333335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "98645",
+    "name": "Garden Gourmet Veggie Griekse rondo",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933313537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564862",
+    "name": "AH Terra Plantaardige burger",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480637",
+    "name": "Vegetarische Slager Vegan bofkipburger",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839343733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572424",
+    "name": "AH Terra BBQ plantaardige jalapeno burger",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437119",
+    "name": "AH Vegetarische champignonburger",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412570",
+    "name": "Garden Gourmet Spinazie kaas rondo",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039383632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493676",
+    "name": "Vegetarische Slager Vegan ereburger",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033333436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493508",
+    "name": "AH Biologisch Broccoli burger",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383439333939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564864",
+    "name": "AH Terra Plantaardige biologische groenteburger",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563702",
+    "name": "AH Terra Plantaardige bietenburger",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563701",
+    "name": "AH Terra Plantaardige burger",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038333639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580466",
+    "name": "AH Terra Plantaardige burger",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570451",
+    "name": "Verstegen Kneed & klaar plantburgers jalapeno",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570450",
+    "name": "Verstegen Kneed & klaar plantburgers klassiek",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3948",
+    "name": "Garden Gourmet Hamburger",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933313535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563663",
+    "name": "Vivera Plantaardige crispy chicken burger",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637313135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460374",
+    "name": "Garden Gourmet Sensational burger",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836323532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580480",
+    "name": "Garden Gourmet Tuscan carre",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583042",
+    "name": "Beyond Meat Voordeelpakket",
+    "price": 7.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132323036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493532",
+    "name": "Vivera Plantaardige kroketburger",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische burgers"
+    ],
+    "isFood": true
+  }
+]

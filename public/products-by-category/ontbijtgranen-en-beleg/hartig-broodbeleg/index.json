@@ -1,0 +1,80 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Hartig broodbeleg",
+  "breadcrumbs": "Ontbijtgranen en beleg > Hartig broodbeleg",
+  "subdirectories": [
+    {
+      "name": "zuivelspread",
+      "displayName": "Zuivelspread",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "zuivelspread/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "vegetarische-pindakaas",
+      "displayName": "Vegetarische Pindakaas",
+      "productCount": 32,
+      "filePath": "vegetarische-pindakaas.jsonl",
+      "indexPath": "vegetarische-pindakaas-index.json",
+      "statsPath": "vegetarische-pindakaas-stats.json",
+      "averageProtein": 22.9,
+      "halalCompliance": 94
+    },
+    {
+      "name": "smeerkaas",
+      "displayName": "Smeerkaas",
+      "productCount": 22,
+      "filePath": "smeerkaas.jsonl",
+      "indexPath": "smeerkaas-index.json",
+      "statsPath": "smeerkaas-stats.json",
+      "averageProtein": 14.2,
+      "halalCompliance": 86
+    },
+    {
+      "name": "cottage-cheese",
+      "displayName": "Cottage Cheese",
+      "productCount": 6,
+      "filePath": "cottage-cheese.jsonl",
+      "indexPath": "cottage-cheese-index.json",
+      "statsPath": "cottage-cheese-stats.json",
+      "averageProtein": 12,
+      "halalCompliance": 100
+    },
+    {
+      "name": "zuivelspread",
+      "displayName": "Zuivelspread",
+      "productCount": 6,
+      "filePath": "zuivelspread.jsonl",
+      "indexPath": "zuivelspread-index.json",
+      "statsPath": "zuivelspread-stats.json",
+      "averageProtein": 7.8,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 71,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 71,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Hartig Broodbeleg",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "ontbijtgranen-en-beleg"
+  }
+}

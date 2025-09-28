@@ -1,0 +1,145 @@
+[
+  {
+    "id": "198148",
+    "name": "Sera Karisik Tursu (gemengde groente in zuur)",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639363332?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Turkse groente conserven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465743",
+    "name": "Sera Sus Biber (hete pepers)",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332393332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Turkse groente conserven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426531",
+    "name": "Sera Gevulde wijnbladeren",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534333135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Turkse groente conserven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426484",
+    "name": "Siof Green Olives without pit",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303431383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Turkse groente conserven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496082",
+    "name": "Samasaya Jackfruit naturel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373539363134?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Turkse groente conserven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "314134",
+    "name": "Sera Roasted red peppers",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439323832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Turkse groente conserven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "362004",
+    "name": "Sera Geroosterde Aubergine (roasted eggplant)",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733353433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Turkse groente conserven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466156",
+    "name": "Miras Domates Salcasi (tomaten puree)",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Turkse groente conserven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579717",
+    "name": "Sera Red beans in tomato sauce",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032313830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Turkse groente conserven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198167",
+    "name": "Caykur Rize Turist cayi",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737393834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Turkse groente conserven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509344",
+    "name": "AH Beluga linzen 2-pack",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936383430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Turkse groente conserven"
+    ],
+    "isFood": true
+  }
+]

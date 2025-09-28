@@ -1,0 +1,46 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "kauwgom-in-pot",
+      "displayName": "Kauwgom In Pot",
+      "productCount": 44,
+      "hasSubdirectories": false,
+      "indexPath": "kauwgom-in-pot/index.json"
+    },
+    {
+      "name": "kauwgom-multipack",
+      "displayName": "Kauwgom Multipack",
+      "productCount": 25,
+      "hasSubdirectories": false,
+      "indexPath": "kauwgom-multipack/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 69,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 69,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kauwgom",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "snoep-chocolade-koek"
+  }
+}

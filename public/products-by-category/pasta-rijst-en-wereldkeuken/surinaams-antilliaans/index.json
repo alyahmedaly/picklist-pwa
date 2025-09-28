@@ -1,0 +1,82 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Surinaams, Antilliaans",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Surinaams, Antilliaans",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "surinaamse-mix",
+      "displayName": "Surinaamse Mix",
+      "productCount": 19,
+      "filePath": "surinaamse-mix.jsonl",
+      "indexPath": "surinaamse-mix-index.json",
+      "statsPath": "surinaamse-mix-stats.json",
+      "averageProtein": 6.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "surinaams-antilliaans-frisdrank",
+      "displayName": "Surinaams Antilliaans Frisdrank",
+      "productCount": 14,
+      "filePath": "surinaams-antilliaans-frisdrank.jsonl",
+      "indexPath": "surinaams-antilliaans-frisdrank-index.json",
+      "statsPath": "surinaams-antilliaans-frisdrank-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "surinaamse-smaakmakers",
+      "displayName": "Surinaamse Smaakmakers",
+      "productCount": 14,
+      "filePath": "surinaamse-smaakmakers.jsonl",
+      "indexPath": "surinaamse-smaakmakers-index.json",
+      "statsPath": "surinaamse-smaakmakers-stats.json",
+      "averageProtein": 2.9,
+      "halalCompliance": 100
+    },
+    {
+      "name": "exotische-sappen-dranken",
+      "displayName": "Exotische Sappen Dranken",
+      "productCount": 13,
+      "filePath": "exotische-sappen-dranken.jsonl",
+      "indexPath": "exotische-sappen-dranken-index.json",
+      "statsPath": "exotische-sappen-dranken-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 85
+    },
+    {
+      "name": "chutney",
+      "displayName": "Chutney",
+      "productCount": 5,
+      "filePath": "chutney.jsonl",
+      "indexPath": "chutney-index.json",
+      "statsPath": "chutney-stats.json",
+      "averageProtein": 2.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 65,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 65,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Surinaams Antilliaans",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "pasta-rijst-en-wereldkeuken"
+  }
+}

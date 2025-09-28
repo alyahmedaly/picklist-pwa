@@ -1,0 +1,100 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Mediterrane keuken > Italiaanse keuken > Tomaten producten",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Mediterrane keuken > Italiaanse keuken > Tomaten producten",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "tomatenpuree",
+      "displayName": "Tomatenpuree",
+      "productCount": 20,
+      "filePath": "tomatenpuree.jsonl",
+      "indexPath": "tomatenpuree-index.json",
+      "statsPath": "tomatenpuree-stats.json",
+      "averageProtein": 2.8,
+      "halalCompliance": 100
+    },
+    {
+      "name": "gezeefde-tomaten",
+      "displayName": "Gezeefde Tomaten",
+      "productCount": 14,
+      "filePath": "gezeefde-tomaten.jsonl",
+      "indexPath": "gezeefde-tomaten-index.json",
+      "statsPath": "gezeefde-tomaten-stats.json",
+      "averageProtein": 1.5,
+      "halalCompliance": 100
+    },
+    {
+      "name": "gepelde-tomaten",
+      "displayName": "Gepelde Tomaten",
+      "productCount": 8,
+      "filePath": "gepelde-tomaten.jsonl",
+      "indexPath": "gepelde-tomaten-index.json",
+      "statsPath": "gepelde-tomaten-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "zongedroogde-tomaten",
+      "displayName": "Zongedroogde Tomaten",
+      "productCount": 8,
+      "filePath": "zongedroogde-tomaten.jsonl",
+      "indexPath": "zongedroogde-tomaten-index.json",
+      "statsPath": "zongedroogde-tomaten-stats.json",
+      "averageProtein": 3.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "tomatenblokjes",
+      "displayName": "Tomatenblokjes",
+      "productCount": 7,
+      "filePath": "tomatenblokjes.jsonl",
+      "indexPath": "tomatenblokjes-index.json",
+      "statsPath": "tomatenblokjes-stats.json",
+      "averageProtein": 1.4,
+      "halalCompliance": 100
+    },
+    {
+      "name": "tomatenpulp",
+      "displayName": "Tomatenpulp",
+      "productCount": 7,
+      "filePath": "tomatenpulp.jsonl",
+      "indexPath": "tomatenpulp-index.json",
+      "statsPath": "tomatenpulp-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 64,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 64,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Mediterrane Keuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Italiaanse Keuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Tomaten Producten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "pasta-rijst-en-wereldkeuken/mediterrane-keuken/italiaanse-keuken"
+  }
+}

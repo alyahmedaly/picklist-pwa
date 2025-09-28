@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Chocolade > Chocoladesnoepjes",
+  "breadcrumbs": "Snoep, chocolade, koek > Chocolade > Chocoladesnoepjes",
+  "totalProducts": 56,
+  "halalCompliance": 2,
+  "averageProtein": 7.7,
+  "averagePrice": 3.39,
+  "highProteinProducts": 1,
+  "dataQuality": {
+    "withNutrition": 56,
+    "withIngredients": 56,
+    "withHalalCheck": 56
+  }
+}

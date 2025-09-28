@@ -1,0 +1,210 @@
+[
+  {
+    "id": "516301",
+    "name": "Oliehoorn Fritessaus",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535313933?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563594",
+    "name": "Oliehoorn Fritessaus",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535313934?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62101",
+    "name": "Remia Fritessaus classic",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438363530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166523",
+    "name": "Remia Fritessaus classic",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636333735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516672",
+    "name": "Remia Fritessaus classic",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636333739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199161",
+    "name": "Remia Fritessaus classic XL",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403603",
+    "name": "AH Fritessaus",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171401",
+    "name": "Mad sauce Original french fries sauce",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363938303736?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519375",
+    "name": "Gouda's Glorie Fritessaus zacht & romig",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434333036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199162",
+    "name": "Remia Fritessaus halfvol",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373330303236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199184",
+    "name": "Remia Fritessaus halfvol XL",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353338353633?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171393",
+    "name": "AH American fritessaus",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323134363939?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189280",
+    "name": "Remia Fritessaus American",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373239393935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519397",
+    "name": "Gouda's Glorie Fritessaus halfvol",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434333039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194759",
+    "name": "Remia Friteslijn",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630363831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493044",
+    "name": "Remia Fritessaus zero sugar",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373236373533?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Fritessaus"
+    ],
+    "isFood": true
+  }
+]

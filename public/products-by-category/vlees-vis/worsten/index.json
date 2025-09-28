@@ -1,0 +1,36 @@
+{
+  "categoryPath": "Vlees, vis > Worsten",
+  "breadcrumbs": "Vlees, vis > Worsten",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "vegetarische-worst",
+      "displayName": "Vegetarische Worst",
+      "productCount": 9,
+      "filePath": "vegetarische-worst.jsonl",
+      "indexPath": "vegetarische-worst-index.json",
+      "statsPath": "vegetarische-worst-stats.json",
+      "averageProtein": 12.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 9,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Worsten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "vlees-vis"
+  }
+}

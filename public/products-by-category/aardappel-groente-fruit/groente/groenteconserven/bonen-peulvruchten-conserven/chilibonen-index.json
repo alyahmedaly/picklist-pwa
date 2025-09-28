@@ -1,0 +1,72 @@
+[
+  {
+    "id": "171759",
+    "name": "Bonduelle Chilibonen in saus",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537323535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Chilibonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195516",
+    "name": "Bonduelle Chilibonen in saus",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535393336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Chilibonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "31265",
+    "name": "AH Chilibonen",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Chilibonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468776",
+    "name": "AH Chilibonen",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936383237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Chilibonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583842",
+    "name": "Hak Chili bonen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035303638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Chilibonen"
+    ],
+    "isFood": true
+  }
+]

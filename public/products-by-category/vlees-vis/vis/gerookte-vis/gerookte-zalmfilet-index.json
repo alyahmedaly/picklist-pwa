@@ -1,0 +1,106 @@
+[
+  {
+    "id": "130191",
+    "name": "AH Gerookte zalm",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalmfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470617",
+    "name": "AH Gerookte zalm",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalmfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415386",
+    "name": "AH Intens gerookte zalm",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalmfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489413",
+    "name": "AH Schotse zalm",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632313936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalmfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582185",
+    "name": "AH Warm gerookte vis tapas",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035343038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalmfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "47285",
+    "name": "Olav's Gerookte zalmfilet",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363138343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalmfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561825",
+    "name": "AH Biologisch Gerookte zalm 30% verlaagd in zout",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalmfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567333",
+    "name": "AH Gerookte zalmfilet 3-pack",
+    "price": 8.97,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130373737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalmfilet"
+    ],
+    "isFood": true
+  }
+]

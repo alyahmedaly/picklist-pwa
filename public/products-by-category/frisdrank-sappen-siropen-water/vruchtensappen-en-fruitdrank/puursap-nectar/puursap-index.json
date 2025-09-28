@@ -1,0 +1,93 @@
+[
+  {
+    "id": "469667",
+    "name": "BioToday Agave syrup light",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937343737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Puursap, nectar",
+      "Puursap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388789",
+    "name": "Flevosap Appel-ananas-perzik",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939393533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Puursap, nectar",
+      "Puursap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469383",
+    "name": "Zonnatura 100% Brandnetel",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373034363435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Puursap, nectar",
+      "Puursap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507915",
+    "name": "Zonnatura Gembersap",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373939383537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Puursap, nectar",
+      "Puursap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227895",
+    "name": "Zonnatura Granaatappelsap",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138303536?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Puursap, nectar",
+      "Puursap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474844",
+    "name": "Zonnatura Rode bietensap",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932353139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Puursap, nectar",
+      "Puursap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470006",
+    "name": "Zonnatura Vitaboost weerstand",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332343836?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Puursap, nectar",
+      "Puursap"
+    ],
+    "isFood": true
+  }
+]

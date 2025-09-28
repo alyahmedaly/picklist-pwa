@@ -1,0 +1,254 @@
+[
+  {
+    "id": "515881",
+    "name": "AH Donut creme brûlée",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "433743",
+    "name": "AH Donut marshmallow",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231393837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "433739",
+    "name": "AH Donut rainbow",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230343730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571160",
+    "name": "AH Mango cheesecake donut",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365602",
+    "name": "AH Oranje donut",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231353439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485271",
+    "name": "AH Popdots mix",
+    "price": 0.3,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383435323632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563505",
+    "name": "AH Purple donut",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339303734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476131",
+    "name": "AH Vanille donut gevuld",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231353438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485280",
+    "name": "AH Donut zebra",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396225",
+    "name": "AH Donuts pink",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323533383535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565804",
+    "name": "AH Excellent Mini donuts goud",
+    "price": 0.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639363039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538592",
+    "name": "AH Oranje popdots",
+    "price": 0.3,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230343638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515857",
+    "name": "AH Donut fruit sensation",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232343339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396222",
+    "name": "AH Donuts choco",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323533383531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230737",
+    "name": "AH Gedecoreerde donuts",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231393836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231677",
+    "name": "AH Mini donuts choco",
+    "price": 0.3,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232343430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396224",
+    "name": "AH Donuts suiker",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323533383530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230733",
+    "name": "AH Gesuikerde donuts",
+    "price": 0.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383838383038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231676",
+    "name": "AH Mini donuts",
+    "price": 0.3,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231353437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550065",
+    "name": "AH Crodot",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126531",
+    "name": "AH Mini gedecoreerde crodot",
+    "price": 0.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135383137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Donuts"
+    ],
+    "isFood": true
+  }
+]

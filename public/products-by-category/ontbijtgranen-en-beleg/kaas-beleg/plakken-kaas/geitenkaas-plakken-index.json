@@ -1,0 +1,145 @@
+[
+  {
+    "id": "47365",
+    "name": "AH Geitenkaas oud 50+ plakken",
+    "price": 6.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Geitenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197936",
+    "name": "AH Geitenkaas belegen 50+ plakken",
+    "price": 5.63,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239353834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Geitenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513093",
+    "name": "AH Jonge geitenkaas 50+ plakken",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437343838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Geitenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483433",
+    "name": "AH Kleintje geitenkaas belegen 50+ plakken",
+    "price": 2.82,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132313235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Geitenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367686",
+    "name": "AH Biologisch Geitenkaas jong belegen 50+ plakken",
+    "price": 5.81,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132313339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Geitenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188813",
+    "name": "AH Geitenkaas jong belegen 50+ plakken",
+    "price": 5.4,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239353832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Geitenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197964",
+    "name": "AH Geitenkaas koriander 50+ plak",
+    "price": 5.11,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239353837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Geitenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236943",
+    "name": "AH Geitenkaas schijfjes naturel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50363631373532?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Geitenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483436",
+    "name": "AH Kleintje geitenkaas koriander 50+ plak",
+    "price": 2.73,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436363937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Geitenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232003",
+    "name": "Maaslander jong belegen geitenkaas plak",
+    "price": 3.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531303530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Geitenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228222",
+    "name": "AH Geitenkaas jong belegen 30+ plakken",
+    "price": 5.76,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239353936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Geitenkaas (plakken)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "id": "582178",
+    "name": "AH Gemarineerde garnalen met citroenboter",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131333037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "405667",
+    "name": "50foods Pannetje scampi BEL",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323733303732?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582177",
+    "name": "AH Noordse Garnalen",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034383136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478094",
+    "name": "AH Garnalen met staart gekookt & gepeld",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471285",
+    "name": "AH Hollandse garnalen bel",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373031313638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415351",
+    "name": "AH Roerbak garnalen knoflook",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458966",
+    "name": "AH Wokgarnalen",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395373",
+    "name": "AH Grote garnalen",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489414",
+    "name": "AH Grote roerbak garnalen rauw & gepeld",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "118067",
+    "name": "AH Hollandse garnalen",
+    "price": 10.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195026",
+    "name": "AH Hollandse garnalen",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561827",
+    "name": "AH Hollandse garnalen",
+    "price": 3.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035363033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "53220",
+    "name": "AH Cocktail garnalen",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395374",
+    "name": "AH Cocktail garnalen",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484404",
+    "name": "AH Gamba's gekookt & ongepeld",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161609",
+    "name": "Klaas Puul Hollandse garnalen bel",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939323138?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67740",
+    "name": "AH Garnalen",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523283",
+    "name": "AH Garnalen",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939323237?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582181",
+    "name": "AH Roerbakgarnalen citroen en peper",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166257",
+    "name": "AH Biologisch Garnalen",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415352",
+    "name": "AH Roerbakgarnalen naturel",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523282",
+    "name": "AH Biologisch Roerbakgarnalen",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568749",
+    "name": "AH Grote garnalen 2-pack",
+    "price": 6.63,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Garnalen (vers)"
+    ],
+    "isFood": true
+  }
+]

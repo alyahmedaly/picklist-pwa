@@ -1,0 +1,74 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "appelmoes-appelcompote",
+      "displayName": "Appelmoes Appelcompote",
+      "productCount": 32,
+      "hasSubdirectories": false,
+      "indexPath": "appelmoes-appelcompote/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "ananas-conserven",
+      "displayName": "Ananas Conserven",
+      "productCount": 14,
+      "filePath": "ananas-conserven.jsonl",
+      "indexPath": "ananas-conserven-index.json",
+      "statsPath": "ananas-conserven-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 93
+    },
+    {
+      "name": "fruitmix-conserven",
+      "displayName": "Fruitmix Conserven",
+      "productCount": 5,
+      "filePath": "fruitmix-conserven.jsonl",
+      "indexPath": "fruitmix-conserven-index.json",
+      "statsPath": "fruitmix-conserven-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 100
+    },
+    {
+      "name": "perziken-conserven",
+      "displayName": "Perziken Conserven",
+      "productCount": 5,
+      "filePath": "perziken-conserven.jsonl",
+      "indexPath": "perziken-conserven-index.json",
+      "statsPath": "perziken-conserven-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 56,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 56,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Fruitconserven",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/fruit"
+  }
+}

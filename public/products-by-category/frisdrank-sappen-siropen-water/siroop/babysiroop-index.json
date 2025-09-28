@@ -1,0 +1,74 @@
+[
+  {
+    "id": "220095",
+    "name": "Roosvicee Aardbei siroop",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Babysiroop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220096",
+    "name": "Roosvicee Vruchten mix siroop",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383434?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Babysiroop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220094",
+    "name": "Roosvicee Bosvruchten mix siroop",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037333036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Babysiroop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445334",
+    "name": "AH Multivitamine",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236313939393734?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Babysiroop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445324",
+    "name": "AH Vruchtenmix",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236313937373338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Babysiroop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582260",
+    "name": "Roosvicee Vruchten mix siroop 2-pack",
+    "price": 4.78,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131353333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Babysiroop"
+    ],
+    "isFood": true
+  }
+]

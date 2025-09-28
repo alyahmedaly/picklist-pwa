@@ -1,0 +1,110 @@
+[
+  {
+    "id": "183614",
+    "name": "AH Biologisch Chardonnay",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131383031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Witte wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440917",
+    "name": "AH Excellent Selectie touraine sauvignon blanc",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4b525436303032353536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Witte wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186048",
+    "name": "Casillero del Diablo Chardonnay reserva",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736323037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Witte wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225297",
+    "name": "La Tulipe Sauvignon Blanc",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Witte wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440928",
+    "name": "Rodet Macon-villages wit",
+    "price": 7.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4b525436303032353933?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Witte wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441026",
+    "name": "Slurp! Wit",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830343231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Witte wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "115211",
+    "name": "Undurraga Chardonnay",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383336393435?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Witte wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "178294",
+    "name": "Valdivieso Chardonnay",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032373034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Witte wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421157",
+    "name": "Viña Albali Wit",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373936333434?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Witte wijn (klein)"
+    ],
+    "isFood": true
+  }
+]

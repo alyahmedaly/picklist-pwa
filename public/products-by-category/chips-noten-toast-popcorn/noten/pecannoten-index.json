@@ -1,0 +1,98 @@
+[
+  {
+    "id": "571757",
+    "name": "AH Gezouten pecannoten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pecannoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487234",
+    "name": "AH Pecanmix amandelen, hazelnoten gezouten",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236323930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pecannoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187172",
+    "name": "AH Pecannoten gezouten",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236323238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pecannoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570693",
+    "name": "AH Pecannoten gezouten",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331353134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pecannoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197740",
+    "name": "AH Pecannoten ongezouten",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236323339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pecannoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397901",
+    "name": "AH Ongebrande pecannoten",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236333239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pecannoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469390",
+    "name": "AH Biologisch Pecannoten ongebrand",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363336313733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pecannoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571756",
+    "name": "AH Ongezouten pecannoten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pecannoten"
+    ],
+    "isFood": true
+  }
+]

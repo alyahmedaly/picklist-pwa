@@ -1,0 +1,184 @@
+[
+  {
+    "id": "164886",
+    "name": "Bacardi Mojito",
+    "price": 15.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Mixdranken",
+      "Mixdranken (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198856",
+    "name": "Berentzen Apfelkorn",
+    "price": 8.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634303034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Mixdranken",
+      "Mixdranken (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425938",
+    "name": "Bruggeman Batida de coco BEL",
+    "price": 13.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Mixdranken",
+      "Mixdranken (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553699",
+    "name": "De Kuyper Passionfruit martini cocktail",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332333435?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Mixdranken",
+      "Mixdranken (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551409",
+    "name": "De Kuyper Piña colada cocktail",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332333437?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Mixdranken",
+      "Mixdranken (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572701",
+    "name": "De Kuyper Sex on the beach cocktail",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439383635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Mixdranken",
+      "Mixdranken (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573766",
+    "name": "Hola! Spritz orange",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631323938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Mixdranken",
+      "Mixdranken (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212127",
+    "name": "Li Limoncellow",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733363438?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Mixdranken",
+      "Mixdranken (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574214",
+    "name": "Martini Mimosa",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437313835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Mixdranken",
+      "Mixdranken (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "143614",
+    "name": "Passoã Passion fruits",
+    "price": 10.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Mixdranken",
+      "Mixdranken (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198733",
+    "name": "Puschkin Red",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537333931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Mixdranken",
+      "Mixdranken (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "158732",
+    "name": "Safari Senza",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Mixdranken",
+      "Mixdranken (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "122232",
+    "name": "Smirnoff Ice",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631393134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Mixdranken",
+      "Mixdranken (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553701",
+    "name": "Smirnoff Ice raspberry",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230313233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Mixdranken",
+      "Mixdranken (flessen)"
+    ],
+    "isFood": true
+  }
+]

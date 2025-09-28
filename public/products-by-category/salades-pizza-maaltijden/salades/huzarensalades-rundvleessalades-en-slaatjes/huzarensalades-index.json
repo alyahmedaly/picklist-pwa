@@ -1,0 +1,67 @@
+[
+  {
+    "id": "52625",
+    "name": "Johma Huzarensalade",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232383234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Huzarensalades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389947",
+    "name": "AH Huzaren salade",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Huzarensalades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140111",
+    "name": "AH Saladeschotel huzaren",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738333736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Huzarensalades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "38077",
+    "name": "AH Huzarensalade",
+    "price": 2.05,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738333632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Huzarensalades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579358",
+    "name": "AH Huzarensalade 2-pack",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Huzarensalades"
+    ],
+    "isFood": true
+  }
+]

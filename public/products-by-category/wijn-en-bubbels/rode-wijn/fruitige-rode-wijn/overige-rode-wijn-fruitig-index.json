@@ -1,0 +1,262 @@
+[
+  {
+    "id": "561458",
+    "name": "Felix Solis Glühwein",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123561",
+    "name": "Los Molinos Rood",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830363736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576153",
+    "name": "AH Excellent Rietburg spätburgunder 6 flessen",
+    "price": 40.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736353837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465813",
+    "name": "AH Excellent Selectie spätburgunder",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232313932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469584",
+    "name": "Bruce Jack Pinotage Malbec",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373134353530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2524",
+    "name": "Chiarli 1860 Lambrusco rosso",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383339313339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129655",
+    "name": "Fontanafredda Briccotondo barbera organic wine",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031363535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160826",
+    "name": "Fontanafredda Briccotondo dolcetto organic wine",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031363536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387122",
+    "name": "Georges Duboeuf Beaujolais-villages",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323336343834?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387123",
+    "name": "Georges Duboeuf Brouilly",
+    "price": 10.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323336343833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387124",
+    "name": "Georges Duboeuf Fleurie",
+    "price": 10.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323336343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401865",
+    "name": "Georges Duboeuf Moulin-a-vent",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353738353930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189128",
+    "name": "Lenz Moser Selection blauer zweigelt",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431303632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124563",
+    "name": "Mommessin Beaujolais Villages Vielles Vignes",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373234333330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473309",
+    "name": "Riporta Primitivo Di Manduria",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195779",
+    "name": "Rucio Sangria",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303530363635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491730",
+    "name": "Sansilvestro Piemonte barbera vino biologico",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433313831?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "34376",
+    "name": "Spaanse wijn vino tinto dulce",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313432393730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214316",
+    "name": "Valpolicella Doc Terre de Verona",
+    "price": 7.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538363732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "34091",
+    "name": "Vruchtenwijn frambozen-bessen",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313433303237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Overige rode wijn (Fruitig)"
+    ],
+    "isFood": true
+  }
+]

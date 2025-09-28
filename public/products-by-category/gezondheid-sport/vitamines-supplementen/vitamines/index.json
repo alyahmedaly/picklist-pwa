@@ -1,0 +1,74 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "multivitamines",
+      "displayName": "Multivitamines",
+      "productCount": 38,
+      "hasSubdirectories": false,
+      "indexPath": "multivitamines/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "vitamine-c",
+      "displayName": "Vitamine C",
+      "productCount": 23,
+      "filePath": "vitamine-c.jsonl",
+      "indexPath": "vitamine-c-index.json",
+      "statsPath": "vitamine-c-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 96
+    },
+    {
+      "name": "vitamine-d",
+      "displayName": "Vitamine D",
+      "productCount": 19,
+      "filePath": "vitamine-d.jsonl",
+      "indexPath": "vitamine-d-index.json",
+      "statsPath": "vitamine-d-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 95
+    },
+    {
+      "name": "vitamine-b",
+      "displayName": "Vitamine B",
+      "productCount": 6,
+      "filePath": "vitamine-b.jsonl",
+      "indexPath": "vitamine-b-index.json",
+      "statsPath": "vitamine-b-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 86,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 86,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vitamines Supplementen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vitamines",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "gezondheid-sport/vitamines-supplementen"
+  }
+}

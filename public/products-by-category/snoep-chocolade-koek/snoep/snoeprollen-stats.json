@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Snoep > Snoeprollen",
+  "breadcrumbs": "Snoep, chocolade, koek > Snoep > Snoeprollen",
+  "totalProducts": 14,
+  "halalCompliance": 21,
+  "averageProtein": 0.4,
+  "averagePrice": 4.28,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 14,
+    "withIngredients": 14,
+    "withHalalCheck": 14
+  }
+}

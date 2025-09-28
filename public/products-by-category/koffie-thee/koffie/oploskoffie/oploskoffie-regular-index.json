@@ -1,0 +1,119 @@
+[
+  {
+    "id": "561883",
+    "name": "Douwe Egberts 3-in-1 classic oploskoffie",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534323937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127411",
+    "name": "Nescafé Mocca oploskoffie",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562115",
+    "name": "Caffé Gondoliere Red melange instant coffee",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393633323539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129317",
+    "name": "Perla Huisblends Aroma oploskoffie",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538303930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129318",
+    "name": "Perla Huisblends Espresso oploskoffie",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538303833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129316",
+    "name": "Perla Huisblends Goud oploskoffie",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538303830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "371446",
+    "name": "Buisman Classic aroma",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631393830?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561884",
+    "name": "Nescafé Gold refill navulverpakking",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337333838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "430642",
+    "name": "Nescafé Gold rijk & zacht oploskoffie",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373630303038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (regular)"
+    ],
+    "isFood": true
+  }
+]

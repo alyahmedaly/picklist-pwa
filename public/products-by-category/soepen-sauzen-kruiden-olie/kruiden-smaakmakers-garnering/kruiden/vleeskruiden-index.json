@@ -1,0 +1,730 @@
+[
+  {
+    "id": "229814",
+    "name": "Verstegen Kruidenmix voor gehakt met uitjes",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197885",
+    "name": "Verstegen Mix voor gehakt met uitjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333136?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164926",
+    "name": "Verstegen Kruidenmix voor saté",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534303330?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420254",
+    "name": "Maggi Stoofmix hachee",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353134383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "147378",
+    "name": "Verstegen Kruidenmix voor gehakt met uitjes",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363232323239?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166226",
+    "name": "AH Mix voor hachee",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303436343637?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "402015",
+    "name": "Maggi Stoofmix rundvlees",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198262",
+    "name": "Verstegen Kruidenmix voor shoarma",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216640",
+    "name": "Verstegen Kruidenmix voor marinade",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534303332?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165565",
+    "name": "Verstegen Kruidenmix voor shoarma",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533393933?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164689",
+    "name": "Verstegen Kruidenmix voor speklapjes",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197988",
+    "name": "Verstegen Kruidenmix voor speklapjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333031?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414988",
+    "name": "Verstegen Mix voor gehakt met uitjes",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353730333537?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164648",
+    "name": "AH Mix voor gehakt met ui",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313537373534?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99921",
+    "name": "Verstegen Kruidenmix voor braad, grill & BBQ",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194064",
+    "name": "Verstegen Kruidenmix voor gehakt",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131333831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198190",
+    "name": "Verstegen Kruidenmix voor karbonade",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333231?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198185",
+    "name": "Verstegen Kruidenmix voor kip pikant",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533393639?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216668",
+    "name": "Verstegen Kruidenmix voor speklapjes",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639313938?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164628",
+    "name": "AH Mix voor gehakt met tuinkruiden",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313537373731?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99919",
+    "name": "Verstegen Kruidenmix voor gehakt",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632333633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197838",
+    "name": "Verstegen Kruidenmix voor gehakt",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373832383430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198187",
+    "name": "Verstegen Kruidenmix voor gehakt stroganoff",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534313739?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99920",
+    "name": "Verstegen Kruidenmix voor karbonade",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216666",
+    "name": "Verstegen Kruidenmix voor rundvlees",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333431?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414990",
+    "name": "Verstegen Mix voor gehakt bretons",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353532323131?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164637",
+    "name": "AH Kruidenmix voor kip",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303035393332?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164626",
+    "name": "AH Mix voor gehakt",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313538323336?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198184",
+    "name": "Verstegen Kruidenmix voor gehakt met paprika",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534323936?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164613",
+    "name": "Verstegen Kruidenmix voor gehakt Mexico",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533393536?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216642",
+    "name": "Verstegen Kruidenmix voor goulash",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534303234?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198189",
+    "name": "Verstegen Kruidenmix voor hamburger",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533393932?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99915",
+    "name": "Verstegen Kruidenmix voor rundvlees",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197841",
+    "name": "Verstegen Kruidenmix voor rundvlees",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333630?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414992",
+    "name": "Verstegen Mix voor gehakt Italiaans",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353730333538?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570460",
+    "name": "Verstegen Mix voor stoofvlees",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434353131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570445",
+    "name": "AH Kruidenmix voor gyros",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236303635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197840",
+    "name": "Verstegen Kruidenmix varkensvlees",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534323835?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162574",
+    "name": "Verstegen Kruidenmix voor biefstuk",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333832?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "335605",
+    "name": "Verstegen Kruidenmix voor gehakt pikant",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534323937?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198209",
+    "name": "Verstegen Kruidenmix voor gyros",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534303239?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194062",
+    "name": "Verstegen Mix voor gehakt lekkerste balletje",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533393638?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414994",
+    "name": "Verstegen Mix voor gehakt tuinkruiden",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353730333736?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "443260",
+    "name": "Verstegen Mix voor hachee",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353730343035?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "443259",
+    "name": "Verstegen Mix voor varkensvlees",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353730343034?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414986",
+    "name": "Verstegen Mix voor gehakt slagersrecept",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638383431?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507313",
+    "name": "Verstegen Mix voor steak & jus",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198248",
+    "name": "AH Kruidenmix voor shoarma",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303436353130?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575498",
+    "name": "Euroma Chef's gehaktbal by Jonnie Boer",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575489",
+    "name": "Euroma Curry Madras by Jonnie Boer",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575488",
+    "name": "Euroma Garam masala by Jonnie Boer",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553575",
+    "name": "H. Nandan Extra hot masala",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530313536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199027",
+    "name": "Mee Chun Vijf kruidenpoeder",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433313333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578428",
+    "name": "Verstegen Mix voor gehakt 3-pack",
+    "price": 4.02,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578429",
+    "name": "Verstegen mix voor hamburger 3-pack",
+    "price": 4.02,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578147",
+    "name": "Verstegen Pita shoarma pakket",
+    "price": 5.51,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Vleeskruiden"
+    ],
+    "isFood": true
+  }
+]

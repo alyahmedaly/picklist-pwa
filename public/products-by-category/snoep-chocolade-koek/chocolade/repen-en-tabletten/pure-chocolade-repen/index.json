@@ -1,0 +1,80 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Chocolade > Repen en tabletten > Pure chocolade repen",
+  "breadcrumbs": "Snoep, chocolade, koek > Chocolade > Repen en tabletten > Pure chocolade repen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "pure-chocolade",
+      "displayName": "Pure Chocolade",
+      "productCount": 36,
+      "filePath": "pure-chocolade.jsonl",
+      "indexPath": "pure-chocolade-index.json",
+      "statsPath": "pure-chocolade-stats.json",
+      "averageProtein": 8.1,
+      "halalCompliance": 31
+    },
+    {
+      "name": "pure-chocolade-met-smaak",
+      "displayName": "Pure Chocolade Met Smaak",
+      "productCount": 18,
+      "filePath": "pure-chocolade-met-smaak.jsonl",
+      "indexPath": "pure-chocolade-met-smaak-index.json",
+      "statsPath": "pure-chocolade-met-smaak-stats.json",
+      "averageProtein": 6,
+      "halalCompliance": 6
+    },
+    {
+      "name": "pure-chocolade-met-noten",
+      "displayName": "Pure Chocolade Met Noten",
+      "productCount": 15,
+      "filePath": "pure-chocolade-met-noten.jsonl",
+      "indexPath": "pure-chocolade-met-noten-index.json",
+      "statsPath": "pure-chocolade-met-noten-stats.json",
+      "averageProtein": 7.6,
+      "halalCompliance": 13
+    },
+    {
+      "name": "pure-chocolade-met-vulling-pralin",
+      "displayName": "Pure Chocolade Met Vulling Pralin",
+      "productCount": 11,
+      "filePath": "pure-chocolade-met-vulling-pralin.jsonl",
+      "indexPath": "pure-chocolade-met-vulling-pralin-index.json",
+      "statsPath": "pure-chocolade-met-vulling-pralin-stats.json",
+      "averageProtein": 5.7,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 80,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 80,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Chocolade",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Repen En Tabletten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pure Chocolade Repen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "snoep-chocolade-koek/chocolade/repen-en-tabletten"
+  }
+}

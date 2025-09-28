@@ -1,0 +1,86 @@
+[
+  {
+    "id": "196691",
+    "name": "AH Aardappelschijfjes",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383338323630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Aardappelschijfjes",
+      "Aardappelschijfjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577524",
+    "name": "AH Aardappelschijfjes duopak",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831383230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Aardappelschijfjes",
+      "Aardappelschijfjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "101131",
+    "name": "AH Biologisch Aardappelschijfjes",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313630313039?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Aardappelschijfjes",
+      "Aardappelschijfjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196697",
+    "name": "AH Duopak schijfjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303038363334?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Aardappelschijfjes",
+      "Aardappelschijfjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "155600",
+    "name": "AH Aardappelschijfjes",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363439393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Aardappelschijfjes",
+      "Aardappelschijfjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566923",
+    "name": "AH Aardappel Schijfjes 3-pack",
+    "price": 3.68,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038333433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Aardappelschijfjes",
+      "Aardappelschijfjes (vers)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "235296",
+    "name": "Swallow Globe Brand Agar agar powder",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373338313031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Basis bakbenodigdheden",
+      "Gelatine",
+      "Gelatine (poeder)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526137",
+    "name": "Dr. Oetker Bladgelatine helder",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383837383936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Basis bakbenodigdheden",
+      "Gelatine",
+      "Gelatine (poeder)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126845",
+    "name": "Dr. Oetker Taartina helder",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432353335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Basis bakbenodigdheden",
+      "Gelatine",
+      "Gelatine (poeder)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526142",
+    "name": "Dr. Oetker Vegatine",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383838323138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Basis bakbenodigdheden",
+      "Gelatine",
+      "Gelatine (poeder)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470154",
+    "name": "Smaakt Agar-agar",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032333533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Basis bakbenodigdheden",
+      "Gelatine",
+      "Gelatine (poeder)"
+    ],
+    "isFood": true
+  }
+]

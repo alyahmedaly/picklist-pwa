@@ -1,0 +1,170 @@
+[
+  {
+    "id": "60746",
+    "name": "AH Biologisch Volle yoghurt",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730303537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Volle yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1518",
+    "name": "AH Volle yoghurt",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Volle yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "33712",
+    "name": "AH Volle yoghurt",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Volle yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228640",
+    "name": "Pur Natur Biologisch yoghurt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230363532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Volle yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419846",
+    "name": "Arla Biologisch volle yoghurt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393331383839?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Volle yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221096",
+    "name": "Campina Volle yoghurt",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131333738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Volle yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "118132",
+    "name": "De Zaanse Hoeve Volle yoghurt",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339333038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Volle yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233527",
+    "name": "Den Eelder Boeren volle yoghurt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393739363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Volle yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575469",
+    "name": "Kalverliefde Volle yoghurt",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636303536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Volle yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419859",
+    "name": "Pur Natur Bio yoghurt",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230383438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Volle yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550135",
+    "name": "Zuivelhoeve Boer'n yoghurt naturel",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235363535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Volle yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577862",
+    "name": "AH Volle biogarde roer 3-pack",
+    "price": 3.91,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Volle yoghurt"
+    ],
+    "isFood": true
+  }
+]

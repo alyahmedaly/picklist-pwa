@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Couscous, bulgur, quinoa, gort > Couscous",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Couscous, bulgur, quinoa, gort > Couscous",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "couscous-naturel",
+      "displayName": "Couscous Naturel",
+      "productCount": 8,
+      "filePath": "couscous-naturel.jsonl",
+      "indexPath": "couscous-naturel-index.json",
+      "statsPath": "couscous-naturel-stats.json",
+      "averageProtein": 11.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 8,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Couscous Bulgur Quinoa Gort",
+        "path": "../index.json"
+      },
+      {
+        "name": "Couscous",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/couscous-bulgur-quinoa-gort"
+  }
+}

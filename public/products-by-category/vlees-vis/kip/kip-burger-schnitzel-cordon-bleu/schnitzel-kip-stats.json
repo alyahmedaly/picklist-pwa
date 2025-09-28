@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Kip > Kip- burger, schnitzel, cordon bleu > Schnitzel (kip)",
+  "breadcrumbs": "Vlees, vis > Kip > Kip- burger, schnitzel, cordon bleu > Schnitzel (kip)",
+  "totalProducts": 11,
+  "halalCompliance": 73,
+  "averageProtein": 8.4,
+  "averagePrice": 5,
+  "highProteinProducts": 1,
+  "dataQuality": {
+    "withNutrition": 8,
+    "withIngredients": 8,
+    "withHalalCheck": 8
+  }
+}

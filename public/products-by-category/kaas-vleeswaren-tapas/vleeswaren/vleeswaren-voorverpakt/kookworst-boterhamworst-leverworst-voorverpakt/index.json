@@ -1,0 +1,70 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Vleeswaren > Vleeswaren voorverpakt > Kookworst, boterhamworst, leverworst (voorverpakt)",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Vleeswaren > Vleeswaren voorverpakt > Kookworst, boterhamworst, leverworst (voorverpakt)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "leverworst-en-leverkaas-voorverpakt",
+      "displayName": "Leverworst En Leverkaas Voorverpakt",
+      "productCount": 25,
+      "filePath": "leverworst-en-leverkaas-voorverpakt.jsonl",
+      "indexPath": "leverworst-en-leverkaas-voorverpakt-index.json",
+      "statsPath": "leverworst-en-leverkaas-voorverpakt-stats.json",
+      "averageProtein": 12.6,
+      "halalCompliance": 4
+    },
+    {
+      "name": "kookworst-voorverpakt",
+      "displayName": "Kookworst Voorverpakt",
+      "productCount": 10,
+      "filePath": "kookworst-voorverpakt.jsonl",
+      "indexPath": "kookworst-voorverpakt-index.json",
+      "statsPath": "kookworst-voorverpakt-stats.json",
+      "averageProtein": 11.1,
+      "halalCompliance": 10
+    },
+    {
+      "name": "boterhamworst-voorverpakt",
+      "displayName": "Boterhamworst Voorverpakt",
+      "productCount": 5,
+      "filePath": "boterhamworst-voorverpakt.jsonl",
+      "indexPath": "boterhamworst-voorverpakt-index.json",
+      "statsPath": "boterhamworst-voorverpakt-stats.json",
+      "averageProtein": 11.2,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 40,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 40,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Vleeswaren",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vleeswaren Voorverpakt",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kookworst Boterhamworst Leverworst Voorverpakt",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "kaas-vleeswaren-tapas/vleeswaren/vleeswaren-voorverpakt"
+  }
+}

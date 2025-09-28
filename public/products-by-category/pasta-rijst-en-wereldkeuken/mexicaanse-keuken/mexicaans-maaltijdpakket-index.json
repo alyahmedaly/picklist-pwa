@@ -1,0 +1,98 @@
+[
+  {
+    "id": "132377",
+    "name": "Honig Familiegerecht Mexicaanse wraps",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440971",
+    "name": "Knorr Wereldgerecht Mexicaanse burritos xl",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221765",
+    "name": "Knorr Wereldgerechten Mexicaanse burritos",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932333830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553382",
+    "name": "Knorr Foodtrips taquitos",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932343237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475330",
+    "name": "Knorr Foodtrips nacho ovenschotel",
+    "price": 4.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577223",
+    "name": "AH Terra Comfort bowl tex mex",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486802",
+    "name": "Knorr Wereldgerecht Mexicaanse taco's family",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839393936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "39308",
+    "name": "Knorr Wereldgerechten Mexicaanse taco's",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932343635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaans maaltijdpakket"
+    ],
+    "isFood": true
+  }
+]

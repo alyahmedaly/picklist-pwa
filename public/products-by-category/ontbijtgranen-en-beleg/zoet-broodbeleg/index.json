@@ -1,0 +1,91 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "hazelnoot-en-chocoladepasta",
+      "displayName": "Hazelnoot En Chocoladepasta",
+      "productCount": 49,
+      "hasSubdirectories": false,
+      "indexPath": "hazelnoot-en-chocoladepasta/index.json"
+    },
+    {
+      "name": "strooisels",
+      "displayName": "Strooisels",
+      "productCount": 42,
+      "hasSubdirectories": false,
+      "indexPath": "strooisels/index.json"
+    },
+    {
+      "name": "jam-en-marmelade",
+      "displayName": "Jam En Marmelade",
+      "productCount": 36,
+      "hasSubdirectories": false,
+      "indexPath": "jam-en-marmelade/index.json"
+    },
+    {
+      "name": "stroop",
+      "displayName": "Stroop",
+      "productCount": 12,
+      "hasSubdirectories": false,
+      "indexPath": "stroop/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "honing",
+      "displayName": "Honing",
+      "productCount": 18,
+      "filePath": "honing.jsonl",
+      "indexPath": "honing-index.json",
+      "statsPath": "honing-stats.json",
+      "averageProtein": 0.4,
+      "halalCompliance": 100
+    },
+    {
+      "name": "fruitspread",
+      "displayName": "Fruitspread",
+      "productCount": 13,
+      "filePath": "fruitspread.jsonl",
+      "indexPath": "fruitspread-index.json",
+      "statsPath": "fruitspread-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 62
+    },
+    {
+      "name": "vlokken",
+      "displayName": "Vlokken",
+      "productCount": 12,
+      "filePath": "vlokken.jsonl",
+      "indexPath": "vlokken-index.json",
+      "statsPath": "vlokken-stats.json",
+      "averageProtein": 4.3,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 182,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 182,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Zoet Broodbeleg",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "ontbijtgranen-en-beleg"
+  }
+}

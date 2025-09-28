@@ -1,0 +1,170 @@
+[
+  {
+    "id": "556824",
+    "name": "Crodino Rosso 6-pack",
+    "price": 10.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232303638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Alcoholvrije wijn, bubbels",
+      "Alcoholvrije aperitieven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1638",
+    "name": "Crodino Biondo 6-pack",
+    "price": 10.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536343333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Alcoholvrije wijn, bubbels",
+      "Alcoholvrije aperitieven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476636",
+    "name": "Martini Vibrante alcoholvrij",
+    "price": 10.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303138313034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Alcoholvrije wijn, bubbels",
+      "Alcoholvrije aperitieven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560575",
+    "name": "ISH Mojito alcoholvrij",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332343233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Alcoholvrije wijn, bubbels",
+      "Alcoholvrije aperitieven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518859",
+    "name": "Schweppes Virgin mojito",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537343332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Alcoholvrije wijn, bubbels",
+      "Alcoholvrije aperitieven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515017",
+    "name": "De Kuyper Margarita 0% alcoholvrij",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383335363137?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Alcoholvrije wijn, bubbels",
+      "Alcoholvrije aperitieven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "511919",
+    "name": "De Kuyper Pornstar martini 0% alcoholvrij",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331363436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Alcoholvrije wijn, bubbels",
+      "Alcoholvrije aperitieven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560573",
+    "name": "ISH Gin en tonic alcoholvrij",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333313536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Alcoholvrije wijn, bubbels",
+      "Alcoholvrije aperitieven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560574",
+    "name": "ISH Spritz alcoholvrij",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332343231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Alcoholvrije wijn, bubbels",
+      "Alcoholvrije aperitieven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "511925",
+    "name": "De Kuyper Strawberry daiquiri 0% alcoholvrij",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331363435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Alcoholvrije wijn, bubbels",
+      "Alcoholvrije aperitieven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "511921",
+    "name": "De Kuyper Mojito 0%",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331363437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Alcoholvrije wijn, bubbels",
+      "Alcoholvrije aperitieven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508125",
+    "name": "Gordon's Gin alcoholvrij",
+    "price": 16.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383235333638?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Alcoholvrije wijn, bubbels",
+      "Alcoholvrije aperitieven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476635",
+    "name": "Martini Floreale alcoholvrij",
+    "price": 10.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303138313038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Alcoholvrije wijn, bubbels",
+      "Alcoholvrije aperitieven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560569",
+    "name": "Scarlet Mojito alcoholvrij",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Alcoholvrije wijn, bubbels",
+      "Alcoholvrije aperitieven"
+    ],
+    "isFood": true
+  }
+]

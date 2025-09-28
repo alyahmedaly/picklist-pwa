@@ -1,0 +1,86 @@
+[
+  {
+    "id": "525063",
+    "name": "Viverty Rosé sparkling alcoholvrij",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Alcoholvrije rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560571",
+    "name": "Viverty Rosé sparkling alcoholvrij",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131373931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Alcoholvrije rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171570",
+    "name": "Faber Rosé Alcoholvrij",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373234343337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Alcoholvrije rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173541",
+    "name": "Faber Sparkling rosé alcoholvrij",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373234343635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Alcoholvrije rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498150",
+    "name": "Free Feather Rosé alcoholvrij",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393831363133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Alcoholvrije rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470895",
+    "name": "Gort & Gort Sparkling rosé alcoholvrij",
+    "price": 7.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239363933?revLabel=7&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Alcoholvrije rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209928",
+    "name": "Torres Natureo rosado alcoholvrij",
+    "price": 8.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536363134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Alcoholvrije rosé"
+    ],
+    "isFood": true
+  }
+]

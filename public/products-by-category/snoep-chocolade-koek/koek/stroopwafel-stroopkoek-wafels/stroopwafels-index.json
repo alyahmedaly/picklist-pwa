@@ -1,0 +1,158 @@
+[
+  {
+    "id": "440737",
+    "name": "AH Stroopwafel mini karamel zeezout",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383632323134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Stroopwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196505",
+    "name": "Kanjers Extra grote stroopwafels",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533313830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Stroopwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366138",
+    "name": "Kanjers Stroopwafels original",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Stroopwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440731",
+    "name": "AH Stroopwafels karamel-zeezout",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533393730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Stroopwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469323",
+    "name": "Hollandse Stroopwafels",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373231313639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Stroopwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226805",
+    "name": "Rosenberg delftsbl.stroopwafels",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303338333031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Stroopwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "142548",
+    "name": "AH Roomboter stroopwafels",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533393835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Stroopwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367181",
+    "name": "Daelmans Stroopwafels",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363939323837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Stroopwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1030",
+    "name": "AH Roomboter karamel stroopwafels",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533393733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Stroopwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484031",
+    "name": "AH Biologisch Roomboter honing mini stroopwafels",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239363232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Stroopwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440741",
+    "name": "AH Biologisch Honing stroopwafels",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536333033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Stroopwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202148",
+    "name": "AH Roomboter minder suiker stroopwafels",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383530393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Stroopwafels"
+    ],
+    "isFood": true
+  }
+]

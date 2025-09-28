@@ -1,0 +1,93 @@
+[
+  {
+    "id": "433695",
+    "name": "Calvé Salademix kruiden knoflook",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933383030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Knoflook",
+      "Knoflookpoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494278",
+    "name": "Paturain Knoflook fijne kruiden",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230383137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Knoflook",
+      "Knoflookpoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197973",
+    "name": "AH Knoflook gemalen",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237393139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Knoflook",
+      "Knoflookpoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "65767",
+    "name": "Drogheria Knoflook",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533353436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Knoflook",
+      "Knoflookpoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "131982",
+    "name": "Drogheria Knoflook & peper",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533353531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Knoflook",
+      "Knoflookpoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216639",
+    "name": "Verstegen Knoflook poeder",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130313732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Knoflook",
+      "Knoflookpoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414965",
+    "name": "Verstegen Knoflookpoeder",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533383838?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Knoflook",
+      "Knoflookpoeder"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "447717",
+    "name": "Holland Jersey Volle melk",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333393537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Volle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "108654",
+    "name": "AH Biologisch Houdbare volle melk",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Volle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450535",
+    "name": "AH Houdbare volle melk",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Volle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383466",
+    "name": "Campina Langlekker volle melk",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438373933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Volle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469256",
+    "name": "Campina Langlekker volle melk",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139333236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Volle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505324",
+    "name": "Campina Langlekker volle melk",
+    "price": 22.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373939373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Volle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468593",
+    "name": "Campina Langlekker volle melk voordeel 4-pack",
+    "price": 7.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438373234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Volle houdbare melk"
+    ],
+    "isFood": true
+  }
+]

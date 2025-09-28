@@ -1,0 +1,146 @@
+[
+  {
+    "id": "574231",
+    "name": "Streeckgenoten Thaise curry",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634373630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Wereld maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554839",
+    "name": "AH Verse tajine",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Wereld maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505774",
+    "name": "Oma's Stoofpotje suddervlees met groenten",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035313038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Wereld maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578798",
+    "name": "AH Verse maaltijd romige kipfilet",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Wereld maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578800",
+    "name": "AH Verse maaltijd shakshuka",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Wereld maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551392",
+    "name": "Oma's Roti met kip",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133393434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Wereld maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573449",
+    "name": "AH Verse maaltijd kip kapsalon",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Wereld maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515703",
+    "name": "Oma's Licht pittige rendang",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035313230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Wereld maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570265",
+    "name": "Oma's Verse maaltijd beef teriyaki",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133393430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Wereld maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554840",
+    "name": "AH Verse mexican chili",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Wereld maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574880",
+    "name": "AH Maaltijdsalade kip harissa",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Wereld maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "405666",
+    "name": "AH Visgratin BEL",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323730393234?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Wereld maaltijden"
+    ],
+    "isFood": true
+  }
+]

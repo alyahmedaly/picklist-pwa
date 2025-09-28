@@ -1,0 +1,97 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "taart",
+      "displayName": "Taart",
+      "productCount": 18,
+      "hasSubdirectories": false,
+      "indexPath": "taart/index.json"
+    },
+    {
+      "name": "stuks-gebak",
+      "displayName": "Stuks Gebak",
+      "productCount": 11,
+      "hasSubdirectories": false,
+      "indexPath": "stuks-gebak/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "petit-patisserie-gebak",
+      "displayName": "Petit Patisserie Gebak",
+      "productCount": 14,
+      "filePath": "petit-patisserie-gebak.jsonl",
+      "indexPath": "petit-patisserie-gebak-index.json",
+      "statsPath": "petit-patisserie-gebak-stats.json",
+      "averageProtein": 3.9,
+      "halalCompliance": 7
+    },
+    {
+      "name": "mini-gebak",
+      "displayName": "Mini Gebak",
+      "productCount": 12,
+      "filePath": "mini-gebak.jsonl",
+      "indexPath": "mini-gebak-index.json",
+      "statsPath": "mini-gebak-stats.json",
+      "averageProtein": 3.9,
+      "halalCompliance": 0
+    },
+    {
+      "name": "vlaai",
+      "displayName": "Vlaai",
+      "productCount": 11,
+      "filePath": "vlaai.jsonl",
+      "indexPath": "vlaai-index.json",
+      "statsPath": "vlaai-stats.json",
+      "averageProtein": 3.2,
+      "halalCompliance": 45
+    },
+    {
+      "name": "excellent",
+      "displayName": "Excellent",
+      "productCount": 6,
+      "filePath": "excellent.jsonl",
+      "indexPath": "excellent-index.json",
+      "statsPath": "excellent-stats.json",
+      "averageProtein": 4.6,
+      "halalCompliance": 0
+    },
+    {
+      "name": "schnitten-en-sloffen",
+      "displayName": "Schnitten En Sloffen",
+      "productCount": 5,
+      "filePath": "schnitten-en-sloffen.jsonl",
+      "indexPath": "schnitten-en-sloffen-index.json",
+      "statsPath": "schnitten-en-sloffen-stats.json",
+      "averageProtein": 3.9,
+      "halalCompliance": 20
+    }
+  ],
+  "totalProducts": 77,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 77,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../index.json"
+      },
+      {
+        "name": "Gebak En Taart",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "bakkerij"
+  }
+}

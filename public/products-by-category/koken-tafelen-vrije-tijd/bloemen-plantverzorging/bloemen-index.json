@@ -1,0 +1,734 @@
+[
+  {
+    "id": "547466",
+    "name": "AH Agapanthus",
+    "price": 6.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "359334",
+    "name": "AH Amaryllis met groen",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235323139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566996",
+    "name": "AH Begonia grace in pot",
+    "price": 6.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513748",
+    "name": "AH Boeket bont",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "359013",
+    "name": "AH Boeket roze",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636373037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "380878",
+    "name": "AH Bollen in sierglas",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393234373131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562014",
+    "name": "AH Cambria",
+    "price": 9.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "335089",
+    "name": "AH Chrysanten mix",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835353931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562010",
+    "name": "AH Dendrobium nobilee in pot",
+    "price": 9.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567685",
+    "name": "AH Eucalyptus cinerea",
+    "price": 2.79,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503698",
+    "name": "AH Fraseri potgeteeld",
+    "price": 26.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565222",
+    "name": "AH Germini",
+    "price": 2.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634363037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440660",
+    "name": "AH Gladiolen",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516281",
+    "name": "AH Groene plant in flesje",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436313034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484960",
+    "name": "AH Herfstmix large",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234383335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485166",
+    "name": "AH Herfstmix medium",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234383336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566995",
+    "name": "AH Kerstster rood in groene sierpot p12",
+    "price": 5.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557898",
+    "name": "AH Kokodama bolhanger",
+    "price": 7.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557899",
+    "name": "AH Kokodama bromelia hanger",
+    "price": 8.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557910",
+    "name": "AH Kokodama hangpot",
+    "price": 8.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557911",
+    "name": "AH Kokodama plant rekje",
+    "price": 14.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557912",
+    "name": "AH Kokodama staand",
+    "price": 8.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517367",
+    "name": "AH Lavendel p15",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557934",
+    "name": "AH Lelie la",
+    "price": 2.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562013",
+    "name": "AH Ludisia 3-tak in pot",
+    "price": 9.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473434",
+    "name": "AH Luxe rozen",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835353935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473425",
+    "name": "AH Luxe rozen warm",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239373734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513732",
+    "name": "AH Luxe springboeket bont",
+    "price": 16.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517815",
+    "name": "AH MD frame met beer",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736333734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556602",
+    "name": "AH MD rozen in diabolo vaas",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736333838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473426",
+    "name": "AH Megabos rozen",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039363535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561178",
+    "name": "AH Mini orchidee",
+    "price": 4.94,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547480",
+    "name": "AH Newbiscus",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831383639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547482",
+    "name": "AH Oleander p21",
+    "price": 14.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547483",
+    "name": "AH Olijfboom",
+    "price": 19.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562052",
+    "name": "AH Orchidee & nolina in pot",
+    "price": 8.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469308",
+    "name": "AH Orchidee 1-tak in pot",
+    "price": 7.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "327765",
+    "name": "AH Orchidee 2-takker",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037303933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562008",
+    "name": "AH Orchidee 3-tak in pot",
+    "price": 14.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562015",
+    "name": "AH Orchidee barrocco 3-tak in pot",
+    "price": 9.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562007",
+    "name": "AH Orchidee in pot p7",
+    "price": 5.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562011",
+    "name": "AH Orchidee multiflora 2-tak in pot",
+    "price": 9.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562006",
+    "name": "AH Orchidee multiflora in pot p9",
+    "price": 7.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562009",
+    "name": "AH Orchidee vormenmix 2-tak in pot",
+    "price": 14.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562012",
+    "name": "AH Orchideeën mix op rek in pot",
+    "price": 9.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562005",
+    "name": "AH Paphiopedilum in pot",
+    "price": 12.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478214",
+    "name": "AH Perkgoed mix & match",
+    "price": 1.87,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831383631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "340863",
+    "name": "AH Pioenrozen rood en paars",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831383534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "260423",
+    "name": "AH Pioenrozen roze",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831383532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "411875",
+    "name": "AH Pioentulpen geel oranje",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "308553",
+    "name": "AH Pioentulpen rood",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557162",
+    "name": "AH Premium lelie met groen",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539636",
+    "name": "AH Roselily",
+    "price": 4.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473428",
+    "name": "AH Rozen",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132363937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473429",
+    "name": "AH Rozen gemengd",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "334347",
+    "name": "AH Rozen kleurenmix",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736333634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451439",
+    "name": "AH Rozenmix",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234383334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547493",
+    "name": "AH Vijgenboom",
+    "price": 22.99,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480368",
+    "name": "AH Zomermix large",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035313738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480385",
+    "name": "AH Zomermix medium",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035313739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "267193",
+    "name": "AH Zonnebloemen",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035363834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Bloemen, plantverzorging",
+      "Bloemen"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "id": "183088",
+    "name": "AH Raw lemonade citroen",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457842",
+    "name": "Crystal Clear Appel peer",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132333839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566584",
+    "name": "Sourcy Vitaminwater mango guave 6-pack",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639313236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553396",
+    "name": "Waterdrop Focus microdrink",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634303638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575869",
+    "name": "Waterdrop Ice tea peach",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634303637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516133",
+    "name": "Waterdrop Boost microdrink",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633393738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566947",
+    "name": "Spa Fruit cassis blackberry bruisend 6-pack",
+    "price": 8.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630373636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516396",
+    "name": "Charlie's Organics sparkling water lemon",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373537323439?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560423",
+    "name": "Charlie's Organics sparkling water lemon 12-pack",
+    "price": 13.08,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532313030?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457128",
+    "name": "Spa Touch niet bruisend lime jasmin",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638393233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469065",
+    "name": "Spa Touch niet bruisend lime jasmine",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537393437?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457139",
+    "name": "Spa Touch niet bruisend raspberry apple",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638393232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469066",
+    "name": "Spa Touch niet bruisend raspberry apple",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537393436?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389503",
+    "name": "AH Bruisend mineraalwater bloedsinaasappel",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389551",
+    "name": "AH Bruisend mineraalwater bloedsinaasappel",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389734",
+    "name": "AH Bruisend mineraalwater bloedsinaasappel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "371500",
+    "name": "AH Bruisend mineraalwater citroen",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389643",
+    "name": "AH Bruisend mineraalwater citroen",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389746",
+    "name": "AH Bruisend mineraalwater citroen 6-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "371505",
+    "name": "AH Bruisend mineraalwater munt",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033313334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389550",
+    "name": "AH Bruisend mineraalwater munt",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838373037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389733",
+    "name": "AH Bruisend mineraalwater munt 6-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454634",
+    "name": "AH Bruiswater gember citroengras",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481875",
+    "name": "AH Bruiswater peer cactus",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196022",
+    "name": "Bar-le-Duc Mineraalwater citroen",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635393237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226960",
+    "name": "Bar-le-Duc Mineraalwater frambozen",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635393432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516363",
+    "name": "Charlie's Organics sparkling grapefruit",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373537323532?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553399",
+    "name": "Charlie's Organics sparkling orange & mandarin",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438393235?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389637",
+    "name": "Spa Touch blackcurrant",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "239489",
+    "name": "Spa Touch bruisend blackcurrant",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135373937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469072",
+    "name": "Spa Touch bruisend blackcurrant",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135373936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "239490",
+    "name": "Spa Touch bruisend grapefruit",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638393231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469071",
+    "name": "Spa Touch bruisend grapefruit",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537393430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469068",
+    "name": "Spa Touch bruisend lemon",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537393432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436059",
+    "name": "Spa Touch bruisend lemon 4-pack",
+    "price": 6.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638323130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457155",
+    "name": "Spa Touch bruisend watermelon kiwi",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638393132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469073",
+    "name": "Spa Touch bruisend watermelon kiwi",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537393431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567970",
+    "name": "Spa Touch cherry bruisend",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638363633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567971",
+    "name": "Spa Touch cherry bruisend",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539363436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365185",
+    "name": "Spa Touch grapefruit",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638393135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575599",
+    "name": "Spa Touch mojito",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638363635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232616",
+    "name": "Spa Touch of lemon",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436053",
+    "name": "Spa Touch of lemon",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638393234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387149",
+    "name": "Spa Touch of peach fles",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638393138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457168",
+    "name": "Spa Touch of watermelon kiwi",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638393134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575871",
+    "name": "Spa Touch passion fizz",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638363632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496511",
+    "name": "Spa Touch raspberry plum",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135373935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568322",
+    "name": "Fentimans Connoisseurs tonic water",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568468",
+    "name": "Fentimans Valencian orange tonic water",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232323233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578308",
+    "name": "Spa Touch Cherry 4-pack",
+    "price": 6.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934343536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578307",
+    "name": "Spa Touch Mocktails 4x1l borrel pakket",
+    "price": 6.08,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water met smaak, vitamine water",
+      "Water met smaak"
+    ],
+    "isFood": true
+  }
+]

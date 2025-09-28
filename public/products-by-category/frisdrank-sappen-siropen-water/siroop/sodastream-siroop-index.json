@@ -1,0 +1,62 @@
+[
+  {
+    "id": "556543",
+    "name": "Sodastream Lipton green ice tea soda mix siroop",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739313836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Sodastream siroop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500305",
+    "name": "Sodastream Mirinda siroop",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739303836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Sodastream siroop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576680",
+    "name": "Sodastream Lipton peach zero ice tea siroop",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934323234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Sodastream siroop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500304",
+    "name": "Sodastream 7up zero sodamix siroop",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Sodastream siroop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500301",
+    "name": "Sodastream Pepsi zero sodamix siroop",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739303830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Sodastream siroop"
+    ],
+    "isFood": true
+  }
+]

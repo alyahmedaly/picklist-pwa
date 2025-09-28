@@ -1,0 +1,106 @@
+[
+  {
+    "id": "161496",
+    "name": "AH Pistachenoten",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Noten garnering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164741",
+    "name": "AH Pecannoten",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Noten garnering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161493",
+    "name": "AH Walnoten",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Noten garnering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161499",
+    "name": "AH Amandelschaafsel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Noten garnering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162131",
+    "name": "AH Ongebrande garneer amandelen",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323532313437?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Noten garnering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492706",
+    "name": "AH Chiazaad",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Noten garnering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492704",
+    "name": "AH Lijnzaad",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Noten garnering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496139",
+    "name": "Spice It Kemirie noten",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735383430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Noten garnering"
+    ],
+    "isFood": true
+  }
+]

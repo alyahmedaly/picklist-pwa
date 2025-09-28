@@ -1,0 +1,106 @@
+{
+  "categoryPath": "Wijn en bubbels > Rode wijn > Soepele rode wijn",
+  "breadcrumbs": "Wijn en bubbels > Rode wijn > Soepele rode wijn",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "merlot-soepel",
+      "displayName": "Merlot Soepel",
+      "productCount": 23,
+      "filePath": "merlot-soepel.jsonl",
+      "indexPath": "merlot-soepel-index.json",
+      "statsPath": "merlot-soepel-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 96
+    },
+    {
+      "name": "overige-rode-wijn-soepel",
+      "displayName": "Overige Rode Wijn Soepel",
+      "productCount": 8,
+      "filePath": "overige-rode-wijn-soepel.jsonl",
+      "indexPath": "overige-rode-wijn-soepel-index.json",
+      "statsPath": "overige-rode-wijn-soepel-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "syrahshiraz-soepel",
+      "displayName": "Syrahshiraz Soepel",
+      "productCount": 8,
+      "filePath": "syrahshiraz-soepel.jsonl",
+      "indexPath": "syrahshiraz-soepel-index.json",
+      "statsPath": "syrahshiraz-soepel-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "cabernet-sauvignon-soepel",
+      "displayName": "Cabernet Sauvignon Soepel",
+      "productCount": 6,
+      "filePath": "cabernet-sauvignon-soepel.jsonl",
+      "indexPath": "cabernet-sauvignon-soepel-index.json",
+      "statsPath": "cabernet-sauvignon-soepel-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "sangiovese-soepel",
+      "displayName": "Sangiovese Soepel",
+      "productCount": 6,
+      "filePath": "sangiovese-soepel.jsonl",
+      "indexPath": "sangiovese-soepel-index.json",
+      "statsPath": "sangiovese-soepel-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "tempranillo-soepel",
+      "displayName": "Tempranillo Soepel",
+      "productCount": 6,
+      "filePath": "tempranillo-soepel.jsonl",
+      "indexPath": "tempranillo-soepel-index.json",
+      "statsPath": "tempranillo-soepel-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "grenache-soepel",
+      "displayName": "Grenache Soepel",
+      "productCount": 5,
+      "filePath": "grenache-soepel.jsonl",
+      "indexPath": "grenache-soepel-index.json",
+      "statsPath": "grenache-soepel-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 62,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 62,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Rode Wijn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Soepele Rode Wijn",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "wijn-en-bubbels/rode-wijn"
+  }
+}

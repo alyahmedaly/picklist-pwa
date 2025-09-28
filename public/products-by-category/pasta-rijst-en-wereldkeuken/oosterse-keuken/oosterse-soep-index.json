@@ -1,0 +1,206 @@
+[
+  {
+    "id": "574913",
+    "name": "Kikkoman Sauce soja sucrée",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632363232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577873",
+    "name": "Hikari Miso sweet and savoury",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938373039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378999",
+    "name": "Conimex Tom kha kai soep",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393832353137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574959",
+    "name": "Saitaku Miso sesame ramen soup base",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574958",
+    "name": "Kikkoman Ramen soup base shoyu",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731323230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399980",
+    "name": "AH Thaise tom kha kaisoep",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235303034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378998",
+    "name": "Conimex Romige indonesische pindasoep",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468207",
+    "name": "Unox Indiase currysoep",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934313339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503818",
+    "name": "AH Indiase kerriesoep",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363739313639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553392",
+    "name": "Itsu Traditional miso",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373738343734?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378997",
+    "name": "Conimex Maleisische laksa soep",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839333430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553355",
+    "name": "Itsu Brilliant broth chicken ramen",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236313239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553354",
+    "name": "Itsu Brilliant broth miso ramen",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236313234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577797",
+    "name": "Itsu Ramen ready original",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577798",
+    "name": "Itsu Ramen ready spicy",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400131",
+    "name": "AH Marokkaanse harira soep",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235303038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553353",
+    "name": "Itsu Brilliant broth classic ramen",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236313233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Oosterse soep"
+    ],
+    "isFood": true
+  }
+]

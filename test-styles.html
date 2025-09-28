@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nutrition Components Style Test</title>
+    <link rel="stylesheet" href="./dist/assets/index-BYg5eN0L.css">
+</head>
+<body class="bg-background text-foreground p-6">
+    <h1 class="text-2xl font-bold mb-6">Nutrition Components Style Test</h1>
+
+    <div class="space-y-6">
+        <!-- Button variants -->
+        <section>
+            <h2 class="text-lg font-semibold mb-3">Button Variants</h2>
+            <div class="flex gap-2">
+                <button class="px-4 py-2 rounded bg-protein-high text-white">Protein High</button>
+                <button class="px-4 py-2 rounded bg-health-A text-white">Health A</button>
+                <button class="px-4 py-2 rounded bg-halal-confirmed text-white">Halal Confirmed</button>
+            </div>
+        </section>
+
+        <!-- Badge variants -->
+        <section>
+            <h2 class="text-lg font-semibold mb-3">Badge Variants</h2>
+            <div class="flex gap-2">
+                <span class="px-2 py-1 text-xs rounded bg-protein-high text-white">25g+</span>
+                <span class="px-2 py-1 text-xs rounded bg-health-A text-white">Grade A</span>
+                <span class="px-2 py-1 text-xs rounded bg-halal-confirmed text-white">Halal ✓</span>
+            </div>
+        </section>
+
+        <!-- Text colors -->
+        <section>
+            <h2 class="text-lg font-semibold mb-3">Text Colors</h2>
+            <div class="space-y-1">
+                <p class="text-protein-high">High protein content</p>
+                <p class="text-health-A">Excellent health grade</p>
+                <p class="text-halal-confirmed">Halal confirmed</p>
+            </div>
+        </section>
+
+        <!-- Using CSS variables -->
+        <section>
+            <h2 class="text-lg font-semibold mb-3">CSS Variable Colors</h2>
+            <div class="space-y-1">
+                <p class="text-[rgb(var(--color-protein-high))]">High protein (CSS var)</p>
+                <div class="bg-[rgb(var(--color-protein-high))] text-white p-2 rounded">Protein background</div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

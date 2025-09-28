@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Soepen > Bouillon, fond > Vleesbouillon",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Soepen > Bouillon, fond > Vleesbouillon",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "vleesbouillon-blokjes",
+      "displayName": "Vleesbouillon Blokjes",
+      "productCount": 7,
+      "filePath": "vleesbouillon-blokjes.jsonl",
+      "indexPath": "vleesbouillon-blokjes-index.json",
+      "statsPath": "vleesbouillon-blokjes-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 86
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Soepen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bouillon Fond",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vleesbouillon",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "soepen-sauzen-kruiden-olie/soepen/bouillon-fond"
+  }
+}

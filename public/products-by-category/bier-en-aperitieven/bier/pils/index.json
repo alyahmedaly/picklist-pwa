@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Bier en aperitieven > Bier > Pils",
+  "breadcrumbs": "Bier en aperitieven > Bier > Pils",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "pils-blik",
+      "displayName": "Pils Blik",
+      "productCount": 71,
+      "filePath": "pils-blik.jsonl",
+      "indexPath": "pils-blik-index.json",
+      "statsPath": "pils-blik-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "pils-fles",
+      "displayName": "Pils Fles",
+      "productCount": 61,
+      "filePath": "pils-fles.jsonl",
+      "indexPath": "pils-fles-index.json",
+      "statsPath": "pils-fles-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "pils-krat",
+      "displayName": "Pils Krat",
+      "productCount": 15,
+      "filePath": "pils-krat.jsonl",
+      "indexPath": "pils-krat-index.json",
+      "statsPath": "pils-krat-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 147,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 147,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bier",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pils",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bier-en-aperitieven/bier"
+  }
+}

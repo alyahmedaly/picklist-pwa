@@ -1,0 +1,327 @@
+[
+  {
+    "id": "576013",
+    "name": "AH Roomboter cakes chocosmaak",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631363437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173733",
+    "name": "AH Roomboter custardcakes",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538343036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509281",
+    "name": "AH Stercakes rozijn",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038333137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469808",
+    "name": "Bonne Maman Madeleine citroen",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353732303339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129567",
+    "name": "Balconi Mix milk",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303537343234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493180",
+    "name": "AH Roomboter cupcake marmer",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383531383831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493179",
+    "name": "AH Roomboter cupcake naturel",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383531383739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543748",
+    "name": "Bonne Maman Petites tartelettes chocolat caramel",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393831373337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493181",
+    "name": "AH Muffin vanille",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517358",
+    "name": "AH Red velvet muffin met crumble topping",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517494",
+    "name": "Bonne Maman La madeleine chocolat au lait",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383437313033?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "379322",
+    "name": "Bonne Maman Petit fruit cakes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236383730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517555",
+    "name": "Bonne Maman Sweet hearts chocolate vanilla",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383732353835?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517323",
+    "name": "AH Chocolade muffins met crumble topping",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532363238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493182",
+    "name": "AH Muffin choco",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383531383833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517297",
+    "name": "AH Bosbessen muffins crumble topping",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531393836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576015",
+    "name": "AH Cookie bites mini cakes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517337",
+    "name": "AH Mini muffins stracciatella",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187472",
+    "name": "Balconi Trancetto magere cacao",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303537343235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517427",
+    "name": "Bonne Maman Financiers amandes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534383838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "200110",
+    "name": "Milka Cake & choc soft chocolade cakejes",
+    "price": 1.64,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733383430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196373",
+    "name": "Bonne Maman Petits muffins au chocolat",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436383437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550453",
+    "name": "Schär Yogo cake",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639343038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168722",
+    "name": "Bonne Maman Les Petits muffins vanille",
+    "price": 3.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536353335?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429529",
+    "name": "Céréal Mini cakes citroensmaak zonder suikers",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363639323732?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakejes"
+    ],
+    "isFood": true
+  }
+]

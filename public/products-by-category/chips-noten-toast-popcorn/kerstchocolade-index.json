@@ -1,0 +1,123 @@
+[
+  {
+    "id": "565802",
+    "name": "Smarties Melkchocolade adventskalender",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431383330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Kerstchocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561114",
+    "name": "Lindt Adventkalender",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238323631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Kerstchocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565801",
+    "name": "Smarties Melkchocolade pinguin",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333353534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Kerstchocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540570",
+    "name": "Kitkat Festive friends",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138333134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Kerstchocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565803",
+    "name": "Kitkat Melkchocolade adventskalender",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031353132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Kerstchocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540569",
+    "name": "Kitkat Melkchocolade kerstman 5-pack",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031353039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Kerstchocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540571",
+    "name": "Smarties Festive friends",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134343132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Kerstchocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566399",
+    "name": "AH Excellent Chocolade bombe",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130333632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Kerstchocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509368",
+    "name": "Côte d'Or Mini roc melk",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393730343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Kerstchocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509369",
+    "name": "Côte d'Or Mini roc praline",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383233343232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Kerstchocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540502",
+    "name": "Kitkat Melkchocolade kerstman",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Kerstchocolade"
+    ],
+    "isFood": true
+  }
+]

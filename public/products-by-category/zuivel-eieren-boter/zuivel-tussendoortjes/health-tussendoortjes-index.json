@@ -1,0 +1,278 @@
+[
+  {
+    "id": "128697",
+    "name": "Activia Yoghurt pruim",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630333634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223532",
+    "name": "Actimel Drinkyoghurt aardbei",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166379",
+    "name": "Activia Drinkyoghurt kiwi & aardbei",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451457",
+    "name": "Activia Yoghurt aardbei",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451458",
+    "name": "Activia Yoghurt vijg",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630333838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169112",
+    "name": "Activia Yoghurt granen",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570916",
+    "name": "Activia Yoghurt kers 0%",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570918",
+    "name": "Activia Yoghurt abrikoos",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630343032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570895",
+    "name": "Activia Yoghurt kokossmaak",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630333538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140726",
+    "name": "Activia Yoghurt muesli",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630333837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438242",
+    "name": "Activia Yoghurt vanille",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831323433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217168",
+    "name": "Becel Yoghurtdrink cholesterolverlagend",
+    "price": 5.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373936333531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132886",
+    "name": "Yakult Original 15-pack",
+    "price": 7.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135363031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437258",
+    "name": "Yakult Original 8-pack",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139333436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567557",
+    "name": "Actimel Drinkyoghurt naturel 0%",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035323035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132887",
+    "name": "Yakult Balance 15-pack",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135363531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437259",
+    "name": "Yakult Balance 8-pack",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134343035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "138239",
+    "name": "Activia Yoghurt naturel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630333436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437260",
+    "name": "Yakult Plus perziksmaak 8-pack",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139333339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556324",
+    "name": "Activia Yoghurt perzik 0%",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831323338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578555",
+    "name": "Yakult Balance & Plus 8-pack",
+    "price": 8.08,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130323932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578569",
+    "name": "Yakult Original & Plus 8-pack",
+    "price": 7.63,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578556",
+    "name": "Yakult Original, Balance en Plus 3x 8-pack",
+    "price": 11.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Health tussendoortjes"
+    ],
+    "isFood": true
+  }
+]

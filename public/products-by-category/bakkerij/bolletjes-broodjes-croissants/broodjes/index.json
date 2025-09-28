@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Bakkerij > Bolletjes, broodjes, croissants > Broodjes",
+  "breadcrumbs": "Bakkerij > Bolletjes, broodjes, croissants > Broodjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "koffiebroodje",
+      "displayName": "Koffiebroodje",
+      "productCount": 6,
+      "filePath": "koffiebroodje.jsonl",
+      "indexPath": "koffiebroodje-index.json",
+      "statsPath": "koffiebroodje-stats.json",
+      "averageProtein": 5.4,
+      "halalCompliance": 17
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bolletjes Broodjes Croissants",
+        "path": "../index.json"
+      },
+      {
+        "name": "Broodjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bakkerij/bolletjes-broodjes-croissants"
+  }
+}

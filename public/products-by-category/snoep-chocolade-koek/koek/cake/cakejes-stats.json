@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Koek > Cake > Cakejes",
+  "breadcrumbs": "Snoep, chocolade, koek > Koek > Cake > Cakejes",
+  "totalProducts": 25,
+  "halalCompliance": 20,
+  "averageProtein": 5.4,
+  "averagePrice": 2.79,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 25,
+    "withIngredients": 25,
+    "withHalalCheck": 25
+  }
+}

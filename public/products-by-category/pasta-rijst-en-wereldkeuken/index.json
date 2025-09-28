@@ -1,0 +1,107 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "pasta-rijst-noedels",
+      "displayName": "Pasta Rijst Noedels",
+      "productCount": 274,
+      "hasSubdirectories": true,
+      "indexPath": "pasta-rijst-noedels/index.json"
+    },
+    {
+      "name": "oosterse-keuken",
+      "displayName": "Oosterse Keuken",
+      "productCount": 261,
+      "hasSubdirectories": true,
+      "indexPath": "oosterse-keuken/index.json"
+    },
+    {
+      "name": "maaltijdpakketten-mixen",
+      "displayName": "Maaltijdpakketten Mixen",
+      "productCount": 121,
+      "hasSubdirectories": true,
+      "indexPath": "maaltijdpakketten-mixen/index.json"
+    },
+    {
+      "name": "mediterrane-keuken",
+      "displayName": "Mediterrane Keuken",
+      "productCount": 95,
+      "hasSubdirectories": true,
+      "indexPath": "mediterrane-keuken/index.json"
+    },
+    {
+      "name": "mexicaanse-keuken",
+      "displayName": "Mexicaanse Keuken",
+      "productCount": 83,
+      "hasSubdirectories": true,
+      "indexPath": "mexicaanse-keuken/index.json"
+    },
+    {
+      "name": "olie-frituurvet-azijn",
+      "displayName": "Olie Frituurvet Azijn",
+      "productCount": 81,
+      "hasSubdirectories": true,
+      "indexPath": "olie-frituurvet-azijn/index.json"
+    },
+    {
+      "name": "surinaams-antilliaans",
+      "displayName": "Surinaams Antilliaans",
+      "productCount": 65,
+      "hasSubdirectories": false,
+      "indexPath": "surinaams-antilliaans/index.json"
+    },
+    {
+      "name": "bakbenodigdheden",
+      "displayName": "Bakbenodigdheden",
+      "productCount": 60,
+      "hasSubdirectories": true,
+      "indexPath": "bakbenodigdheden/index.json"
+    },
+    {
+      "name": "hollandse-keuken",
+      "displayName": "Hollandse Keuken",
+      "productCount": 41,
+      "hasSubdirectories": true,
+      "indexPath": "hollandse-keuken/index.json"
+    },
+    {
+      "name": "couscous-bulgur-quinoa-gort",
+      "displayName": "Couscous Bulgur Quinoa Gort",
+      "productCount": 8,
+      "hasSubdirectories": true,
+      "indexPath": "couscous-bulgur-quinoa-gort/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "arabische-keuken",
+      "displayName": "Arabische Keuken",
+      "productCount": 27,
+      "filePath": "arabische-keuken.jsonl",
+      "indexPath": "arabische-keuken-index.json",
+      "statsPath": "arabische-keuken-stats.json",
+      "averageProtein": 5.4,
+      "halalCompliance": 85
+    }
+  ],
+  "totalProducts": 1116,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 1116,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

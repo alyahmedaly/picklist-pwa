@@ -1,0 +1,80 @@
+[
+  {
+    "id": "470036",
+    "name": "AH Biologisch Lijnzaad gebroken",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338343032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Lijnzaad"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470168",
+    "name": "AH Biologisch Lijnzaad gebroken",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338333838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Lijnzaad"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470169",
+    "name": "AH Biologisch Lijnzaad heel",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363334303134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Lijnzaad"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500152",
+    "name": "AH Verrijker gebroken lijnzaad",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373439353136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Lijnzaad"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227834",
+    "name": "Smaakt Lijnzaad gebroken",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036313037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Lijnzaad"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227832",
+    "name": "Smaakt Lijnzaad heel",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036313034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Lijnzaad"
+    ],
+    "isFood": true
+  }
+]

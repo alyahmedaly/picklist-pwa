@@ -1,0 +1,340 @@
+[
+  {
+    "id": "187593",
+    "name": "AH Greenfields Beefburger jalapeno 2 stuks",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551140",
+    "name": "AH Excellent Ultimate wagyu burger",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533526",
+    "name": "Omar Angus beef burger",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030383835?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187594",
+    "name": "AH Greenfields Beefburger naturel 2 stuks",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168686",
+    "name": "AH BBQ hamburger",
+    "price": 5,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323437393536?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483912",
+    "name": "AH Greenfields Beefburger bacon 2 stuks",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561190",
+    "name": "AH Greenfields Beefburger truffelsmaak 2 stuks",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "103377",
+    "name": "AH Ah runder hamburger 4st",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441916",
+    "name": "AH Excellent Ultimate beefburger",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441917",
+    "name": "AH Excellent Ultimate smokey burger",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "133413",
+    "name": "AH Hamburger 8 stuks",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169238",
+    "name": "AH Runder hamburger 2 stuks",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187595",
+    "name": "AH Greenfields Beefburger tomaat",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232254",
+    "name": "AH Quarter pounder 2 stuks",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383505",
+    "name": "AH Excellent Black angus burger",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579121",
+    "name": "AH Hamburger toegevoegd rundereiwit 4 stuks",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936373137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571359",
+    "name": "AH Runderburger met toegevoegd rundereiwit",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551138",
+    "name": "AH Biologisch Ultimate beefburger",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436756",
+    "name": "AH Biologisch Hamburger 2 stuks",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578170",
+    "name": "AH Greenfields Beefburger bacon 3-pack",
+    "price": 11.37,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578168",
+    "name": "AH Greenfields Beefburger jalapeno 3-pack",
+    "price": 10.77,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567220",
+    "name": "AH Greenfields Beefburger naturel 3-pack",
+    "price": 11.37,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130373730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567386",
+    "name": "AH Hamburger 4-pack",
+    "price": 9.98,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236333237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578175",
+    "name": "AH Quarter pounder 3-pack",
+    "price": 9.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582030",
+    "name": "Weidenaar Hamburger rund",
+    "price": 5.6,
+    "image": "NA",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566644",
+    "name": "Weidenaar Premiumburger",
+    "price": 3.49,
+    "image": "NA",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Hamburgers",
+      "Hamburger (vers)"
+    ],
+    "isFood": true
+  }
+]

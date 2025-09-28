@@ -1,0 +1,40 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "honden",
+      "displayName": "Honden",
+      "productCount": 101,
+      "hasSubdirectories": false,
+      "indexPath": "honden/index.json"
+    },
+    {
+      "name": "katten",
+      "displayName": "Katten",
+      "productCount": 50,
+      "hasSubdirectories": false,
+      "indexPath": "katten/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 151,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 151,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Huisdier",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

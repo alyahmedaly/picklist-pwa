@@ -1,0 +1,52 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Eieren",
+  "breadcrumbs": "Zuivel, eieren, boter > Eieren",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "vrije-uitloop-eieren",
+      "displayName": "Vrije Uitloop Eieren",
+      "productCount": 21,
+      "filePath": "vrije-uitloop-eieren.jsonl",
+      "indexPath": "vrije-uitloop-eieren-index.json",
+      "statsPath": "vrije-uitloop-eieren-stats.json",
+      "averageProtein": 9.3,
+      "halalCompliance": 62
+    },
+    {
+      "name": "scharreleieren",
+      "displayName": "Scharreleieren",
+      "productCount": 13,
+      "filePath": "scharreleieren.jsonl",
+      "indexPath": "scharreleieren-index.json",
+      "statsPath": "scharreleieren-stats.json",
+      "averageProtein": 8.3,
+      "halalCompliance": 62
+    }
+  ],
+  "totalProducts": 34,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 34,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../index.json"
+      },
+      {
+        "name": "Eieren",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "zuivel-eieren-boter"
+  }
+}

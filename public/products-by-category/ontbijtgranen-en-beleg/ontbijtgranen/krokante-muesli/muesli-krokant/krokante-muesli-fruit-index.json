@@ -1,0 +1,212 @@
+[
+  {
+    "id": "569821",
+    "name": "AH Krokante muesli cookies & cream smaak",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569941",
+    "name": "AH Krokante muesli fruit",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437989",
+    "name": "AH Krokante muesli aardbei & kwarksmaak",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332373034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478692",
+    "name": "Quaker Cruesli multifruit",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038353534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538555",
+    "name": "Quaker Zero sugar added apple, pecan & cinnamon",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538554",
+    "name": "Quaker Zero sugar added strawberry & peach",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331303839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569751",
+    "name": "Holie Crunchy muesli banana pecan",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735313238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569796",
+    "name": "Quaker Cruesli granola strawberry & blueberry",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569749",
+    "name": "Holie Crunchy muesli red fruit",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569748",
+    "name": "Holie Granola mixed berries",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478690",
+    "name": "Quaker Cruesli appel & rozijn",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583833",
+    "name": "Quaker Cruesli Appel & Rozijn 3-pack",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139313539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478689",
+    "name": "Quaker Cruesli raisin & hazelnut",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036363532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516891",
+    "name": "Quaker Cruesli raisin & hazelnut value pack",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232323331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478693",
+    "name": "Quaker Cruesli rood fruit",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038373334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (fruit)"
+    ],
+    "isFood": true
+  }
+]

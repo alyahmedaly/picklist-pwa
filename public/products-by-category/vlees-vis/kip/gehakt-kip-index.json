@@ -1,0 +1,86 @@
+[
+  {
+    "id": "531853",
+    "name": "AH Scharrel kipgehakt gekruid",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Gehakt (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531984",
+    "name": "AH Scharrel kipgehakt gekruid bel",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Gehakt (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531885",
+    "name": "AH Scharrel kipgehaktballetjes",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Gehakt (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436917",
+    "name": "AH Scharrel kipgehakt",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Gehakt (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517083",
+    "name": "AH Biologisch Kipgehakt",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Gehakt (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577828",
+    "name": "AH Scharrel kipgehakt gekruid 3-pack",
+    "price": 10.12,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Gehakt (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577924",
+    "name": "AH Scharrel kipgehaktballetjes 3-pack",
+    "price": 11.37,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930313033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Gehakt (kip)"
+    ],
+    "isFood": true
+  }
+]

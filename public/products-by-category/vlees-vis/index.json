@@ -1,0 +1,100 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "vis",
+      "displayName": "Vis",
+      "productCount": 266,
+      "hasSubdirectories": true,
+      "indexPath": "vis/index.json"
+    },
+    {
+      "name": "kip",
+      "displayName": "Kip",
+      "productCount": 122,
+      "hasSubdirectories": true,
+      "indexPath": "kip/index.json"
+    },
+    {
+      "name": "rundvlees",
+      "displayName": "Rundvlees",
+      "productCount": 105,
+      "hasSubdirectories": true,
+      "indexPath": "rundvlees/index.json"
+    },
+    {
+      "name": "varkensvlees",
+      "displayName": "Varkensvlees",
+      "productCount": 93,
+      "hasSubdirectories": true,
+      "indexPath": "varkensvlees/index.json"
+    },
+    {
+      "name": "vlees",
+      "displayName": "Vlees",
+      "productCount": 51,
+      "hasSubdirectories": true,
+      "indexPath": "vlees/index.json"
+    },
+    {
+      "name": "rookworst-ragout",
+      "displayName": "Rookworst Ragout",
+      "productCount": 42,
+      "hasSubdirectories": false,
+      "indexPath": "rookworst-ragout/index.json"
+    },
+    {
+      "name": "halal-vlees",
+      "displayName": "Halal Vlees",
+      "productCount": 33,
+      "hasSubdirectories": false,
+      "indexPath": "halal-vlees/index.json"
+    },
+    {
+      "name": "worsten",
+      "displayName": "Worsten",
+      "productCount": 9,
+      "hasSubdirectories": false,
+      "indexPath": "worsten/index.json"
+    },
+    {
+      "name": "reepjes-blokjes-vlees",
+      "displayName": "Reepjes Blokjes Vlees",
+      "productCount": 5,
+      "hasSubdirectories": true,
+      "indexPath": "reepjes-blokjes-vlees/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "vlees-vis-kip-ovenschotel",
+      "displayName": "Vlees Vis Kip Ovenschotel",
+      "productCount": 25,
+      "filePath": "vlees-vis-kip-ovenschotel.jsonl",
+      "indexPath": "vlees-vis-kip-ovenschotel-index.json",
+      "statsPath": "vlees-vis-kip-ovenschotel-stats.json",
+      "averageProtein": 13.3,
+      "halalCompliance": 48
+    }
+  ],
+  "totalProducts": 751,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 751,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

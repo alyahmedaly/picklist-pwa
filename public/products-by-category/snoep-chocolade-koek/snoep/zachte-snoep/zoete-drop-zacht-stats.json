@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Snoep > Zachte snoep > Zoete drop (zacht)",
+  "breadcrumbs": "Snoep, chocolade, koek > Snoep > Zachte snoep > Zoete drop (zacht)",
+  "totalProducts": 36,
+  "halalCompliance": 6,
+  "averageProtein": 3.9,
+  "averagePrice": 3.35,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 36,
+    "withIngredients": 36,
+    "withHalalCheck": 36
+  }
+}

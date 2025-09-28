@@ -1,0 +1,353 @@
+[
+  {
+    "id": "493110",
+    "name": "Hela Kruiden ketchup curry extra hot",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533303239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567255",
+    "name": "Hela Kruiden ketchup curry 30% minder suiker",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533303532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571943",
+    "name": "Van Wijngaarden's Tomaten ketchup",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433353838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "174027",
+    "name": "Van Wijngaarden's Zaanse tomaten ketchup",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239303337363930?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558423",
+    "name": "Oliehoorn Tomatenketchup",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631323339?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130817",
+    "name": "Heinz Tomato Ketchup bio",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403602",
+    "name": "AH Tomaten ketchup",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373733353539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "122778",
+    "name": "AH Tomatenketchup",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373733353538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444151",
+    "name": "Verstegen Tomatenketchup zonder toegevoegde suiker",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531373432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166520",
+    "name": "Remia Tomaten ketchup",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99132",
+    "name": "AH Biologisch Tomatenketchup",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035313737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409698",
+    "name": "Heinz Tomaten ketchup 50% minder suikers&zout",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136383435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457473",
+    "name": "Heinz Tomaten ketchup 50% minder suikers&zout",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733333838?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457474",
+    "name": "Heinz Tomaten ketchup 50% minder suikers&zout",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037303238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551371",
+    "name": "Remia Tomaten ketchup zero added sugar",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336373834?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571955",
+    "name": "Heinz Ketchup zero",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465768",
+    "name": "Heinz Tomaten ketchup zero suikers en zout",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036393439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492929",
+    "name": "Heinz Tomaten ketchup zero suikers en zout",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037353631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571928",
+    "name": "Heinz Ketchup pickle flavour",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233353430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578517",
+    "name": "Heinz Ketchup voordeelpakket",
+    "price": 3.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934343430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578463",
+    "name": "Heinz Sauzen voordeelpakket",
+    "price": 4.12,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934343239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1887",
+    "name": "Heinz Tomaten ketchup",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133363932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "53481",
+    "name": "Heinz Tomaten ketchup",
+    "price": 3.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138343437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516669",
+    "name": "Heinz Tomaten ketchup",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3401",
+    "name": "Heinz Tomato ketchup",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034313631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216494",
+    "name": "Heinz Tomato ketchup",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139363038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553374",
+    "name": "La Morena Ketchup met chipotle",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336383435?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Ketchup"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "categoryPath": "Huisdier > Honden",
+  "breadcrumbs": "Huisdier > Honden",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "hondensnacks",
+      "displayName": "Hondensnacks",
+      "productCount": 93,
+      "filePath": "hondensnacks.jsonl",
+      "indexPath": "hondensnacks-index.json",
+      "statsPath": "hondensnacks-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 0
+    },
+    {
+      "name": "nat-hondenvoer",
+      "displayName": "Nat Hondenvoer",
+      "productCount": 8,
+      "filePath": "nat-hondenvoer.jsonl",
+      "indexPath": "nat-hondenvoer-index.json",
+      "statsPath": "nat-hondenvoer-stats.json",
+      "averageProtein": 10.4,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 101,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 101,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Huisdier",
+        "path": "../index.json"
+      },
+      {
+        "name": "Honden",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "huisdier"
+  }
+}

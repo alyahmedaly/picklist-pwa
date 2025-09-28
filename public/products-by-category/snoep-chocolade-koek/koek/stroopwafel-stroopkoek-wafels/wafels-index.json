@@ -1,0 +1,275 @@
+[
+  {
+    "id": "384700",
+    "name": "Kanjers Chocolade witte chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533313831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566128",
+    "name": "Jules Destrooper Natuurboterwafels gezouten karamel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231323537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "190411",
+    "name": "Kanjers Chocowafels",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353636343536?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "362177",
+    "name": "Daelmans Caramel wafers",
+    "price": 11.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536313234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129564",
+    "name": "AH Galette wafels",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533393533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162652",
+    "name": "AH Luikse wafels",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383734393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168705",
+    "name": "AH Luikse wafels chocolade",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378850",
+    "name": "AH Penny wafels",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733313639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557061",
+    "name": "Knoppers Peanut wafel",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433383338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "57238",
+    "name": "AH Eierwafels met poedersuiker",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237343335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127297",
+    "name": "Knoppers Melk Hazelnootwafel",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353835333638?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420743",
+    "name": "Knoppers Mini's",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383036323135?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450715",
+    "name": "Lotus Suzy Luikse wafel bel",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330373631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3647",
+    "name": "Verkade Frou frou vanille",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932393939?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450714",
+    "name": "Lotus Suzy Luikse wafel chocolade bel",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233393430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "56175",
+    "name": "AH Javawafels",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "118267",
+    "name": "Jules Destrooper Natuurboterwafels",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231393138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230974",
+    "name": "Jules Destrooper Parijse wafel",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127294",
+    "name": "AH Koffiewafels",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733313631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167628",
+    "name": "AH Duowafel hazelnoot melk 10-pack",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383831353431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421148",
+    "name": "LU Cent Vanille Bel",
+    "price": 3.15,
+    "image": "NA",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Stroopwafel, stroopkoek, wafels",
+      "Wafels"
+    ],
+    "isFood": true
+  }
+]

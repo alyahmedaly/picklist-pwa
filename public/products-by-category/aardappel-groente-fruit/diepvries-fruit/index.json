@@ -1,0 +1,36 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Diepvries fruit",
+  "breadcrumbs": "Aardappel, groente, fruit > Diepvries fruit",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "fruitmix-diepvries",
+      "displayName": "Fruitmix Diepvries",
+      "productCount": 5,
+      "filePath": "fruitmix-diepvries.jsonl",
+      "indexPath": "fruitmix-diepvries-index.json",
+      "statsPath": "fruitmix-diepvries-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Diepvries Fruit",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "aardappel-groente-fruit"
+  }
+}

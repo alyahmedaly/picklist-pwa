@@ -1,0 +1,72 @@
+[
+  {
+    "id": "563343",
+    "name": "AH Pancetta blokjes",
+    "price": 1.87,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Reepjes & blokjes vlees",
+      "Varken - reepjes en blokjes",
+      "Hamreepjes",
+      "Hamreepjes (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130254",
+    "name": "AH Hamreepjes",
+    "price": 2.62,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Reepjes & blokjes vlees",
+      "Varken - reepjes en blokjes",
+      "Hamreepjes",
+      "Hamreepjes (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400685",
+    "name": "AH Beenham reepjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139343132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Reepjes & blokjes vlees",
+      "Varken - reepjes en blokjes",
+      "Hamreepjes",
+      "Hamreepjes (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580369",
+    "name": "AH Beenham reepjes 2-pack",
+    "price": 5.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Reepjes & blokjes vlees",
+      "Varken - reepjes en blokjes",
+      "Hamreepjes",
+      "Hamreepjes (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566667",
+    "name": "AH Hamreepjes 2-pack",
+    "price": 5.23,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039343434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Reepjes & blokjes vlees",
+      "Varken - reepjes en blokjes",
+      "Hamreepjes",
+      "Hamreepjes (voorverpakt)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Crackers, rijstwafels",
+  "breadcrumbs": "Ontbijtgranen en beleg > Crackers, rijstwafels",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "rijstwafels",
+      "displayName": "Rijstwafels",
+      "productCount": 31,
+      "filePath": "rijstwafels.jsonl",
+      "indexPath": "rijstwafels-index.json",
+      "statsPath": "rijstwafels-stats.json",
+      "averageProtein": 8.1,
+      "halalCompliance": 71
+    },
+    {
+      "name": "maiswafels",
+      "displayName": "Maiswafels",
+      "productCount": 18,
+      "filePath": "maiswafels.jsonl",
+      "indexPath": "maiswafels-index.json",
+      "statsPath": "maiswafels-stats.json",
+      "averageProtein": 8.5,
+      "halalCompliance": 89
+    },
+    {
+      "name": "glutenvrije-crackers-knackebrod",
+      "displayName": "Glutenvrije Crackers Knackebrod",
+      "productCount": 14,
+      "filePath": "glutenvrije-crackers-knackebrod.jsonl",
+      "indexPath": "glutenvrije-crackers-knackebrod-index.json",
+      "statsPath": "glutenvrije-crackers-knackebrod-stats.json",
+      "averageProtein": 8.5,
+      "halalCompliance": 71
+    },
+    {
+      "name": "hartige-biscuit-knackbrod",
+      "displayName": "Hartige Biscuit Knackbrod",
+      "productCount": 9,
+      "filePath": "hartige-biscuit-knackbrod.jsonl",
+      "indexPath": "hartige-biscuit-knackbrod-index.json",
+      "statsPath": "hartige-biscuit-knackbrod-stats.json",
+      "averageProtein": 9.8,
+      "halalCompliance": 78
+    }
+  ],
+  "totalProducts": 72,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 72,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Crackers Rijstwafels",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "ontbijtgranen-en-beleg"
+  }
+}

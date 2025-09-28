@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Aardappelen > Aardappel - ongeschild > Hele aardappel - iets kruimig",
+  "breadcrumbs": "Aardappel, groente, fruit > Aardappelen > Aardappel - ongeschild > Hele aardappel - iets kruimig",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "aardappel-iets-kruimig-met-schil",
+      "displayName": "Aardappel Iets Kruimig Met Schil",
+      "productCount": 10,
+      "filePath": "aardappel-iets-kruimig-met-schil.jsonl",
+      "indexPath": "aardappel-iets-kruimig-met-schil-index.json",
+      "statsPath": "aardappel-iets-kruimig-met-schil-stats.json",
+      "averageProtein": 2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 10,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Aardappelen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Aardappel Ongeschild",
+        "path": "../index.json"
+      },
+      {
+        "name": "Hele Aardappel Iets Kruimig",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/aardappelen/aardappel-ongeschild"
+  }
+}

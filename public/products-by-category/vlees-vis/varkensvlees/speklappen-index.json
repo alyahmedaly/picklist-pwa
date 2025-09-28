@@ -1,0 +1,86 @@
+[
+  {
+    "id": "477530",
+    "name": "AH Speklapjes à la minute smokey bacon",
+    "price": 4.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Speklappen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187587",
+    "name": "AH Speklap à la minute tandoori",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Speklappen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99022",
+    "name": "AH Speklap gekruid",
+    "price": 5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Speklappen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238929",
+    "name": "AH Biologisch Speklap",
+    "price": 4.78,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Speklappen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3986",
+    "name": "AH Speklap",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Speklappen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232421",
+    "name": "AH Speklap",
+    "price": 5.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Speklappen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "192858",
+    "name": "AH Speklap à la minute met kruiden",
+    "price": 5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Speklappen"
+    ],
+    "isFood": true
+  }
+]

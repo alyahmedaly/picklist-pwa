@@ -1,0 +1,67 @@
+[
+  {
+    "id": "122534",
+    "name": "AH Ossenworst",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Ossenworst en tartaar (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "137942",
+    "name": "AH Ossenworst",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435353237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Ossenworst en tartaar (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229400",
+    "name": "AH Biefstuk ossenworst plakjes",
+    "price": 3.08,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Ossenworst en tartaar (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189677",
+    "name": "AH Tartaar met uitjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Ossenworst en tartaar (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580360",
+    "name": "AH Tartaar met uitjes 2-pack",
+    "price": 5.68,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Ossenworst en tartaar (versafdeling)"
+    ],
+    "isFood": true
+  }
+]

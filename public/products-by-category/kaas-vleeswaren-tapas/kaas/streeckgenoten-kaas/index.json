@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Kaas > Streeckgenoten kaas",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Kaas > Streeckgenoten kaas",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "regio-noord-kaas",
+      "displayName": "Regio Noord Kaas",
+      "productCount": 6,
+      "filePath": "regio-noord-kaas.jsonl",
+      "indexPath": "regio-noord-kaas-index.json",
+      "statsPath": "regio-noord-kaas-stats.json",
+      "averageProtein": 25.5,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kaas",
+        "path": "../index.json"
+      },
+      {
+        "name": "Streeckgenoten Kaas",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "kaas-vleeswaren-tapas/kaas"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "spek",
+      "displayName": "Spek",
+      "productCount": 9,
+      "hasSubdirectories": false,
+      "indexPath": "spek/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 9,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 9,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Varkensvlees",
+        "path": "../index.json"
+      },
+      {
+        "name": "Spek Bacon",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/varkensvlees"
+  }
+}

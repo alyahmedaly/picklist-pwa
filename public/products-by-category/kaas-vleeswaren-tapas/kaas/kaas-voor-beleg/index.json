@@ -1,0 +1,43 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "stukken-kaas",
+      "displayName": "Stukken Kaas",
+      "productCount": 12,
+      "hasSubdirectories": false,
+      "indexPath": "stukken-kaas/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 12,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 12,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kaas",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kaas Voor Beleg",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "kaas-vleeswaren-tapas/kaas"
+  }
+}

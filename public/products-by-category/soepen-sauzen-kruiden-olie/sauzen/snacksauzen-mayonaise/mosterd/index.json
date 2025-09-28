@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Sauzen > Snacksauzen, mayonaise > Mosterd",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Sauzen > Snacksauzen, mayonaise > Mosterd",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "mosterd-regular",
+      "displayName": "Mosterd Regular",
+      "productCount": 16,
+      "filePath": "mosterd-regular.jsonl",
+      "indexPath": "mosterd-regular-index.json",
+      "statsPath": "mosterd-regular-stats.json",
+      "averageProtein": 5.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "mosterd-grof",
+      "displayName": "Mosterd Grof",
+      "productCount": 6,
+      "filePath": "mosterd-grof.jsonl",
+      "indexPath": "mosterd-grof-index.json",
+      "statsPath": "mosterd-grof-stats.json",
+      "averageProtein": 7.2,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 22,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 22,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Sauzen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Snacksauzen Mayonaise",
+        "path": "../index.json"
+      },
+      {
+        "name": "Mosterd",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "soepen-sauzen-kruiden-olie/sauzen/snacksauzen-mayonaise"
+  }
+}

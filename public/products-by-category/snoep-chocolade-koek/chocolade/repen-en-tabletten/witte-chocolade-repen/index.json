@@ -1,0 +1,70 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Chocolade > Repen en tabletten > Witte chocolade repen",
+  "breadcrumbs": "Snoep, chocolade, koek > Chocolade > Repen en tabletten > Witte chocolade repen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "witte-chocolade",
+      "displayName": "Witte Chocolade",
+      "productCount": 10,
+      "filePath": "witte-chocolade.jsonl",
+      "indexPath": "witte-chocolade-index.json",
+      "statsPath": "witte-chocolade-stats.json",
+      "averageProtein": 5.9,
+      "halalCompliance": 20
+    },
+    {
+      "name": "witte-chocolade-met-biscuit",
+      "displayName": "Witte Chocolade Met Biscuit",
+      "productCount": 7,
+      "filePath": "witte-chocolade-met-biscuit.jsonl",
+      "indexPath": "witte-chocolade-met-biscuit-index.json",
+      "statsPath": "witte-chocolade-met-biscuit-stats.json",
+      "averageProtein": 5.9,
+      "halalCompliance": 0
+    },
+    {
+      "name": "witte-chocolade-met-noten",
+      "displayName": "Witte Chocolade Met Noten",
+      "productCount": 6,
+      "filePath": "witte-chocolade-met-noten.jsonl",
+      "indexPath": "witte-chocolade-met-noten-index.json",
+      "statsPath": "witte-chocolade-met-noten-stats.json",
+      "averageProtein": 8.2,
+      "halalCompliance": 17
+    }
+  ],
+  "totalProducts": 23,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 23,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Chocolade",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Repen En Tabletten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Witte Chocolade Repen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "snoep-chocolade-koek/chocolade/repen-en-tabletten"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Zoet broodbeleg > Jam en marmelade",
+  "breadcrumbs": "Ontbijtgranen en beleg > Zoet broodbeleg > Jam en marmelade",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "aardbeienjam",
+      "displayName": "Aardbeienjam",
+      "productCount": 15,
+      "filePath": "aardbeienjam.jsonl",
+      "indexPath": "aardbeienjam-index.json",
+      "statsPath": "aardbeienjam-stats.json",
+      "averageProtein": 0.4,
+      "halalCompliance": 100
+    },
+    {
+      "name": "abrikozenjam",
+      "displayName": "Abrikozenjam",
+      "productCount": 10,
+      "filePath": "abrikozenjam.jsonl",
+      "indexPath": "abrikozenjam-index.json",
+      "statsPath": "abrikozenjam-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 100
+    },
+    {
+      "name": "bosvruchtenjam",
+      "displayName": "Bosvruchtenjam",
+      "productCount": 6,
+      "filePath": "bosvruchtenjam.jsonl",
+      "indexPath": "bosvruchtenjam-index.json",
+      "statsPath": "bosvruchtenjam-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 100
+    },
+    {
+      "name": "kersenjam",
+      "displayName": "Kersenjam",
+      "productCount": 5,
+      "filePath": "kersenjam.jsonl",
+      "indexPath": "kersenjam-index.json",
+      "statsPath": "kersenjam-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 36,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 36,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Zoet Broodbeleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Jam En Marmelade",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/zoet-broodbeleg"
+  }
+}

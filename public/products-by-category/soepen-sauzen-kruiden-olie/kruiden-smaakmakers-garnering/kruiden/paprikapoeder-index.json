@@ -1,0 +1,80 @@
+[
+  {
+    "id": "197977",
+    "name": "AH Paprika mild gemalen",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237393134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Paprikapoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "375990",
+    "name": "La Chinata Smoked paprika powder hot",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536333331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Paprikapoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "375989",
+    "name": "La Chinata Smoked paprika powder sweet",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536343336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Paprikapoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234766",
+    "name": "Verstegen Paprika gerookt",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130333036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Paprikapoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216677",
+    "name": "Verstegen Paprikapoeder mild",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130333236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Paprikapoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216679",
+    "name": "Verstegen Paprikapoeder pikant",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130333136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Paprikapoeder"
+    ],
+    "isFood": true
+  }
+]

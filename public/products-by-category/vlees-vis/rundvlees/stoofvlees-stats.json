@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Rundvlees > Stoofvlees",
+  "breadcrumbs": "Vlees, vis > Rundvlees > Stoofvlees",
+  "totalProducts": 10,
+  "halalCompliance": 90,
+  "averageProtein": 19,
+  "averagePrice": 7.71,
+  "highProteinProducts": 7,
+  "dataQuality": {
+    "withNutrition": 10,
+    "withIngredients": 10,
+    "withHalalCheck": 10
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "categoryPath": "Diepvries > Diepvries glutenvrij",
+  "breadcrumbs": "Diepvries > Diepvries glutenvrij",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "glutenvrije-snacks-diepvries",
+      "displayName": "Glutenvrije Snacks Diepvries",
+      "productCount": 8,
+      "filePath": "glutenvrije-snacks-diepvries.jsonl",
+      "indexPath": "glutenvrije-snacks-diepvries-index.json",
+      "statsPath": "glutenvrije-snacks-diepvries-stats.json",
+      "averageProtein": 9.1,
+      "halalCompliance": 25
+    }
+  ],
+  "totalProducts": 8,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "../index.json"
+      },
+      {
+        "name": "Diepvries Glutenvrij",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "diepvries"
+  }
+}

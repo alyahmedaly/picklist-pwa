@@ -1,0 +1,170 @@
+[
+  {
+    "id": "496903",
+    "name": "Fernandes Green punch 4-pack",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030353831?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaams, Antilliaans frisdrank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466976",
+    "name": "Fernandes Super pineapple",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030363131?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaams, Antilliaans frisdrank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "219882",
+    "name": "Chubby Kola champion",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833353831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaams, Antilliaans frisdrank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440916",
+    "name": "Mogu Mogu Zwarte bessen",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130313932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaams, Antilliaans frisdrank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570862",
+    "name": "Boba Loba Popping boba drink strawberry lychee",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532313530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaams, Antilliaans frisdrank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570856",
+    "name": "Jarritos Guave soda",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373638303434?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaams, Antilliaans frisdrank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570857",
+    "name": "Jarritos Lime soda",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373637373631?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaams, Antilliaans frisdrank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570855",
+    "name": "Jarritos Mango soda",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336353834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaams, Antilliaans frisdrank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570858",
+    "name": "Lotte Milkis origineel",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337343431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaams, Antilliaans frisdrank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570859",
+    "name": "Lotte Milkis strawberry",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034343433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaams, Antilliaans frisdrank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523191",
+    "name": "Mogu Mogu Pineapple flavoured drink",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836333038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaams, Antilliaans frisdrank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570860",
+    "name": "Maaza Passionfruit fruit drink",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936313935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaams, Antilliaans frisdrank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "219883",
+    "name": "Chubby Druivensmaak",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735373539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaams, Antilliaans frisdrank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544484",
+    "name": "Fernandes Cherry bouquet zero sugar",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131333232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaams, Antilliaans frisdrank"
+    ],
+    "isFood": true
+  }
+]

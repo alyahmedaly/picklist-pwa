@@ -1,0 +1,122 @@
+[
+  {
+    "id": "559136",
+    "name": "Fruittella Mix of minis",
+    "price": 4.04,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234363137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Mini snoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396297",
+    "name": "Look-O-Look Mini candy sushi",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383837343434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Mini snoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396296",
+    "name": "Look-O-Look Mini candy pizza",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Mini snoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451877",
+    "name": "Look-O-Look Snoep kettingen & horloges",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Mini snoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451272",
+    "name": "Maoam Stripes",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935363830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Mini snoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459501",
+    "name": "AH Tum tum",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Mini snoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459020",
+    "name": "Haribo Kikkers",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235313335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Mini snoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565941",
+    "name": "Trolli Kiss",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Mini snoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458177",
+    "name": "Napoleon Fruitmix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130343736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Mini snoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216318",
+    "name": "Trolli Party burger mini's",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239333638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Mini snoepjes"
+    ],
+    "isFood": true
+  }
+]

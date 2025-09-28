@@ -1,0 +1,47 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "lichaamsverzorging",
+      "displayName": "Lichaamsverzorging",
+      "productCount": 49,
+      "hasSubdirectories": true,
+      "indexPath": "lichaamsverzorging/index.json"
+    },
+    {
+      "name": "mondhygiene",
+      "displayName": "Mondhygiene",
+      "productCount": 20,
+      "hasSubdirectories": true,
+      "indexPath": "mondhygiene/index.json"
+    },
+    {
+      "name": "haarverzorging",
+      "displayName": "Haarverzorging",
+      "productCount": 7,
+      "hasSubdirectories": true,
+      "indexPath": "haarverzorging/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 76,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 76,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Drogisterij",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

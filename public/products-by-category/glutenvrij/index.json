@@ -1,0 +1,30 @@
+{
+  "categoryPath": "Glutenvrij",
+  "breadcrumbs": "Glutenvrij",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "glutenvrij-en-vegan-sinterklaas-assortiment",
+      "displayName": "Glutenvrij En Vegan Sinterklaas Assortiment",
+      "productCount": 7,
+      "filePath": "glutenvrij-en-vegan-sinterklaas-assortiment.jsonl",
+      "indexPath": "glutenvrij-en-vegan-sinterklaas-assortiment-index.json",
+      "statsPath": "glutenvrij-en-vegan-sinterklaas-assortiment-stats.json",
+      "averageProtein": 4.7,
+      "halalCompliance": 43
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Glutenvrij",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

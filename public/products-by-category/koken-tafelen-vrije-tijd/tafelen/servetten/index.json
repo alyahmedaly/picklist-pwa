@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Koken, tafelen, vrije tijd > Tafelen > Servetten",
+  "breadcrumbs": "Koken, tafelen, vrije tijd > Tafelen > Servetten",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "reguliere-servetten",
+      "displayName": "Reguliere Servetten",
+      "productCount": 5,
+      "filePath": "reguliere-servetten.jsonl",
+      "indexPath": "reguliere-servetten-index.json",
+      "statsPath": "reguliere-servetten-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koken Tafelen Vrije Tijd",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Tafelen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Servetten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "koken-tafelen-vrije-tijd/tafelen"
+  }
+}

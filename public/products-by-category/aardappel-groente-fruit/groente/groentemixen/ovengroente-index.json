@@ -1,0 +1,67 @@
+[
+  {
+    "id": "455363",
+    "name": "AH Oven & Airfryer courgette rode paprika",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736323033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Ovengroente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525260",
+    "name": "AH Oven & airfryer groente koolraap",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131373531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Ovengroente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446338",
+    "name": "AH Oven & Airfryer groente zoete aardappel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736323032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Ovengroente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505425",
+    "name": "AH Oven & Airfryer prei peen",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Ovengroente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441698",
+    "name": "AH Oven & Airfryer spruitjes pompoen",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736323230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Ovengroente"
+    ],
+    "isFood": true
+  }
+]

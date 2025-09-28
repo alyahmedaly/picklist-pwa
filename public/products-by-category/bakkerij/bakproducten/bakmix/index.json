@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Bakkerij > Bakproducten > Bakmix",
+  "breadcrumbs": "Bakkerij > Bakproducten > Bakmix",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "koekjesmix",
+      "displayName": "Koekjesmix",
+      "productCount": 10,
+      "filePath": "koekjesmix.jsonl",
+      "indexPath": "koekjesmix-index.json",
+      "statsPath": "koekjesmix-stats.json",
+      "averageProtein": 4.6,
+      "halalCompliance": 50
+    },
+    {
+      "name": "cupcake-mix",
+      "displayName": "Cupcake Mix",
+      "productCount": 5,
+      "filePath": "cupcake-mix.jsonl",
+      "indexPath": "cupcake-mix-index.json",
+      "statsPath": "cupcake-mix-stats.json",
+      "averageProtein": 4.3,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 15,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 15,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bakproducten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Bakmix",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bakkerij/bakproducten"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "categoryPath": "Chips, noten, toast, popcorn > Noten",
+  "breadcrumbs": "Chips, noten, toast, popcorn > Noten",
+  "subdirectories": [
+    {
+      "name": "pitten-zaden-en-notengarnering",
+      "displayName": "Pitten Zaden En Notengarnering",
+      "productCount": 13,
+      "hasSubdirectories": false,
+      "indexPath": "pitten-zaden-en-notengarnering/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "notenmix",
+      "displayName": "Notenmix",
+      "productCount": 45,
+      "filePath": "notenmix.jsonl",
+      "indexPath": "notenmix-index.json",
+      "statsPath": "notenmix-stats.json",
+      "averageProtein": 16.5,
+      "halalCompliance": 96
+    },
+    {
+      "name": "borrelnoten",
+      "displayName": "Borrelnoten",
+      "productCount": 41,
+      "filePath": "borrelnoten.jsonl",
+      "indexPath": "borrelnoten-index.json",
+      "statsPath": "borrelnoten-stats.json",
+      "averageProtein": 13.8,
+      "halalCompliance": 90
+    },
+    {
+      "name": "cashewnoten",
+      "displayName": "Cashewnoten",
+      "productCount": 38,
+      "filePath": "cashewnoten.jsonl",
+      "indexPath": "cashewnoten-index.json",
+      "statsPath": "cashewnoten-stats.json",
+      "averageProtein": 18.6,
+      "halalCompliance": 95
+    },
+    {
+      "name": "pindas",
+      "displayName": "Pindas",
+      "productCount": 32,
+      "filePath": "pindas.jsonl",
+      "indexPath": "pindas-index.json",
+      "statsPath": "pindas-stats.json",
+      "averageProtein": 22,
+      "halalCompliance": 88
+    },
+    {
+      "name": "overig-noten",
+      "displayName": "Overig Noten",
+      "productCount": 21,
+      "filePath": "overig-noten.jsonl",
+      "indexPath": "overig-noten-index.json",
+      "statsPath": "overig-noten-stats.json",
+      "averageProtein": 14.6,
+      "halalCompliance": 86
+    },
+    {
+      "name": "amandelen",
+      "displayName": "Amandelen",
+      "productCount": 12,
+      "filePath": "amandelen.jsonl",
+      "indexPath": "amandelen-index.json",
+      "statsPath": "amandelen-stats.json",
+      "averageProtein": 25.4,
+      "halalCompliance": 100
+    },
+    {
+      "name": "walnoten",
+      "displayName": "Walnoten",
+      "productCount": 10,
+      "filePath": "walnoten.jsonl",
+      "indexPath": "walnoten-index.json",
+      "statsPath": "walnoten-stats.json",
+      "averageProtein": 17,
+      "halalCompliance": 100
+    },
+    {
+      "name": "macadamianoten",
+      "displayName": "Macadamianoten",
+      "productCount": 8,
+      "filePath": "macadamianoten.jsonl",
+      "indexPath": "macadamianoten-index.json",
+      "statsPath": "macadamianoten-stats.json",
+      "averageProtein": 13.6,
+      "halalCompliance": 100
+    },
+    {
+      "name": "pecannoten",
+      "displayName": "Pecannoten",
+      "productCount": 8,
+      "filePath": "pecannoten.jsonl",
+      "indexPath": "pecannoten-index.json",
+      "statsPath": "pecannoten-stats.json",
+      "averageProtein": 10.6,
+      "halalCompliance": 100
+    },
+    {
+      "name": "pistachenoten",
+      "displayName": "Pistachenoten",
+      "productCount": 8,
+      "filePath": "pistachenoten.jsonl",
+      "indexPath": "pistachenoten-index.json",
+      "statsPath": "pistachenoten-stats.json",
+      "averageProtein": 22.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "chocoladenoten",
+      "displayName": "Chocoladenoten",
+      "productCount": 5,
+      "filePath": "chocoladenoten.jsonl",
+      "indexPath": "chocoladenoten-index.json",
+      "statsPath": "chocoladenoten-stats.json",
+      "averageProtein": 10.3,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 241,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 241,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Chips Noten Toast Popcorn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Noten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "chips-noten-toast-popcorn"
+  }
+}

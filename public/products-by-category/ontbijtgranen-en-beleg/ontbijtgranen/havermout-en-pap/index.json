@@ -1,0 +1,54 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "havermout",
+      "displayName": "Havermout",
+      "productCount": 21,
+      "hasSubdirectories": false,
+      "indexPath": "havermout/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "ontbijtpap",
+      "displayName": "Ontbijtpap",
+      "productCount": 6,
+      "filePath": "ontbijtpap.jsonl",
+      "indexPath": "ontbijtpap-index.json",
+      "statsPath": "ontbijtpap-stats.json",
+      "averageProtein": 9.6,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 27,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 27,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Ontbijtgranen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Havermout En Pap",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/ontbijtgranen"
+  }
+}

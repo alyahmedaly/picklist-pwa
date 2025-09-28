@@ -1,0 +1,98 @@
+[
+  {
+    "id": "524815",
+    "name": "De Kleine Keuken Biologische appel & dadel stroop kids",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934383136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Broodbeleg (baby en kind)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381705",
+    "name": "De Kleine Keuken Biologische pindakaas 100% pinda's kids",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934383235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Broodbeleg (baby en kind)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408369",
+    "name": "De Kleine Keuken Biologisch broodbeleg mango pompoen 6m+",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Broodbeleg (baby en kind)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515151",
+    "name": "De Kleine Keuken Biologische chocopasta hazelnoot kids",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934383039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Broodbeleg (baby en kind)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560531",
+    "name": "De Kleine Keuken Biologisch broodbeleg perzik&wortel 6m+",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933353237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Broodbeleg (baby en kind)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408364",
+    "name": "De Kleine Keuken Biologisch broodbeleg aardbei & biet 6m+",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353935393734?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Broodbeleg (baby en kind)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560532",
+    "name": "De Kleine Keuken Biologisch broodbeleg zoet aardappel 6m+",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Broodbeleg (baby en kind)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485907",
+    "name": "Love my veggies Biolgische fruitspread peer&framboos 6m+",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132313436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Broodbeleg (baby en kind)"
+    ],
+    "isFood": true
+  }
+]

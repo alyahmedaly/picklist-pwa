@@ -1,0 +1,327 @@
+[
+  {
+    "id": "531893",
+    "name": "AH Scharrel gerookte kipfiletflakes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477571",
+    "name": "AH Scharrel gebraden kipfilet caesar",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579120",
+    "name": "AH Fazantenfilet",
+    "price": 6.6,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531864",
+    "name": "AH Scharrel gerookte kipfilet plakjes",
+    "price": 2.9,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531862",
+    "name": "AH Scharrel kipdijen",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531834",
+    "name": "AH Scharrel kipfilet à la minute paprika",
+    "price": 5.47,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168028",
+    "name": "AH Biologisch Kipdijfilet",
+    "price": 8.61,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383153",
+    "name": "AH Biologisch Kipdijfilet 2 stuks",
+    "price": 3.93,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197231",
+    "name": "AH Scharrel kipdijfilet",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531848",
+    "name": "AH Scharrel kipdijfilet",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531826",
+    "name": "AH Scharrel kipdijfilet 2 stuks",
+    "price": 2.92,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217231",
+    "name": "AH Franse scharrelkip dijfilet",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197183",
+    "name": "AH Scharrel kipfilet 1 stuk",
+    "price": 3.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383518",
+    "name": "AH Biologisch Kipfilet 1 stuk",
+    "price": 4.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "57741",
+    "name": "AH Biologisch Kipfilet 2 stuks",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "291239",
+    "name": "AH Franse scharrelkip kipfilethaasjes",
+    "price": 6.08,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67621",
+    "name": "AH Franse scharrelkipfilet",
+    "price": 7.07,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563583",
+    "name": "AH Kipfilet Franse scharrelkip",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531825",
+    "name": "AH Scharrel kipfilet",
+    "price": 8.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533083",
+    "name": "AH Scharrel kipfilet 2 stuks",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533079",
+    "name": "AH Scharrel kipfilet 3 stuks",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533081",
+    "name": "AH Scharrel kipfilethaasjes",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577928",
+    "name": "AH Scharrel gerookte kipfilet plakjes 3pack",
+    "price": 8.26,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930313037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567749",
+    "name": "AH Scharrel kipfilethaasjes 3-pack",
+    "price": 14.97,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386041",
+    "name": "Des Champs Vert Scharrel maiskipfilet",
+    "price": 3.94,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363532333032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - stuk"
+    ],
+    "isFood": true
+  }
+]

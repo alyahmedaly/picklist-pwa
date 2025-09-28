@@ -1,0 +1,182 @@
+[
+  {
+    "id": "475504",
+    "name": "AH Gepofte tarwe met honing",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228025",
+    "name": "Smaakt Rijst gepoft",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032373438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569936",
+    "name": "AH Biologisch 100% volkoren rijst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475245",
+    "name": "AH Biologisch 5-granenmix",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363237363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569943",
+    "name": "AH Biologisch 100% spelt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437372",
+    "name": "AH Biologisch 100% Volkoren boekweit gepoft",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373439343434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569935",
+    "name": "AH Biologisch 100% volkoren haver gepoft",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509285",
+    "name": "AH Biologisch Volkoren havermout grove vlokken",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335333037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225011",
+    "name": "Smaakt Boekweitvlokken biologisch",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139373230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569937",
+    "name": "AH Biologisch 100% durum tarwe",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437380",
+    "name": "AH Biologisch 100% Volkoren quinoa gepoft",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373439343331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525281",
+    "name": "AH Biologisch Spelt",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "371144",
+    "name": "Smaakt Boekweit bio",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631363737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412531",
+    "name": "Smaakt Gepofte spelt bio",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136343731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228022",
+    "name": "Smaakt Roggevlokken",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135383937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Graanvlokken, gepoft"
+    ],
+    "isFood": true
+  }
+]

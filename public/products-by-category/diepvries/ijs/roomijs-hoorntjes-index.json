@@ -1,0 +1,110 @@
+[
+  {
+    "id": "132554",
+    "name": "AH Chantilly karamel",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs hoorntjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "745",
+    "name": "AH Chantilly",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs hoorntjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "57674",
+    "name": "AH IJshoorntjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636343331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs hoorntjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209567",
+    "name": "Ola Cornetto classico",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037333335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs hoorntjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436213",
+    "name": "Ola Cornetto classico",
+    "price": 2,
+    "image": "NA",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs hoorntjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226519",
+    "name": "Ola Cornetto classico mini",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs hoorntjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576834",
+    "name": "AH IJshoorntjes macadamia",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs hoorntjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "192613",
+    "name": "AH Chantilly aardbei",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs hoorntjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576828",
+    "name": "AH IJshoorntjes brownie",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs hoorntjes"
+    ],
+    "isFood": true
+  }
+]

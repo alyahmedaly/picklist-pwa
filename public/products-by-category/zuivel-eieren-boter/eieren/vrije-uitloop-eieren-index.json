@@ -1,0 +1,254 @@
+[
+  {
+    "id": "127231",
+    "name": "AH Biologisch Eieren S M L",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168502",
+    "name": "AH Biologisch Eieren S M L",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137373431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442938",
+    "name": "AH Biologisch Eieren S M L",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137343430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442940",
+    "name": "AH Biologisch Eieren S M L",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137343233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "30030",
+    "name": "AH Vrije uitloop eieren L",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433393438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104400",
+    "name": "AH Vrije uitloop eieren M",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433393439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231409",
+    "name": "AH Vrije uitloop eieren M",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433393531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442939",
+    "name": "AH Vrije uitloopeieren M",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433393437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442922",
+    "name": "AH Witte vrije uitloopeieren M",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363430323834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173998",
+    "name": "Blije Kip eieren Biologische eieren",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138323039?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213013",
+    "name": "Blije Kip eieren Biologische eieren",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353338333739?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161001",
+    "name": "Blije Kip eieren Vrije uitloop buitenei",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331353439?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163030",
+    "name": "Blije Kip eieren Vrije uitloop buitenei",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331313734?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197225",
+    "name": "Blije Kip eieren Vrije uitloop kanjers",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137373036?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473882",
+    "name": "Blije Kip eieren Witjes",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363836353932?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567402",
+    "name": "AH Biologisch Eieren S M L 3-pack",
+    "price": 11.83,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135333736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567552",
+    "name": "AH Biologisch Eieren S M L 3-pack",
+    "price": 17.07,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135333438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567392",
+    "name": "AH Uitloopeieren wit 2-pack",
+    "price": 3.21,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234363532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579283",
+    "name": "AH Vrije uitloop eieren L 2-pack",
+    "price": 4.12,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579212",
+    "name": "AH Vrije uitloop eieren M 2-pack",
+    "price": 6.82,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161000",
+    "name": "Blije Kip eieren Vitamine d & omega 3",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373333313238?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Vrije uitloop eieren"
+    ],
+    "isFood": true
+  }
+]

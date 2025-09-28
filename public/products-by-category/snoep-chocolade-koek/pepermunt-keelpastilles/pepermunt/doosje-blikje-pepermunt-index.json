@@ -1,0 +1,366 @@
+[
+  {
+    "id": "438996",
+    "name": "Tic tac Festival 2-pack",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231313836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "174981",
+    "name": "Tic tac Sinaasappelsmaak",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231313830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203308",
+    "name": "Tic tac Sinaasappelsmaak 2-pack",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231313430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "174982",
+    "name": "Tic tac 100 mint",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231313732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169877",
+    "name": "Tic tac Mint 2-pack",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230363331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366818",
+    "name": "Smint Clean breath intense mint 2-pack",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836363037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574761",
+    "name": "Smint Sours lemon",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438313736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448009",
+    "name": "Smint Clean breath sugarfree 2 hour value pack",
+    "price": 6.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497784",
+    "name": "Smint Defensive orangemint clean breath 2-pack",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836363830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129447",
+    "name": "Smint Mints sugarfree 2-pack",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836373134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "172194",
+    "name": "Smint Peppermint single",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373334333337?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503129",
+    "name": "Smint Aardbei XL mints sugarfree 2-pack",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383839393933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177119",
+    "name": "Smint Peppermint XL mints sugarfree 2-pack",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836363231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574760",
+    "name": "Smint Sours strawberry",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438313737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "116475",
+    "name": "Smint Tin XL peppermint",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836353835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366817",
+    "name": "Smint Clean breath peppermint",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836373636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399710",
+    "name": "Smint Fresh effect 2-pack sugarfree",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836353932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559154",
+    "name": "Sportlife Extramint 2-pack sugar free mints",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339363330?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514839",
+    "name": "Smint Black mint sugarfree value pack",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383839393934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448008",
+    "name": "Smint Peppermint sugarfree value pack",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836363038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559237",
+    "name": "Sportlife Peppermint 2-pack sugar free mints",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339363239?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578446",
+    "name": "Ricola Gember sinaasappelmunt suikervrij",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559153",
+    "name": "Sportlife Smashmint 2-pack sugar free mints",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339363238?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559242",
+    "name": "Wilhelmina Suikervrije mints framboos rode bes",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559243",
+    "name": "Wilhelmina Suikervrije mints gember limoen",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177050",
+    "name": "Smint Blackmint",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189848",
+    "name": "Smint Blackmint XL mints sugarfree 2-pack",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834353335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474795",
+    "name": "Smint White peppermint 2-pack",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836363233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Doosje, blikje pepermunt"
+    ],
+    "isFood": true
+  }
+]

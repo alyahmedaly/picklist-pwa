@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Koffie, thee > Koffie > Snelfilterkoffie",
+  "breadcrumbs": "Koffie, thee > Koffie > Snelfilterkoffie",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "snelfilterkoffie-regular",
+      "displayName": "Snelfilterkoffie Regular",
+      "productCount": 11,
+      "filePath": "snelfilterkoffie-regular.jsonl",
+      "indexPath": "snelfilterkoffie-regular-index.json",
+      "statsPath": "snelfilterkoffie-regular-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "snelfilterkoffie-cafenevrij",
+      "displayName": "Snelfilterkoffie Cafenevrij",
+      "productCount": 7,
+      "filePath": "snelfilterkoffie-cafenevrij.jsonl",
+      "indexPath": "snelfilterkoffie-cafenevrij-index.json",
+      "statsPath": "snelfilterkoffie-cafenevrij-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "snelfilterkoffie-krachtig",
+      "displayName": "Snelfilterkoffie Krachtig",
+      "productCount": 7,
+      "filePath": "snelfilterkoffie-krachtig.jsonl",
+      "indexPath": "snelfilterkoffie-krachtig-index.json",
+      "statsPath": "snelfilterkoffie-krachtig-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 25,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 25,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Koffie",
+        "path": "../index.json"
+      },
+      {
+        "name": "Snelfilterkoffie",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "koffie-thee/koffie"
+  }
+}

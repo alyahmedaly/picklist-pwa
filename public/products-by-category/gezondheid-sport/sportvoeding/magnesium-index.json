@@ -1,0 +1,242 @@
+[
+  {
+    "id": "421511",
+    "name": "Bional Magnesium met calcium natuurlijk zee",
+    "price": 14.99,
+    "image": "NA",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400082",
+    "name": "Care Calcium magnesium zink",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400088",
+    "name": "Care Magnesium complex",
+    "price": 7.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459057",
+    "name": "Davitamon Magnesium",
+    "price": 19.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332383738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231581",
+    "name": "Davitamon Magnesium 400 mg tabletten",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454433",
+    "name": "Davitamon Magnesium citraat",
+    "price": 16.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228682",
+    "name": "Davitamon Magnesium tabletten",
+    "price": 15.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332373433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228680",
+    "name": "Davitamon Magnesium tabletten voor de nacht",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332373332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212387",
+    "name": "Lucovitaal Magnesium 400 l-tryptofaan",
+    "price": 16.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373638333137?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401110",
+    "name": "Lucovitaal Magnesium 400 mg citraat",
+    "price": 29.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383030343038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401106",
+    "name": "Lucovitaal Magnesium 400 mg, B6 & L-tryptofaan",
+    "price": 29.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373730343432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232794",
+    "name": "Lucovitaal Magnesium 400mg citraat",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393637313433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374898",
+    "name": "Lucovitaal Magnesium 400mg citraat",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373038343037?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566840",
+    "name": "Lucovitaal Magnesium 400mg citraat",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303136343239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551195",
+    "name": "Lucovitaal Magnesium citraat tabletten",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636303937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429902",
+    "name": "Lucovitaal Magnesium spierolie spray",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373733343738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429751",
+    "name": "Lucovitaal Magnesium vitamine mineralen tabletten",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373730333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429900",
+    "name": "Lucovitaal Pure marine magnesium kauwtablet",
+    "price": 14.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636313035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "527429",
+    "name": "Vitakruid Magnesium 200 complex tabletten",
+    "price": 25.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383838343937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "527450",
+    "name": "Vitakruid Magnesium tauraat met p-5-p",
+    "price": 26.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383837393930?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Magnesium"
+    ],
+    "isFood": true
+  }
+]

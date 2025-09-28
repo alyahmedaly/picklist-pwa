@@ -1,0 +1,62 @@
+[
+  {
+    "id": "430432",
+    "name": "Aviko Rösti mini",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232363835?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Rosti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166418",
+    "name": "Aviko Rösti rondjes bacon & ui",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332313935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Rosti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195089",
+    "name": "Aviko Rösti rondjes naturel",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536323034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Rosti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "143764",
+    "name": "AH Rosti rondjes",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Rosti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191927",
+    "name": "Aviko Rösti original",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536323033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Rosti"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "233722",
+    "name": "Super Choice Torpedo shrimp",
+    "price": 4.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138323832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233718",
+    "name": "Super Choice Butterfly shrimp",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136323033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500620",
+    "name": "AH Argentijnse garnaal",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373435323634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "97360",
+    "name": "AH Cocktail garnalen",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "371594",
+    "name": "AH Cocktailgarnalen",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236303234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "136373",
+    "name": "AH Wokgarnalen met knoflook en peterselie",
+    "price": 8.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383531383632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "371595",
+    "name": "AH Garnalen rauw en gepeld",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236303232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217010",
+    "name": "AH Gepelde roze garnalen rauw",
+    "price": 9.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236303233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "377317",
+    "name": "AH Biologisch Garnalen rauw en gepeld",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373937373937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "97361",
+    "name": "AH Reuzengarnalen rauw en ongepeld",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373831343530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579355",
+    "name": "AH Biologisch Garnalen rauw en gepeld 2-pack",
+    "price": 12.33,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579289",
+    "name": "AH Gepelde roze garnalen rauw 2-pack",
+    "price": 18.03,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579352",
+    "name": "AH Wokgarnalen knoflook & peterselie 2-pack",
+    "price": 16.81,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492794",
+    "name": "Super Choice Garnalen L rauw ongepeld bel",
+    "price": 26.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334313538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "510325",
+    "name": "Super Choice Garnalen S geblancheerd gepeld bel",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636323033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Garnalen (diepvries)"
+    ],
+    "isFood": true
+  }
+]

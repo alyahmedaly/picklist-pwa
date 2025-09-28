@@ -1,0 +1,80 @@
+[
+  {
+    "id": "198359",
+    "name": "Yanco Tiantan vermicelli",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383736323538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Vermicelli"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "172376",
+    "name": "Grand' Italia Pasta per zuppa vermicelli",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830303939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Vermicelli"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196650",
+    "name": "Honig Figuurvermicelli cijfers & letters",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Vermicelli"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3325",
+    "name": "Honig Krulvermicelli middel",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037333038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Vermicelli"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450860",
+    "name": "Soubry vermicelli bel",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303433383832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Vermicelli"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447696",
+    "name": "AH Soep vermicelli naturel",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Vermicelli"
+    ],
+    "isFood": true
+  }
+]

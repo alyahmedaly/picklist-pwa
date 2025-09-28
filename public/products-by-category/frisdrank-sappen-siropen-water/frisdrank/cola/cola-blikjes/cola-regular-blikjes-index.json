@@ -1,0 +1,240 @@
+[
+  {
+    "id": "226930",
+    "name": "Dr Foots Cola regular",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433303631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480783",
+    "name": "AH Cola regular",
+    "price": 0.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480792",
+    "name": "AH Cola regular 6-pack",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480791",
+    "name": "AH Cola regular mini 6-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553793",
+    "name": "Dr Pepper Regular",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477045",
+    "name": "Coca-Cola Original",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336303134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477060",
+    "name": "Coca-Cola Original taste 8-pack",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336303131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67689",
+    "name": "Coca-Cola Original taste mini 12-pack",
+    "price": 7.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336313030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519032",
+    "name": "Coca-Cola Original taste regular 12-pack",
+    "price": 10.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038323437?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576008",
+    "name": "Coca-Cola Regular 20-pack",
+    "price": 14.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530393237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230722",
+    "name": "Coca-Cola Regular blik",
+    "price": 0.62,
+    "image": "NA",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496800",
+    "name": "Pepsi Cola 6-pack",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503330",
+    "name": "Pepsi Regular 4-pack",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534323035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496792",
+    "name": "Pepsi Regular blik",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503125",
+    "name": "Pepsi Regular cola",
+    "price": 0.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534323033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503266",
+    "name": "Pepsi Zero 4-pack",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496799",
+    "name": "Pepsi Zero 6-pack",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola regular blikjes"
+    ],
+    "isFood": true
+  }
+]

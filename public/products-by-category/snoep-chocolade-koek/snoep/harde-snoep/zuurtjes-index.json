@@ -1,0 +1,93 @@
+[
+  {
+    "id": "564783",
+    "name": "Toxic Waste Green sour candy",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631313031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zuurtjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458489",
+    "name": "Napoleon Drop",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034313830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zuurtjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565939",
+    "name": "Napoleon Cola",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130343434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zuurtjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458490",
+    "name": "Napoleon Framboos",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130343632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zuurtjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547736",
+    "name": "Napoleon Watermelon",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130343538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zuurtjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457997",
+    "name": "Napoleon Zure citroen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130343731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zuurtjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458491",
+    "name": "Napoleon Zwart wit",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130303832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zuurtjes"
+    ],
+    "isFood": true
+  }
+]

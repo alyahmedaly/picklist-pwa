@@ -1,0 +1,106 @@
+[
+  {
+    "id": "440472",
+    "name": "AH Kaas ruitbroodje wit",
+    "price": 0.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236393037313235?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse broodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403995",
+    "name": "AH Ciabattina rozijn wit",
+    "price": 0.39,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323737373530?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse broodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230734",
+    "name": "AH Kaiserbroodje wit",
+    "price": 0.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233303530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse broodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555442",
+    "name": "AH Mexican burrito vegan",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332323032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse broodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230718",
+    "name": "AH Pistolet wit",
+    "price": 0.25,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323738393734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse broodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475819",
+    "name": "AH Kaiserbroodje volkoren",
+    "price": 0.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383635343635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse broodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230732",
+    "name": "AH Meergranen broodje volkoren",
+    "price": 0.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303034393438?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse broodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230717",
+    "name": "AH Pistolet bruin",
+    "price": 0.25,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323738393730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse broodjes"
+    ],
+    "isFood": true
+  }
+]

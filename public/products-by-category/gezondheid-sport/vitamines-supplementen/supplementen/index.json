@@ -1,0 +1,84 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "slaap-rust-en-ontspanning",
+      "displayName": "Slaap Rust En Ontspanning",
+      "productCount": 27,
+      "hasSubdirectories": false,
+      "indexPath": "slaap-rust-en-ontspanning/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "blaas-prostaat-en-darmflora-supplementen",
+      "displayName": "Blaas Prostaat En Darmflora Supplementen",
+      "productCount": 14,
+      "filePath": "blaas-prostaat-en-darmflora-supplementen.jsonl",
+      "indexPath": "blaas-prostaat-en-darmflora-supplementen-index.json",
+      "statsPath": "blaas-prostaat-en-darmflora-supplementen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 93
+    },
+    {
+      "name": "hart-en-bloedvaten-supplementen",
+      "displayName": "Hart En Bloedvaten Supplementen",
+      "productCount": 14,
+      "filePath": "hart-en-bloedvaten-supplementen.jsonl",
+      "indexPath": "hart-en-bloedvaten-supplementen-index.json",
+      "statsPath": "hart-en-bloedvaten-supplementen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 64
+    },
+    {
+      "name": "huid-haar-nagel-supplementen",
+      "displayName": "Huid Haar Nagel Supplementen",
+      "productCount": 10,
+      "filePath": "huid-haar-nagel-supplementen.jsonl",
+      "indexPath": "huid-haar-nagel-supplementen-index.json",
+      "statsPath": "huid-haar-nagel-supplementen-stats.json",
+      "averageProtein": 10.4,
+      "halalCompliance": 80
+    },
+    {
+      "name": "overgang",
+      "displayName": "Overgang",
+      "productCount": 7,
+      "filePath": "overgang.jsonl",
+      "indexPath": "overgang-index.json",
+      "statsPath": "overgang-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 86
+    }
+  ],
+  "totalProducts": 72,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 72,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vitamines Supplementen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Supplementen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "gezondheid-sport/vitamines-supplementen"
+  }
+}

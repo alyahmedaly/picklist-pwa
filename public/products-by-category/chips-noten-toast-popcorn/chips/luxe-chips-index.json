@@ -1,0 +1,182 @@
+[
+  {
+    "id": "564775",
+    "name": "Herr's Carolina reaper scorcin hot cheese curls",
+    "price": 0.84,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631353338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460462",
+    "name": "AH Robuuste chips salt & vinegar",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460463",
+    "name": "AH Robuuste chips zeezout & peper",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332363838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211367",
+    "name": "Tyrrells Mature cheddar & chive",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437353433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171843",
+    "name": "Tyrrells Sea salt & cider vinegar",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437353138?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458386",
+    "name": "Casa Mediterrana Chips zeezout",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353335393937?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167334",
+    "name": "Lay's Sensations red sweet paprika",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442549",
+    "name": "Tyrrells Chips truffle & sea salt",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437353338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460468",
+    "name": "AH Robuuste chips grof zeezout",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736333730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167332",
+    "name": "Lay's Sensations Mexican peppers & cream",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505967",
+    "name": "Casa Mediterrana Chips truffel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383337393131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167333",
+    "name": "Lay's Sensations Thai sweet chilli",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526370",
+    "name": "Boerderij Chips paprika",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533343731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526371",
+    "name": "Boerderij Chips ribbel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533343732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526369",
+    "name": "Boerderij Chips zeezout",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533343733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Luxe chips"
+    ],
+    "isFood": true
+  }
+]

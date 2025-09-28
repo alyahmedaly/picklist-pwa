@@ -1,0 +1,50 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "high-protein-tussendoortjes",
+      "displayName": "High Protein Tussendoortjes",
+      "productCount": 80,
+      "hasSubdirectories": false,
+      "indexPath": "high-protein-tussendoortjes/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "high-protein-kwark",
+      "displayName": "High Protein Kwark",
+      "productCount": 11,
+      "filePath": "high-protein-kwark.jsonl",
+      "indexPath": "high-protein-kwark-index.json",
+      "statsPath": "high-protein-kwark-stats.json",
+      "averageProtein": 8.1,
+      "halalCompliance": 73
+    }
+  ],
+  "totalProducts": 91,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 91,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../index.json"
+      },
+      {
+        "name": "High Protein Zuivel",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "zuivel-eieren-boter"
+  }
+}

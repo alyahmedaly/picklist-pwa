@@ -1,0 +1,39 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "vla",
+      "displayName": "Vla",
+      "productCount": 18,
+      "hasSubdirectories": false,
+      "indexPath": "vla/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 18,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 18,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vla En Pap",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "zuivel-eieren-boter"
+  }
+}

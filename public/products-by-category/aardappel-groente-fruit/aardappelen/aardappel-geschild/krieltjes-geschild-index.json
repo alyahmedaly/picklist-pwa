@@ -1,0 +1,106 @@
+[
+  {
+    "id": "238678",
+    "name": "AH Biologisch Krieltjes",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323030363234?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Krieltjes - geschild"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577525",
+    "name": "AH Duopack kriel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831373838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Krieltjes - geschild"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67907",
+    "name": "AH Krieltjes",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363435353936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Krieltjes - geschild"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476323",
+    "name": "AH Krieltjes",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383336353335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Krieltjes - geschild"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198690",
+    "name": "AH Mini krieltjes",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363435353838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Krieltjes - geschild"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476241",
+    "name": "AH Mini krieltjes",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363737303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Krieltjes - geschild"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "41096",
+    "name": "CêlaVíta Keintje kriel",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Krieltjes - geschild"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163903",
+    "name": "CêlaVíta Kleintje kriel familieverpakking",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Krieltjes - geschild"
+    ],
+    "isFood": true
+  }
+]

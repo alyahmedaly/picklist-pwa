@@ -1,0 +1,146 @@
+[
+  {
+    "id": "479538",
+    "name": "AH Gevuld eitje salade",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536373238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Eiersalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211716",
+    "name": "Johma Ei salade",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232383236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Eiersalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497589",
+    "name": "Johma Ei salade XL voordeelpak",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232383733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Eiersalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413639",
+    "name": "Johma Gevuld eitje salade",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232383431?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Eiersalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494459",
+    "name": "Johma Gevuld eitje salade XL voordeelpak",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232383931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Eiersalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444811",
+    "name": "AH Eitje preitje salade",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232323731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Eiersalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221940",
+    "name": "Délio Eiersalade bel",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363533383537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Eiersalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376545",
+    "name": "AH Ei salade",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Eiersalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211720",
+    "name": "Johma Surinaamse ei salade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232383833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Eiersalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217288",
+    "name": "AH Eiersalade met bieslook",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Eiersalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454178",
+    "name": "AH Surinaamse ei salade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Eiersalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170914",
+    "name": "AH Ei salade",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735353832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Eiersalades (beleg)"
+    ],
+    "isFood": true
+  }
+]

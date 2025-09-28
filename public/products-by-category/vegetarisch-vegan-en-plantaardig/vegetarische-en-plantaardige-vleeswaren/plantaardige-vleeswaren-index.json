@@ -1,0 +1,350 @@
+[
+  {
+    "id": "445419",
+    "name": "Kips Vega paté vol en smeuig",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038353138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445420",
+    "name": "Kips Vega smeerworst kleintje",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037353733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549895",
+    "name": "Kips Vega tuinkruiden & bospaddenstoelen paté",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037353539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462485",
+    "name": "Kips Vega paté mediterraans",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037373438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412823",
+    "name": "Vegetarische Slager Vegan petit pate",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532363936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462556",
+    "name": "Kips Vega smeerworst tuinkruiden",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037353732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445422",
+    "name": "Kips Vega snijworst",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037353634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577246",
+    "name": "AH Terra Plantaardige filet americain jalapeño",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567268",
+    "name": "AH Terra Plantaardige mortadella met pistache",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135323238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577300",
+    "name": "AH Terra Plantaardige filet americain",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577301",
+    "name": "AH Terra Plantaardige filet americain peper",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451673",
+    "name": "Zonnatura Vegetarische pate naturel",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353439313530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569963",
+    "name": "AH Terra Plantaardige bacon",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335333131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "511422",
+    "name": "AH Terra Plantaardige grillworst alternatief kaas",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738363235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457475",
+    "name": "AH Terra Plantaardige spekreepjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569968",
+    "name": "AH Terra Plantaardige paté truffelsmaak",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339333031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474825",
+    "name": "Kips Vega filet americain",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489282",
+    "name": "AH Terra Plantaardige gehakt gebraden",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560679",
+    "name": "Vegetarische Slager Hamplackjes",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336383538?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489284",
+    "name": "AH Terra Plantaardige grillworst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489286",
+    "name": "AH Terra Plantaardige grillworst stuk",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569964",
+    "name": "AH Terra Plantaardige boterhamworst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498025",
+    "name": "AH Terra Plantaardige grillworst pikant",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738363233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569965",
+    "name": "AH Terra Plantaardige groene peper worst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489280",
+    "name": "AH Terra Plantaardige ham",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569966",
+    "name": "AH Terra Plantaardige kipfilet met tuinkruiden",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497886",
+    "name": "AH Terra Plantaardige pepersalami",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489283",
+    "name": "AH Terra Plantaardige salami",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489288",
+    "name": "AH Terra Plantaardige smeerleverworst",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738363137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Plantaardige vleeswaren"
+    ],
+    "isFood": true
+  }
+]

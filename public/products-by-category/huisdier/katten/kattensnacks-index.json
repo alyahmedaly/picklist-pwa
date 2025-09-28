@@ -1,0 +1,602 @@
+[
+  {
+    "id": "569026",
+    "name": "AH Gevulde kattensnacks met kaas & kip",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130333638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573513",
+    "name": "AH Gevulde kattensnacks pakket",
+    "price": 15.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569028",
+    "name": "AH Kattensnacks vismix met zalm en forel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569029",
+    "name": "AH Kattensticks kip",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038313834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467235",
+    "name": "AH Kattensticks met zalm",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135363231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569005",
+    "name": "AH Liquid snack met kip",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393834373930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569004",
+    "name": "AH Liquid snack met zalm",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393834373838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "490701",
+    "name": "AH Mini kipstrips",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035353131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467234",
+    "name": "AH Tandverzorgende snacks",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531615",
+    "name": "Catisfactions Kattensnack creamy met zalige zalmsmaak",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739303930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "200523",
+    "name": "Catisfactions Kattensnack kaas",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519882",
+    "name": "Catisfactions Kattensnack kattenkruid",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "184725",
+    "name": "Catisfactions Kattensnack kip",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539363737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211878",
+    "name": "Catisfactions Kattensnack kip & eend",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539363838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413311",
+    "name": "Catisfactions Kattensnack kip maxipack snack",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539363733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211879",
+    "name": "Catisfactions Kattensnack zalm & kaas",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539363931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "184726",
+    "name": "Catisfactions Zalm",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539363736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220780",
+    "name": "Felix Crispies rund- & kipsmaak kattensnack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538373735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549414",
+    "name": "Felix Crispies zalm en forel maxi pack",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633373832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220779",
+    "name": "Felix Crispies zalm- & forelsmaak kattensnack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537323232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531621",
+    "name": "Felix Party mix original kattensnack maxi",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211901",
+    "name": "Felix Party mix picnic kattensnack",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130393933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195564",
+    "name": "Felix Party mix seaside kattensnack",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431303138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531620",
+    "name": "Felix Party mix seaside maxi",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131303030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514157",
+    "name": "Gourmet Nature's creations puree kip & pompoen",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434323330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514158",
+    "name": "Gourmet Nature's creations puree zalm & wortel",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303435323335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "490687",
+    "name": "Lily's Kitchen Kat laat me je knuffelen zalmtraktaties",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737373031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502442",
+    "name": "Sheba Creamy snacks kip",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383931383633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502443",
+    "name": "Sheba Creamy snacks zalm",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383931383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "206626",
+    "name": "Vitakraft Cat liquidsnack kip",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638303039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557105",
+    "name": "Vitakraft Cat yums leverworst",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434343637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441987",
+    "name": "Vitakraft Cat yums met kip en kattengras",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437363635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "382948",
+    "name": "Vitakraft Cat yums salmon",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437363638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162464",
+    "name": "Vitakraft Catstick mini eend+konijn",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303133313739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450664",
+    "name": "Vitakraft Catstick mini salmon",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437363639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199507",
+    "name": "Vitakraft Catsticks mini gevogelte lever",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353931363132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162463",
+    "name": "Vitakraft Catsticks mini kalkoen lam",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437363632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203872",
+    "name": "Vitakraft Kattengras",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303337323339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413308",
+    "name": "Vitakraft Liquid Snack rund & kattengras 6 st",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "184742",
+    "name": "Vitakraft Liquid snack zalm & omega",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568996",
+    "name": "Vitakraft Vita naturals stick chicken",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568997",
+    "name": "Vitakraft Vita naturals stick salmon",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229409",
+    "name": "Whiskas Dentabites kip kattensnacks",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933333938?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514149",
+    "name": "Whiskas Sticks rijk aan kip",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383530323439?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "200518",
+    "name": "Whiskas Sticks rund kattensnacks",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933333734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502444",
+    "name": "Whiskas Sticks zalm 6 pak",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938373531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "200519",
+    "name": "Whiskas Sticks zalm kattensnacks",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933333735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129048",
+    "name": "Whiskas Temptations kip & kaas kattensnacks",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139353437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162475",
+    "name": "Whiskas Temptations rund kattensnacks",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139353530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162467",
+    "name": "Whiskas Temptations zalm kattensnacks",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139353439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Katten",
+      "Kattensnacks"
+    ],
+    "isFood": true
+  }
+]

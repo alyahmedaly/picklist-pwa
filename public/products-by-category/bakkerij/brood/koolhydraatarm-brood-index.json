@@ -1,0 +1,74 @@
+[
+  {
+    "id": "449848",
+    "name": "AH Koolhydraat verlaagd volkoren bollen",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383330393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Koolhydraatarm brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503772",
+    "name": "AH Koolhydraat verlaagd meerzaden half",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331383736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Koolhydraatarm brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183027",
+    "name": "AH Koolhydraat verlaagd volkoren half",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331383538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Koolhydraatarm brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509630",
+    "name": "AH Stevig eiwitrijk half",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631373938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Koolhydraatarm brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509629",
+    "name": "AH Stevig eiwitrijk heel",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631373937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Koolhydraatarm brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568341",
+    "name": "AH Koolhydraat verlaagd volkoren 2-pack",
+    "price": 4.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Koolhydraatarm brood"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "id": "407850",
+    "name": "AH Glutenvrij Double cookies",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130343235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494080",
+    "name": "Prewetts Quadruple chocolate cookies",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373132303530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580730",
+    "name": "Twix Chocolate & caramel cookies gluten free",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407854",
+    "name": "AH Glutenvrij Speculaas",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373035363731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580731",
+    "name": "Bounty Chocolate & coconut cookies gluten free",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581498",
+    "name": "Schär Pausa ciok",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373339383632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "546725",
+    "name": "AH Glutenvrij Goudse kaaskoekjes",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494081",
+    "name": "Prewetts Enrobed vanilla creams",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373633383037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494079",
+    "name": "Prewetts White chocolate & cranberry cookies",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373132303439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494411",
+    "name": "AH Glutenvrij Chocolate chip cookies",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373134303636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407851",
+    "name": "AH Glutenvrij Gevulde koek",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373335363330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386330",
+    "name": "Consenza Choco teff fingers",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136343536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199604",
+    "name": "Schär Butterkeks petit beurre glutenvrij",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393635383133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494243",
+    "name": "AH Glutenvrij Roze koek",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383039363232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581497",
+    "name": "Prewetts Milk chocolate Viennese fingers",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456005",
+    "name": "Schär Melto pocket glutenvrij",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373434383032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550450",
+    "name": "Schär Soft cookies double chocolate",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494412",
+    "name": "AH Glutenvrij Brownies",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373232343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407845",
+    "name": "AH Glutenvrij Stroopwafels",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135383938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407824",
+    "name": "Schär Choco chip cookies glutenvrij",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373434373935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407856",
+    "name": "Schär Digestive choc",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373631353339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395081",
+    "name": "Verkade Glutenvrije oaties melkchocolade",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494108",
+    "name": "Schär Madeleines",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373433383035?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419894",
+    "name": "Nairn's Brosse biscuits met chocola & kokosnoot",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363932393433?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494408",
+    "name": "Nairn's Chocolate chip biscuit break",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373838?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494116",
+    "name": "AH Glutenvrij Belgische wafels",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419895",
+    "name": "Nairn's Brosse biscuits met framboos & bosbessen",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363932383839?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395080",
+    "name": "Verkade Glutenvrije oaties",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933303031?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378230",
+    "name": "Schär Digestive landtaler glutenvrij",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373430343135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532259",
+    "name": "Matilde Vicenzi Vicenzovo lange vingers",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383937313639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407848",
+    "name": "Nairn's Biscuit breaks oats ginger glutenvrij",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363935363539?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516624",
+    "name": "Nairn's Salted caramel oat biscuit breaks",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383530333330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Glutenvrije koek"
+    ],
+    "isFood": true
+  }
+]

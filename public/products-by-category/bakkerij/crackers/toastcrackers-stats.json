@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Crackers > Toast-crackers",
+  "breadcrumbs": "Bakkerij > Crackers > Toast-crackers",
+  "totalProducts": 40,
+  "halalCompliance": 75,
+  "averageProtein": 10.7,
+  "averagePrice": 2.23,
+  "highProteinProducts": 3,
+  "dataQuality": {
+    "withNutrition": 38,
+    "withIngredients": 38,
+    "withHalalCheck": 38
+  }
+}

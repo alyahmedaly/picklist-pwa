@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Vegetarisch, vegan en plantaardig > Vleesvervangers > Falafel, vega balletjes",
+  "breadcrumbs": "Vegetarisch, vegan en plantaardig > Vleesvervangers > Falafel, vega balletjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "vega-balletjes",
+      "displayName": "Vega Balletjes",
+      "productCount": 17,
+      "filePath": "vega-balletjes.jsonl",
+      "indexPath": "vega-balletjes-index.json",
+      "statsPath": "vega-balletjes-stats.json",
+      "averageProtein": 12.4,
+      "halalCompliance": 100
+    },
+    {
+      "name": "falafel",
+      "displayName": "Falafel",
+      "productCount": 9,
+      "filePath": "falafel.jsonl",
+      "indexPath": "falafel-index.json",
+      "statsPath": "falafel-stats.json",
+      "averageProtein": 7.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 26,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 26,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vegetarisch Vegan En Plantaardig",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vleesvervangers",
+        "path": "../index.json"
+      },
+      {
+        "name": "Falafel Vega Balletjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vegetarisch-vegan-en-plantaardig/vleesvervangers"
+  }
+}

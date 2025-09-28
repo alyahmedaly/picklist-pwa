@@ -1,0 +1,206 @@
+[
+  {
+    "id": "459159",
+    "name": "Jos Poell IJshoorntjes naturel",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363636303638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "521032",
+    "name": "AH Mix voor gele room",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383431333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223250",
+    "name": "Dr. Oetker Wafels mix BEL",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393134303833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171335",
+    "name": "Dr. Oetker Kloppudding vanille",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638373836?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171336",
+    "name": "Dr. Oetker Kloppudding karamel",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638373835?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126850",
+    "name": "Dr. Oetker Jelly pudding aardbeien",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639303137?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505657",
+    "name": "Koopmans Griesmeelpudding bitterkoekjes",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373931353137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171338",
+    "name": "Dr. Oetker Kookpudding framboos",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136363238?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187440",
+    "name": "Dr. Oetker Kookpudding rum rozijnen",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638383636?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161334",
+    "name": "Dr. Oetker Kookpudding vanille",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638393832?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520948",
+    "name": "Koopmans Custard vanillesmaak",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731373731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161333",
+    "name": "Dr. Oetker Kookpudding chocolade",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331313237?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505658",
+    "name": "Koopmans Griesmeelpudding amandel",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373931353233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505656",
+    "name": "Koopmans Griesmeelpudding vanillesmaak",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373931353135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126844",
+    "name": "AH Griesmeel",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373837383938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126846",
+    "name": "Dr. Oetker Klop-fix",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "36710",
+    "name": "Lassie Dessertrijst",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730313532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Pudding, desserts"
+    ],
+    "isFood": true
+  }
+]

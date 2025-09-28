@@ -1,0 +1,67 @@
+[
+  {
+    "id": "41186",
+    "name": "AH Chinese kool",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Witte kool, Chinese kool en koolrabi"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160716",
+    "name": "AH Biologisch Witte kool",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Witte kool, Chinese kool en koolrabi"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543924",
+    "name": "AH Biologisch Koolraap",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Witte kool, Chinese kool en koolrabi"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165791",
+    "name": "AH Biologisch Witte kool",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303434303732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Witte kool, Chinese kool en koolrabi"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165851",
+    "name": "AH Koolrabi",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303434313037?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Witte kool, Chinese kool en koolrabi"
+    ],
+    "isFood": true
+  }
+]

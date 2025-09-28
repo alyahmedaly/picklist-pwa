@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Hollandse keuken",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Hollandse keuken",
+  "subdirectories": [
+    {
+      "name": "jus",
+      "displayName": "Jus",
+      "productCount": 13,
+      "hasSubdirectories": false,
+      "indexPath": "jus/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "nederlandse-mixen",
+      "displayName": "Nederlandse Mixen",
+      "productCount": 22,
+      "filePath": "nederlandse-mixen.jsonl",
+      "indexPath": "nederlandse-mixen-index.json",
+      "statsPath": "nederlandse-mixen-stats.json",
+      "averageProtein": 8.5,
+      "halalCompliance": 91
+    },
+    {
+      "name": "aardappelpuree-mix",
+      "displayName": "Aardappelpuree Mix",
+      "productCount": 6,
+      "filePath": "aardappelpuree-mix.jsonl",
+      "indexPath": "aardappelpuree-mix-index.json",
+      "statsPath": "aardappelpuree-mix-stats.json",
+      "averageProtein": 1.6,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 41,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 41,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Hollandse Keuken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "pasta-rijst-en-wereldkeuken"
+  }
+}

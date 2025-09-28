@@ -1,0 +1,146 @@
+[
+  {
+    "id": "574264",
+    "name": "AH Happy flower slofje",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Mini gebak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564327",
+    "name": "AH Mini speculaas witte chocolade slofjes",
+    "price": 4,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630333336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Mini gebak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517039",
+    "name": "AH Mini aardbeien tompoucen",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Mini gebak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384664",
+    "name": "AH Mini tompoucen",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Mini gebak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191180",
+    "name": "AH Chocolade soesjes",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373533373233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Mini gebak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468275",
+    "name": "AH Mini bosvrucht slofjes",
+    "price": 4,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534393735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Mini gebak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191182",
+    "name": "AH Slagroom truffels",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332383734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Mini gebak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577056",
+    "name": "AH Kokos choco slofjes",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038343038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Mini gebak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230827",
+    "name": "AH Kersenflappen met room",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Mini gebak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574255",
+    "name": "AH Mini bosschebollen",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Mini gebak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191176",
+    "name": "AH Slagroomsoesjes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373335363134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Mini gebak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470671",
+    "name": "AH Mini roombroodjes",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Mini gebak"
+    ],
+    "isFood": true
+  }
+]

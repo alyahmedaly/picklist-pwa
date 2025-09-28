@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Afbakbrood > Pitabroodjes",
+  "breadcrumbs": "Bakkerij > Afbakbrood > Pitabroodjes",
+  "totalProducts": 8,
+  "halalCompliance": 50,
+  "averageProtein": 8,
+  "averagePrice": 1.67,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 7,
+    "withIngredients": 7,
+    "withHalalCheck": 7
+  }
+}

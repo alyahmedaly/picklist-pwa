@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Fruit > Fruitsalade (mix)",
+  "breadcrumbs": "Aardappel, groente, fruit > Fruit > Fruitsalade (mix)",
+  "totalProducts": 17,
+  "halalCompliance": 100,
+  "averageProtein": 0.7,
+  "averagePrice": 2.73,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 17,
+    "withIngredients": 17,
+    "withHalalCheck": 17
+  }
+}

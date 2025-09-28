@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Snel snacken > Saucijzenbroodjes",
+  "breadcrumbs": "Salades, pizza, maaltijden > Snel snacken > Saucijzenbroodjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "saucijzenbroodje",
+      "displayName": "Saucijzenbroodje",
+      "productCount": 5,
+      "filePath": "saucijzenbroodje.jsonl",
+      "indexPath": "saucijzenbroodje-index.json",
+      "statsPath": "saucijzenbroodje-stats.json",
+      "averageProtein": 7.8,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Snel Snacken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Saucijzenbroodjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "salades-pizza-maaltijden/snel-snacken"
+  }
+}

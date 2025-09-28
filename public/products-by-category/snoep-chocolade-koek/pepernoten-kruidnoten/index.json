@@ -1,0 +1,52 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Pepernoten, kruidnoten",
+  "breadcrumbs": "Snoep, chocolade, koek > Pepernoten, kruidnoten",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kruidnoten",
+      "displayName": "Kruidnoten",
+      "productCount": 36,
+      "filePath": "kruidnoten.jsonl",
+      "indexPath": "kruidnoten-index.json",
+      "statsPath": "kruidnoten-stats.json",
+      "averageProtein": 5.9,
+      "halalCompliance": 28
+    },
+    {
+      "name": "chocolade-kruidnoten",
+      "displayName": "Chocolade Kruidnoten",
+      "productCount": 22,
+      "filePath": "chocolade-kruidnoten.jsonl",
+      "indexPath": "chocolade-kruidnoten-index.json",
+      "statsPath": "chocolade-kruidnoten-stats.json",
+      "averageProtein": 5.4,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 58,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 58,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pepernoten Kruidnoten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "snoep-chocolade-koek"
+  }
+}

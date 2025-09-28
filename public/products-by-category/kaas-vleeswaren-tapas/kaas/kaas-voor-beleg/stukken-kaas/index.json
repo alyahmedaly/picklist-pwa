@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Kaas > Kaas voor beleg > Stukken kaas",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Kaas > Kaas voor beleg > Stukken kaas",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "geitenkaas-stuk",
+      "displayName": "Geitenkaas Stuk",
+      "productCount": 12,
+      "filePath": "geitenkaas-stuk.jsonl",
+      "indexPath": "geitenkaas-stuk-index.json",
+      "statsPath": "geitenkaas-stuk-stats.json",
+      "averageProtein": 20.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 12,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Kaas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kaas Voor Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Stukken Kaas",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "kaas-vleeswaren-tapas/kaas/kaas-voor-beleg"
+  }
+}

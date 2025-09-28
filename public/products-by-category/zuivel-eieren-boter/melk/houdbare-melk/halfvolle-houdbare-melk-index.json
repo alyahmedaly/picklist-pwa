@@ -1,0 +1,132 @@
+[
+  {
+    "id": "469396",
+    "name": "Campina Langlekker halfvolle melk calcium plus",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439343835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Halfvolle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237556",
+    "name": "AH Biologisch Houdbare halfvolle melk 3-pack",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Halfvolle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450534",
+    "name": "AH Houdbare halfvolle melk",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034353739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Halfvolle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "57701",
+    "name": "Campina Houdbare halfvolle melk",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631323830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Halfvolle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383470",
+    "name": "Campina Langlekker halfvolle melk",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438373932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Halfvolle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469397",
+    "name": "Campina Langlekker halfvolle melk",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337373339?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Halfvolle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505322",
+    "name": "Campina Langlekker halfvolle melk",
+    "price": 20.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438373332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Halfvolle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468592",
+    "name": "Campina Langlekker halfvolle melk voordeel 4pack",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Halfvolle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575739",
+    "name": "Campina houdbare melk 2-pack",
+    "price": 13.28,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Halfvolle houdbare melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580321",
+    "name": "Campina houdbare melk calcium 1L 3-pack",
+    "price": 6.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Houdbare melk",
+      "Halfvolle houdbare melk"
+    ],
+    "isFood": true
+  }
+]

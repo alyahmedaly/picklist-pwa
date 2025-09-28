@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Chocolade > Repen en tabletten > Pure chocolade repen > Pure chocolade",
+  "breadcrumbs": "Snoep, chocolade, koek > Chocolade > Repen en tabletten > Pure chocolade repen > Pure chocolade",
+  "totalProducts": 36,
+  "halalCompliance": 31,
+  "averageProtein": 8.1,
+  "averagePrice": 2.68,
+  "highProteinProducts": 1,
+  "dataQuality": {
+    "withNutrition": 36,
+    "withIngredients": 36,
+    "withHalalCheck": 36
+  }
+}

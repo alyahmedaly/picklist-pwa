@@ -1,0 +1,57 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "melkchocolade-repen",
+      "displayName": "Melkchocolade Repen",
+      "productCount": 105,
+      "hasSubdirectories": false,
+      "indexPath": "melkchocolade-repen/index.json"
+    },
+    {
+      "name": "pure-chocolade-repen",
+      "displayName": "Pure Chocolade Repen",
+      "productCount": 80,
+      "hasSubdirectories": false,
+      "indexPath": "pure-chocolade-repen/index.json"
+    },
+    {
+      "name": "witte-chocolade-repen",
+      "displayName": "Witte Chocolade Repen",
+      "productCount": 23,
+      "hasSubdirectories": false,
+      "indexPath": "witte-chocolade-repen/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 208,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 208,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Chocolade",
+        "path": "../index.json"
+      },
+      {
+        "name": "Repen En Tabletten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "snoep-chocolade-koek/chocolade"
+  }
+}

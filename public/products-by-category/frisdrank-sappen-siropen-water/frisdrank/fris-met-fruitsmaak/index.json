@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Frisdrank > Fris met fruitsmaak",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Frisdrank > Fris met fruitsmaak",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "frisdrank-met-fruit-fles",
+      "displayName": "Frisdrank Met Fruit Fles",
+      "productCount": 64,
+      "filePath": "frisdrank-met-fruit-fles.jsonl",
+      "indexPath": "frisdrank-met-fruit-fles-index.json",
+      "statsPath": "frisdrank-met-fruit-fles-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 94
+    },
+    {
+      "name": "frisdrank-met-fruit-blik",
+      "displayName": "Frisdrank Met Fruit Blik",
+      "productCount": 54,
+      "filePath": "frisdrank-met-fruit-blik.jsonl",
+      "indexPath": "frisdrank-met-fruit-blik-index.json",
+      "statsPath": "frisdrank-met-fruit-blik-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 118,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 118,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Frisdrank",
+        "path": "../index.json"
+      },
+      {
+        "name": "Fris Met Fruitsmaak",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/frisdrank"
+  }
+}

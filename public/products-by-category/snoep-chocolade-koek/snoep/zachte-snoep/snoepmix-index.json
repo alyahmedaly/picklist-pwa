@@ -1,0 +1,821 @@
+[
+  {
+    "id": "232453",
+    "name": "Skittles Fruits bel",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135353237?revLabel=18&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524841",
+    "name": "Look-O-Look Foammmies cola-citroensmaak",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035373732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578452",
+    "name": "Maoam Pinballs ice tea",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537373439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493020",
+    "name": "Look-O-Look Cherrysticks",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451866",
+    "name": "Look-O-Look Dynamietstaafjes watermeloen",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196541",
+    "name": "Maoam Pinballs",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547756",
+    "name": "Red Band Funky mix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451863",
+    "name": "Look-O-Look Dynamietstaafjes aardbei",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502976",
+    "name": "Look-O-Look Zure streken mix",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547755",
+    "name": "Red Band Crazy mix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569673",
+    "name": "Red Band Crazy mix voordeelverpakking",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547754",
+    "name": "Red Band Fizzy mix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232313035?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547748",
+    "name": "Red Band Fizzy mix voordeelverpakking",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524826",
+    "name": "Red Band Magische feestmix zacht zoet zuur",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480716",
+    "name": "Red Band Smikkels",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363732323932?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480703",
+    "name": "Red Band Smullers",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232363437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559261",
+    "name": "AH Rood fruitmix zacht en zuur",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525073",
+    "name": "Autodrop Doorgedraaide duo mix total loss",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636383634?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447977",
+    "name": "Autodrop Smaak chaos mix total loss",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135353331?revLabel=23&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475099",
+    "name": "Autodrop Smaak chaos mix total loss XL",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363238323837?revLabel=19&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559148",
+    "name": "Candyman Manna plofrijst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638313238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451871",
+    "name": "Look-O-Look Snoepveters aardbei smaak",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363038?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "190916",
+    "name": "Look-O-Look Snoepveters aardbeismaak",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524837",
+    "name": "Trolli Peach rings",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334373632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559235",
+    "name": "AH Monster mix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034363437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514776",
+    "name": "AH Panda's fruitsmaak",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533323439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498337",
+    "name": "AH Snoepmix",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373731343539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196308",
+    "name": "Haribo Color-rado",
+    "price": 5.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030333738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "88610",
+    "name": "Haribo Kindermix",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373939373630?revLabel=11&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399887",
+    "name": "Haribo Kindermix",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932363739?revLabel=22&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451739",
+    "name": "Haribo Kindermix value pack",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131313939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502491",
+    "name": "Haribo Kindermix value tub",
+    "price": 7.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935363330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486791",
+    "name": "Katja Zoete Veters Aardbei",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363839333135?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578439",
+    "name": "Look-O-Look Foammmies mix",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935373030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578440",
+    "name": "Look-O-Look Zure kabels mix",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935363939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547753",
+    "name": "Red Band Original mix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232313034?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547781",
+    "name": "Red Band Original mix voordeelverpakking",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524825",
+    "name": "Red Band Pretmix zacht zoet drop",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393134303433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525072",
+    "name": "Autodrop Dolle drop mix total loss",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636383734?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559149",
+    "name": "Candyman Shakerzzz",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335303439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524842",
+    "name": "Look-O-Look Foammmies framboos",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035373532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547773",
+    "name": "Look-O-Look Zoete streken kersensmaak",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559151",
+    "name": "Red Band Gomballen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383430373336?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559262",
+    "name": "AH Love mix zoet en vol liefde",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399891",
+    "name": "Haribo Starmix",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932363737?revLabel=32&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451265",
+    "name": "Haribo Starmix",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030333739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "208723",
+    "name": "Haribo Starmix party size",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383031383733?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502490",
+    "name": "Haribo Starmix value tub",
+    "price": 8.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530313634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480500",
+    "name": "Haribo Zoute rijen",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547834",
+    "name": "Echte mannekes Verliefde",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393834323639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578443",
+    "name": "Frisia Ufo cola",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734313036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578438",
+    "name": "Frisia Ufo fruit",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939333939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578444",
+    "name": "Frisia Ufo tropical mix",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733393232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "208726",
+    "name": "Haribo Dragibus soft",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373939373538?revLabel=28&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185886",
+    "name": "Haribo Funny mix",
+    "price": 5.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935363231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410085",
+    "name": "Haribo Sweet mix",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497780",
+    "name": "Haribo World mix",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131313931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578454",
+    "name": "Katja Berepret",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930333631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578453",
+    "name": "Katja Feel good mix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930333539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514824",
+    "name": "Katja Feest biggetjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939343535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524839",
+    "name": "Katja Flowerpower mix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739323231?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547729",
+    "name": "Katja Sheroes mix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393134393930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564854",
+    "name": "Nerds Wonka rainbow",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Snoepmix"
+    ],
+    "isFood": true
+  }
+]

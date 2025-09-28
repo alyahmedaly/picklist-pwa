@@ -1,0 +1,74 @@
+[
+  {
+    "id": "520119",
+    "name": "Alpro Plantaardige variatie op kwark aardbei",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335333939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556302",
+    "name": "Alpro Plantaardige variatie op kwark mango",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470263",
+    "name": "Alpro Plantaardige variatie op kwark vanille",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336323930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407970",
+    "name": "Alpro Plantaardige kwark naturel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486626",
+    "name": "Alpro Variatie op kwark zonder suikers",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335333937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570907",
+    "name": "AH Terra Plantaardig alternatief voor kwark",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige kwark"
+    ],
+    "isFood": true
+  }
+]

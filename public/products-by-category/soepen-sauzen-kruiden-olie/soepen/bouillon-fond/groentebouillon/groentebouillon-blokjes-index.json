@@ -1,0 +1,128 @@
+[
+  {
+    "id": "215244",
+    "name": "Maggi Groente bouillon minder zout",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139363337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Groentebouillon",
+      "Groentebouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577241",
+    "name": "Maggi Bouillon Mediterraans",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738313336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Groentebouillon",
+      "Groentebouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492034",
+    "name": "AH Bouillon groente",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130343637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Groentebouillon",
+      "Groentebouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492036",
+    "name": "AH Bouillon paddenstoel",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130343636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Groentebouillon",
+      "Groentebouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577237",
+    "name": "Maggi Bouillon Italiaans",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532333634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Groentebouillon",
+      "Groentebouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457680",
+    "name": "Maggi Bouillonblokjes voordeel",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Groentebouillon",
+      "Groentebouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167893",
+    "name": "Maggi Bouillonblokjes groente",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437333036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Groentebouillon",
+      "Groentebouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495298",
+    "name": "Knorr Groente légumes bouillon zero salt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Groentebouillon",
+      "Groentebouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196664",
+    "name": "Zonnatura Groentebouillon tabletten",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136353237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Groentebouillon",
+      "Groentebouillon (blokjes)"
+    ],
+    "isFood": true
+  }
+]

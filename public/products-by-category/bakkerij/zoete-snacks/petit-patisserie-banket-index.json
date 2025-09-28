@@ -1,0 +1,98 @@
+[
+  {
+    "id": "577476",
+    "name": "AH Blondie lavendel & karamel smaak",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131333039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Petit Patisserie Banket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577473",
+    "name": "AH Boterkoek munt citroen",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Petit Patisserie Banket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577477",
+    "name": "AH Kokos makroontjes lemon curd",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131363134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Petit Patisserie Banket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577475",
+    "name": "AH Brownie espresso",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Petit Patisserie Banket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577474",
+    "name": "AH Millionaire's shortbread",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Petit Patisserie Banket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577480",
+    "name": "AH Brookie",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131333331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Petit Patisserie Banket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577478",
+    "name": "AH Bitterkoekjes pure chocolade",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Petit Patisserie Banket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577479",
+    "name": "AH Weespermoppen passiefruitsmaak",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Petit Patisserie Banket"
+    ],
+    "isFood": true
+  }
+]

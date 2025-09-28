@@ -1,0 +1,100 @@
+[
+  {
+    "id": "535181",
+    "name": "Van Wijngaarden's Zaanse halfvolle mayo",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833343736?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (minder vet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165519",
+    "name": "Van Wijngaarden's Zaanse halfvolle mayonaise",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331303334?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (minder vet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163406",
+    "name": "Calvé Mayonaise licht & romig",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031333233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (minder vet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199232",
+    "name": "AH Biologisch Halvanaise",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363630323635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (minder vet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437725",
+    "name": "Remia Mayolijn 100% plantaardig",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353338353931?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (minder vet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163404",
+    "name": "Calvé Mayonaise licht & romig",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932303039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (minder vet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "174018",
+    "name": "Calvé Mayonaise licht & romig",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303030373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (minder vet)"
+    ],
+    "isFood": true
+  }
+]

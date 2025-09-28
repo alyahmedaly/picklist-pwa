@@ -1,0 +1,518 @@
+[
+  {
+    "id": "508323",
+    "name": "AH Biologisch Groene thee citroengras",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567273",
+    "name": "AH Biologisch Groene thee gember citroengras",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381388",
+    "name": "AH Biologisch Groene thee gember sinaasappel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634333931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567247",
+    "name": "AH Biologisch Groene thee jasmijn",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508325",
+    "name": "AH Biologisch Groene thee mandarijn sinaasappel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634333933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381406",
+    "name": "AH Biologisch Groene thee munt",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381394",
+    "name": "AH Biologisch Groene thee oranjebloesem",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458809",
+    "name": "AH Biologisch Groene thee puur",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574250",
+    "name": "AH Biologisch Moment middag melange",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381480",
+    "name": "AH Groene thee appel cranberry",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381373",
+    "name": "AH Groene thee citroengras",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373830353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381408",
+    "name": "AH Groene thee citroengras",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567261",
+    "name": "AH Groene thee citroengras aardbei",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508273",
+    "name": "AH Groene thee grapefruit framboos",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567264",
+    "name": "AH Groene thee mango & perziksmaak",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381409",
+    "name": "AH Groene thee puur",
+    "price": 0.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381399",
+    "name": "AH Groene thee sinaasappel & papaya",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567281",
+    "name": "AH Groene thee variatie box",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574343",
+    "name": "Pickwick Green super blends positivity",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630333637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381375",
+    "name": "AH Groene thee puur",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582658",
+    "name": "Celestial Seasonings Honey ginseng lemon green tea",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323532393733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196213",
+    "name": "Celestial Seasonings Sleepytime decaf lemon jasmin green tea",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631383035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229545",
+    "name": "Clipper Chai organic green tea",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457843",
+    "name": "Clipper Ginger matcha turmeric organic green tea",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456042",
+    "name": "Clipper Jasmine & lemon organic green tea",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469355",
+    "name": "Clipper Lemon organic green tea",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495599",
+    "name": "Clipper Lemon organic green tea",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229546",
+    "name": "Clipper Raspberry & mint organic green tea",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582651",
+    "name": "Clipper Tokyo gardens",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036303235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550307",
+    "name": "Lipton Citrus green tea",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839373132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164576",
+    "name": "Lipton Green tea mandarin & orange",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393931393234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164582",
+    "name": "Lipton Intense mint green tea",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830313933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "137809",
+    "name": "Lipton Japanese sencha green tea",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839393233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229541",
+    "name": "Lipton Raspberry & pomegranate green tea",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932333931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183846",
+    "name": "Pickwick Green cranberry",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313038?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "430597",
+    "name": "Pickwick Green ginger & lemongrass",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323630?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "63782",
+    "name": "Pickwick Green lemon",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430323730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195960",
+    "name": "Pickwick Green lemon value pack",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323439?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457852",
+    "name": "Pickwick Green orange & mandarin",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933303930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191244",
+    "name": "Pickwick Green pure",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323039?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574243",
+    "name": "Yogi Tea Ginger lemon",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438363438?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196087",
+    "name": "Zonnatura Groene thee gember",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363938383335?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186776",
+    "name": "Zonnatura Groene thee ginseng",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363838383233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Groene thee"
+    ],
+    "isFood": true
+  }
+]

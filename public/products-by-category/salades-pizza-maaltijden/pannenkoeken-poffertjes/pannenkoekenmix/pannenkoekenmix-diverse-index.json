@@ -1,0 +1,210 @@
+[
+  {
+    "id": "164736",
+    "name": "AH Mix voor Pannenkoeken compleet",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363332363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561869",
+    "name": "Koopmans Pannenkoeken speculoos",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531313039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196935",
+    "name": "Koopmans Schudfles pannenkoeken compleet",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373830383534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "128849",
+    "name": "Koopmans Schudfles pannenkoeken origineel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373333303334?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426228",
+    "name": "AH Biologisch Mix voor pannenkoeken meergranen",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363332363336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "36478",
+    "name": "AH Mix voor pannenkoeken meergranen",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338383336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "935",
+    "name": "AH Mix voor pannenkoeken naturel",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164754",
+    "name": "Koopmans Mix voor oma's pannenkoeken met kaneel",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363738343039?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130638",
+    "name": "AH Mix voor pannenkoeken naturel",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363335393439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466196",
+    "name": "Dr. Oetker American pancakes origineel",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353730343238?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "31284",
+    "name": "Koopmans Mix voor pannenkoeken compleet",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935333130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162417",
+    "name": "Koopmans Mix voor pannenkoeken meergranen",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363738313930?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3453",
+    "name": "Koopmans Mix voor pannenkoeken origineel",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935333039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477771",
+    "name": "Koopmans Pannenkoeken proteïne",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363736383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "304930",
+    "name": "Koopmans Pannenkoekmeel kabouter",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363835353537?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238895",
+    "name": "Koopmans Mix voor pannenkoeken volkoren",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363738313931?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoekenmix",
+      "Pannenkoekenmix (diverse)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Ontbijtgranen > Ontbijtverrijkers (toppings)",
+  "breadcrumbs": "Ontbijtgranen en beleg > Ontbijtgranen > Ontbijtverrijkers (toppings)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "noten-en-fruitmix",
+      "displayName": "Noten En Fruitmix",
+      "productCount": 9,
+      "filePath": "noten-en-fruitmix.jsonl",
+      "indexPath": "noten-en-fruitmix-index.json",
+      "statsPath": "noten-en-fruitmix-stats.json",
+      "averageProtein": 16.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "fruit-en-pittenmix",
+      "displayName": "Fruit En Pittenmix",
+      "productCount": 7,
+      "filePath": "fruit-en-pittenmix.jsonl",
+      "indexPath": "fruit-en-pittenmix-index.json",
+      "statsPath": "fruit-en-pittenmix-stats.json",
+      "averageProtein": 13.7,
+      "halalCompliance": 86
+    },
+    {
+      "name": "lijnzaad",
+      "displayName": "Lijnzaad",
+      "productCount": 6,
+      "filePath": "lijnzaad.jsonl",
+      "indexPath": "lijnzaad-index.json",
+      "statsPath": "lijnzaad-stats.json",
+      "averageProtein": 20.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 22,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 22,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Ontbijtgranen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ontbijtverrijkers Toppings",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/ontbijtgranen"
+  }
+}

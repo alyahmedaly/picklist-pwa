@@ -1,0 +1,431 @@
+[
+  {
+    "id": "577867",
+    "name": "Old Mother Peanut crispy chili olie",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931333039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "245696",
+    "name": "Kokki Djawa Mix ajam pedis",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383131373738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "245695",
+    "name": "Kokki Djawa Mix rendang",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383133353433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199084",
+    "name": "Kokki Djawa Gado gado speciaal",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373834373539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123659",
+    "name": "Kung-Fu Nasi goreng",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383435313134?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577870",
+    "name": "O'food Tteokbokki original",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553373",
+    "name": "Samasaya Boemboe bami goreng",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336393039?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "245694",
+    "name": "Kokki Djawa Mix nasi goreng",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383132363335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553405",
+    "name": "Samasaya Boemboe ajam pedis",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336393037?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577871",
+    "name": "O'food Tteokbokki garlic",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839353134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3486",
+    "name": "Conimex Mix voor nasi speciaal",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131303738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199257",
+    "name": "Conimex Mix voor Nasi Goreng 37G 20x",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031363731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2128",
+    "name": "Honig Basis voor nasi speciaal",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031343536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199043",
+    "name": "Kokki Djawa Rijsttafelmix",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373530333633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553370",
+    "name": "Samasaya Boemboe nasi goreng",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336393033?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3495",
+    "name": "Honig Basis voor bami speciaal",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137333738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "38379",
+    "name": "Conimex Mix voor Bami Goreng 48G 20x",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "37951",
+    "name": "Knorr Maaltijdmix nasi",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438383632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3485",
+    "name": "Conimex Mix voor bami speciaal",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "38411",
+    "name": "Conimex Mix voor babi ketjap",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126373",
+    "name": "Conimex Mix voor foo yong hai",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393832353135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574962",
+    "name": "Fairtrade Original Indonesische bami goreng kruidenpasta",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436393135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574961",
+    "name": "Fairtrade Original Indonesische nasi goreng kruidnepasta",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536363134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164102",
+    "name": "Knorr Maaltijdmix bami",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393936373234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "38418",
+    "name": "Conimex Mix voor tjap tjoy",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031383931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574963",
+    "name": "Fairtrade Original Indonesische rendang kruidenpasta",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553385",
+    "name": "Honig Basis voor bami speciaal",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232343331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553386",
+    "name": "Honig Basis voor nasi speciaal",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232343336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "38412",
+    "name": "Conimex Mix voor babi pangang",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577692",
+    "name": "Kokki Djawa Djahe",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432363431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577872",
+    "name": "Kokki Djawa Djinten",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432363430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577694",
+    "name": "Kokki Djawa Ketoembar",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432363433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577693",
+    "name": "Kokki Djawa Laos",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432363339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indonesische mix"
+    ],
+    "isFood": true
+  }
+]

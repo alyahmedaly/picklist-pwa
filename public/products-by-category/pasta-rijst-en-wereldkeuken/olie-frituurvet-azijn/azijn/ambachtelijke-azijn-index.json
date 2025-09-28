@@ -1,0 +1,67 @@
+[
+  {
+    "id": "118082",
+    "name": "AH Frambozenazijn",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Azijn",
+      "Ambachtelijke azijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "111154",
+    "name": "AH Witte wijnazijn dragon",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630383332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Azijn",
+      "Ambachtelijke azijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "58346",
+    "name": "AH Biologisch Appelcider azijn",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Azijn",
+      "Ambachtelijke azijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365765",
+    "name": "Tromp&Rueb Appelazijn",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735393033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Azijn",
+      "Ambachtelijke azijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462570",
+    "name": "Tromp&Rueb Troebele appelazijn",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735393031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Azijn",
+      "Ambachtelijke azijn"
+    ],
+    "isFood": true
+  }
+]

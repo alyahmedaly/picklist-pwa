@@ -1,0 +1,71 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "aardappel-geschild",
+      "displayName": "Aardappel Geschild",
+      "productCount": 27,
+      "hasSubdirectories": true,
+      "indexPath": "aardappel-geschild/index.json"
+    },
+    {
+      "name": "aardappel-ongeschild",
+      "displayName": "Aardappel Ongeschild",
+      "productCount": 16,
+      "hasSubdirectories": true,
+      "indexPath": "aardappel-ongeschild/index.json"
+    },
+    {
+      "name": "friet-vers",
+      "displayName": "Friet Vers",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "friet-vers/index.json"
+    },
+    {
+      "name": "krieltjes",
+      "displayName": "Krieltjes",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "krieltjes/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "aardappel-ovenschotel",
+      "displayName": "Aardappel Ovenschotel",
+      "productCount": 6,
+      "filePath": "aardappel-ovenschotel.jsonl",
+      "indexPath": "aardappel-ovenschotel-index.json",
+      "statsPath": "aardappel-ovenschotel-stats.json",
+      "averageProtein": 2.4,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 61,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 61,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Aardappelen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "aardappel-groente-fruit"
+  }
+}

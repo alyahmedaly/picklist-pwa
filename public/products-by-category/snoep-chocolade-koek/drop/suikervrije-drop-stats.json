@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Drop > Suikervrije drop",
+  "breadcrumbs": "Snoep, chocolade, koek > Drop > Suikervrije drop",
+  "totalProducts": 18,
+  "halalCompliance": 11,
+  "averageProtein": 4.1,
+  "averagePrice": 2.28,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 18,
+    "withIngredients": 18,
+    "withHalalCheck": 18
+  }
+}

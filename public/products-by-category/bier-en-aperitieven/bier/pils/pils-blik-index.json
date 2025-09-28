@@ -1,0 +1,925 @@
+[
+  {
+    "id": "576672",
+    "name": "Brouwers Cerveza fresca",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476352",
+    "name": "Bavaria 50cl blik",
+    "price": 1.13,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373536353438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198138",
+    "name": "Bavaria Pilsener",
+    "price": 1.13,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232373733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "108416",
+    "name": "Bavaria Pilsener 6-pack",
+    "price": 5.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930313331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474907",
+    "name": "Bavaria Pilsener 6-pack",
+    "price": 6.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930313431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489163",
+    "name": "Brouwers Premium bier",
+    "price": 0.5,
+    "image": "NA",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489167",
+    "name": "Brouwers Premium bier 6-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "584065",
+    "name": "Brouwers Premium bier 6-pack",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469795",
+    "name": "Bud Bier 6-pack",
+    "price": 5.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227127",
+    "name": "Dommelsch Pils bier",
+    "price": 0.84,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383638343930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "80072",
+    "name": "Dommelsch Pils bier 6-pack",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739363535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557822",
+    "name": "Hertog Jan Grand pilsener",
+    "price": 0.97,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430353831?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557823",
+    "name": "Hertog Jan Grand pilsener 6-pack",
+    "price": 5.77,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739313332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "94433",
+    "name": "Hertog Jan Natuurzuiver bier",
+    "price": 1.12,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131313136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "96577",
+    "name": "Hertog Jan Natuurzuiver bier 6-pack",
+    "price": 5.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739303633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194906",
+    "name": "Hertog Jan Natuurzuiver bier 6-pack",
+    "price": 6.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739303837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480095",
+    "name": "Hertog Jan Pils 24-pack",
+    "price": 16.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934393932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227193",
+    "name": "Jupiler Belgisch pils",
+    "price": 1.06,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437353035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "113024",
+    "name": "Jupiler Belgisch pils 6-pack",
+    "price": 6.37,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230945",
+    "name": "Jupiler Pils",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034303638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223458",
+    "name": "Jupiler Pils 6-pack",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739363534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516330",
+    "name": "Peroni Nastro Azzurro",
+    "price": 1.26,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332373335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516520",
+    "name": "Peroni Nastro Azzurro 6-pack",
+    "price": 7.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534383438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487407",
+    "name": "Premium Lager Premium lager 0,5lt 24bl tray",
+    "price": 16.08,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363938383732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487405",
+    "name": "Premium Lager Premium lager 0,5lt blik",
+    "price": 0.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533343834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198112",
+    "name": "Alfa Edel pils",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "312712",
+    "name": "Alfa Edel pils",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "368412",
+    "name": "Alfa Edel pils 6-pack",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491680",
+    "name": "Amstel Bier",
+    "price": 1.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238323036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231207",
+    "name": "Amstel Pilsener bier",
+    "price": 0.9,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931383434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193449",
+    "name": "Amstel Pilsener bier 6-pack",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931383237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492078",
+    "name": "Amstel Pilsener bier 6-pack",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031343237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491974",
+    "name": "Birra Moretti L'autentica bier",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730333230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491977",
+    "name": "Birra Moretti L'autentica bier 6-pack",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931383038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547857",
+    "name": "Birra Moretti Sale di mare bier",
+    "price": 1.34,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548627",
+    "name": "Birra Moretti Sale di mare bier 6-pack",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931383134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575963",
+    "name": "Bitburger Premium pils",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "48359",
+    "name": "Brand Pilsener",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237393238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228139",
+    "name": "Brand Pilsener",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238313536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "98859",
+    "name": "Brand Pilsener 6-pack",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931353335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231219",
+    "name": "De Klok Bier",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363836383239?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548626",
+    "name": "De Klok Bier 24-pack",
+    "price": 19.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210144",
+    "name": "De Klok Bier 6-pack",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383235343138?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "48356",
+    "name": "Grolsch Premium pilsner",
+    "price": 1.42,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332373533?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67554",
+    "name": "Grolsch Premium pilsner",
+    "price": 1.14,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536353239?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "122344",
+    "name": "Grolsch Premium pilsner 6-pack",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433303932?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446",
+    "name": "Grolsch Premium pilsner bier 6-pack",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432383631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "179095",
+    "name": "Heineken Coolcan bl",
+    "price": 1.42,
+    "image": "NA",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185152",
+    "name": "Heineken Premium pilsener",
+    "price": 1.11,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237383934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198111",
+    "name": "Heineken Premium pilsener",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353932343334?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230914",
+    "name": "Heineken Premium pilsener",
+    "price": 1.11,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730323939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408932",
+    "name": "Heineken Premium pilsener 0.0",
+    "price": 0.96,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734303537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "63581",
+    "name": "Heineken Premium pilsener 24-pack",
+    "price": 21.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "80101",
+    "name": "Heineken Premium pilsener 6-pack",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "119846",
+    "name": "Heineken Premium pilsener 6-pack",
+    "price": 8.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732363232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556650",
+    "name": "Heineken Premium pilsner voordeelpack 10-pack",
+    "price": 9.32,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031303931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516421",
+    "name": "Heineken Silver",
+    "price": 1.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516487",
+    "name": "Heineken Silver 6-pack",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437894",
+    "name": "Jupiler 15pack BEL",
+    "price": 11.7,
+    "image": "NA",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491767",
+    "name": "Lander bräu Pils",
+    "price": 0.69,
+    "image": "NA",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386099",
+    "name": "Lander bräu Premium beer",
+    "price": 0.57,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363837353139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386188",
+    "name": "Lander bräu Premium beer 6-pack",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232303437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491770",
+    "name": "Lander bräu Premium beer 6-pack",
+    "price": 4.14,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138303739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "344147",
+    "name": "Maes Pils blik 50cl BEL",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234373334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "344130",
+    "name": "Stella Artois Pils bl",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303138333138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198314",
+    "name": "Tyskie Gronie",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393832383539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198137",
+    "name": "Veltins Pilsener",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231199",
+    "name": "Warsteiner bier bl",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503136",
+    "name": "Warsteiner Brewers gold",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373737373530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "113025",
+    "name": "Warsteiner Pilsener 6-pack",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373838343731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198108",
+    "name": "Warsteiner Premium beer",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373436393038?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - blik"
+    ],
+    "isFood": true
+  }
+]

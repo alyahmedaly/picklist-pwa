@@ -1,0 +1,132 @@
+[
+  {
+    "id": "396034",
+    "name": "Eat Natural Super granola boekweit gluten free",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238353735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Granola",
+      "Granola (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417122",
+    "name": "Eat Natural Super granola protein packed",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238353737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Granola",
+      "Granola (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569934",
+    "name": "AH Biologisch Granola rozijn amandel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333333832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Granola",
+      "Granola (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437378",
+    "name": "AH Biologisch Volkoren krokante muesli vier noten",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Granola",
+      "Granola (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569810",
+    "name": "AH Granola noten",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Granola",
+      "Granola (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553979",
+    "name": "Holie Granola low carb crunch nuts & seeds",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530343931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Granola",
+      "Granola (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410043",
+    "name": "Quaker Granola nuts & seeds",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932393437?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Granola",
+      "Granola (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581465",
+    "name": "Holie Granola buckwheat & nuts glutenfree",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934313230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Granola",
+      "Granola (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455079",
+    "name": "Holie Granola noten",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Granola",
+      "Granola (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500146",
+    "name": "Holie Granola protein crunch",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337333937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Granola",
+      "Granola (noten)"
+    ],
+    "isFood": true
+  }
+]

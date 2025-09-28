@@ -1,0 +1,67 @@
+[
+  {
+    "id": "576507",
+    "name": "Wecare Meal replacement bars chewy caramel",
+    "price": 2.27,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539333836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers repen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "52371",
+    "name": "Wecare Meal replacement bars peanut nougat",
+    "price": 1.94,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539343430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers repen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67800",
+    "name": "Wecare Meal replacement bars choco crisp",
+    "price": 1.88,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539333639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers repen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576729",
+    "name": "Yfood This is food salted caramel & chocolate",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers repen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576730",
+    "name": "Yfood This is food coconut & white chocolate",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers repen"
+    ],
+    "isFood": true
+  }
+]

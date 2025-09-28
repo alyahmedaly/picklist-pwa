@@ -1,0 +1,67 @@
+[
+  {
+    "id": "576716",
+    "name": "AH Energy gel bosvruchten",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Sportdranken",
+      "Energy gel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576715",
+    "name": "AH Energy gel citroen",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Sportdranken",
+      "Energy gel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576782",
+    "name": "Upfront Gel citroen smaak",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736373536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Sportdranken",
+      "Energy gel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581562",
+    "name": "AH Energy gel bosvruchten 3-pack",
+    "price": 4.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Sportdranken",
+      "Energy gel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581561",
+    "name": "AH Energy gel citroen 3-pack",
+    "price": 4.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Sportdranken",
+      "Energy gel"
+    ],
+    "isFood": true
+  }
+]

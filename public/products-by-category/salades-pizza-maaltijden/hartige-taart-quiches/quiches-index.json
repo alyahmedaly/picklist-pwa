@@ -1,0 +1,86 @@
+[
+  {
+    "id": "55960",
+    "name": "AH Quiche lorraine",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135393430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Hartige taart, quiches",
+      "Quiches"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557059",
+    "name": "AH Pie scharrelkip ragout",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Hartige taart, quiches",
+      "Quiches"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465735",
+    "name": "AH Quiche kip pesto spinazie",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135393235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Hartige taart, quiches",
+      "Quiches"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132848",
+    "name": "AH Quiche mediterrane groenten",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Hartige taart, quiches",
+      "Quiches"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577109",
+    "name": "AH Quiche zalm spinazie",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Hartige taart, quiches",
+      "Quiches"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474117",
+    "name": "AH Quiche spinazie geitenkaas",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135393231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Hartige taart, quiches",
+      "Quiches"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508047",
+    "name": "AH Quiche tomaat mozzarella volkoren bodem",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135393233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Hartige taart, quiches",
+      "Quiches"
+    ],
+    "isFood": true
+  }
+]

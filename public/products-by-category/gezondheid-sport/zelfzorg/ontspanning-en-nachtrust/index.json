@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Gezondheid, sport > Zelfzorg > Ontspanning en nachtrust",
+  "breadcrumbs": "Gezondheid, sport > Zelfzorg > Ontspanning en nachtrust",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "rust-slapen",
+      "displayName": "Rust Slapen",
+      "productCount": 7,
+      "filePath": "rust-slapen.jsonl",
+      "indexPath": "rust-slapen-index.json",
+      "statsPath": "rust-slapen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 86
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Zelfzorg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ontspanning En Nachtrust",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "gezondheid-sport/zelfzorg"
+  }
+}

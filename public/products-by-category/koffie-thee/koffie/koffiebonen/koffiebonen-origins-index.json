@@ -1,0 +1,119 @@
+[
+  {
+    "id": "209129",
+    "name": "Perla Superiore Italian roast Napoli espressobonen",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373935363232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445268",
+    "name": "Perla Superiore Italian roast Palermo espressobonen",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373935363234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209134",
+    "name": "Perla Superiore Origins Brazilie koffiebonen",
+    "price": 9.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373935353736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161540",
+    "name": "Perla Superiore Origins Colombia koffiebonen",
+    "price": 9.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934313435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161541",
+    "name": "Perla Superiore Origins Sumatra koffiebonen",
+    "price": 9.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373935363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381398",
+    "name": "Australian Organic Latin America koffiebonen",
+    "price": 9.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381396",
+    "name": "Australian Organic single origin gayo koffiebonen",
+    "price": 9.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437323737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523264",
+    "name": "Simon Lévelt Bonen ugandan amber",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495567",
+    "name": "Simon Lévelt Peruvian opal bonen",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (origins)"
+    ],
+    "isFood": true
+  }
+]

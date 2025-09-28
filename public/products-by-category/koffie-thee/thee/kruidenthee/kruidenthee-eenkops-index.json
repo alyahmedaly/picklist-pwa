@@ -1,0 +1,834 @@
+[
+  {
+    "id": "567276",
+    "name": "AH Biologisch Kruiden variatie box",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495602",
+    "name": "Pickwick Herbal super blends energy kruidenthee",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932303631?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495603",
+    "name": "Pickwick Herbal super blends immunity kruidenthee",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932303438?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567248",
+    "name": "AH Biologisch Kruiden kaneel & munt",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "106661",
+    "name": "AH Kruiden kamille",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567244",
+    "name": "AH Kruiden pepermunt",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130355",
+    "name": "AH Kruiden sterrenmunt",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "106664",
+    "name": "AH Kruiden venkel",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "106666",
+    "name": "AH Kruiden zoethout",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574240",
+    "name": "Pickwick Herbal ginger goodness honey",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523269",
+    "name": "Pickwick Herbal ginger goodness lemon",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733333532?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523268",
+    "name": "Pickwick Herbal ginger goodness orange",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733333535?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495428",
+    "name": "Pickwick Herbal good night variation box",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035373832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207044",
+    "name": "Pickwick Herbal slaap lekker",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313237?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207043",
+    "name": "Pickwick Herbal spijsvertering",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313234?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574238",
+    "name": "Pickwick Herbal super blends calm",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539323435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495604",
+    "name": "Pickwick Herbal super blends shine",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932303439?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195906",
+    "name": "Celestial Seasonings Bengal spice infusion",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303336373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "82445",
+    "name": "Celestial Seasonings Mandarin orange spice infusion",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303337353431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408132",
+    "name": "Celestial Seasonings Organic ginger & turmeric tea",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537313533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196004",
+    "name": "Celestial Seasonings Sleepytime extra infusion",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "63443",
+    "name": "Celestial Seasonings Sleepytime tea infusion",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333373533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582653",
+    "name": "Clipper Arabian nights",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036303139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582652",
+    "name": "Clipper Brazilian sunset",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036303232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495595",
+    "name": "Clipper Chamomile peach organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381364",
+    "name": "Clipper Chamomille cinnamon organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393531?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495596",
+    "name": "Clipper Classic chai organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495594",
+    "name": "Clipper Ginger turmeric organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "398370",
+    "name": "Clipper Happy mondays organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495598",
+    "name": "Clipper Lemon & ginger organic infusion",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214575",
+    "name": "Clipper Lemon & Ginger organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582648",
+    "name": "Clipper Let me focus",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133313636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582649",
+    "name": "Clipper Lift me up",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133323537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523274",
+    "name": "Clipper Marrakech mint organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523275",
+    "name": "Clipper Mighty mint organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523273",
+    "name": "Clipper Organic infusion variety pack",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "373818",
+    "name": "Clipper Snore & peace organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495597",
+    "name": "Clipper Spicy chai organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567326",
+    "name": "Clipper Warming apple & cinnamon organic",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038363330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567324",
+    "name": "Clipper Warming cranberry & cinnamon organic",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523277",
+    "name": "Clipper Warming orange cinnamon organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233863",
+    "name": "Clipper Zen again organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532343839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "139902",
+    "name": "Lipton Morocco mint & spices",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933333432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574347",
+    "name": "LocalTea De nacht wacht",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574344",
+    "name": "LocalTea Gember kick",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574346",
+    "name": "LocalTea Koppie erbij",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229535",
+    "name": "Pickwick Herbal camomile",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323731?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161503",
+    "name": "Pickwick Herbal camomile honey",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313734?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457854",
+    "name": "Pickwick Herbal detox",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323133?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582701",
+    "name": "Pickwick Herbal ginger goodness mint",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229538",
+    "name": "Pickwick Herbal mint",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323339?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "65775",
+    "name": "Pickwick Herbal sterrenmunt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932303935?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "143411",
+    "name": "Pickwick Spices minty Morocco",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430323731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574244",
+    "name": "Yogi Tea Bedtime",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303137353735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574246",
+    "name": "Yogi Tea Classic",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303137353638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574247",
+    "name": "Yogi Tea Curcuma chai",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574248",
+    "name": "Yogi Tea Detox",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574242",
+    "name": "Yogi Tea Ginger orange with vanilla",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303137353639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574249",
+    "name": "Yogi Tea Womens balance",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631333034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "398391",
+    "name": "Zonnatura 100% gember citroengras kruideninfusie",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137343532?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187196",
+    "name": "Zonnatura Goede nachtrust kruideninfusie",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638323834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365850",
+    "name": "Zonnatura Goedemorgen kruideninfusie",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373335353930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493484",
+    "name": "Zonnatura Groene thee citrus echinacea",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373335363831?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565964",
+    "name": "Zonnatura Kamille & lavendel droom zacht",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee eenkops"
+    ],
+    "isFood": true
+  }
+]

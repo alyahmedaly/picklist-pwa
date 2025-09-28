@@ -1,0 +1,170 @@
+[
+  {
+    "id": "496260",
+    "name": "La Morena Mayo met chipotle",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336383431?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414991",
+    "name": "La Morena Mexican green salsa",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733303539?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450135",
+    "name": "Santa Maria Hot Pepper Sauce",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331323939?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414995",
+    "name": "La Morena Mexican chipotle sauce",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383931303639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450177",
+    "name": "Santa Maria Green jalapeno hot",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332303932?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170224",
+    "name": "AH Taco & wrap hot sauce",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031333436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414999",
+    "name": "La Morena Diced chipotle pepper",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733303630?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449684",
+    "name": "Santa Maria Green Jalapeno Relish",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331333230?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575459",
+    "name": "Valentina Salsa piccante",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737383135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140612",
+    "name": "AH Taco saus mild",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414993",
+    "name": "La Morena Mexican home made salsa",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383931303730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450140",
+    "name": "La Morena Bayo bonenspread",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733303637?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414996",
+    "name": "La Morena Zwarte bonenspread",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733303631?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417517",
+    "name": "Santa Maria Chunky wrap salsa",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738303834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse sauzen"
+    ],
+    "isFood": true
+  }
+]

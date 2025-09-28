@@ -1,0 +1,74 @@
+[
+  {
+    "id": "162981",
+    "name": "AH Creamerstaafjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313632353639?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiecreamer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "109842",
+    "name": "AH Creamersticks",
+    "price": 29.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303339353731?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiecreamer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217359",
+    "name": "AH Koffiecreamer navul",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373539393039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiecreamer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207023",
+    "name": "Completa Koffiecreamer",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiecreamer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195573",
+    "name": "Completa Koffiecreamer navulverpakking",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534343539?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiecreamer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1103",
+    "name": "AH Koffiecreamer",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiecreamer"
+    ],
+    "isFood": true
+  }
+]

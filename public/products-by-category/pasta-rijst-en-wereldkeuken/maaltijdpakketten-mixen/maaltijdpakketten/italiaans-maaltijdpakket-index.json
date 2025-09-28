@@ -1,0 +1,236 @@
+[
+  {
+    "id": "162594",
+    "name": "Knorr Wereldgerechten lasagnette napoletana",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837313939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "430916",
+    "name": "Knorr Trattoria kipfilet romana",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "430723",
+    "name": "Knorr Tratorria lasagne tradizionale",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393930303032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577268",
+    "name": "Full of Goodness Tasty bowl velvety mushroom risotto",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577260",
+    "name": "Full of Goodness Tasty bowl tomato and basil fusilli",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577226",
+    "name": "AH Comfort bowl tomaat orzo",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "151718",
+    "name": "Knorr Wereldgerechten Italiaanse risotto",
+    "price": 4.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932333738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237866",
+    "name": "Knorr Wereldgerechten lasagne bolognese",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577261",
+    "name": "Full of Goodness Tasty bowl spinach and ricotta ravioli",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "430840",
+    "name": "Knorr Natuurlijk spaghetti carbonara",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835343136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577275",
+    "name": "Full of Goodness Tasty bowl fusilli in an arrabiata sauce",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421374",
+    "name": "Miracoli Spaghetti Italiano 5p BEL",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331353136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "402014",
+    "name": "Knorr Natuurlijk lekker romige tagliatelle",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393936393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492786",
+    "name": "Royal Funghi gedroogd eekhoorntjesbrood",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373335353839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "430835",
+    "name": "Knorr Tratorria kipfilet Toscana",
+    "price": 3.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839383436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228062",
+    "name": "Knorr Wereldgerechten lasagne bolognese XL",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486803",
+    "name": "Knorr Wereldgerechtwn Italiaanse risotto xl",
+    "price": 5.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421368",
+    "name": "Miracoli Penne Arrabiata 3p BEL",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332343438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Italiaans maaltijdpakket"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Vlees, vis > Varkensvlees > Hamburgers (varkensvlees)",
+  "breadcrumbs": "Vlees, vis > Varkensvlees > Hamburgers (varkensvlees)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "hamburgers-varkensvlees-vers",
+      "displayName": "Hamburgers Varkensvlees Vers",
+      "productCount": 7,
+      "filePath": "hamburgers-varkensvlees-vers.jsonl",
+      "indexPath": "hamburgers-varkensvlees-vers-index.json",
+      "statsPath": "hamburgers-varkensvlees-vers-stats.json",
+      "averageProtein": 16.1,
+      "halalCompliance": 43
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Varkensvlees",
+        "path": "../index.json"
+      },
+      {
+        "name": "Hamburgers Varkensvlees",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/varkensvlees"
+  }
+}

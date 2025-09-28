@@ -1,0 +1,60 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "kaas-voor-borrel",
+      "displayName": "Kaas Voor Borrel",
+      "productCount": 149,
+      "hasSubdirectories": true,
+      "indexPath": "kaas-voor-borrel/index.json"
+    },
+    {
+      "name": "kaas-voor-maaltijden",
+      "displayName": "Kaas Voor Maaltijden",
+      "productCount": 73,
+      "hasSubdirectories": true,
+      "indexPath": "kaas-voor-maaltijden/index.json"
+    },
+    {
+      "name": "kaas-voor-beleg",
+      "displayName": "Kaas Voor Beleg",
+      "productCount": 12,
+      "hasSubdirectories": true,
+      "indexPath": "kaas-voor-beleg/index.json"
+    },
+    {
+      "name": "streeckgenoten-kaas",
+      "displayName": "Streeckgenoten Kaas",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "streeckgenoten-kaas/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 240,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 240,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kaas",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "kaas-vleeswaren-tapas"
+  }
+}

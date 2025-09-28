@@ -1,0 +1,310 @@
+[
+  {
+    "id": "458136",
+    "name": "Nescafé Dolce Gusto Flat white",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551372",
+    "name": "Nescafé Dolce Gusto Mocha capsules",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531323539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455909",
+    "name": "Caffé Gondoliere Latte macchiato capsules",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331373236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455908",
+    "name": "Caffé Gondoliere Dolce gusto cappuccino capsules",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383433383532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193225",
+    "name": "Nescafé Dolce Gusto Café au lait capsules",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136313539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387542",
+    "name": "Nescafé Dolce Gusto Café au lait capsules",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939373033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508290",
+    "name": "Perla Huisblends Dolce gusto latte caramel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338343730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502475",
+    "name": "Starbucks Dolce gusto Madagaskar vanilla capsules",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130333337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212299",
+    "name": "Nescafé Dolce Gusto Cortado macchiatto capsules",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831353034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476547",
+    "name": "Nescafé Dolce Gusto Latte macchiato capsules",
+    "price": 5.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577685",
+    "name": "Nescafé Dolce Gusto Latte macchiato capsules",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831353037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455919",
+    "name": "Perla Huisblends Dolce gusto Latte macchiato",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338343733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457767",
+    "name": "Starbucks Dolce gusto cappuccino capsules",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130333330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457819",
+    "name": "Starbucks Dolce gusto macchiato caramel capsules",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431333035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161516",
+    "name": "Nescafé Dolce Gusto Cappuccino capsules",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136313631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387548",
+    "name": "Nescafé Dolce Gusto Cappuccino capsules",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335363838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455923",
+    "name": "Perla Huisblends Dolce gusto café au lait capsules",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383233353432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455917",
+    "name": "Perla Huisblends Dolce gusto cappucino capsules",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338343633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551464",
+    "name": "Starbucks Dolce gusto white mocha capsules",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130333338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577804",
+    "name": "Australian Dolce gusto cappuccino",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736363936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476550",
+    "name": "Nescafé Dolce Gusto Macchiato caramel capsules",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531323534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577755",
+    "name": "Australian Dolce gusto latte macchiato caramel",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736363937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (melkbasis)"
+    ],
+    "isFood": true
+  }
+]

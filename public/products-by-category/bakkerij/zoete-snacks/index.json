@@ -1,0 +1,92 @@
+{
+  "categoryPath": "Bakkerij > Zoete snacks",
+  "breadcrumbs": "Bakkerij > Zoete snacks",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "verse-koeken",
+      "displayName": "Verse Koeken",
+      "productCount": 43,
+      "filePath": "verse-koeken.jsonl",
+      "indexPath": "verse-koeken-index.json",
+      "statsPath": "verse-koeken-stats.json",
+      "averageProtein": 5.2,
+      "halalCompliance": 30
+    },
+    {
+      "name": "donuts",
+      "displayName": "Donuts",
+      "productCount": 21,
+      "filePath": "donuts.jsonl",
+      "indexPath": "donuts-index.json",
+      "statsPath": "donuts-stats.json",
+      "averageProtein": 6.3,
+      "halalCompliance": 0
+    },
+    {
+      "name": "cake-vers",
+      "displayName": "Cake Vers",
+      "productCount": 10,
+      "filePath": "cake-vers.jsonl",
+      "indexPath": "cake-vers-index.json",
+      "statsPath": "cake-vers-stats.json",
+      "averageProtein": 6.1,
+      "halalCompliance": 20
+    },
+    {
+      "name": "eierkoeken",
+      "displayName": "Eierkoeken",
+      "productCount": 9,
+      "filePath": "eierkoeken.jsonl",
+      "indexPath": "eierkoeken-index.json",
+      "statsPath": "eierkoeken-stats.json",
+      "averageProtein": 7.2,
+      "halalCompliance": 67
+    },
+    {
+      "name": "petit-patisserie-banket",
+      "displayName": "Petit Patisserie Banket",
+      "productCount": 8,
+      "filePath": "petit-patisserie-banket.jsonl",
+      "indexPath": "petit-patisserie-banket-index.json",
+      "statsPath": "petit-patisserie-banket-stats.json",
+      "averageProtein": 4.2,
+      "halalCompliance": 25
+    },
+    {
+      "name": "muffins",
+      "displayName": "Muffins",
+      "productCount": 7,
+      "filePath": "muffins.jsonl",
+      "indexPath": "muffins-index.json",
+      "statsPath": "muffins-stats.json",
+      "averageProtein": 5.5,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 98,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 98,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../index.json"
+      },
+      {
+        "name": "Zoete Snacks",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "bakkerij"
+  }
+}

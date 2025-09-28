@@ -1,0 +1,62 @@
+[
+  {
+    "id": "489701",
+    "name": "Consenza Pizzabodem",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233343337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Glutenvrije pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401986",
+    "name": "Dr. Oetker Ristorante pizza salami glutenvrij",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Glutenvrije pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401987",
+    "name": "Dr. Oetker Ristorante pizza mozzarella glutenvrij",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Glutenvrije pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365667",
+    "name": "Schär Pizza margherita lactosevrij",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Glutenvrije pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489296",
+    "name": "Schär Pizza veggie ai cereali",
+    "price": 4.49,
+    "image": "NA",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Glutenvrije pizza"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "381938",
+    "name": "AH Biologisch Kokosolie",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Overige olie",
+      "Kokosolie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575767",
+    "name": "AH Kokos mct olie",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Overige olie",
+      "Kokosolie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575717",
+    "name": "BioFan Biologische kokosolie extra vierge",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Overige olie",
+      "Kokosolie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227140",
+    "name": "BioFan Coconut oil",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Overige olie",
+      "Kokosolie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236548",
+    "name": "BioToday Coconut oil odourless",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136333037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Overige olie",
+      "Kokosolie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227680",
+    "name": "BioToday Kokosolie koudgeperst",
+    "price": 6.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136353538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Overige olie",
+      "Kokosolie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470016",
+    "name": "BioToday MCT olie",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373737393737?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Overige olie",
+      "Kokosolie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "215269",
+    "name": "Valle del sole Organic virgin coconut oil",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353933363331?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Overige olie",
+      "Kokosolie"
+    ],
+    "isFood": true
+  }
+]

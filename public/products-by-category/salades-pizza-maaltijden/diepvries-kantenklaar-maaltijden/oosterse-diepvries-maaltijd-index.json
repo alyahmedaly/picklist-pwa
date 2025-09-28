@@ -1,0 +1,98 @@
+[
+  {
+    "id": "233419",
+    "name": "Iglo Roerbaksensatie south Indian curry",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Oosterse diepvries maaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571891",
+    "name": "Taste of Travel Indian butter chicken",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938363830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Oosterse diepvries maaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564360",
+    "name": "Taste of Travel Thai chicken green curry",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303139363336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Oosterse diepvries maaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186925",
+    "name": "Iglo Roerbaksensatie noedels rundvlees",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831353934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Oosterse diepvries maaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564363",
+    "name": "Fitmeals Chicken teriyaki",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538393235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Oosterse diepvries maaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564333",
+    "name": "Lazy Vegan Korean noodles maaltijd",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632303030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Oosterse diepvries maaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564348",
+    "name": "Good Chef Coco mango",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133393239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Oosterse diepvries maaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564352",
+    "name": "Good Chef No chicken saté",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133393336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Oosterse diepvries maaltijd"
+    ],
+    "isFood": true
+  }
+]

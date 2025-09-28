@@ -1,0 +1,182 @@
+[
+  {
+    "id": "386221",
+    "name": "La Baleine Baleine essentiel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363834373438?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout (naturel)",
+      "Zeezout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454684",
+    "name": "La Baleine Grof zeezout",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363836343939?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout (naturel)",
+      "Zeezout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160583",
+    "name": "La Baleine Zeezout fijn",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373034383235?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout (naturel)",
+      "Zeezout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160582",
+    "name": "La Baleine Zeezout grof",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373034383231?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout (naturel)",
+      "Zeezout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518923",
+    "name": "Verstegen Zwarte peper zeezout",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393730353136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout (naturel)",
+      "Zeezout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518417",
+    "name": "Cornish Sea Salt Co Sea salt flakes",
+    "price": 2.62,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934393937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout (naturel)",
+      "Zeezout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "65765",
+    "name": "Drogheria Middellandse zeezout",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533353231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout (naturel)",
+      "Zeezout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197872",
+    "name": "Jozo Grof zeezout navulbare molen",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638353639?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout (naturel)",
+      "Zeezout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202059",
+    "name": "Jozo Sea salt fine",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353538333336?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout (naturel)",
+      "Zeezout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "201976",
+    "name": "Maldon Zeezoutvlokken",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363731313236?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout (naturel)",
+      "Zeezout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414877",
+    "name": "Verstegen Zeezout",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137323133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout (naturel)",
+      "Zeezout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202232",
+    "name": "Verstegen Zeezout grof",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363635313035?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout (naturel)",
+      "Zeezout"
+    ],
+    "isFood": true
+  }
+]

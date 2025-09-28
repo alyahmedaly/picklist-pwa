@@ -1,0 +1,62 @@
+[
+  {
+    "id": "141226",
+    "name": "AH IJsstam vanille choco",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "IJstaarten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550146",
+    "name": "Viennetta Salted caramel",
+    "price": 4.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837343530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "IJstaarten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195391",
+    "name": "Viennetta Mini vanille",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933343635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "IJstaarten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408119",
+    "name": "Viennetta Vanille",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837343531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "IJstaarten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429546",
+    "name": "Van Gils Vanille ijsrol",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332343231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "IJstaarten"
+    ],
+    "isFood": true
+  }
+]

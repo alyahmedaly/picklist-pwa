@@ -1,0 +1,119 @@
+[
+  {
+    "id": "445650",
+    "name": "AH Blarenpleister Medium 5 st.",
+    "price": 3.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363935393730?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Wondverzorging",
+      "Pleisters"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445651",
+    "name": "AH Blarenpleister mix",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363936323236?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Wondverzorging",
+      "Pleisters"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445649",
+    "name": "AH Likdoornverwijder pleister",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236323035383138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Wondverzorging",
+      "Pleisters"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225193",
+    "name": "Etos Hechtpleister classic 2,5 cm",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131363535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Wondverzorging",
+      "Pleisters"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221413",
+    "name": "Etos Hechtpleister soft 2,5cm",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131363536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Wondverzorging",
+      "Pleisters"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220729",
+    "name": "Etos Likdoorn verwijderpleister",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131383534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Wondverzorging",
+      "Pleisters"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171896",
+    "name": "Hansaplast Elastic extra flexibel",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Wondverzorging",
+      "Pleisters"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "117791",
+    "name": "Hansaplast Hechtpleister soft",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383538343131?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Wondverzorging",
+      "Pleisters"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386291",
+    "name": "Hansaplast Sensitive XXL pleister",
+    "price": 6.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236323435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Wondverzorging",
+      "Pleisters"
+    ],
+    "isFood": true
+  }
+]

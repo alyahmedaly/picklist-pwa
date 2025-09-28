@@ -1,0 +1,112 @@
+[
+  {
+    "id": "182915",
+    "name": "AH Knijpfruit appel banaan",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393238353633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Fruitsnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459152",
+    "name": "Servero Knijpfruit mixpack mango en perzik",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383635343039?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Fruitsnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167880",
+    "name": "AH Knijpfruit appel-aardbei",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393238353634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Fruitsnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167882",
+    "name": "AH Knijpfruit appel-peer",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393238353533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Fruitsnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459155",
+    "name": "Servero Knijpfruit appel, mango, passievrucht",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383635343432?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Fruitsnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575454",
+    "name": "Servero Slurpfruit appel aardbei banaan",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303133333235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Fruitsnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576058",
+    "name": "Servero Fruit to go appel aardbei framboos",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303133333236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Fruitsnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459154",
+    "name": "Servero Knijpfruit appel, aardbei, framboos",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383635343431?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Fruitsnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203292",
+    "name": "Zonnatura Knijpfruit appel aardbei bio",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038363736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Fruitsnacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203293",
+    "name": "Zonnatura Knijpfruit mango wortel sinaasappel bio",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038383031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Fruitsnacks"
+    ],
+    "isFood": true
+  }
+]

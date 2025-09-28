@@ -1,0 +1,132 @@
+[
+  {
+    "id": "525445",
+    "name": "AH 1 minuutje zilvervliesrijst volkoren",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Zilvervliesrijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211931",
+    "name": "Lassie Zilvervlies rijst minuutje",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639313132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Zilvervliesrijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197583",
+    "name": "Lassie Zilvervlies rijst panklaar",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Zilvervliesrijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526019",
+    "name": "AH Biologisch Zilvervliesrijst",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933393437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Zilvervliesrijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412497",
+    "name": "Fairtrade Original Organic wholegrain jasmine rice",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Zilvervliesrijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3512",
+    "name": "Lassie Zilvervlies rijst",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138363737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Zilvervliesrijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484983",
+    "name": "Lassie Zilvervlies rijst voordeelpak",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138363831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Zilvervliesrijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459052",
+    "name": "Lassie Zilvervliesrijst bio",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Zilvervliesrijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412499",
+    "name": "Lassie Zilvervliesrijst builtje",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639393734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Zilvervliesrijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226019",
+    "name": "Lassie Zilvervliesrijst quinoa & granen",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730353431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Zilvervliesrijst"
+    ],
+    "isFood": true
+  }
+]

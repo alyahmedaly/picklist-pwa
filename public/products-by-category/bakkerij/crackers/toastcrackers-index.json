@@ -1,0 +1,482 @@
+[
+  {
+    "id": "508478",
+    "name": "AH Sesam crackers",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131343531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389565",
+    "name": "LU Mini crackers zout",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737393436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583166",
+    "name": "Good guys bakehouse Crispy crackers cheddar",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577799",
+    "name": "Koh Thai Sriracha snack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170345",
+    "name": "LU Mini crackers tomaat & basilicum",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737393632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232295",
+    "name": "Mitsuba Wasabi crackers",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130383736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62912",
+    "name": "LU Mini crackers naturel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736303235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570687",
+    "name": "LU Tuc bake rolls sour cream & onion",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367545",
+    "name": "Mitsuba Sea salt crackers",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130383737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "537100",
+    "name": "Fratelli Laurieri Scrocchi knoflook",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353738363239?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583165",
+    "name": "Good guys bakehouse Crispy crackers paprika",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132303035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436511",
+    "name": "Jos Poell Krokant toast",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353431383732?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458187",
+    "name": "LU Mini crackers tarwebloem en volkorenmeel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136313839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550227",
+    "name": "LU Tuc bake rolls garlic & formaggio",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433343734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508489",
+    "name": "AH Mini crackers olijfolie & oregano",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437343831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441363",
+    "name": "Fratelli Laurieri Bruschette met knoflook",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353738363338?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583167",
+    "name": "Good guys bakehouse Crispy crackers black pepper",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132303034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577800",
+    "name": "Koh Thai Sweet chili & lime snack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132323736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2432",
+    "name": "LU Mini crackers olijfolie & oregano",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451176",
+    "name": "Panetteria di Sergio Pan de Ajo",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331353733?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508488",
+    "name": "AH Minicrackers met zout",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437343832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225345",
+    "name": "Barber Cream crackers",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383530353638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567265",
+    "name": "Gran Pavesi Le sfoglie classiche",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035373337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451179",
+    "name": "Panetteria di Sergio Mini Torinesi",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363736373231?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376943",
+    "name": "Wasa Delicate cracker sea salt",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533303935?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508485",
+    "name": "Carr's Cream crackers",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236393233?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577552",
+    "name": "Crosta & Mollica Crostini oregano",
+    "price": 2.46,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738363931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577549",
+    "name": "Crosta & Mollica Ovali crackers olijf & rozemarijn",
+    "price": 2.46,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550212",
+    "name": "LU Tuc bake rolls bacon",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433343738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550226",
+    "name": "LU Tuc bake rolls tomato & olive",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433343737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570296",
+    "name": "Leev Linzenwafels rozemarijn",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550225",
+    "name": "LU Tuc bake rolls sea salt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433343736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451108",
+    "name": "Panetteria di Sergio Picos andaluz",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332393630?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485164",
+    "name": "Smaakt Less carb Mini Crackers rozemarijn bio",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565328",
+    "name": "AH Biologisch Mini crackers naturel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "32655",
+    "name": "AH Mini crackers naturel",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383931?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570295",
+    "name": "Leev Linzenwafels paprika",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549683",
+    "name": "BioToday Crostini zeezout",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631363830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577796",
+    "name": "Koh Thai Woksaus basil & chili",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132323830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572388",
+    "name": "LU Minicrackers olijfolie oregano 3-pack",
+    "price": 6.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536353632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Toast-crackers"
+    ],
+    "isFood": true
+  }
+]

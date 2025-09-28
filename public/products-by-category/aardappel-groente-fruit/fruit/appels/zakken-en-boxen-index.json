@@ -1,0 +1,119 @@
+[
+  {
+    "id": "128780",
+    "name": "AH Appels",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933333133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Zakken en boxen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234251",
+    "name": "AH Appels zak",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236313735363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Zakken en boxen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "584918",
+    "name": "AH Biologisch Nederlandse appel zak",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832313038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Zakken en boxen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123209",
+    "name": "AH Elstar zak",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933333036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Zakken en boxen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126744",
+    "name": "AH Goudreinette zak",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933333039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Zakken en boxen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104815",
+    "name": "AH Granny Smith zak",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236313731313137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Zakken en boxen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "109078",
+    "name": "AH Jonagold zak",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933373030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Zakken en boxen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129993",
+    "name": "AH Zoete kleine appeltjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393238353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Zakken en boxen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447162",
+    "name": "Kanzi Appels zak",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383439333432?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Zakken en boxen"
+    ],
+    "isFood": true
+  }
+]

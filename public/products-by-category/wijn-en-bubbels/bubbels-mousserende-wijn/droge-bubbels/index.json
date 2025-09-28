@@ -1,0 +1,76 @@
+{
+  "categoryPath": "Wijn en bubbels > Bubbels, mousserende wijn > Droge bubbels",
+  "breadcrumbs": "Wijn en bubbels > Bubbels, mousserende wijn > Droge bubbels",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "champagne-droog",
+      "displayName": "Champagne Droog",
+      "productCount": 12,
+      "filePath": "champagne-droog.jsonl",
+      "indexPath": "champagne-droog-index.json",
+      "statsPath": "champagne-droog-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "cava-droog",
+      "displayName": "Cava Droog",
+      "productCount": 8,
+      "filePath": "cava-droog.jsonl",
+      "indexPath": "cava-droog-index.json",
+      "statsPath": "cava-droog-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "overige-bubbels-droog",
+      "displayName": "Overige Bubbels Droog",
+      "productCount": 8,
+      "filePath": "overige-bubbels-droog.jsonl",
+      "indexPath": "overige-bubbels-droog-index.json",
+      "statsPath": "overige-bubbels-droog-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "prosecco-droog",
+      "displayName": "Prosecco Droog",
+      "productCount": 6,
+      "filePath": "prosecco-droog.jsonl",
+      "indexPath": "prosecco-droog-index.json",
+      "statsPath": "prosecco-droog-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 34,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 34,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bubbels Mousserende Wijn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Droge Bubbels",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "wijn-en-bubbels/bubbels-mousserende-wijn"
+  }
+}

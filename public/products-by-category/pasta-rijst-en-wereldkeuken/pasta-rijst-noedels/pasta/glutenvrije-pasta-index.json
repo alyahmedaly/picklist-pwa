@@ -1,0 +1,106 @@
+[
+  {
+    "id": "407802",
+    "name": "AH Glutenvrij Lasagnebladen",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373035363732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Glutenvrije pasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407958",
+    "name": "AH Glutenvrij Fusilli",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373338363031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Glutenvrije pasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408452",
+    "name": "AH Glutenvrij Spaghetti",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332383832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Glutenvrije pasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400916",
+    "name": "Grand' Italia Fusilli glutenvrij",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739393738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Glutenvrije pasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400917",
+    "name": "Grand' Italia Penne glutenvrij",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830303730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Glutenvrije pasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494121",
+    "name": "AH Glutenvrij Vezelrijke macaroni",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373232343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Glutenvrije pasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482619",
+    "name": "Barilla Penne Rigate glutenvrij",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393732303033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Glutenvrije pasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482618",
+    "name": "Barilla Tagliatelle glutenvrij",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393732303037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Glutenvrije pasta"
+    ],
+    "isFood": true
+  }
+]

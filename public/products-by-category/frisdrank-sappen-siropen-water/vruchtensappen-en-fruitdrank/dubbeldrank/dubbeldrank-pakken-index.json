@@ -1,0 +1,93 @@
+[
+  {
+    "id": "124411",
+    "name": "DubbelDrank Mango & guanabana",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238313830?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Dubbeldrank",
+      "Dubbeldrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2739",
+    "name": "DubbelDrank Sinaasappel & perzik",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238313739?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Dubbeldrank",
+      "Dubbeldrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378749",
+    "name": "AH Duodrank tropische vruchten",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Dubbeldrank",
+      "Dubbeldrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "63268",
+    "name": "DubbelDrank Ananas & guave",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238313831?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Dubbeldrank",
+      "Dubbeldrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556540",
+    "name": "DubbelDrank Ananas & kokos met appel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432383033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Dubbeldrank",
+      "Dubbeldrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520746",
+    "name": "DubbelDrank Mango & passievrucht",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Dubbeldrank",
+      "Dubbeldrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378748",
+    "name": "AH Duodrank sinaasappel perzik",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030393938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Dubbeldrank",
+      "Dubbeldrank (pakken)"
+    ],
+    "isFood": true
+  }
+]

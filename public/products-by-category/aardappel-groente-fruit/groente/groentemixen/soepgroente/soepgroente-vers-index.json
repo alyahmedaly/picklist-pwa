@@ -1,0 +1,72 @@
+[
+  {
+    "id": "41099",
+    "name": "AH Erwtensoepgroente",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935303932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Soepgroente",
+      "Soepgroente (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3861",
+    "name": "AH Boeren soepgroente",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Soepgroente",
+      "Soepgroente (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395956",
+    "name": "AH Fijne soepgroente",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532383533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Soepgroente",
+      "Soepgroente (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160709",
+    "name": "AH Fijne soepgroente grootverpakking",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Soepgroente",
+      "Soepgroente (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469776",
+    "name": "AH Basis soepgroente",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532383539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Soepgroente",
+      "Soepgroente (vers)"
+    ],
+    "isFood": true
+  }
+]

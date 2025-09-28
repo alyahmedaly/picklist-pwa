@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Vlees, vis > Varkensvlees > Spek & bacon > Spek",
+  "breadcrumbs": "Vlees, vis > Varkensvlees > Spek & bacon > Spek",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "reepjes-spek-voorverpakt",
+      "displayName": "Reepjes Spek Voorverpakt",
+      "productCount": 9,
+      "filePath": "reepjes-spek-voorverpakt.jsonl",
+      "indexPath": "reepjes-spek-voorverpakt-index.json",
+      "statsPath": "reepjes-spek-voorverpakt-stats.json",
+      "averageProtein": 13,
+      "halalCompliance": 11
+    }
+  ],
+  "totalProducts": 9,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Varkensvlees",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Spek Bacon",
+        "path": "../index.json"
+      },
+      {
+        "name": "Spek",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "vlees-vis/varkensvlees/spek-bacon"
+  }
+}

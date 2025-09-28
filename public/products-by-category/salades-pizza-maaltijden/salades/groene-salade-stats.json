@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Salades > Groene salade",
+  "breadcrumbs": "Salades, pizza, maaltijden > Salades > Groene salade",
+  "totalProducts": 8,
+  "halalCompliance": 88,
+  "averageProtein": 4,
+  "averagePrice": 4.14,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 8,
+    "withIngredients": 8,
+    "withHalalCheck": 8
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "suiker-en-zoetstof-staafjes",
+      "displayName": "Suiker En Zoetstof Staafjes",
+      "productCount": 8,
+      "hasSubdirectories": false,
+      "indexPath": "suiker-en-zoetstof-staafjes/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "kristalsuiker",
+      "displayName": "Kristalsuiker",
+      "productCount": 7,
+      "filePath": "kristalsuiker.jsonl",
+      "indexPath": "kristalsuiker-index.json",
+      "statsPath": "kristalsuiker-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 15,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 15,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bakbenodigdheden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Suiker",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/bakbenodigdheden"
+  }
+}

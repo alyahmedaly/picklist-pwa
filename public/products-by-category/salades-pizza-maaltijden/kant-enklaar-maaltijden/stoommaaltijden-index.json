@@ -1,0 +1,218 @@
+[
+  {
+    "id": "578790",
+    "name": "AH Stoommaaltijd nasi omeletreepjes XL",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570271",
+    "name": "AH Terra Plantaardige stm curry madras",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335363430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573450",
+    "name": "AH Stoomsoep ramen noedels",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227239",
+    "name": "AH Stoommaaltijd pasta pesto",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515705",
+    "name": "AH Stoommaaltijd truffel tapenade",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578787",
+    "name": "AH Terra Stoommaaltijd gyoza bowl",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037303139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573452",
+    "name": "AH Stoommaaltijd groene asperge geitenkaas",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386070",
+    "name": "AH Stoommaaltijd zalm roomsaus",
+    "price": 6.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237373034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531273",
+    "name": "AH Stoommaaltijd tortellini formaggio XL",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437333533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573451",
+    "name": "AH Stoommaaltijd XL Koreaanse kip",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484149",
+    "name": "AH Stoomsoep tom kha kai",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137303333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578789",
+    "name": "AH Stoommaaltijd bulgur tajine",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550132",
+    "name": "AH Stoommaaltijd penne pollo",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437333830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475649",
+    "name": "AH Stoommaaltijd beef teriyaki",
+    "price": 5.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227236",
+    "name": "AH Stoommaaltijd kip tandoori",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517627",
+    "name": "AH Stoommaaltijd mediteraanse kip",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578788",
+    "name": "AH Stoommaaltijd pasta Italiaans",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227237",
+    "name": "AH Stoommaaltijd kip rozemarijn",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332363932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Stoommaaltijden"
+    ],
+    "isFood": true
+  }
+]

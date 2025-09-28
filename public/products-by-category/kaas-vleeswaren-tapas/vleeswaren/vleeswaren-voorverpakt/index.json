@@ -1,0 +1,114 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "kookworst-boterhamworst-leverworst-voorverpakt",
+      "displayName": "Kookworst Boterhamworst Leverworst Voorverpakt",
+      "productCount": 40,
+      "hasSubdirectories": false,
+      "indexPath": "kookworst-boterhamworst-leverworst-voorverpakt/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "ham-voorverpakt",
+      "displayName": "Ham Voorverpakt",
+      "productCount": 24,
+      "filePath": "ham-voorverpakt.jsonl",
+      "indexPath": "ham-voorverpakt-index.json",
+      "statsPath": "ham-voorverpakt-stats.json",
+      "averageProtein": 13.5,
+      "halalCompliance": 0
+    },
+    {
+      "name": "kipfilet-en-kalkoenfilet-voorverpakt",
+      "displayName": "Kipfilet En Kalkoenfilet Voorverpakt",
+      "productCount": 22,
+      "filePath": "kipfilet-en-kalkoenfilet-voorverpakt.jsonl",
+      "indexPath": "kipfilet-en-kalkoenfilet-voorverpakt-index.json",
+      "statsPath": "kipfilet-en-kalkoenfilet-voorverpakt-stats.json",
+      "averageProtein": 14.7,
+      "halalCompliance": 77
+    },
+    {
+      "name": "salami-en-cervelaat-voorverpakt",
+      "displayName": "Salami En Cervelaat Voorverpakt",
+      "productCount": 21,
+      "filePath": "salami-en-cervelaat-voorverpakt.jsonl",
+      "indexPath": "salami-en-cervelaat-voorverpakt-index.json",
+      "statsPath": "salami-en-cervelaat-voorverpakt-stats.json",
+      "averageProtein": 19.2,
+      "halalCompliance": 0
+    },
+    {
+      "name": "spek-en-bacon-plakken-voorverpakt",
+      "displayName": "Spek En Bacon Plakken Voorverpakt",
+      "productCount": 17,
+      "filePath": "spek-en-bacon-plakken-voorverpakt.jsonl",
+      "indexPath": "spek-en-bacon-plakken-voorverpakt-index.json",
+      "statsPath": "spek-en-bacon-plakken-voorverpakt-stats.json",
+      "averageProtein": 14.3,
+      "halalCompliance": 6
+    },
+    {
+      "name": "spaanse-en-italiaanse-vleeswaren-voorverpakt",
+      "displayName": "Spaanse En Italiaanse Vleeswaren Voorverpakt",
+      "productCount": 14,
+      "filePath": "spaanse-en-italiaanse-vleeswaren-voorverpakt.jsonl",
+      "indexPath": "spaanse-en-italiaanse-vleeswaren-voorverpakt-index.json",
+      "statsPath": "spaanse-en-italiaanse-vleeswaren-voorverpakt-stats.json",
+      "averageProtein": 24.1,
+      "halalCompliance": 0
+    },
+    {
+      "name": "pate-voorverpakt",
+      "displayName": "Pate Voorverpakt",
+      "productCount": 12,
+      "filePath": "pate-voorverpakt.jsonl",
+      "indexPath": "pate-voorverpakt-index.json",
+      "statsPath": "pate-voorverpakt-stats.json",
+      "averageProtein": 10.1,
+      "halalCompliance": 8
+    },
+    {
+      "name": "grillworst-voorverpakt",
+      "displayName": "Grillworst Voorverpakt",
+      "productCount": 7,
+      "filePath": "grillworst-voorverpakt.jsonl",
+      "indexPath": "grillworst-voorverpakt-index.json",
+      "statsPath": "grillworst-voorverpakt-stats.json",
+      "averageProtein": 14.3,
+      "halalCompliance": 29
+    }
+  ],
+  "totalProducts": 157,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 157,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vleeswaren",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vleeswaren Voorverpakt",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "kaas-vleeswaren-tapas/vleeswaren"
+  }
+}

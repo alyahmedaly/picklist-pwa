@@ -1,0 +1,122 @@
+[
+  {
+    "id": "474787",
+    "name": "Candyman Mac Bubble",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231333739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Lollies"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451883",
+    "name": "Look-O-Look App lollies",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337333939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Lollies"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474788",
+    "name": "Candyman Salmiakknotsen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137313232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Lollies"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439411",
+    "name": "Chupa Chups Forever fun lolly's",
+    "price": 23.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836373534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Lollies"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160754",
+    "name": "Chupa Chups Fruit lolly's",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836373737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Lollies"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547772",
+    "name": "Chupa Chups Lollies XXL met bubble gum",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632363733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Lollies"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366820",
+    "name": "Chupa Chups Mini lolly's uitdeelzak",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Lollies"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160758",
+    "name": "Chupa Chups The best of",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Lollies"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159605",
+    "name": "Look-O-Look Salmiakknotsen",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Lollies"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451885",
+    "name": "Look-O-Look Salmiakknotsen",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Lollies"
+    ],
+    "isFood": true
+  }
+]

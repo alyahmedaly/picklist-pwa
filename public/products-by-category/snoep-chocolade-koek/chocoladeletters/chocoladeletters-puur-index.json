@@ -1,0 +1,62 @@
+[
+  {
+    "id": "461613",
+    "name": "Tony's Chocolonely Pure chocolade letterreep pepernoot S",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters puur"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400408",
+    "name": "Tony's Chocolonely Pure chocoladeletter reep S 51%",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838383938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters puur"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446428",
+    "name": "AH Chocoladeletter puur",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733323432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters puur"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506682",
+    "name": "Delicata Chocoladeletter puur",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733323035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters puur"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505765",
+    "name": "Verkade Chocoladeletter puur",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373736393533?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters puur"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "kaarsen",
+      "displayName": "Kaarsen",
+      "productCount": 8,
+      "hasSubdirectories": false,
+      "indexPath": "kaarsen/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 8,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 8,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koken Tafelen Vrije Tijd",
+        "path": "../index.json"
+      },
+      {
+        "name": "Wonen Slapen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "koken-tafelen-vrije-tijd"
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "561993",
+    "name": "Northern Wonder Coffee free coffee filter blend decaf",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534363939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Snelfilterkoffie",
+      "Snelfilterkoffie (cafeïnevrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561994",
+    "name": "Northern Wonder Coffee free coffee filter blend medium",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Snelfilterkoffie",
+      "Snelfilterkoffie (cafeïnevrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1486",
+    "name": "Perla Huisblends Decaf snelfiltermaling",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373938373631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Snelfilterkoffie",
+      "Snelfilterkoffie (cafeïnevrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "33963",
+    "name": "Perla Huisblends Decaf snelfiltermaling",
+    "price": 7.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373939343733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Snelfilterkoffie",
+      "Snelfilterkoffie (cafeïnevrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471306",
+    "name": "Caffé Gondoliere Decaf filter coffee",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Snelfilterkoffie",
+      "Snelfilterkoffie (cafeïnevrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495572",
+    "name": "Fairtrade Original Community coffee decaf snelfilter",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532323434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Snelfilterkoffie",
+      "Snelfilterkoffie (cafeïnevrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196715",
+    "name": "illy Decaf ground coffee",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337323634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Snelfilterkoffie",
+      "Snelfilterkoffie (cafeïnevrij)"
+    ],
+    "isFood": true
+  }
+]

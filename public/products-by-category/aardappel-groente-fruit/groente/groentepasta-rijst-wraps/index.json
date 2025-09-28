@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Groentepasta, rijst, wraps",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Groentepasta, rijst, wraps",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "groenterijst",
+      "displayName": "Groenterijst",
+      "productCount": 7,
+      "filePath": "groenterijst.jsonl",
+      "indexPath": "groenterijst-index.json",
+      "statsPath": "groenterijst-stats.json",
+      "averageProtein": 2.8,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../index.json"
+      },
+      {
+        "name": "Groentepasta Rijst Wraps",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/groente"
+  }
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "132400",
+    "name": "AH Extra jam aardbeien",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383930343231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2390",
+    "name": "Bonne Maman Aardbeien confiture",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639313731?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123395",
+    "name": "Bonne Maman Aardbeien confiture",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539373333?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "284260",
+    "name": "St. Dalfour Vruchtenspread Aardbei",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536343236?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220747",
+    "name": "Hero Jam aardbeien",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138343530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513313",
+    "name": "Hero Vruchtenspread zonder stukjes aardbei",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393139303335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563639",
+    "name": "Bonne Maman Aardbeien fijn gezeefd",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039393435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532212",
+    "name": "Hero Fruitspread aardbeien",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033353034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413575",
+    "name": "Bonne Maman Meer fruit minder suiker aardbeienjam",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393635353538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413588",
+    "name": "AH Biologisch Aardbei fruitspread",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513467",
+    "name": "AH Fruitspread aardbei",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835373330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532216",
+    "name": "Hero Jam minder zoet aardbeien",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033353132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563627",
+    "name": "Hero Jam zero aardbeien",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531303938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563951",
+    "name": "Natù Aardbeienspread",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038343133?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365786",
+    "name": "Zonnatura Fruitspread aardbei",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136373638?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Aardbeienjam"
+    ],
+    "isFood": true
+  }
+]

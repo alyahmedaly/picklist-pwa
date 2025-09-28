@@ -1,0 +1,87 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "kruidenthee",
+      "displayName": "Kruidenthee",
+      "productCount": 104,
+      "hasSubdirectories": false,
+      "indexPath": "kruidenthee/index.json"
+    },
+    {
+      "name": "zwarte-thee",
+      "displayName": "Zwarte Thee",
+      "productCount": 42,
+      "hasSubdirectories": false,
+      "indexPath": "zwarte-thee/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "groene-thee",
+      "displayName": "Groene Thee",
+      "productCount": 43,
+      "filePath": "groene-thee.jsonl",
+      "indexPath": "groene-thee-index.json",
+      "statsPath": "groene-thee-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 98
+    },
+    {
+      "name": "rooibosthee",
+      "displayName": "Rooibosthee",
+      "productCount": 23,
+      "filePath": "rooibosthee.jsonl",
+      "indexPath": "rooibosthee-index.json",
+      "statsPath": "rooibosthee-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "vruchtenthee",
+      "displayName": "Vruchtenthee",
+      "productCount": 20,
+      "filePath": "vruchtenthee.jsonl",
+      "indexPath": "vruchtenthee-index.json",
+      "statsPath": "vruchtenthee-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "matcha-thee",
+      "displayName": "Matcha Thee",
+      "productCount": 6,
+      "filePath": "matcha-thee.jsonl",
+      "indexPath": "matcha-thee-index.json",
+      "statsPath": "matcha-thee-stats.json",
+      "averageProtein": 12.8,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 238,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 238,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "../index.json"
+      },
+      {
+        "name": "Thee",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "koffie-thee"
+  }
+}

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "577030",
+    "name": "Soilmates Avocado mayo",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832323337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189298",
+    "name": "AH Belgische Mayonaise",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537313933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420242",
+    "name": "Jean Bâton Mayonaise biologische",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536333833?revLabel=14&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467626",
+    "name": "AH Mayonaise",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537313339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "903",
+    "name": "AH Mayonaise zacht en romig",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537323237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "904",
+    "name": "AH Mayonaise zacht en romig",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537323134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425942",
+    "name": "AH Mayonaise zacht en romig",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509346",
+    "name": "AH Terra Plantaardig vegan mayo",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "240255",
+    "name": "Gouda's Glorie Mayonaise vol & romig",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630363739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551444",
+    "name": "Jean Bâton Belgian recipe mayonaise",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832313235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "174008",
+    "name": "D&L Mayonaise met eieren",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830373738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420243",
+    "name": "Jean Bâton Vegan mayo",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536333834?revLabel=20&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496579",
+    "name": "Van Wijngaarden's Zaanse mayonaise",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432313436?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496580",
+    "name": "Van Wijngaarden's Zaanse mayonaise",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432303431?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199231",
+    "name": "AH Biologisch Mayonaise zacht en romig",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363630323933?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226248",
+    "name": "Hellmann's Mayonaise real",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393732373431?revLabel=8&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226246",
+    "name": "Hellmann's Real mayonaise",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234323431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576658",
+    "name": "Hellmann's Vegan mayo",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439353833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444052",
+    "name": "Remia Like! mayo 100% plantaardig",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353735383131?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2037",
+    "name": "Calvé Mayonaise",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131353635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199281",
+    "name": "Calvé Mayonaise",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429373",
+    "name": "Calvé Mayonaise",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235313438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367964",
+    "name": "Winiary Majonez dekoracyjny",
+    "price": 3.19,
+    "image": "NA",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203323",
+    "name": "AH Belgische mayonaise",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236333139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (in pot)"
+    ],
+    "isFood": true
+  }
+]

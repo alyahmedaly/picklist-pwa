@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Aardappelen > Krieltjes",
+  "breadcrumbs": "Aardappel, groente, fruit > Aardappelen > Krieltjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "krieltjes-gekruid",
+      "displayName": "Krieltjes Gekruid",
+      "productCount": 6,
+      "filePath": "krieltjes-gekruid.jsonl",
+      "indexPath": "krieltjes-gekruid-index.json",
+      "statsPath": "krieltjes-gekruid-stats.json",
+      "averageProtein": 2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Aardappelen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Krieltjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/aardappelen"
+  }
+}

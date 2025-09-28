@@ -1,0 +1,72 @@
+[
+  {
+    "id": "373991",
+    "name": "Unox Pittige erwtensoep",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393936363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Erwtensoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468205",
+    "name": "Unox Vegetarische erwtensoep",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933393939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Erwtensoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225328",
+    "name": "AH Biologisch Erwtensoep met stukjes rookworst",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031363635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Erwtensoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400128",
+    "name": "AH Erwtensoep met rookworst en spek",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383435393436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Erwtensoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162855",
+    "name": "Unox Hollandse erwtensoep",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835363531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Erwtensoep in zak"
+    ],
+    "isFood": true
+  }
+]

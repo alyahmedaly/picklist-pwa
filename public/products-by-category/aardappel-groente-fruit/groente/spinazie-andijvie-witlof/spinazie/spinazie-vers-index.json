@@ -1,0 +1,72 @@
+[
+  {
+    "id": "224710",
+    "name": "AH Babyspinazie",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Spinazie, andijvie, witlof",
+      "Spinazie",
+      "Spinazie (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "235203",
+    "name": "AH Biologisch Spinazie",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031303237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Spinazie, andijvie, witlof",
+      "Spinazie",
+      "Spinazie (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395960",
+    "name": "AH Spinazie",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383736323931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Spinazie, andijvie, witlof",
+      "Spinazie",
+      "Spinazie (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160707",
+    "name": "AH Spinazie grootverpakking",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838363931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Spinazie, andijvie, witlof",
+      "Spinazie",
+      "Spinazie (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395948",
+    "name": "AH Spinazie kleinverpakking",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303136353934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Spinazie, andijvie, witlof",
+      "Spinazie",
+      "Spinazie (vers)"
+    ],
+    "isFood": true
+  }
+]

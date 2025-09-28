@@ -1,0 +1,100 @@
+[
+  {
+    "id": "426477",
+    "name": "Calnort Chicken bouillon cubes",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363534363533?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Vleesbouillon",
+      "Vleesbouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492037",
+    "name": "AH Bouillon rund",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130343638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Vleesbouillon",
+      "Vleesbouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549577",
+    "name": "Knorr Bouillonblokjes lam halal",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233393638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Vleesbouillon",
+      "Vleesbouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479295",
+    "name": "Maggi Bouillon blokjes rundvlees",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532333633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Vleesbouillon",
+      "Vleesbouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457582",
+    "name": "Maggi Rundvlees bouillon blokjes voordeelpak",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537383537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Vleesbouillon",
+      "Vleesbouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160958",
+    "name": "Maggi Rundvlees bouillon minder zout",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363239313537?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Vleesbouillon",
+      "Vleesbouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "406015",
+    "name": "Knorr Rundvlees Bouillon gvp BEL",
+    "price": 1.49,
+    "image": "NA",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Vleesbouillon",
+      "Vleesbouillon (blokjes)"
+    ],
+    "isFood": true
+  }
+]

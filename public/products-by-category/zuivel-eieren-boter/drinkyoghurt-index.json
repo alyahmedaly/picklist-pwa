@@ -1,0 +1,508 @@
+[
+  {
+    "id": "550193",
+    "name": "Müller Müllermilk milkshake aardbei",
+    "price": 1.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635323333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550194",
+    "name": "Müller Müllermilk milkshake vanille",
+    "price": 1.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635323337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583283",
+    "name": "Actimel 3in1 drinkyoghurt perzik & passievrucht",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493087",
+    "name": "Müller Mullermilk strawberry",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635333333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194067",
+    "name": "AH Drinkyoghurt banaan kiwi",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431393134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3017",
+    "name": "Fristi Rood fruit",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430323333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "242328",
+    "name": "Fristi Rood fruit",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430323632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "66027",
+    "name": "Fristi Rood fruit 0% suiker toegevoegd",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430323334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "521901",
+    "name": "Fristi Rood fruit 16-pack",
+    "price": 17.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383835393435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575543",
+    "name": "Melkunie Yoghurt smoothie framboos",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738363039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575544",
+    "name": "Melkunie Yoghurt smoothie mango",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738363537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520217",
+    "name": "Müller Mullermilk banaan",
+    "price": 1.27,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635333332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583280",
+    "name": "Müller Müllermilk raspberry flavour",
+    "price": 1.27,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336373139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421592",
+    "name": "Vifit Goedemorgen kiwi aardbei banaan",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933323335?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456336",
+    "name": "AH Drinkyoghurt passievrucht mango",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373533343538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447765",
+    "name": "AH Yoghurtdrink aardbei",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447772",
+    "name": "AH Yoghurtdrink framboos",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416908",
+    "name": "Körfez Ayran yoghurt drink",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331323634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583282",
+    "name": "Actimel 3in1 drinkyoghurt bosbes & braam",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456324",
+    "name": "AH Drinkyoghurt aardbei kers",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536323936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "141708",
+    "name": "AH Drinkyoghurt framboos",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431393136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456385",
+    "name": "AH Drinkyoghurt limoen",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373533353230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185566",
+    "name": "Vifit Drinkyoghurt aardbei",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735333630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121221",
+    "name": "Vifit Drinkyoghurt perzik",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933303432?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "57425",
+    "name": "Vifit Drinkyoghurt rode vruchten",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933323336?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421590",
+    "name": "Vifit Goedemorgen framboos blauwe bes",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933313230?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "138105",
+    "name": "Vifit Goedemorgen! aardbei kiwi banaan",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933313035?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "61758",
+    "name": "Optimel Drinkyoghurt framboos",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393239303631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168906",
+    "name": "Optimel Drinkyoghurt framboos",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393239303632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186724",
+    "name": "Optimel Drinkyoghurt limited edition",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231353935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "61760",
+    "name": "Optimel Drinkyoghurt limoen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236383033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "224719",
+    "name": "Optimel Drinkyoghurt mango passievrucht voordeel",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236383332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575535",
+    "name": "Optimel Proteïne drink yoghurt aardbei banaan",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631383731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575478",
+    "name": "Optimel Proteïne drink yoghurt perzik peer",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631383639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575713",
+    "name": "Fristi 1L voordeelpakket 3-pack",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583277",
+    "name": "Isey Skyr drink aardbei-banaan",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131313932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583278",
+    "name": "Isey Skyr drink mango-passievrucht",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131313933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440374",
+    "name": "Optimel Drinkyoghurt aardbei",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236383335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121581",
+    "name": "Optimel Drinkyoghurt aardbei-kers",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236383037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575743",
+    "name": "Optimel drinkyoghurt framboos 1L 3-pack",
+    "price": 5.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580338",
+    "name": "Optimel drinkyoghurt framboos 500ml 3-pack",
+    "price": 4.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171805",
+    "name": "Optimel Drinkyoghurt framboos voordeelpak",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236383133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129244",
+    "name": "Optimel Drinkyoghurt mango passievrucht",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236383038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575744",
+    "name": "Optimel drinkyoghurt mango passievrucht 1L 3pack",
+    "price": 5.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168907",
+    "name": "Optimel Drinkyoghurt mango-passievrucht",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236383237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580340",
+    "name": "Vifit aardbei kiwi banaan 1L 3-pack",
+    "price": 7.26,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Drinkyoghurt"
+    ],
+    "isFood": true
+  }
+]

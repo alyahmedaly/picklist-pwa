@@ -1,0 +1,74 @@
+[
+  {
+    "id": "582657",
+    "name": "Perfect Ted Salted caramel matcha capsules",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030373831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Matcha thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582655",
+    "name": "Perfect Ted Summer berry matcha powder",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Matcha thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582656",
+    "name": "Perfect Ted Ceremonial grade matcha capsules",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030383233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Matcha thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582654",
+    "name": "Perfect Ted Ceremonial grade organic matcha powder",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030373734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Matcha thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408137",
+    "name": "Celestial Seasonings Seasonings organic organic matcha thee",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537313134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Matcha thee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550309",
+    "name": "Pukka Supreme matcha green",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393539363638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Matcha thee"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Kaas > Kaas voor borrel > Mozzarella, burrata",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Kaas > Kaas voor borrel > Mozzarella, burrata",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "mozzarella",
+      "displayName": "Mozzarella",
+      "productCount": 21,
+      "filePath": "mozzarella.jsonl",
+      "indexPath": "mozzarella-index.json",
+      "statsPath": "mozzarella-stats.json",
+      "averageProtein": 14.5,
+      "halalCompliance": 90
+    },
+    {
+      "name": "burrata",
+      "displayName": "Burrata",
+      "productCount": 9,
+      "filePath": "burrata.jsonl",
+      "indexPath": "burrata-index.json",
+      "statsPath": "burrata-stats.json",
+      "averageProtein": 10.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 30,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 30,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Kaas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kaas Voor Borrel",
+        "path": "../index.json"
+      },
+      {
+        "name": "Mozzarella Burrata",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "kaas-vleeswaren-tapas/kaas/kaas-voor-borrel"
+  }
+}

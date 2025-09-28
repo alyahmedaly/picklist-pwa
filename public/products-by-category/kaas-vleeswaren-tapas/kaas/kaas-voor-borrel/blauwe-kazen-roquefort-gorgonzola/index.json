@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Kaas > Kaas voor borrel > Blauwe kazen, roquefort, gorgonzola",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Kaas > Kaas voor borrel > Blauwe kazen, roquefort, gorgonzola",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "blauwe-kaas",
+      "displayName": "Blauwe Kaas",
+      "productCount": 13,
+      "filePath": "blauwe-kaas.jsonl",
+      "indexPath": "blauwe-kaas-index.json",
+      "statsPath": "blauwe-kaas-stats.json",
+      "averageProtein": 18.9,
+      "halalCompliance": 100
+    },
+    {
+      "name": "gorgonzola",
+      "displayName": "Gorgonzola",
+      "productCount": 5,
+      "filePath": "gorgonzola.jsonl",
+      "indexPath": "gorgonzola-index.json",
+      "statsPath": "gorgonzola-stats.json",
+      "averageProtein": 17.7,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 18,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 18,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Kaas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kaas Voor Borrel",
+        "path": "../index.json"
+      },
+      {
+        "name": "Blauwe Kazen Roquefort Gorgonzola",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "kaas-vleeswaren-tapas/kaas/kaas-voor-borrel"
+  }
+}

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "191098",
+    "name": "Iglo Crispino's",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Gepaneerde vis (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231931",
+    "name": "Iglo Lekkerbekje sticks",
+    "price": 3.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731303030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Gepaneerde vis (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121487",
+    "name": "AH Kibbeling",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330323931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Gepaneerde vis (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "799",
+    "name": "AH Lekkerbekjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330323733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Gepaneerde vis (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191097",
+    "name": "Iglo Visschnitzels",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Gepaneerde vis (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "371592",
+    "name": "Iglo Kibbeling traditioneel",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Gepaneerde vis (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550322",
+    "name": "Iglo Smaak sensatie spinazie",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934313239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Gepaneerde vis (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550321",
+    "name": "Iglo Smaak sensatie tomaat mozzarella",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934313331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Gepaneerde vis (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231914",
+    "name": "Iglo Fish burgers classic",
+    "price": 4.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Gepaneerde vis (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492650",
+    "name": "Iglo Oven visfilet mediteraans",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032303135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Gepaneerde vis (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492649",
+    "name": "Iglo Oven lekkerbekje gepaneerd",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032303136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Gepaneerde vis (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217607",
+    "name": "Iglo Lekkerbekjes in bierbeslag",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933373038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Gepaneerde vis (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237651",
+    "name": "Iglo Lekkerbekjes traditioneel",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Gepaneerde vis (diepvries)"
+    ],
+    "isFood": true
+  }
+]

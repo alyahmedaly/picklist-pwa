@@ -1,0 +1,60 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "mixdranken",
+      "displayName": "Mixdranken",
+      "productCount": 62,
+      "hasSubdirectories": false,
+      "indexPath": "mixdranken/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "hard-seltzer",
+      "displayName": "Hard Seltzer",
+      "productCount": 26,
+      "filePath": "hard-seltzer.jsonl",
+      "indexPath": "hard-seltzer-index.json",
+      "statsPath": "hard-seltzer-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 27
+    },
+    {
+      "name": "likorettes",
+      "displayName": "Likorettes",
+      "productCount": 13,
+      "filePath": "likorettes.jsonl",
+      "indexPath": "likorettes-index.json",
+      "statsPath": "likorettes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 23
+    }
+  ],
+  "totalProducts": 101,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 101,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../index.json"
+      },
+      {
+        "name": "Mixdranken En Likorettes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "wijn-en-bubbels"
+  }
+}

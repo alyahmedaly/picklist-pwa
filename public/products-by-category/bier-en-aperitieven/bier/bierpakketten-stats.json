@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bier en aperitieven > Bier > Bierpakketten",
+  "breadcrumbs": "Bier en aperitieven > Bier > Bierpakketten",
+  "totalProducts": 12,
+  "halalCompliance": 100,
+  "averageProtein": 0.1,
+  "averagePrice": 12.91,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 3,
+    "withIngredients": 12,
+    "withHalalCheck": 12
+  }
+}

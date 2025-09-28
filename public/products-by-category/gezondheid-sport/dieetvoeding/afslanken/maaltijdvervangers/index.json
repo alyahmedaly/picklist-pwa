@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Gezondheid, sport > Dieetvoeding > Afslanken > Maaltijdvervangers",
+  "breadcrumbs": "Gezondheid, sport > Dieetvoeding > Afslanken > Maaltijdvervangers",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "drinkmaaltijd",
+      "displayName": "Drinkmaaltijd",
+      "productCount": 12,
+      "filePath": "drinkmaaltijd.jsonl",
+      "indexPath": "drinkmaaltijd-index.json",
+      "statsPath": "drinkmaaltijd-stats.json",
+      "averageProtein": 6.3,
+      "halalCompliance": 25
+    }
+  ],
+  "totalProducts": 12,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Dieetvoeding",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Afslanken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Maaltijdvervangers",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "gezondheid-sport/dieetvoeding/afslanken"
+  }
+}

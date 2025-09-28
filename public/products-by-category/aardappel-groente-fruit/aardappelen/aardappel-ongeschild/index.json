@@ -1,0 +1,50 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "hele-aardappel-iets-kruimig",
+      "displayName": "Hele Aardappel Iets Kruimig",
+      "productCount": 10,
+      "hasSubdirectories": false,
+      "indexPath": "hele-aardappel-iets-kruimig/index.json"
+    },
+    {
+      "name": "hele-aardappel-vastkokend",
+      "displayName": "Hele Aardappel Vastkokend",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "hele-aardappel-vastkokend/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 16,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 16,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Aardappelen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Aardappel Ongeschild",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/aardappelen"
+  }
+}

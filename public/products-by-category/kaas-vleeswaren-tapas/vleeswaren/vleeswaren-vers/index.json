@@ -1,0 +1,136 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Vleeswaren > Vleeswaren vers",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Vleeswaren > Vleeswaren vers",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "spaanse-en-italiaanse-vleeswaren-versafdeling",
+      "displayName": "Spaanse En Italiaanse Vleeswaren Versafdeling",
+      "productCount": 22,
+      "filePath": "spaanse-en-italiaanse-vleeswaren-versafdeling.jsonl",
+      "indexPath": "spaanse-en-italiaanse-vleeswaren-versafdeling-index.json",
+      "statsPath": "spaanse-en-italiaanse-vleeswaren-versafdeling-stats.json",
+      "averageProtein": 25.6,
+      "halalCompliance": 9
+    },
+    {
+      "name": "ham-versafdeling",
+      "displayName": "Ham Versafdeling",
+      "productCount": 16,
+      "filePath": "ham-versafdeling.jsonl",
+      "indexPath": "ham-versafdeling-index.json",
+      "statsPath": "ham-versafdeling-stats.json",
+      "averageProtein": 23.4,
+      "halalCompliance": 0
+    },
+    {
+      "name": "kipfilet-en-kalkoenfilet-versafdeling",
+      "displayName": "Kipfilet En Kalkoenfilet Versafdeling",
+      "productCount": 14,
+      "filePath": "kipfilet-en-kalkoenfilet-versafdeling.jsonl",
+      "indexPath": "kipfilet-en-kalkoenfilet-versafdeling-index.json",
+      "statsPath": "kipfilet-en-kalkoenfilet-versafdeling-stats.json",
+      "averageProtein": 19.4,
+      "halalCompliance": 100
+    },
+    {
+      "name": "filet-americain-versafdeling",
+      "displayName": "Filet Americain Versafdeling",
+      "productCount": 13,
+      "filePath": "filet-americain-versafdeling.jsonl",
+      "indexPath": "filet-americain-versafdeling-index.json",
+      "statsPath": "filet-americain-versafdeling-stats.json",
+      "averageProtein": 13.2,
+      "halalCompliance": 15
+    },
+    {
+      "name": "pate-versafdeling",
+      "displayName": "Pate Versafdeling",
+      "productCount": 10,
+      "filePath": "pate-versafdeling.jsonl",
+      "indexPath": "pate-versafdeling-index.json",
+      "statsPath": "pate-versafdeling-stats.json",
+      "averageProtein": 9.6,
+      "halalCompliance": 0
+    },
+    {
+      "name": "gegrild-en-gebraden-gehakt-versafdeling",
+      "displayName": "Gegrild En Gebraden Gehakt Versafdeling",
+      "productCount": 8,
+      "filePath": "gegrild-en-gebraden-gehakt-versafdeling.jsonl",
+      "indexPath": "gegrild-en-gebraden-gehakt-versafdeling-index.json",
+      "statsPath": "gegrild-en-gebraden-gehakt-versafdeling-stats.json",
+      "averageProtein": 13.2,
+      "halalCompliance": 13
+    },
+    {
+      "name": "rosbief-en-fricandeau-versafdeling",
+      "displayName": "Rosbief En Fricandeau Versafdeling",
+      "productCount": 7,
+      "filePath": "rosbief-en-fricandeau-versafdeling.jsonl",
+      "indexPath": "rosbief-en-fricandeau-versafdeling-index.json",
+      "statsPath": "rosbief-en-fricandeau-versafdeling-stats.json",
+      "averageProtein": 21.7,
+      "halalCompliance": 86
+    },
+    {
+      "name": "spek-en-bacon-plakken-versafdeling",
+      "displayName": "Spek En Bacon Plakken Versafdeling",
+      "productCount": 6,
+      "filePath": "spek-en-bacon-plakken-versafdeling.jsonl",
+      "indexPath": "spek-en-bacon-plakken-versafdeling-index.json",
+      "statsPath": "spek-en-bacon-plakken-versafdeling-stats.json",
+      "averageProtein": 17.8,
+      "halalCompliance": 0
+    },
+    {
+      "name": "ossenworst-en-tartaar-versafdeling",
+      "displayName": "Ossenworst En Tartaar Versafdeling",
+      "productCount": 5,
+      "filePath": "ossenworst-en-tartaar-versafdeling.jsonl",
+      "indexPath": "ossenworst-en-tartaar-versafdeling-index.json",
+      "statsPath": "ossenworst-en-tartaar-versafdeling-stats.json",
+      "averageProtein": 14.2,
+      "halalCompliance": 80
+    },
+    {
+      "name": "salami-en-cervelaat-versafdeling",
+      "displayName": "Salami En Cervelaat Versafdeling",
+      "productCount": 5,
+      "filePath": "salami-en-cervelaat-versafdeling.jsonl",
+      "indexPath": "salami-en-cervelaat-versafdeling-index.json",
+      "statsPath": "salami-en-cervelaat-versafdeling-stats.json",
+      "averageProtein": 20,
+      "halalCompliance": 40
+    }
+  ],
+  "totalProducts": 106,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 106,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vleeswaren",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vleeswaren Vers",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "kaas-vleeswaren-tapas/vleeswaren"
+  }
+}

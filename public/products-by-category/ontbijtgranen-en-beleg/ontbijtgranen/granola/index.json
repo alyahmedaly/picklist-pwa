@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Ontbijtgranen > Granola",
+  "breadcrumbs": "Ontbijtgranen en beleg > Ontbijtgranen > Granola",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "granola-noten",
+      "displayName": "Granola Noten",
+      "productCount": 10,
+      "filePath": "granola-noten.jsonl",
+      "indexPath": "granola-noten-index.json",
+      "statsPath": "granola-noten-stats.json",
+      "averageProtein": 15,
+      "halalCompliance": 100
+    },
+    {
+      "name": "granola-naturel",
+      "displayName": "Granola Naturel",
+      "productCount": 9,
+      "filePath": "granola-naturel.jsonl",
+      "indexPath": "granola-naturel-index.json",
+      "statsPath": "granola-naturel-stats.json",
+      "averageProtein": 13.2,
+      "halalCompliance": 89
+    }
+  ],
+  "totalProducts": 19,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 19,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Ontbijtgranen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Granola",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/ontbijtgranen"
+  }
+}

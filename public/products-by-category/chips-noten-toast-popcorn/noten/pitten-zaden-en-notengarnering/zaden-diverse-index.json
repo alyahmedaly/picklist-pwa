@@ -1,0 +1,106 @@
+[
+  {
+    "id": "469387",
+    "name": "AH Biologisch Hazelnoten ongebrand",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338343135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pitten, zaden en notengarnering",
+      "Zaden (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470038",
+    "name": "AH Biologisch Hennepzaad",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939353436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pitten, zaden en notengarnering",
+      "Zaden (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "406390",
+    "name": "Smaakt Sesamzaad gepeld",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pitten, zaden en notengarnering",
+      "Zaden (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227827",
+    "name": "Smaakt Sesamzaad ongepeld",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934383435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pitten, zaden en notengarnering",
+      "Zaden (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575450",
+    "name": "Smaakt Vezelrijk zadenmix brood",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934383438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pitten, zaden en notengarnering",
+      "Zaden (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470037",
+    "name": "AH Biologisch Chiazaad",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338333839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pitten, zaden en notengarnering",
+      "Zaden (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462246",
+    "name": "Valle del sole Soja stukjes",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638343930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pitten, zaden en notengarnering",
+      "Zaden (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469670",
+    "name": "Smaakt Grove sojastukjes",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136343837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pitten, zaden en notengarnering",
+      "Zaden (diverse)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "id": "190276",
+    "name": "Cardini's Honey mustard dressing",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331363533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553347",
+    "name": "Kewpie Roasted sesame dressing",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530313932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384759",
+    "name": "Jean Bâton Dressing truffel",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536323133?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515706",
+    "name": "Remia Salata pesto dressing",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935333533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551434",
+    "name": "Remia Salata creamy lemon pepper dressing",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935333631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "398510",
+    "name": "AH Dressing sinaasappel-chili",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383430313637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "398507",
+    "name": "AH Dressing thousand islands",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383430313636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494429",
+    "name": "Remia Truffle dressing",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934323534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "430909",
+    "name": "AH Komkommer dille dressing",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383430313634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185537",
+    "name": "Hela Mosterd dille dressing",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533303734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535160",
+    "name": "Red Phoenix Sesam soja dressing",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437505",
+    "name": "Remia Salata ranch dressing",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934323532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535168",
+    "name": "Red Phoenix Poké dressing met geroosterde sesam",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131343136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163261",
+    "name": "AH Naturel sladressing",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432383638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551383",
+    "name": "Remia Salata dressing naturel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935313134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551385",
+    "name": "Remia Salata fijne kruiden dressing",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935333536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457483",
+    "name": "Remia Salata zero% balsamico dressing",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934323537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457481",
+    "name": "Remia Salata zero% naturel dressing",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934323536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457482",
+    "name": "Remia Salata yoghurt dressing 0% suiker",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934323538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216013",
+    "name": "Remia Dressing balsamico dressing",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935333630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457589",
+    "name": "Calvé Honing appel salade dressing",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393832353235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535124",
+    "name": "Red Phoenix Yuzu style dressing",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131343137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Sladressing, slasaus",
+      "Sladressing"
+    ],
+    "isFood": true
+  }
+]

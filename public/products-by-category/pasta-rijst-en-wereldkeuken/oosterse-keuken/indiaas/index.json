@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Oosterse keuken > Indiaas",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Oosterse keuken > Indiaas",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "indiase-woksaus",
+      "displayName": "Indiase Woksaus",
+      "productCount": 9,
+      "filePath": "indiase-woksaus.jsonl",
+      "indexPath": "indiase-woksaus-index.json",
+      "statsPath": "indiase-woksaus-stats.json",
+      "averageProtein": 1.6,
+      "halalCompliance": 89
+    }
+  ],
+  "totalProducts": 9,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Oosterse Keuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Indiaas",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/oosterse-keuken"
+  }
+}

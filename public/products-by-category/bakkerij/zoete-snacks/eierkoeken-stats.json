@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Zoete snacks > Eierkoeken",
+  "breadcrumbs": "Bakkerij > Zoete snacks > Eierkoeken",
+  "totalProducts": 9,
+  "halalCompliance": 67,
+  "averageProtein": 7.2,
+  "averagePrice": 2.13,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 9,
+    "withIngredients": 9,
+    "withHalalCheck": 9
+  }
+}

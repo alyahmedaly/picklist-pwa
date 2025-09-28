@@ -1,0 +1,122 @@
+[
+  {
+    "id": "575755",
+    "name": "AH Airfryer & ovenolie spray",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935373139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Frituurvet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1526",
+    "name": "AH Frituurvet",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303239343633?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Frituurvet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "154275",
+    "name": "AH Vloeibaar fituurvet",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363730323832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Frituurvet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469662",
+    "name": "King Rijstolie",
+    "price": 8.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130343036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Frituurvet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62423",
+    "name": "AH Frituurolie",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538333832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Frituurvet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "428496",
+    "name": "AH Frituurolie",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Frituurvet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408250",
+    "name": "Diamant Extra krokante friet frituurvet",
+    "price": 14.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373633373837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Frituurvet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388102",
+    "name": "Diamant Friet & snacks frituurolie",
+    "price": 13.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383433383231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Frituurvet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408249",
+    "name": "Diamant Friet & snacks frituurvet",
+    "price": 12.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383433383137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Frituurvet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167776",
+    "name": "Diamant Friet & snacks vast frituurvet",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373633373839?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Frituurvet"
+    ],
+    "isFood": true
+  }
+]

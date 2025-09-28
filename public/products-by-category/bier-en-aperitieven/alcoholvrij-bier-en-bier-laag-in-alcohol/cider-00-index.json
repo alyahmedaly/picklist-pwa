@@ -1,0 +1,62 @@
+[
+  {
+    "id": "222080",
+    "name": "Stassen Zéro perzik BEL",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432313635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Cider 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548605",
+    "name": "Apple Bandit Cider 0.0% raspberry",
+    "price": 1.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730333137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Cider 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505665",
+    "name": "Apple Bandit Cider juicy apple 0.0",
+    "price": 1.14,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730323732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Cider 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505670",
+    "name": "Apple Bandit Juicy apple 0.0 cider 6-pack",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639333438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Cider 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548606",
+    "name": "Apple Bandit Raspberry 0.0 cider 6-pack",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639363937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Cider 0.0"
+    ],
+    "isFood": true
+  }
+]

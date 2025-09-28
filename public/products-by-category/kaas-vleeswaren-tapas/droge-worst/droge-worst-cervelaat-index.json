@@ -1,0 +1,110 @@
+[
+  {
+    "id": "374020",
+    "name": "Stegeman Cervelaat Dijon mosterd",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539323536?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - cervelaat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374017",
+    "name": "Stegeman Cervelaat fijn",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539323439?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - cervelaat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194162",
+    "name": "Stegeman Rundercervelaat",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539323537?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - cervelaat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508280",
+    "name": "Stegeman Plus cervelaat fijn",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383032313836?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - cervelaat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177015",
+    "name": "Snijders Cervelaat",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439383736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - cervelaat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570169",
+    "name": "Stegeman Fuet knoflook basilicum",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331373233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - cervelaat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "33050",
+    "name": "AH Cervelaat fijn",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313737383439?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - cervelaat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570168",
+    "name": "Stegeman Fuet oude kaas",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331373232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - cervelaat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579235",
+    "name": "AH Spaanse fuet met truffel 2-pack",
+    "price": 5.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - cervelaat"
+    ],
+    "isFood": true
+  }
+]

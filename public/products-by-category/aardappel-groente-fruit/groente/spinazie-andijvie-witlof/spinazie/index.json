@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Spinazie, andijvie, witlof > Spinazie",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Spinazie, andijvie, witlof > Spinazie",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "spinazie-vers",
+      "displayName": "Spinazie Vers",
+      "productCount": 5,
+      "filePath": "spinazie-vers.jsonl",
+      "indexPath": "spinazie-vers-index.json",
+      "statsPath": "spinazie-vers-stats.json",
+      "averageProtein": 3.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Spinazie Andijvie Witlof",
+        "path": "../index.json"
+      },
+      {
+        "name": "Spinazie",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/spinazie-andijvie-witlof"
+  }
+}

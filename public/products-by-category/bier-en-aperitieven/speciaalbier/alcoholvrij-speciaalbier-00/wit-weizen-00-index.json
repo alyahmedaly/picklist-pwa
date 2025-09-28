@@ -1,0 +1,119 @@
+[
+  {
+    "id": "191697",
+    "name": "Bavaria 0,0% wit bl",
+    "price": 0.9,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373134353232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Wit & weizen 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169183",
+    "name": "Bavaria 0.0% Wit 6-pack",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433383130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Wit & weizen 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502898",
+    "name": "Affligem Belgisch wit 0.0 abdijbier",
+    "price": 1.11,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730323537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Wit & weizen 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502936",
+    "name": "Affligem Belgisch wit 0.0 abdijbier 6-pack",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639373036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Wit & weizen 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "434104",
+    "name": "Brand Weizen 0.0",
+    "price": 1.12,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639333031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Wit & weizen 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "434194",
+    "name": "Brand Weizen 0.0 6-pack",
+    "price": 6.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931353338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Wit & weizen 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460645",
+    "name": "Grolsch Weizen 0.0%",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536303233?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Wit & weizen 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460647",
+    "name": "Grolsch Weizen alcoholvrij speciaalbier 6-pack",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735323930?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Wit & weizen 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460337",
+    "name": "Lowlander 0.00% wit",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393730343334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Wit & weizen 0.0"
+    ],
+    "isFood": true
+  }
+]

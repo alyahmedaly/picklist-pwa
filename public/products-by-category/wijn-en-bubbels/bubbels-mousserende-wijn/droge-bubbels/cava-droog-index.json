@@ -1,0 +1,106 @@
+[
+  {
+    "id": "497482",
+    "name": "Marqués de Requena Brut",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938393331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Cava (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551417",
+    "name": "Hola! Barcelona organic brut cava",
+    "price": 7.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530343432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Cava (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551418",
+    "name": "Hola! Barcelona organic rosé cava",
+    "price": 7.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530343339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Cava (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199481",
+    "name": "Codorníu Clasico brut rosé",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234363733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Cava (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171617",
+    "name": "Codorníu Clasico cava brut",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Cava (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374432",
+    "name": "Pere Ventura Colección Privada Cava Gran Reserva",
+    "price": 15.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Cava (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230219",
+    "name": "Pere Ventura Collección Privada Cava Res. Brut Rosé",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373234343339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Cava (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230218",
+    "name": "Pere Ventura Collección Privada Cava Reserva Brut",
+    "price": 13.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373234343432?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Cava (Droog)"
+    ],
+    "isFood": true
+  }
+]

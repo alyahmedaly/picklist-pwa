@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1502",
+    "name": "Campina Dubbelvla chocolade vanille",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139353138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Vla en pap",
+      "Vla",
+      "Dubbelvla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196621",
+    "name": "Melkunie Rum rozijnen vla",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373235353938?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Vla en pap",
+      "Vla",
+      "Dubbelvla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555456",
+    "name": "Zuivelhoeve Boer'n duo vla vanille chocolade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235363435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Vla en pap",
+      "Vla",
+      "Dubbelvla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575528",
+    "name": "Zuivelhoeve Boer'n vla vanille & chocolade",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235363436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Vla en pap",
+      "Vla",
+      "Dubbelvla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580339",
+    "name": "Campina Dubbelvla Chocola Vanille 1L 3-pack",
+    "price": 6.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Vla en pap",
+      "Vla",
+      "Dubbelvla"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,117 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "kaas-beleg",
+      "displayName": "Kaas Beleg",
+      "productCount": 226,
+      "hasSubdirectories": true,
+      "indexPath": "kaas-beleg/index.json"
+    },
+    {
+      "name": "ontbijtgranen",
+      "displayName": "Ontbijtgranen",
+      "productCount": 204,
+      "hasSubdirectories": true,
+      "indexPath": "ontbijtgranen/index.json"
+    },
+    {
+      "name": "zoet-broodbeleg",
+      "displayName": "Zoet Broodbeleg",
+      "productCount": 182,
+      "hasSubdirectories": true,
+      "indexPath": "zoet-broodbeleg/index.json"
+    },
+    {
+      "name": "fruit-noten-haver-mueslirepen",
+      "displayName": "Fruit Noten Haver Mueslirepen",
+      "productCount": 93,
+      "hasSubdirectories": false,
+      "indexPath": "fruit-noten-haver-mueslirepen/index.json"
+    },
+    {
+      "name": "beleg-salades",
+      "displayName": "Beleg Salades",
+      "productCount": 81,
+      "hasSubdirectories": true,
+      "indexPath": "beleg-salades/index.json"
+    },
+    {
+      "name": "crackers-rijstwafels",
+      "displayName": "Crackers Rijstwafels",
+      "productCount": 72,
+      "hasSubdirectories": false,
+      "indexPath": "crackers-rijstwafels/index.json"
+    },
+    {
+      "name": "hartig-broodbeleg",
+      "displayName": "Hartig Broodbeleg",
+      "productCount": 71,
+      "hasSubdirectories": true,
+      "indexPath": "hartig-broodbeleg/index.json"
+    },
+    {
+      "name": "ontbijtkoek",
+      "displayName": "Ontbijtkoek",
+      "productCount": 29,
+      "hasSubdirectories": false,
+      "indexPath": "ontbijtkoek/index.json"
+    },
+    {
+      "name": "vleeswaren-beleg",
+      "displayName": "Vleeswaren Beleg",
+      "productCount": 23,
+      "hasSubdirectories": true,
+      "indexPath": "vleeswaren-beleg/index.json"
+    },
+    {
+      "name": "beschuiten",
+      "displayName": "Beschuiten",
+      "productCount": 12,
+      "hasSubdirectories": false,
+      "indexPath": "beschuiten/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "plantaardig-zoet-broodbeleg",
+      "displayName": "Plantaardig Zoet Broodbeleg",
+      "productCount": 20,
+      "filePath": "plantaardig-zoet-broodbeleg.jsonl",
+      "indexPath": "plantaardig-zoet-broodbeleg-index.json",
+      "statsPath": "plantaardig-zoet-broodbeleg-stats.json",
+      "averageProtein": 20.1,
+      "halalCompliance": 95
+    },
+    {
+      "name": "poeders",
+      "displayName": "Poeders",
+      "productCount": 6,
+      "filePath": "poeders.jsonl",
+      "indexPath": "poeders-index.json",
+      "statsPath": "poeders-stats.json",
+      "averageProtein": 21.6,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 1019,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 1019,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

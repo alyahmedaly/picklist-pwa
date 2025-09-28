@@ -1,0 +1,47 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "radler-met-alcohol",
+      "displayName": "Radler Met Alcohol",
+      "productCount": 8,
+      "hasSubdirectories": false,
+      "indexPath": "radler-met-alcohol/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 8,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 8,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Bier",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Radler Cider Fruitbier Mexicaans",
+        "path": "../index.json"
+      },
+      {
+        "name": "Radler",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "bier-en-aperitieven/bier/radler-cider-fruitbier-mexicaans"
+  }
+}

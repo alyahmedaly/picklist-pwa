@@ -1,0 +1,106 @@
+[
+  {
+    "id": "221434",
+    "name": "Blue Elephant Tom kha soep maaltijd kit",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533353435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Thais maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232552",
+    "name": "Blue Elephant Phad thai noedels maaltijdkit",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383439303234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Thais maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577230",
+    "name": "Thai Delight Pad thai noodles",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232313733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Thais maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577227",
+    "name": "Thai Delight Hokkien noodles sesame teriyaki",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232323530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Thais maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577248",
+    "name": "Thai Delight Hokkien noedels mie goreng saus",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232323831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Thais maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376591",
+    "name": "Koh Thai Rijstvellen voor verse loempia's",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373631353239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Thais maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46300",
+    "name": "Knorr Wereldgerechten Thaise kip siam",
+    "price": 4.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Thais maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376592",
+    "name": "Koh Thai Rijst vermicelli",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536353039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Thais maaltijdpakket"
+    ],
+    "isFood": true
+  }
+]

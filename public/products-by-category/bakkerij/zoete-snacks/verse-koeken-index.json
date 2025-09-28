@@ -1,0 +1,518 @@
+[
+  {
+    "id": "168249",
+    "name": "AH Roze koeken",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231696",
+    "name": "AH Rocky road",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536303632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476158",
+    "name": "AH Appelkruimel koeken",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532859",
+    "name": "AH Mini appelkruimel koek",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138373537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549984",
+    "name": "AH Mini voorjaars pensee",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532858",
+    "name": "AH Mini pecan caramel koek",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138373539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517131",
+    "name": "Streeckgenoten Stroopkoeken",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232313533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230748",
+    "name": "AH American triple choco cookie",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313030313431?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555248",
+    "name": "AH Spekkoek pandan",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574931",
+    "name": "AH Witte chocolade blueberry cookie",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732373334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517132",
+    "name": "Streeckgenoten Stroopwafels",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232313534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517133",
+    "name": "Streeckgenoten Stroopwafels mini",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232313535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230783",
+    "name": "AH Chocolade & macadamian nut cookie",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313030313338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230768",
+    "name": "AH Suikerwafel",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303035393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "536145",
+    "name": "AH Mini speculaas pensee",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639363232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170059",
+    "name": "AH Stroopwafels",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232393835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216213",
+    "name": "AH Mini speculaas brokken",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236323031333133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515788",
+    "name": "AH Mini appelnotenkoek",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230818",
+    "name": "AH Mini boterkoek",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313634363335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212974",
+    "name": "AH Roomboter appelnotenkoek",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574901",
+    "name": "AH Bananen chocolade cookie",
+    "price": 1.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732373338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515732",
+    "name": "AH Choco spritsen",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515734",
+    "name": "AH Kokosmakroon",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138373538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231926",
+    "name": "AH Oatmeal cookie",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313739383636?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231532",
+    "name": "AH Roomboter picolientje",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332333832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425895",
+    "name": "AH Roomboter picolientje",
+    "price": 2.2,
+    "image": "https://static.ah.nl/dam/product/AHI_434d5035363439343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475996",
+    "name": "AH Bokkenpoten",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131393938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199399",
+    "name": "AH Pensee koek",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230721",
+    "name": "AH Roomboter amandelspijs gevulde koek",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363330363934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129016",
+    "name": "AH Roomboter gevulde koeken",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_434d5035363439343336?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199401",
+    "name": "AH Roomboter speculaasmolens",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470246",
+    "name": "Streeckgenoten Battums speculaas",
+    "price": 5.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571161",
+    "name": "AH Excellent Bloem gevulde koek",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537313034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199400",
+    "name": "AH Spritsen",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199402",
+    "name": "AH Romeo's",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131393932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170055",
+    "name": "AH Taaikorstjes",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738373036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476259",
+    "name": "AH Spijskoekjes",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131393933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575002",
+    "name": "AH Havercracker chocolade",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733323833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454318",
+    "name": "Streeckgenoten Sukerlatte",
+    "price": 2.27,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393733343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574909",
+    "name": "AH Havercracker naturel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733323834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577660",
+    "name": "Streeckgenoten Oldebroeker klinkertjes doos",
+    "price": 9.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233343034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577659",
+    "name": "Streeckgenoten Oldebroeker klinkertjes straat",
+    "price": 4.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502065",
+    "name": "Twix American cookie",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383435333632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Verse koeken"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "121607",
+    "name": "AH Schouderkarbonade gekruid",
+    "price": 4.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233323434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Karbonades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "418179",
+    "name": "AH Boerenkarbonade",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Karbonades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238928",
+    "name": "AH Biologisch Schouderkarbonade",
+    "price": 6.88,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Karbonades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "4041",
+    "name": "AH Schouderkarbonade",
+    "price": 3.32,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Karbonades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232141",
+    "name": "AH Schouderkarbonade",
+    "price": 4.82,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132363635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Karbonades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "4033",
+    "name": "AH Ribkarbonade",
+    "price": 2.52,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Karbonades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582028",
+    "name": "Weidenaar Schouderkarbonade piri piri",
+    "price": 4.19,
+    "image": "NA",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Karbonades"
+    ],
+    "isFood": true
+  }
+]

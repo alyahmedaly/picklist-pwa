@@ -1,0 +1,158 @@
+[
+  {
+    "id": "480787",
+    "name": "AH Sinas regular",
+    "price": 0.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (blik)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480796",
+    "name": "AH Sinas regular 6-pack",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (blik)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480797",
+    "name": "AH Sinas regular mini 6-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832313030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (blik)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476733",
+    "name": "Fanta orange 250ml",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539323534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (blik)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476734",
+    "name": "Fanta Orange 8-pack",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539323538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (blik)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475509",
+    "name": "Fanta Orange mini 8-pack",
+    "price": 4.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630363132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (blik)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518935",
+    "name": "Fanta Orange 12-pack",
+    "price": 8.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (blik)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553874",
+    "name": "Fanta Orange zero sugar",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531373834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (blik)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554753",
+    "name": "Fanta Orange zero sugar 8-pack",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (blik)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437915",
+    "name": "Fanta Strawberry - Kiwi zero fl Bel",
+    "price": 4.98,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303431383639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (blik)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403042",
+    "name": "Schweppes Agrumes zero 6-pack",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536323134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (blik)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544488",
+    "name": "Sisi Orange no bubbles zero sugar",
+    "price": 0.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232323139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (blik)"
+    ],
+    "isFood": true
+  }
+]

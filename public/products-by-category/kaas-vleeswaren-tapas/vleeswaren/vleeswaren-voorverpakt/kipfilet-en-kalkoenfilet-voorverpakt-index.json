@@ -1,0 +1,288 @@
+[
+  {
+    "id": "445416",
+    "name": "AH Scharrel gelderse kipworst",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445436",
+    "name": "AH Scharrel kipfilet tuinkruiden",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543390",
+    "name": "AH Gerookte kipfilet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543384",
+    "name": "AH Kalkoenfilet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445418",
+    "name": "AH Scharrel kipfilet pittig",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138353635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567013",
+    "name": "AH Scharrel kipfilet shoarma",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036303837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572428",
+    "name": "AH Biologisch Kalkoenfilet",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636343332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132220",
+    "name": "AH Kipfilet",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132247",
+    "name": "AH Scharrel flinterdunne kipfilet",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560668",
+    "name": "AH Scharrel kipfilet",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738363838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543332",
+    "name": "AH Scharrel kipfilet naturel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414984",
+    "name": "AH Scharrel kipfilet sweet chili",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138353531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548311",
+    "name": "AH Kalkoenfilet minder vet",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548313",
+    "name": "AH Scharrel kipfilet flinterdun minder vet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939353735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548312",
+    "name": "AH Scharrel kipfilet minder vet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578842",
+    "name": "AH Scharrel kipfilet minder vet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572427",
+    "name": "AH Biologisch Kipfilet flinterdun",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568370",
+    "name": "AH Gerookte kipfilet 2-pack",
+    "price": 5.68,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568379",
+    "name": "AH Kalkoenfilet 2-pack",
+    "price": 5.68,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566650",
+    "name": "AH Kipfilet 3-pack",
+    "price": 13.94,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039343238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568373",
+    "name": "AH Scharrel flinterdunne kipfilet 2-pack",
+    "price": 5.11,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568402",
+    "name": "AH Scharrel kipfilet tuinkruiden 2-pack",
+    "price": 5.68,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kipfilet en kalkoenfilet (voorverpakt)"
+    ],
+    "isFood": true
+  }
+]

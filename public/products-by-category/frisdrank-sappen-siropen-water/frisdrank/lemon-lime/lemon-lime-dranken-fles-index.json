@@ -1,0 +1,262 @@
+[
+  {
+    "id": "564803",
+    "name": "Calypso Ocean blue",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631353432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476867",
+    "name": "AH Lemon & lime regular",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476868",
+    "name": "AH Lemon & lime regular",
+    "price": 0.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830343931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476872",
+    "name": "AH Lemon & lime regular 6-pack",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195828",
+    "name": "7up Regular",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534303934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196003",
+    "name": "7up Regular",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561772",
+    "name": "7up Regular",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496802",
+    "name": "7up Regular blik 6-pack",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534303135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436666",
+    "name": "7up Regular lemon lime",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383531393536?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161332",
+    "name": "Fanta Lemon zero sugar",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339393334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553872",
+    "name": "Sprite Zero sugar lemon-lime",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553873",
+    "name": "Sprite Zero sugar lemon-lime",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635393937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476866",
+    "name": "AH Lemon & lime zero",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127086",
+    "name": "7up Free lemon lime 4-pack",
+    "price": 9.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2798",
+    "name": "7up Zero lemon lime",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534303230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476564",
+    "name": "7up Zero lemon lime",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534303937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459103",
+    "name": "7up Free 4fl BEL",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932393038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476565",
+    "name": "7up Zero lemon lime cherry",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534303939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413997",
+    "name": "Sprite can bel",
+    "price": 0.51,
+    "image": "NA",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576062",
+    "name": "Sprite Zero Sugar 1,5L 4-pack",
+    "price": 9.96,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736363233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Lemon, lime",
+      "Lemon, lime dranken (fles)"
+    ],
+    "isFood": true
+  }
+]

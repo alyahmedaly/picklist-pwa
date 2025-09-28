@@ -1,0 +1,62 @@
+[
+  {
+    "id": "476753",
+    "name": "AH Fruitbox",
+    "price": 16.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831343530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitboxen en -pakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234268",
+    "name": "AH Fruitbox appels",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373831303030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitboxen en -pakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234270",
+    "name": "AH Fruitbox peren",
+    "price": 7.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938333032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitboxen en -pakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578519",
+    "name": "AH Fruitpakket",
+    "price": 10.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933323136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitboxen en -pakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576037",
+    "name": "AH Fruitpakket extra groot",
+    "price": 14.63,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738303536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitboxen en -pakketten"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Verspakket > Soeppakketten (vers)",
+  "breadcrumbs": "Aardappel, groente, fruit > Verspakket > Soeppakketten (vers)",
+  "totalProducts": 20,
+  "halalCompliance": 55,
+  "averageProtein": 0.9,
+  "averagePrice": 6.68,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 11,
+    "withIngredients": 11,
+    "withHalalCheck": 11
+  }
+}

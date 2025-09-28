@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Kool > Witte kool, Chinese kool en koolrabi",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Kool > Witte kool, Chinese kool en koolrabi",
+  "totalProducts": 5,
+  "halalCompliance": 20,
+  "averageProtein": 0.6,
+  "averagePrice": 1.8,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 2,
+    "withIngredients": 1,
+    "withHalalCheck": 1
+  }
+}

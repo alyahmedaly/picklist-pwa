@@ -1,0 +1,405 @@
+[
+  {
+    "id": "438928",
+    "name": "AH Roomkaas met sweetpepper",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336313738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579434",
+    "name": "AH Roomkaas perzik ananas",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572080",
+    "name": "AH Roomkaas sweet pepper",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632313931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478026",
+    "name": "AH Verse roomkaas met ananas",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131393934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195445",
+    "name": "Rambol Smeltkaas met noot",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138373832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "257",
+    "name": "AH Roomkaas met kruiden",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383338323334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451543",
+    "name": "AH Roomkaas rode biet geitenkaas",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572081",
+    "name": "AH Roomkaas rode biet geitenkaas",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632313830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213546",
+    "name": "Boursin Sjalot & bieslook",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579433",
+    "name": "AH Roomkaas bieslook",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933393533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577130",
+    "name": "AH Verse roomkaas met gember",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132303032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1983",
+    "name": "Boursin Knoflook & fijne kruiden",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579447",
+    "name": "Boursin Truffelsmaak",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937313636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213365",
+    "name": "Heks'nkaas Origineel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636303433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218744",
+    "name": "Heks'nkaas Origineel",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393130363734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477908",
+    "name": "Heks'nkaas Origineel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939393332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569959",
+    "name": "Heks'nkaas Vegan olijf",
+    "price": 3.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564320",
+    "name": "AH Roomkaas truffel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537323132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550424",
+    "name": "AH Verse roomkaas met kruiden",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393239313232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217280",
+    "name": "AH Roomkaas met bieslook",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336313630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444854",
+    "name": "Boursin Knoflook & fijne kruiden",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039353031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577132",
+    "name": "Heks'nkaas Tomaat basilicum",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738323931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1982",
+    "name": "Boursin Knoflook & fijne kruiden",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130393832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "239019",
+    "name": "Garlan Verse roomkaas met kruiden",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038343535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162764",
+    "name": "Philadelphia Knoflook & fijne kruiden",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934303236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457897",
+    "name": "Philadelphia Knoflook & fijne kruiden XL",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934303238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1969",
+    "name": "Paturain Knoflook",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230383232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486717",
+    "name": "Paturain Kruiden",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230373839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518747",
+    "name": "Garlan Roomkaas met paprika & chili",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731313631?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560684",
+    "name": "Garlan Roomkaas tomaat & basilicum",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439313638?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162763",
+    "name": "Philadelphia Bieslook",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939383639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Roomkaas",
+      "Roomkaas (kruiden)"
+    ],
+    "isFood": true
+  }
+]

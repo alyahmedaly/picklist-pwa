@@ -1,0 +1,210 @@
+[
+  {
+    "id": "569713",
+    "name": "Chupa Chups Bubblegum play tennis",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338353239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486800",
+    "name": "Uggo Melon gum",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569712",
+    "name": "Chupa Chups Bubblegum unicorn eggs",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337383633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569711",
+    "name": "Chupa Chups Bubblegum magic cubes",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578500",
+    "name": "Mentos Gum Vitamins forest fruit",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730353833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569710",
+    "name": "Mentos Gum Sour green apple",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337383430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429486",
+    "name": "Mentos Gum Pure fresh bubble fresh",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429488",
+    "name": "Mentos Gum Pure fresh aardbei",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565943",
+    "name": "Mentos Gum Pure fresh strawberry",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035373735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467166",
+    "name": "AH Fruit gum suikervrij",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353736303831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429487",
+    "name": "Mentos Gum Pure fresh cherry",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569709",
+    "name": "Mentos Gum Sour strawberry",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486792",
+    "name": "Mentos Gum Vitamins citrus",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565970",
+    "name": "Sportlife Big gums cherry coconut",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636333831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565969",
+    "name": "Sportlife Big gums mango orange",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636333539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565950",
+    "name": "Sportlife Big gums strawberry blueberry",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636343732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (fruit)"
+    ],
+    "isFood": true
+  }
+]

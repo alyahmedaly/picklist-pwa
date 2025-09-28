@@ -1,0 +1,72 @@
+{
+  "categoryPath": "Wijn en bubbels > Rosé",
+  "breadcrumbs": "Wijn en bubbels > Rosé",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "droge-ros",
+      "displayName": "Droge Ros",
+      "productCount": 45,
+      "filePath": "droge-ros.jsonl",
+      "indexPath": "droge-ros-index.json",
+      "statsPath": "droge-ros-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "diverse-ros",
+      "displayName": "Diverse Ros",
+      "productCount": 11,
+      "filePath": "diverse-ros.jsonl",
+      "indexPath": "diverse-ros-index.json",
+      "statsPath": "diverse-ros-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "alcoholvrije-ros",
+      "displayName": "Alcoholvrije Ros",
+      "productCount": 7,
+      "filePath": "alcoholvrije-ros.jsonl",
+      "indexPath": "alcoholvrije-ros-index.json",
+      "statsPath": "alcoholvrije-ros-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 57
+    },
+    {
+      "name": "lichtzoete-ros",
+      "displayName": "Lichtzoete Ros",
+      "productCount": 6,
+      "filePath": "lichtzoete-ros.jsonl",
+      "indexPath": "lichtzoete-ros-index.json",
+      "statsPath": "lichtzoete-ros-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 69,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 69,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ros",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "wijn-en-bubbels"
+  }
+}

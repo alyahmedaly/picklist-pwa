@@ -1,0 +1,639 @@
+[
+  {
+    "id": "580697",
+    "name": "Streeckgenoten Strasbourg cranberry",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132323737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413243",
+    "name": "Streeckgenoten Woenselse berliner",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130363938?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465638",
+    "name": "Streeckgenoten Boterhamworst",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373931?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560859",
+    "name": "Streeckgenoten Bourgondisch spek",
+    "price": 2.79,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421090",
+    "name": "Streeckgenoten Limb boterhamworstje",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373231323936?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560871",
+    "name": "Streeckgenoten Vleespastei",
+    "price": 2.19,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560872",
+    "name": "Streeckgenoten Boerenpastei",
+    "price": 2.49,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484053",
+    "name": "Streeckgenoten Boterhamworst klein",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138333438?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413229",
+    "name": "Streeckgenoten Koempelpastei",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137373931?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413230",
+    "name": "Streeckgenoten Limburgse boerenpastei",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373935?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413228",
+    "name": "Streeckgenoten Limburgse gebakken pastei",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373932?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560870",
+    "name": "Streeckgenoten Slagers hamworst",
+    "price": 2.15,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413235",
+    "name": "Streeckgenoten Cervelaat klein",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135313937?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560860",
+    "name": "Streeckgenoten Limburgs wijncervelaat",
+    "price": 2.49,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413227",
+    "name": "Streeckgenoten Ambachtelijk gehakt",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373930?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564813",
+    "name": "Streeckgenoten Cranberry pastei",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838373932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413226",
+    "name": "Streeckgenoten Brabantse boterhamworst",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136353037?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465639",
+    "name": "Streeckgenoten Cervelaat speciaal",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135373632?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413881",
+    "name": "Streeckgenoten Grillworst pikant",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373936?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421104",
+    "name": "Streeckgenoten Limburgse gehaktballen",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130353438?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560873",
+    "name": "Streeckgenoten Gebakken pastei",
+    "price": 2.49,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560865",
+    "name": "Streeckgenoten Boeren uiengehakt",
+    "price": 2.37,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560857",
+    "name": "Streeckgenoten Kalfsboterhamworst",
+    "price": 2.36,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413234",
+    "name": "Streeckgenoten Magere cervelaat",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137383534?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572422",
+    "name": "Streeckgenoten Mosterd spekrollade",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564814",
+    "name": "Streeckgenoten Gehaktbroodje",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935333439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413222",
+    "name": "Streeckgenoten Limburgse zure pastei",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373937?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "534835",
+    "name": "Streeckgenoten Brabantse balkenbrij",
+    "price": 6.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034343330?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560854",
+    "name": "Streeckgenoten Limburgs gehaktbrood",
+    "price": 2.08,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560855",
+    "name": "Streeckgenoten Limburgse hampunt",
+    "price": 3.29,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421106",
+    "name": "Streeckgenoten Bakbloedworst",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373831333137?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560856",
+    "name": "Streeckgenoten Gebraden hampunt",
+    "price": 3.44,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560864",
+    "name": "Streeckgenoten Limburgse hoofdkaas",
+    "price": 1.65,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413246",
+    "name": "Streeckgenoten Bourgondisch rib",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373034?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421121",
+    "name": "Streeckgenoten Limburgse balkenbrij",
+    "price": 6.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135323338?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560858",
+    "name": "Streeckgenoten Kipfilet honing mosterd",
+    "price": 2.95,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413242",
+    "name": "Streeckgenoten Limburgse hoofdkaas",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383431343930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560866",
+    "name": "Streeckgenoten Gebraden kipfilet",
+    "price": 2.95,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558558",
+    "name": "Streeckgenoten Koude schotel",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534363133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560885",
+    "name": "Streeckgenoten Zure kalfspastei",
+    "price": 2.49,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413231",
+    "name": "Streeckgenoten Limburgse achterham",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373938?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560863",
+    "name": "Streeckgenoten Achterham superieur",
+    "price": 3.29,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413237",
+    "name": "Streeckgenoten Limburgse preskop",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135323034?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516428",
+    "name": "Streeckgenoten Ovengebakken kipfilet",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383538343733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560853",
+    "name": "Streeckgenoten Limburgse gebakken ham",
+    "price": 2.99,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560825",
+    "name": "Streeckgenoten Runderzuurvlees op Limburgse wijze",
+    "price": 5.99,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507661",
+    "name": "Streeckgenoten Rosbief",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634333138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580357",
+    "name": "Streeckgenoten Limburgse achterham 2-pack",
+    "price": 6.1,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560867",
+    "name": "Streeckgenoten Limburgse rundvleessalade",
+    "price": 3.99,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio zuid vleeswaren"
+    ],
+    "isFood": true
+  }
+]

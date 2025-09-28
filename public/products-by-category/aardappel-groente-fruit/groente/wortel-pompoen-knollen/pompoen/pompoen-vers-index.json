@@ -1,0 +1,114 @@
+[
+  {
+    "id": "300761",
+    "name": "AH Biologisch Halloween pompoen",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323235323334?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Pompoen",
+      "Pompoen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525261",
+    "name": "AH Biologisch Pompoen",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934323134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Pompoen",
+      "Pompoen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482844",
+    "name": "AH Flespompoen stukjes",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935313031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Pompoen",
+      "Pompoen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216032",
+    "name": "AH Muskaatpompoen stukjes",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935303938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Pompoen",
+      "Pompoen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231202",
+    "name": "AH Biologisch Flespompoen",
+    "price": 3.08,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353635393837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Pompoen",
+      "Pompoen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426004",
+    "name": "AH Biologisch Flespompoen",
+    "price": 3.08,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303335363732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Pompoen",
+      "Pompoen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "118083",
+    "name": "AH Biologisch Pompoen",
+    "price": 2.08,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353738343530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Pompoen",
+      "Pompoen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "257709",
+    "name": "AH Biologisch Pompoen",
+    "price": 2.08,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50363435313133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Pompoen",
+      "Pompoen (vers)"
+    ],
+    "isFood": true
+  }
+]

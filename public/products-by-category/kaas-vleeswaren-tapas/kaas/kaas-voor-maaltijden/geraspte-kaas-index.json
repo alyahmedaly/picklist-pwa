@@ -1,0 +1,626 @@
+[
+  {
+    "id": "539533",
+    "name": "Parrano Strooikaas originale",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431353134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560656",
+    "name": "Parrano Strooikaas robusto",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431343339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165625",
+    "name": "AH Biologisch Goudse belegen geraspte kaas 50+",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933333336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193770",
+    "name": "De Zaanse Hoeve Pittig 45+ geraspt",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635333839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486715",
+    "name": "Old Amsterdam Original 48+ geraspt",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937353038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3853",
+    "name": "AH Goudse oud 48+ geraspt",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538303638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140100",
+    "name": "AH Goudse oud 48+ geraspt voordeel",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538303734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140101",
+    "name": "De Zaanse Hoeve Mild 45+ geraspt",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635333836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560688",
+    "name": "De Zaanse Hoeve Mild 45+ geraspt voordeelverpakking",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462713",
+    "name": "AH Biologisch Goudse jong belegen 50+ geraspt",
+    "price": 3.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197172",
+    "name": "De Zaanse Hoeve Mild 30+ geraspt",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353833313432?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583240",
+    "name": "Maaslander Proteine geraspt",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037373739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "30140",
+    "name": "AH Goudse belegen 48+ geraspt",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "138205",
+    "name": "AH Goudse belegen 48+ geraspt voordeel",
+    "price": 5.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400474",
+    "name": "AH Goudse belegen geraspte kaas 48+",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46564",
+    "name": "AH Goudse jong 48+ geraspt",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538303736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "56810",
+    "name": "AH Goudse jong 48+ geraspt voordeel",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538303932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497578",
+    "name": "Parrano Kaas poeder robusto",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431343434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400471",
+    "name": "AH Biologisch Italiaanse parmigiano reggiano",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419547",
+    "name": "AH Goudse jong belegen 48+ geraspt",
+    "price": 3.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538303839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560689",
+    "name": "AH Parmigiano Reggiano DOP 32+",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478232",
+    "name": "AH Tex-mex geraspte kaas",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363439393730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478231",
+    "name": "Zanetti Parmigiano Reggiano flakes",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539343939?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140099",
+    "name": "AH Geitenkaas bel licht pittig 50+ geraspt",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439303935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197154",
+    "name": "AH Geraspte kaas speciaal voor pizza",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383030303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130836",
+    "name": "AH Goudse belegen 30+ geraspt",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130834",
+    "name": "AH Goudse jong belegen 30+ geraspt",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538303731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "143821",
+    "name": "AH Parmigiano Reggiano",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d5031303636373238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212481",
+    "name": "AH Parmigiano Reggiano",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "33648",
+    "name": "Parrano Geraspte kaas originale",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431343436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202113",
+    "name": "Parrano Geraspte kaas snippers originale",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431353136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121125",
+    "name": "Zanetti Parmigiano Reggiano",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303036383736?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497553",
+    "name": "AH Grana Padano poeder",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162601",
+    "name": "AH Pasta geraspte kaas",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303637333530?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575895",
+    "name": "AH Pittige salade flakes",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121123",
+    "name": "Zanetti Grana padano",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373032303739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478024",
+    "name": "AH Emmentaler 45+",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137343533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232017",
+    "name": "AH Mozzarella geraspt",
+    "price": 2.42,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323538383935?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202090",
+    "name": "AH Ovengratin geraspte kaas",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303430363738?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232018",
+    "name": "AH Emmentaler geraspte kaas",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553810",
+    "name": "Parrano Geraspte kaas mozzarella",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431343432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579435",
+    "name": "AH Kaasfrietjes 25+",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419590",
+    "name": "AH Zwitserse emmentaler AOP 45+ voorverpakt",
+    "price": 5.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133313839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564933",
+    "name": "AH Goudse jong belegen 48+ geraspt 3-pack",
+    "price": 9.83,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932383035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566818",
+    "name": "De Zaanse Hoeve Hoeve Kaas Rasp Pittig 45+ 3-pack",
+    "price": 7.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038333231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566754",
+    "name": "De Zaanse Hoeve Kaas Geraspt Mild 45+ 3-pack",
+    "price": 6.81,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038333230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566821",
+    "name": "De Zaanse Hoeve Kaas Mild Geraspt 30+ 3-pack",
+    "price": 6.81,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038333530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442841",
+    "name": "Emmi Strooikaas",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363239313132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Geraspte kaas"
+    ],
+    "isFood": true
+  }
+]

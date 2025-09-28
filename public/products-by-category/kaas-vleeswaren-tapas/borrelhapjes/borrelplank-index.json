@@ -1,0 +1,98 @@
+[
+  {
+    "id": "484477",
+    "name": "AH Borrelschotel Spaans",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelplank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484453",
+    "name": "AH Borrelschotel Hollands",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelplank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484476",
+    "name": "AH Luxe borrelschotel",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelplank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579825",
+    "name": "AH Grill borrelschotel",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133343834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelplank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575676",
+    "name": "AH Betaalbare plank 4 personen",
+    "price": 10.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736343133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelplank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575965",
+    "name": "AH Dipplank 4 personen",
+    "price": 33.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelplank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575683",
+    "name": "AH Klassieke plank 4 personen",
+    "price": 29.22,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736343035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelplank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575659",
+    "name": "AH Voor iedereen plank 4 personen",
+    "price": 20.8,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736343135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelplank"
+    ],
+    "isFood": true
+  }
+]

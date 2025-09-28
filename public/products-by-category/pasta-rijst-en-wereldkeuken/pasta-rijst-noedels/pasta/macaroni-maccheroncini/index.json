@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Pasta > Macaroni, maccheroncini",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Pasta > Macaroni, maccheroncini",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "macaroni",
+      "displayName": "Macaroni",
+      "productCount": 14,
+      "filePath": "macaroni.jsonl",
+      "indexPath": "macaroni-index.json",
+      "statsPath": "macaroni-stats.json",
+      "averageProtein": 12.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 14,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Pasta Rijst Noedels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Pasta",
+        "path": "../index.json"
+      },
+      {
+        "name": "Macaroni Maccheroncini",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "pasta-rijst-en-wereldkeuken/pasta-rijst-noedels/pasta"
+  }
+}

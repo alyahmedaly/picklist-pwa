@@ -1,0 +1,275 @@
+[
+  {
+    "id": "550412",
+    "name": "Koopmans Mix voor zomercake",
+    "price": 1.92,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393139393832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228602",
+    "name": "Koopmans Stroopwafel cake met stukjes karamel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638393638?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500512",
+    "name": "Koopmans Cakemeel",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500513",
+    "name": "Koopmans Boeren cakemeel",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373333393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "133820",
+    "name": "Koopmans Mix voor boerencake",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363731393933?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367205",
+    "name": "AH Mix voor cake",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444414",
+    "name": "Koopmans Marmercake vanillesmaak & chocolade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638373436?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196916",
+    "name": "Koopmans Mix voor tulband cake",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363738313834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583898",
+    "name": "Koopmans Plaatcake stroopwafel",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931323638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164739",
+    "name": "Koopmans Mix voor appelkaneelcake",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363731393938?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162983",
+    "name": "Koopmans Mix voor fijne cake",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363731393937?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450543",
+    "name": "Koopmans Mix voor kruidcake",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638373635?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571418",
+    "name": "Homemade Mix voor suikerwafels",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332353839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444410",
+    "name": "Koopmans Mix voor citroencake",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638373534?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561867",
+    "name": "Koopmans Plaatcake roodfruit",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439303136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561865",
+    "name": "Koopmans Plaatcake appelkruimel",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530313836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571415",
+    "name": "Homemade Mix voor gevulde kruidcake",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334343131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459165",
+    "name": "Koopmans Mix voor kwarkcake",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932393538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370644",
+    "name": "Dr. Oetker Mug cake stracciatella",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339383931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420727",
+    "name": "Koopmans Bananenbrood met vleugje kaneel",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363738343037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370817",
+    "name": "Dr. Oetker Mug cake chocolade",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038383236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Cake bakken",
+      "Cakemix"
+    ],
+    "isFood": true
+  }
+]

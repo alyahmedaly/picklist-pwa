@@ -1,0 +1,496 @@
+[
+  {
+    "id": "421094",
+    "name": "Streeckgenoten Kookworst",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332303439?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421108",
+    "name": "Streeckgenoten Haagse berliner",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373231333136?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498143",
+    "name": "Streeckgenoten Palingworst",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135383039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507206",
+    "name": "Streeckgenoten Rookworst",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383233373136?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516629",
+    "name": "Streeckgenoten Shoarmarollade",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383538343634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484083",
+    "name": "Streeckgenoten Hausmacher",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136353038?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "534837",
+    "name": "Streeckgenoten Mosterdgehakt",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938343137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580696",
+    "name": "Streeckgenoten Runder gebraden gehakt",
+    "price": 2.64,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132323834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507209",
+    "name": "Streeckgenoten Grillworst kaas",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035333038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560862",
+    "name": "Streeckgenoten Alt berliner",
+    "price": 2.49,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415761",
+    "name": "Streeckgenoten Grillworst naturel",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373030?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558557",
+    "name": "Streeckgenoten Grillworst naturel stukje",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234313435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577114",
+    "name": "Streeckgenoten Kipgrillworst sambal",
+    "price": 5.21,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572418",
+    "name": "Streeckgenoten Pikante kipgrillworst kaas",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636353233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577111",
+    "name": "Streeckgenoten Pamparollade",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932313035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572421",
+    "name": "Streeckgenoten Pepergehakt",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932323136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516369",
+    "name": "Slagerij bakkertje Vollendammer leverworst",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383530333331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560861",
+    "name": "Streeckgenoten Slagers hausmacher",
+    "price": 2.49,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421067",
+    "name": "Streeckgenoten Vocking leverworst",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373934?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566601",
+    "name": "Streeckgenoten Kookworst",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031353438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564812",
+    "name": "Streeckgenoten Gegrilde beenham",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034303433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421073",
+    "name": "Streeckgenoten Pastrami",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421075",
+    "name": "Streeckgenoten Nostalgische gerookte ossenworst",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373830?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577112",
+    "name": "Streeckgenoten Biologisch pikant gehakt",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421088",
+    "name": "Streeckgenoten Cornedbeef wapenaar",
+    "price": 3.27,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135323339?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580695",
+    "name": "Streeckgenoten Gerookte ribeye",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421119",
+    "name": "Streeckgenoten Amsterdams pekelvlees",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373933?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572420",
+    "name": "Streeckgenoten Gebraden kipgehakt",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516659",
+    "name": "Streeckgenoten Biologische slagers achterham",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383537393933?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507664",
+    "name": "Streeckgenoten Fricandeau",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838383631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507207",
+    "name": "Streeckgenoten Gerookte kipfilet",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383233363739?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454042",
+    "name": "Streeckgenoten Sg Filet Americain",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303539303936?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484084",
+    "name": "Streeckgenoten Rookvlees",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130353531?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421086",
+    "name": "Streeckgenoten Volendammer ham",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135383139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566609",
+    "name": "Streeckgenoten Erwtensoep met worst",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038373630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566608",
+    "name": "Streeckgenoten Tomatensoep met gehaktballetjes",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565953",
+    "name": "Streeckgenoten Erwtensoep met worst",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131373037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560818",
+    "name": "Streeckgenoten Goulashsoep Hongaarse stijl",
+    "price": 3.69,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio west vleeswaren"
+    ],
+    "isFood": true
+  }
+]

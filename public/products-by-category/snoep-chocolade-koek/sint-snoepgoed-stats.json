@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Sint snoepgoed",
+  "breadcrumbs": "Snoep, chocolade, koek > Sint snoepgoed",
+  "totalProducts": 36,
+  "halalCompliance": 11,
+  "averageProtein": 6.2,
+  "averagePrice": 3.28,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 36,
+    "withIngredients": 36,
+    "withHalalCheck": 36
+  }
+}

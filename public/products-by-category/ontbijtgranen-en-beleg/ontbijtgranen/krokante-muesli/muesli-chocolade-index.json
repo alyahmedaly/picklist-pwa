@@ -1,0 +1,145 @@
+[
+  {
+    "id": "560774",
+    "name": "Kellogg's Extra barista",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631313636?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569806",
+    "name": "AH Chocosmaak hazelnoot kussentjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332373039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553974",
+    "name": "Quaker Cruesli cookies & cream value pack",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232323333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569822",
+    "name": "AH Chocosmaak kussentjes",
+    "price": 3.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516893",
+    "name": "Quaker Cruesli chocolate value pack",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232323335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569939",
+    "name": "AH Krokante muesli chocolade",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554005",
+    "name": "Jordans Crunchy chocolate granola",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237383737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569944",
+    "name": "AH Krokante muesli chocolade 0% suiker",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332363937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569812",
+    "name": "AH Granola chocoladesmaak amandel",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336313731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569803",
+    "name": "Zonnatura Krokante muesli pure chocolade",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539333832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553976",
+    "name": "Holie Crunchy muesli chocolate",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734373639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (chocolade)"
+    ],
+    "isFood": true
+  }
+]

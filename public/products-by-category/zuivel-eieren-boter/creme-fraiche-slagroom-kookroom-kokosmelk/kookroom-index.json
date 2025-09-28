@@ -1,0 +1,146 @@
+[
+  {
+    "id": "135727",
+    "name": "Boursin Cuisine knoflook & fijne kruiden",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130393831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Kookroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397323",
+    "name": "Two Cows Kaymak gesteriliseerde room",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373935363335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Kookroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509631",
+    "name": "AH Kookroom",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Kookroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448365",
+    "name": "Paturain Cuisine",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363436333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Kookroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475117",
+    "name": "AH Kookroom 20%",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831343339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Kookroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46010",
+    "name": "Campina Room culinair",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230393130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Kookroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509632",
+    "name": "AH Kookzuivel",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Kookroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "114820",
+    "name": "Blue Band Finesse voor koken",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363836383238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Kookroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493209",
+    "name": "Blue Band Kookroom 100% plantaardig en vegan",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383538343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Kookroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502935",
+    "name": "AH Kookzuivel 7,2%",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Kookroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475223",
+    "name": "Oatly! Verse haver cuisine",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Kookroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577879",
+    "name": "AH Kookroom 20% 3-pack",
+    "price": 2.56,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930313030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Kookroom"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Soepen > Soep (zelf bereiden)",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Soepen > Soep (zelf bereiden)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "groentesoep-zelf-bereiden",
+      "displayName": "Groentesoep Zelf Bereiden",
+      "productCount": 9,
+      "filePath": "groentesoep-zelf-bereiden.jsonl",
+      "indexPath": "groentesoep-zelf-bereiden-index.json",
+      "statsPath": "groentesoep-zelf-bereiden-stats.json",
+      "averageProtein": 3.1,
+      "halalCompliance": 67
+    },
+    {
+      "name": "tomatensoep-zelf-bereiden",
+      "displayName": "Tomatensoep Zelf Bereiden",
+      "productCount": 6,
+      "filePath": "tomatensoep-zelf-bereiden.jsonl",
+      "indexPath": "tomatensoep-zelf-bereiden-index.json",
+      "statsPath": "tomatensoep-zelf-bereiden-stats.json",
+      "averageProtein": 6.8,
+      "halalCompliance": 67
+    }
+  ],
+  "totalProducts": 15,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 15,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Soepen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Soep Zelf Bereiden",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "soepen-sauzen-kruiden-olie/soepen"
+  }
+}

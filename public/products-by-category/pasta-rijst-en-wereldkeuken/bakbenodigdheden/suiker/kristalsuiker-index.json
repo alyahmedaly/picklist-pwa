@@ -1,0 +1,93 @@
+[
+  {
+    "id": "101206",
+    "name": "AH Biologisch Kristalsuiker",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373533373332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Suiker",
+      "Kristalsuiker"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "511002",
+    "name": "AH Kristalsuiker",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383337393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Suiker",
+      "Kristalsuiker"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170358",
+    "name": "Van Gilse Bruine kandij fijn",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353730373239?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Suiker",
+      "Kristalsuiker"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196938",
+    "name": "Van Gilse Fijne kaneelsuiker",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353732333932?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Suiker",
+      "Kristalsuiker"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99076",
+    "name": "Van Gilse Fijne kristalsuiker",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639323031?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Suiker",
+      "Kristalsuiker"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3697",
+    "name": "Van Gilse Kristalsuiker",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353730363932?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Suiker",
+      "Kristalsuiker"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196936",
+    "name": "Van Gilse Kristalsuiker fijn",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353730373134?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Suiker",
+      "Kristalsuiker"
+    ],
+    "isFood": true
+  }
+]

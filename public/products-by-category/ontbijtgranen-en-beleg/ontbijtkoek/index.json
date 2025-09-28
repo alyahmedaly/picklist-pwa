@@ -1,0 +1,62 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Ontbijtkoek",
+  "breadcrumbs": "Ontbijtgranen en beleg > Ontbijtkoek",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "ontbijtkoek-gesneden",
+      "displayName": "Ontbijtkoek Gesneden",
+      "productCount": 11,
+      "filePath": "ontbijtkoek-gesneden.jsonl",
+      "indexPath": "ontbijtkoek-gesneden-index.json",
+      "statsPath": "ontbijtkoek-gesneden-stats.json",
+      "averageProtein": 3.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "ontbijtkoek-ongesneden",
+      "displayName": "Ontbijtkoek Ongesneden",
+      "productCount": 9,
+      "filePath": "ontbijtkoek-ongesneden.jsonl",
+      "indexPath": "ontbijtkoek-ongesneden-index.json",
+      "statsPath": "ontbijtkoek-ongesneden-stats.json",
+      "averageProtein": 3.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "ontbijtkoek-overig",
+      "displayName": "Ontbijtkoek Overig",
+      "productCount": 9,
+      "filePath": "ontbijtkoek-overig.jsonl",
+      "indexPath": "ontbijtkoek-overig-index.json",
+      "statsPath": "ontbijtkoek-overig-stats.json",
+      "averageProtein": 3.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 29,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 29,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ontbijtkoek",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "ontbijtgranen-en-beleg"
+  }
+}

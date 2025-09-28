@@ -1,0 +1,340 @@
+[
+  {
+    "id": "535169",
+    "name": "Red Phoenix Pindasaus pikant",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131333334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "87435",
+    "name": "Wijko Satésaus",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337333334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213112",
+    "name": "Wijko Satésaus",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420250",
+    "name": "Wijko Satésaus",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337333331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199083",
+    "name": "Kokki Djawa Sate speciaal",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373836323635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535170",
+    "name": "Red Phoenix Pindasaus original",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131333331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551373",
+    "name": "Remia Pindasaus",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335383439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194758",
+    "name": "Wijko Hot satesaus kant & klaar",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037323734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516674",
+    "name": "Wijko Satésaus kant en klaar hot",
+    "price": 3.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337333031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130071",
+    "name": "AH Satésaus kant & klaar",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373237363937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457009",
+    "name": "AH Satésaus kant & klaar",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373337353833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162663",
+    "name": "Conimex Milde pindasaus kant & klaar",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935303434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167242",
+    "name": "Wijko Satesaus kant en klaar",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337323931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516647",
+    "name": "Wijko Satésaus kant en klaar",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337323839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516656",
+    "name": "Wijko Satésaus kant en klaar",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535109",
+    "name": "Wijko Satésaus kant en klaar 3-pack",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457026",
+    "name": "AH Satesaus kant & klaar hot",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373237363739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "49918",
+    "name": "Conimex Pindasaus Javaans recept",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038393937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485546",
+    "name": "Remia Satésaus hot kant en klaar",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636303637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485545",
+    "name": "Remia Satésaus kant & klaar",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636333734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457214",
+    "name": "Remia Satésaus kant en klaar",
+    "price": 4.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636303932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485544",
+    "name": "Remia Satésaus kant en klaar",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636303936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485547",
+    "name": "Remia Satésaus kant en klaar",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636303633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "60158",
+    "name": "Calvé Pindasaus mild",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933333433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130073",
+    "name": "AH Satésaus",
+    "price": 2.05,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373237373036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429237",
+    "name": "AH Satésaus",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373237363731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Satésaus"
+    ],
+    "isFood": true
+  }
+]

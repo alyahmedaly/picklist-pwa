@@ -1,0 +1,106 @@
+[
+  {
+    "id": "37997",
+    "name": "Maggi Jus rundvlees",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133333038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Jus",
+      "Jus rundvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170027",
+    "name": "Knorr Mix rundvleesjus",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Jus",
+      "Jus rundvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3427",
+    "name": "Maggi Jus rundvlees voordeel",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373235393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Jus",
+      "Jus rundvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170117",
+    "name": "Maggi Jus vleesjus",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133333539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Jus",
+      "Jus rundvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567262",
+    "name": "Maggi Jus rundvlees",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134353930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Jus",
+      "Jus rundvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188918",
+    "name": "Remia Warme schenkjus vlees",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353338353439?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Jus",
+      "Jus rundvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467729",
+    "name": "AH Krachtige rundvlees jus",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353930313431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Jus",
+      "Jus rundvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159511",
+    "name": "Knorr Mix vleesjus",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838363630?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Jus",
+      "Jus rundvlees"
+    ],
+    "isFood": true
+  }
+]

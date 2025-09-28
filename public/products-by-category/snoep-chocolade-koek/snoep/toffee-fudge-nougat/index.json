@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Snoep > Toffee, fudge, nougat",
+  "breadcrumbs": "Snoep, chocolade, koek > Snoep > Toffee, fudge, nougat",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "toffees",
+      "displayName": "Toffees",
+      "productCount": 11,
+      "filePath": "toffees.jsonl",
+      "indexPath": "toffees-index.json",
+      "statsPath": "toffees-stats.json",
+      "averageProtein": 2.2,
+      "halalCompliance": 9
+    }
+  ],
+  "totalProducts": 11,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Snoep",
+        "path": "../index.json"
+      },
+      {
+        "name": "Toffee Fudge Nougat",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "snoep-chocolade-koek/snoep"
+  }
+}

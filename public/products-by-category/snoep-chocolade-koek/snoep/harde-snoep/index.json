@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Snoep > Harde snoep",
+  "breadcrumbs": "Snoep, chocolade, koek > Snoep > Harde snoep",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "zoete-drop-hard",
+      "displayName": "Zoete Drop Hard",
+      "productCount": 13,
+      "filePath": "zoete-drop-hard.jsonl",
+      "indexPath": "zoete-drop-hard-index.json",
+      "statsPath": "zoete-drop-hard-stats.json",
+      "averageProtein": 8.4,
+      "halalCompliance": 8
+    },
+    {
+      "name": "zoute-drop-hard",
+      "displayName": "Zoute Drop Hard",
+      "productCount": 9,
+      "filePath": "zoute-drop-hard.jsonl",
+      "indexPath": "zoute-drop-hard-index.json",
+      "statsPath": "zoute-drop-hard-stats.json",
+      "averageProtein": 3.4,
+      "halalCompliance": 33
+    },
+    {
+      "name": "zuurtjes",
+      "displayName": "Zuurtjes",
+      "productCount": 7,
+      "filePath": "zuurtjes.jsonl",
+      "indexPath": "zuurtjes-index.json",
+      "statsPath": "zuurtjes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 86
+    }
+  ],
+  "totalProducts": 29,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 29,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Snoep",
+        "path": "../index.json"
+      },
+      {
+        "name": "Harde Snoep",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "snoep-chocolade-koek/snoep"
+  }
+}

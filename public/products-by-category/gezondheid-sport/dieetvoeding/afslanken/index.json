@@ -1,0 +1,54 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "maaltijdvervangers",
+      "displayName": "Maaltijdvervangers",
+      "productCount": 12,
+      "hasSubdirectories": false,
+      "indexPath": "maaltijdvervangers/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "maaltijdvervangers-repen",
+      "displayName": "Maaltijdvervangers Repen",
+      "productCount": 5,
+      "filePath": "maaltijdvervangers-repen.jsonl",
+      "indexPath": "maaltijdvervangers-repen-index.json",
+      "statsPath": "maaltijdvervangers-repen-stats.json",
+      "averageProtein": 24.6,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 17,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 17,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Dieetvoeding",
+        "path": "../index.json"
+      },
+      {
+        "name": "Afslanken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "gezondheid-sport/dieetvoeding"
+  }
+}

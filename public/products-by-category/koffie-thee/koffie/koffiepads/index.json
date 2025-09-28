@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Koffie, thee > Koffie > Koffiepads",
+  "breadcrumbs": "Koffie, thee > Koffie > Koffiepads",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "koffiepads-melkbasis",
+      "displayName": "Koffiepads Melkbasis",
+      "productCount": 6,
+      "filePath": "koffiepads-melkbasis.jsonl",
+      "indexPath": "koffiepads-melkbasis-index.json",
+      "statsPath": "koffiepads-melkbasis-stats.json",
+      "averageProtein": 0.8,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Koffie",
+        "path": "../index.json"
+      },
+      {
+        "name": "Koffiepads",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "koffie-thee/koffie"
+  }
+}

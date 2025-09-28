@@ -1,0 +1,418 @@
+[
+  {
+    "id": "518863",
+    "name": "AH Zaanlander Prestige extra oud 48+ plakken",
+    "price": 3.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383736333330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483511",
+    "name": "Old Amsterdam Belegen 48+ plakken",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373833313336?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549781",
+    "name": "Maaslander Belegen 50+ plakken",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531303532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553821",
+    "name": "AH Fenegriekkaas 48+ plakken",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437353031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557022",
+    "name": "AH Friese nagelkaas 40+ plakken kleintje",
+    "price": 2.64,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439333133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "239372",
+    "name": "AH Friese nagelkaas belegen 40+ plakken",
+    "price": 5.77,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339333035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483409",
+    "name": "AH Kleintje gatenkaas belegen 45+ plakken",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207767",
+    "name": "AH Leidse kanter 40+ plakken",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339323735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188821",
+    "name": "AH Pan Pan 20+ plakken",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339323831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557027",
+    "name": "AH Pan-pan 20+ plakken kleintje",
+    "price": 2.26,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439333135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185804",
+    "name": "AH Biologisch Belegen 50+ plakken",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335303433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2594",
+    "name": "AH Goudse belegen 48+ plakken",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "59674",
+    "name": "AH Goudse belegen 48+ plakken",
+    "price": 4.58,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331303339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "128799",
+    "name": "AH Goudse belegen 48+ plakken groot",
+    "price": 6.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335303430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104395",
+    "name": "AH Zaanlander Belegen 48+ plakken",
+    "price": 4.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231343336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557024",
+    "name": "AH Zaanlander Belegen 48+ plakken kleintje",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439333139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580604",
+    "name": "AH Zaanlander Belegen komijn 48+ plakken",
+    "price": 3.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197228",
+    "name": "De Zaanse Hoeve Belegen 48+ plakken",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572639",
+    "name": "Milner Belegen 30+ plakken",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932343032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572642",
+    "name": "Milner Belegen 30+ plakken voordeelpak",
+    "price": 4.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "224695",
+    "name": "AH Biologisch Belegen 50+ plakken",
+    "price": 4.68,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557016",
+    "name": "AH Goudse belegen 30+ plakken",
+    "price": 4.28,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557028",
+    "name": "AH Goudse fenegriek 50+ plakken kleintje",
+    "price": 2.3,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439333233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198071",
+    "name": "Beemster Belegen 30+ plakken",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132313331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409012",
+    "name": "Beemster Belegen 30+ plakken",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197942",
+    "name": "Beemster Belegen 48+ plakken",
+    "price": 5.68,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132313239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409020",
+    "name": "Beemster Belegen 48+ plakken",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335333538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419553",
+    "name": "Beemster Belegen 48+ plakken voordeel",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335333535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "136086",
+    "name": "AH Goudse belegen 30+ plakken",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334303032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "398361",
+    "name": "AH Zaanlander Belegen 35+ plakken",
+    "price": 3.6,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197207",
+    "name": "De Zaanse Hoeve Belegen 30+ plakken",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168235",
+    "name": "AH Kaas belegen 20+ plakken",
+    "price": 4.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331303232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Belegen kaas broodbeleg",
+      "Belegen kaas (plakken)"
+    ],
+    "isFood": true
+  }
+]

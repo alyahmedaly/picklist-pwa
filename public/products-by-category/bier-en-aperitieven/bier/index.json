@@ -1,0 +1,67 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "pils",
+      "displayName": "Pils",
+      "productCount": 147,
+      "hasSubdirectories": false,
+      "indexPath": "pils/index.json"
+    },
+    {
+      "name": "radler-cider-fruitbier-mexicaans",
+      "displayName": "Radler Cider Fruitbier Mexicaans",
+      "productCount": 67,
+      "hasSubdirectories": true,
+      "indexPath": "radler-cider-fruitbier-mexicaans/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "bierpakketten",
+      "displayName": "Bierpakketten",
+      "productCount": 12,
+      "filePath": "bierpakketten.jsonl",
+      "indexPath": "bierpakketten-index.json",
+      "statsPath": "bierpakketten-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "bier-glutenvrij",
+      "displayName": "Bier Glutenvrij",
+      "productCount": 7,
+      "filePath": "bier-glutenvrij.jsonl",
+      "indexPath": "bier-glutenvrij-index.json",
+      "statsPath": "bier-glutenvrij-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 233,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 233,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../index.json"
+      },
+      {
+        "name": "Bier",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "bier-en-aperitieven"
+  }
+}

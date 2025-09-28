@@ -1,0 +1,106 @@
+[
+  {
+    "id": "221766",
+    "name": "Knorr Wereldgerechten Indiase kip tandoori",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Indiaas maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419291",
+    "name": "Maggi Stir-fry noodles chicken curry",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373334303139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Indiaas maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228063",
+    "name": "Knorr Wereldgerechten Indiase kip tandoori XL",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Indiaas maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577231",
+    "name": "AH Comfort bowl tikka massala",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Indiaas maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577262",
+    "name": "Full of Goodness Tasty bowl warming chickpea dhal",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Indiaas maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577265",
+    "name": "Full of Goodness Tasty bowl rich lentil dhal",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Indiaas maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191452",
+    "name": "Knorr Wereldgerechten Indiase kip madras",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Indiaas maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487024",
+    "name": "Knorr Wereldgerechten Indiase kip madras xl",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839383333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Indiaas maaltijdpakket"
+    ],
+    "isFood": true
+  }
+]

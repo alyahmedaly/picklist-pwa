@@ -1,0 +1,74 @@
+[
+  {
+    "id": "453747",
+    "name": "Bonduelle Bloemkool rijst",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936383230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Bloemkool (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533524",
+    "name": "AH Biologisch Bloemkoolroosjes",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Bloemkool (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226366",
+    "name": "AH Bloemkoolroosjes",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313738333239?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Bloemkool (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121475",
+    "name": "AH Bloemkoolroosjes voordeelverpakking",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313937303937?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Bloemkool (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162735",
+    "name": "Bonduelle Bloemkoolroosjes",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036353938?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Bloemkool (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577738",
+    "name": "Bonduelle Bloemkool Rijst 2-pack",
+    "price": 4.3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Bloemkool (diepvries)"
+    ],
+    "isFood": true
+  }
+]

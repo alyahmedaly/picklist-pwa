@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Chips, noten, toast, popcorn > Chips > Chips minder vet, zout",
+  "breadcrumbs": "Chips, noten, toast, popcorn > Chips > Chips minder vet, zout",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "chips-minder-vet",
+      "displayName": "Chips Minder Vet",
+      "productCount": 19,
+      "filePath": "chips-minder-vet.jsonl",
+      "indexPath": "chips-minder-vet-index.json",
+      "statsPath": "chips-minder-vet-stats.json",
+      "averageProtein": 8,
+      "halalCompliance": 63
+    }
+  ],
+  "totalProducts": 19,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Chips Noten Toast Popcorn",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Chips",
+        "path": "../index.json"
+      },
+      {
+        "name": "Chips Minder Vet Zout",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "chips-noten-toast-popcorn/chips"
+  }
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "337636",
+    "name": "Sourcy Vitaminwater limoen lychee",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835373737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123416",
+    "name": "AH Mineraalwater koolzuurvrij 6-pack",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198963",
+    "name": "AH Water koolzuurvrij",
+    "price": 0.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393331333335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449306",
+    "name": "AH Water koolzuurvrij",
+    "price": 0.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373435373730?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448163",
+    "name": "AH Water koolzuurvrij 12-pack",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393331333138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419548",
+    "name": "Bar-le-Duc Mineraal water koolzuurvrij",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419528",
+    "name": "Bar-le-Duc Mineraalwater kzv",
+    "price": 0.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635363731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198710",
+    "name": "Chaudfontaine mineraalwater kzv fles",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415977",
+    "name": "Chaudfontaine still 12pack BEL",
+    "price": 5.4,
+    "image": "NA",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415978",
+    "name": "Evian Mineraalwater 12-pack",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383234363038?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132962",
+    "name": "Evian Natuurlijk mineraalwater",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373535303831?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "347402",
+    "name": "Nestlé Pure life Life bel",
+    "price": 0.29,
+    "image": "NA",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575873",
+    "name": "SEA Water Still water unsalted",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198587",
+    "name": "Spa Reine fles sportdop",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436383231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "356171",
+    "name": "Spa reine kids fl",
+    "price": 0.64,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535323235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203832",
+    "name": "Spa Reine kids koolzuurvrij mineraalwater",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436383230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67830",
+    "name": "Spa Reine koolzuurvrij mineraalwater",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535373636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123415",
+    "name": "Spa Reine sportdop",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436383136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurvrij water",
+      "Flesjes water (koolzuurvrij)"
+    ],
+    "isFood": true
+  }
+]

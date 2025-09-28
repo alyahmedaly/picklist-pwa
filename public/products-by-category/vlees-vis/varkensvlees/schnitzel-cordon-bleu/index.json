@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Vlees, vis > Varkensvlees > Schnitzel, cordon bleu",
+  "breadcrumbs": "Vlees, vis > Varkensvlees > Schnitzel, cordon bleu",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "schnitzel",
+      "displayName": "Schnitzel",
+      "productCount": 12,
+      "filePath": "schnitzel.jsonl",
+      "indexPath": "schnitzel-index.json",
+      "statsPath": "schnitzel-stats.json",
+      "averageProtein": 12.1,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 12,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Varkensvlees",
+        "path": "../index.json"
+      },
+      {
+        "name": "Schnitzel Cordon Bleu",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/varkensvlees"
+  }
+}

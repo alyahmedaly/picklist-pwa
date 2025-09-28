@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Chips, noten, toast, popcorn > Chips > Smaakvarianten chips",
+  "breadcrumbs": "Chips, noten, toast, popcorn > Chips > Smaakvarianten chips",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "diverse-smaken-chips",
+      "displayName": "Diverse Smaken Chips",
+      "productCount": 45,
+      "filePath": "diverse-smaken-chips.jsonl",
+      "indexPath": "diverse-smaken-chips-index.json",
+      "statsPath": "diverse-smaken-chips-stats.json",
+      "averageProtein": 7.2,
+      "halalCompliance": 80
+    },
+    {
+      "name": "bolognese-chips",
+      "displayName": "Bolognese Chips",
+      "productCount": 7,
+      "filePath": "bolognese-chips.jsonl",
+      "indexPath": "bolognese-chips-index.json",
+      "statsPath": "bolognese-chips-stats.json",
+      "averageProtein": 6.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "cheese-onion-chips",
+      "displayName": "Cheese Onion Chips",
+      "productCount": 6,
+      "filePath": "cheese-onion-chips.jsonl",
+      "indexPath": "cheese-onion-chips-index.json",
+      "statsPath": "cheese-onion-chips-stats.json",
+      "averageProtein": 6.3,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 58,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 58,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Chips Noten Toast Popcorn",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Chips",
+        "path": "../index.json"
+      },
+      {
+        "name": "Smaakvarianten Chips",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "chips-noten-toast-popcorn/chips"
+  }
+}

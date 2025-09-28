@@ -1,0 +1,506 @@
+[
+  {
+    "id": "130283",
+    "name": "Klene Wybert original",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475098",
+    "name": "Ricola Honey citroen echinacea pastilles",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937343039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559140",
+    "name": "Ricola Honing citroen echinacea",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486810",
+    "name": "Wilhelmina Zwartwit",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936313937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569464",
+    "name": "AH Menthol eucalyptus pastilles",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034313834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "176954",
+    "name": "Diele Verfrist de mond streelt de keel",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130353834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502487",
+    "name": "Fortuin DF Hoest bonbons",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373838363733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "176962",
+    "name": "Red Band Stophoest",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535303239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46928",
+    "name": "Red Band Stophoest 4-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363930343232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569675",
+    "name": "Red Band Menthol groentjes zacht fris",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383430373433?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559263",
+    "name": "AH Menthol groentjes",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569708",
+    "name": "Smint Defensive pastille lemon",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569707",
+    "name": "Smint Defensive pastille peppermint",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337373837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "147929",
+    "name": "Fisherman's Friend Original suikervrij",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135343935?revLabel=8&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "88640",
+    "name": "Fisherman's Friend Salmiak suikervrij",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135353038?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387847",
+    "name": "AH Citroen honing pastilles suikervrij",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373937373735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "35627",
+    "name": "AH Droppastilles suikervrij",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323335323735?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236681",
+    "name": "Anta Flu Classic suikervrij",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132333035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225053",
+    "name": "Fisherman's Friend Original suikervrij",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135353430?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508419",
+    "name": "Klene Suikervrij ademin",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520451",
+    "name": "Ricola Citroen munt",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559139",
+    "name": "Ricola Citroen munt suikervrij",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547780",
+    "name": "Ricola Cranberry suikervrij",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566127",
+    "name": "Vicks Ademvrij eucalyptus",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460418",
+    "name": "Vicks Blue menthol",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130393831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1376",
+    "name": "Vicks Blue menthol keelpastilles suikervrij",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036323139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520429",
+    "name": "Ricola Original suikervrij",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559141",
+    "name": "Ricola Original suikervrij",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508423",
+    "name": "Klene Suikervrij groentjes",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480728",
+    "name": "Anta Flu Classic",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132333036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480731",
+    "name": "Anta Flu Dropmint Menthol",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132333231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480729",
+    "name": "Anta Flu Eucalyptus",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130343934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524830",
+    "name": "Anta Flu Eucalyptus suikervrij",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132323539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480732",
+    "name": "Anta Flu Honey lemon menthol",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132333030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480730",
+    "name": "Anta Flu Mint menthol",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132333234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369625",
+    "name": "Anta Flu Mint menthol suikervrij",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132333138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "147931",
+    "name": "Fisherman's Friend Mint suikervrij",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135343933?revLabel=18&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "147932",
+    "name": "Fisherman's Friend Original 3-pack",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135343936?revLabel=22&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578509",
+    "name": "Fisherman's Friend Salmiak & framboos suikervrij",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932323333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "147930",
+    "name": "Fisherman's Friend Salmiak suikervrij",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373133303831?revLabel=22&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "208707",
+    "name": "Fisherman's Friend Spearmint suikervrij",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135353330?revLabel=19&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "176957",
+    "name": "Potter's Original",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303336323536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Keelpastilles"
+    ],
+    "isFood": true
+  }
+]

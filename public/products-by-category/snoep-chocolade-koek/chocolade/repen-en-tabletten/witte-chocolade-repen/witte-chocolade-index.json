@@ -1,0 +1,142 @@
+[
+  {
+    "id": "435940",
+    "name": "AH Reep wit",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373733353239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196273",
+    "name": "Milka Chocoladereep witte chocolade",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739373938?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384654",
+    "name": "Lindt Excellence vanille witte chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556454",
+    "name": "Ferrero Raffaello kokosnoot & amandelen",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231303535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563619",
+    "name": "iChoc White barista art vegan m!lk-l!ke",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638303933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502251",
+    "name": "Verkade Tablet wit",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932303233?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1015",
+    "name": "Delicata Reep witte chocolade met vanille aroma",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393130303234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417355",
+    "name": "Delicata Reep witte chocolade met vanille aroma",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "406994",
+    "name": "Tony's Chocolonely Reep wit",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563966",
+    "name": "AH Praliné bloc wit",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738363435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade"
+    ],
+    "isFood": true
+  }
+]

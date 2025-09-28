@@ -1,0 +1,114 @@
+[
+  {
+    "id": "217597",
+    "name": "Mora Specials kroketburgers",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535303734?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Kroket",
+      "Kroket (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "428927",
+    "name": "Van Dobben Kalfscroquetten",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436313132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Kroket",
+      "Kroket (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486322",
+    "name": "Van Dobben Vd rundvlees croquetten",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363736393438?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Kroket",
+      "Kroket (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185418",
+    "name": "Mora Specials rijkgevulde goulash kroketten",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534393837?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Kroket",
+      "Kroket (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170627",
+    "name": "AH Rundvlees kroketten",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373031363833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Kroket",
+      "Kroket (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388622",
+    "name": "AH Rundvlees kroketten",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373735373431?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Kroket",
+      "Kroket (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189105",
+    "name": "Mora Classics rundvlees kroketten",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733333638?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Kroket",
+      "Kroket (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185417",
+    "name": "Mora Classics rundvlees krokettten",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638363531?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Kroket",
+      "Kroket (frituur)"
+    ],
+    "isFood": true
+  }
+]

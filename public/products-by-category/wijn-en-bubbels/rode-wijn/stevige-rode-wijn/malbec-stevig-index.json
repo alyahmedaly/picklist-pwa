@@ -1,0 +1,106 @@
+[
+  {
+    "id": "222344",
+    "name": "AH Malbec",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636353737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Malbec (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "93744",
+    "name": "Alamos Malbec",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632353538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Malbec (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161226",
+    "name": "Château Monplaisir Malbec",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303232333735?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Malbec (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129678",
+    "name": "Norton Barrel select malbec",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Malbec (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396203",
+    "name": "Tilia Malbec",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639323331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Malbec (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228742",
+    "name": "Trapiche Malbec",
+    "price": 8.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130383437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Malbec (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397706",
+    "name": "Zuccardi Brazos malbec",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636383834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Malbec (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419936",
+    "name": "Zuccardi Concreto malbec",
+    "price": 24.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731353030?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Malbec (Stevig)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "569547",
+    "name": "Boon Kikkererwten in curry",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238343838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509289",
+    "name": "Hak Kikkererwtencurry",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130343833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465740",
+    "name": "Miras Kikkererwten dubbel geroosterd",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234363530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198141",
+    "name": "Valle del sole Chick peas",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363239323130?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469876",
+    "name": "AH Biologisch Kikkererwten",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338343234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509385",
+    "name": "AH Edamame 2 kleintjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936383231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435897",
+    "name": "Hak Kikkererwten",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569512",
+    "name": "Hak Kikkererwten",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036343037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569513",
+    "name": "Hak Kikkererwten",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036343039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198140",
+    "name": "Valle del sole Chick peas",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353933363833?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198411",
+    "name": "Valle del sole Kikkererwten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363236303330?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "235717",
+    "name": "Valle del sole Kikkererwten",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732343137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168813",
+    "name": "AH Biologisch Kikkererwten 0% zout toegevoegd",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235383632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167873",
+    "name": "AH Kikkererwten 0% zout toegevoegd",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235383637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374219",
+    "name": "Hak Kikkererwten",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167874",
+    "name": "AH Kikkererwten 0% zout toegevoegd",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030383638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509383",
+    "name": "AH Kikkerwten 2 kleintjes",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936383135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569505",
+    "name": "Bonduelle Zwarte kikkererwten",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638303032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104081",
+    "name": "Bonduelle Kikkererwten",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195553",
+    "name": "Bonduelle Kikkererwten",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389183",
+    "name": "Bonduelle Kikkererwten 2 mini's voor salades",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431333930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374222",
+    "name": "Bonduelle Kikkererwten bio",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435892",
+    "name": "Bonduelle Kikkererwten bio",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303435333738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202259",
+    "name": "Miras Gekookte kikkererwten",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233383136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441160",
+    "name": "Miras Gekookte kikkererwten (blik)",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303432303333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kikkererwten"
+    ],
+    "isFood": true
+  }
+]

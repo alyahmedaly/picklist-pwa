@@ -1,0 +1,80 @@
+[
+  {
+    "id": "505925",
+    "name": "Streeckgenoten Deelen Friese nagelkaas",
+    "price": 4,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Streeckgenoten kaas",
+      "Regio noord kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557031",
+    "name": "Streeckgenoten Frolyfke 48+ plakken",
+    "price": 4.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139373339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Streeckgenoten kaas",
+      "Regio noord kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557030",
+    "name": "Streeckgenoten Frolyfke 48+ stuk",
+    "price": 3.94,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139373432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Streeckgenoten kaas",
+      "Regio noord kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505924",
+    "name": "Streeckgenoten Riperkrite tsiis",
+    "price": 4.6,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139373336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Streeckgenoten kaas",
+      "Regio noord kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550272",
+    "name": "Streeckgenoten Riperkrite tsiis 50+ stuk",
+    "price": 3.94,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139373430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Streeckgenoten kaas",
+      "Regio noord kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506075",
+    "name": "Streeckgenoten Fryske stokoud",
+    "price": 3.92,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234313430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Streeckgenoten kaas",
+      "Regio noord kaas"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "maaltijdmixen",
+      "displayName": "Maaltijdmixen",
+      "productCount": 82,
+      "hasSubdirectories": false,
+      "indexPath": "maaltijdmixen/index.json"
+    },
+    {
+      "name": "maaltijdpakketten",
+      "displayName": "Maaltijdpakketten",
+      "productCount": 39,
+      "hasSubdirectories": false,
+      "indexPath": "maaltijdpakketten/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 121,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 121,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Maaltijdpakketten Mixen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "pasta-rijst-en-wereldkeuken"
+  }
+}

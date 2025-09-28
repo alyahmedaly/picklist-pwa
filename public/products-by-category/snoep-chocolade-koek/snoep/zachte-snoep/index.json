@@ -1,0 +1,96 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Snoep > Zachte snoep",
+  "breadcrumbs": "Snoep, chocolade, koek > Snoep > Zachte snoep",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "snoepmix",
+      "displayName": "Snoepmix",
+      "productCount": 63,
+      "filePath": "snoepmix.jsonl",
+      "indexPath": "snoepmix-index.json",
+      "statsPath": "snoepmix-stats.json",
+      "averageProtein": 2.7,
+      "halalCompliance": 13
+    },
+    {
+      "name": "winegums",
+      "displayName": "Winegums",
+      "productCount": 54,
+      "filePath": "winegums.jsonl",
+      "indexPath": "winegums-index.json",
+      "statsPath": "winegums-stats.json",
+      "averageProtein": 2.9,
+      "halalCompliance": 9
+    },
+    {
+      "name": "zoete-drop-zacht",
+      "displayName": "Zoete Drop Zacht",
+      "productCount": 36,
+      "filePath": "zoete-drop-zacht.jsonl",
+      "indexPath": "zoete-drop-zacht-index.json",
+      "statsPath": "zoete-drop-zacht-stats.json",
+      "averageProtein": 3.9,
+      "halalCompliance": 6
+    },
+    {
+      "name": "zure-gums",
+      "displayName": "Zure Gums",
+      "productCount": 28,
+      "filePath": "zure-gums.jsonl",
+      "indexPath": "zure-gums-index.json",
+      "statsPath": "zure-gums-stats.json",
+      "averageProtein": 2.3,
+      "halalCompliance": 57
+    },
+    {
+      "name": "schuimpjes",
+      "displayName": "Schuimpjes",
+      "productCount": 13,
+      "filePath": "schuimpjes.jsonl",
+      "indexPath": "schuimpjes-index.json",
+      "statsPath": "schuimpjes-stats.json",
+      "averageProtein": 3.7,
+      "halalCompliance": 8
+    },
+    {
+      "name": "zoute-drop-zacht",
+      "displayName": "Zoute Drop Zacht",
+      "productCount": 11,
+      "filePath": "zoute-drop-zacht.jsonl",
+      "indexPath": "zoute-drop-zacht-index.json",
+      "statsPath": "zoute-drop-zacht-stats.json",
+      "averageProtein": 1.9,
+      "halalCompliance": 18
+    }
+  ],
+  "totalProducts": 205,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 205,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Snoep",
+        "path": "../index.json"
+      },
+      {
+        "name": "Zachte Snoep",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "snoep-chocolade-koek/snoep"
+  }
+}

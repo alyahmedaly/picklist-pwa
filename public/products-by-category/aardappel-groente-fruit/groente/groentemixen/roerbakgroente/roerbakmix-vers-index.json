@@ -1,0 +1,142 @@
+[
+  {
+    "id": "185765",
+    "name": "AH Roerbakgroente Mexicaans",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936323038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Roerbakgroente",
+      "Roerbakmix (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525248",
+    "name": "AH Luxe roerbak Italiaans cavolo nero",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Roerbakgroente",
+      "Roerbakmix (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99028",
+    "name": "AH Luxe roerbak Provençaals",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Roerbakgroente",
+      "Roerbakmix (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "41084",
+    "name": "AH Roerbakgroente Hollands",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Roerbakgroente",
+      "Roerbakmix (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "41080",
+    "name": "AH Roerbakgroente Italiaans",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383931393538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Roerbakgroente",
+      "Roerbakmix (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159762",
+    "name": "AH Roerbakgroente Italiaans grootverpakking",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Roerbakgroente",
+      "Roerbakmix (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "57341",
+    "name": "AH Roerbakgroente Italiaans kleinverpakking",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934373638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Roerbakgroente",
+      "Roerbakmix (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "133277",
+    "name": "AH Roerbakgroente Italiaans champignons",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934323331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Roerbakgroente",
+      "Roerbakmix (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168090",
+    "name": "AH Roerbakgroente Italiaans champignons",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934373635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Roerbakgroente",
+      "Roerbakmix (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "418283",
+    "name": "AH Roerbakgroente Italiaans fijngesneden",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Roerbakgroente",
+      "Roerbakmix (vers)"
+    ],
+    "isFood": true
+  }
+]

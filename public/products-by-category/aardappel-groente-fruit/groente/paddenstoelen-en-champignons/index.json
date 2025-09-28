@@ -1,0 +1,43 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "champignons",
+      "displayName": "Champignons",
+      "productCount": 14,
+      "hasSubdirectories": false,
+      "indexPath": "champignons/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 14,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 14,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../index.json"
+      },
+      {
+        "name": "Paddenstoelen En Champignons",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/groente"
+  }
+}

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "579828",
+    "name": "Jean Bâton Dipping sauce oriental curry",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Currysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400924",
+    "name": "Hela Kruiden ketchup curry original",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533303430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Currysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420246",
+    "name": "Hela Kruiden ketchup curry original",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533303635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Currysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441050",
+    "name": "Hela Kruiden ketchup curry original",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533303631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Currysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166522",
+    "name": "Remia Curry saus",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Currysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "239726",
+    "name": "Remia Curry saus pittig gekruid",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636303938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Currysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571944",
+    "name": "Van Wijngaarden's Curry ketchup",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433353730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Currysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194753",
+    "name": "Van Wijngaarden's Zaanse curry ketchup",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373238363837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Currysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "122779",
+    "name": "AH Currysaus",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Currysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569521",
+    "name": "Heinz Curry gewürz ketchup classic",
+    "price": 3.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234363932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Currysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516341",
+    "name": "Oliehoorn Currysaus",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535343437?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Currysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563595",
+    "name": "Oliehoorn Currysaus",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535343339?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Currysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580693",
+    "name": "Verstegen Curry ketchup zonder toegevoegde suiker",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531373339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Currysaus"
+    ],
+    "isFood": true
+  }
+]

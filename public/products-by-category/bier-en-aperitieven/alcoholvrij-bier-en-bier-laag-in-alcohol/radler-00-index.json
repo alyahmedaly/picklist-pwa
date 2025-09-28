@@ -1,0 +1,206 @@
+[
+  {
+    "id": "548615",
+    "name": "Lindeboom Radler kers 0.0%",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393831343137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516665",
+    "name": "Bavaria 0.0% Fruity ginger lime 6-pack",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138303737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516336",
+    "name": "Lander bräu Radler lemon 0.0%",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731313433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571811",
+    "name": "Bavaria 0.0 Fruity lemon lime 6-pack",
+    "price": 6.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489164",
+    "name": "Brouwers Radler 0.0% 6-pack",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421176",
+    "name": "Warsteiner Radler 0.0% alkohol",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535373035?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421178",
+    "name": "Warsteiner Radler 0.0% alkohol 6-pack",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363534313837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222563",
+    "name": "Amstel Radler citroen 0.0 6-pack",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228557",
+    "name": "Amstel Radler citroen 0.0 bier",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639333738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230659",
+    "name": "Amstel Radler citroen 0.0 bier",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238303437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222510",
+    "name": "Amstel Radler citroen 0.0 bier 6-pack",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931373131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "364178",
+    "name": "Grolsch Radler 0.0%",
+    "price": 0.84,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363538303636?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475774",
+    "name": "Grolsch Radler citroen 0.0 minder zoet 6-pack",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433303833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "364179",
+    "name": "Grolsch Radler citroen 0.0%",
+    "price": 1.02,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432383730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437857",
+    "name": "Grolsch Radler citroen 0%",
+    "price": 0.84,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536303234?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238802",
+    "name": "Grolsch Radler citroen alcoholvrij 0.0 6-pack",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383235343330?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238803",
+    "name": "Grolsch Radler citroen alcoholvrij 0.0% 6-pack",
+    "price": 6.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434353333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Radler 0.0"
+    ],
+    "isFood": true
+  }
+]

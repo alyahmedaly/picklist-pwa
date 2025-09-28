@@ -1,0 +1,145 @@
+[
+  {
+    "id": "161534",
+    "name": "Perla Huisblends Aroma koffiebonen",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934313038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195720",
+    "name": "Perla Huisblends Aroma koffiebonen",
+    "price": 11.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339333235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572464",
+    "name": "Perla Huisblends Crema koffiebonen",
+    "price": 11.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238353130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572465",
+    "name": "Perla Huisblends Espresso koffiebonen",
+    "price": 11.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238353038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161536",
+    "name": "Perla Huisblends Goud koffiebonen",
+    "price": 7.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934313333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130634",
+    "name": "Perla Superiore Finest originale koffiebonen",
+    "price": 15.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373935363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161539",
+    "name": "Perla Superiore Finest originale koffiebonen",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373935353831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381400",
+    "name": "Australian Organic medium roast koffiebonen",
+    "price": 9.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434313432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455967",
+    "name": "Fairtrade Original Colombia biologische espressobonen",
+    "price": 10.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "143412",
+    "name": "Lavazza Qualità rossa koffiebonen",
+    "price": 9.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130313132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495580",
+    "name": "Starbucks Pike place medium roast koffiebonen",
+    "price": 10.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (regular)"
+    ],
+    "isFood": true
+  }
+]

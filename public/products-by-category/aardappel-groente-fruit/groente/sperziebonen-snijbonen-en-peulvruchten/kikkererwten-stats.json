@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Sperziebonen, snijbonen en peulvruchten > Kikkererwten",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Sperziebonen, snijbonen en peulvruchten > Kikkererwten",
+  "totalProducts": 25,
+  "halalCompliance": 100,
+  "averageProtein": 8.6,
+  "averagePrice": 2.03,
+  "highProteinProducts": 4,
+  "dataQuality": {
+    "withNutrition": 24,
+    "withIngredients": 25,
+    "withHalalCheck": 25
+  }
+}

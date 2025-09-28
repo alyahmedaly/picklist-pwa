@@ -1,0 +1,95 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "snacksauzen-mayonaise",
+      "displayName": "Snacksauzen Mayonaise",
+      "productCount": 226,
+      "hasSubdirectories": true,
+      "indexPath": "snacksauzen-mayonaise/index.json"
+    },
+    {
+      "name": "pastasauzen",
+      "displayName": "Pastasauzen",
+      "productCount": 73,
+      "hasSubdirectories": false,
+      "indexPath": "pastasauzen/index.json"
+    },
+    {
+      "name": "sladressing-slasaus",
+      "displayName": "Sladressing Slasaus",
+      "productCount": 35,
+      "hasSubdirectories": false,
+      "indexPath": "sladressing-slasaus/index.json"
+    },
+    {
+      "name": "vleessaus",
+      "displayName": "Vleessaus",
+      "productCount": 25,
+      "hasSubdirectories": false,
+      "indexPath": "vleessaus/index.json"
+    },
+    {
+      "name": "dipsaus",
+      "displayName": "Dipsaus",
+      "productCount": 10,
+      "hasSubdirectories": false,
+      "indexPath": "dipsaus/index.json"
+    },
+    {
+      "name": "groentesaus",
+      "displayName": "Groentesaus",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "groentesaus/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "bbq-sauzen",
+      "displayName": "Bbq Sauzen",
+      "productCount": 15,
+      "filePath": "bbq-sauzen.jsonl",
+      "indexPath": "bbq-sauzen-index.json",
+      "statsPath": "bbq-sauzen-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "plantaardige-sauzen",
+      "displayName": "Plantaardige Sauzen",
+      "productCount": 5,
+      "filePath": "plantaardige-sauzen.jsonl",
+      "indexPath": "plantaardige-sauzen-index.json",
+      "statsPath": "plantaardige-sauzen-stats.json",
+      "averageProtein": 0.4,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 396,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 396,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../index.json"
+      },
+      {
+        "name": "Sauzen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "soepen-sauzen-kruiden-olie"
+  }
+}

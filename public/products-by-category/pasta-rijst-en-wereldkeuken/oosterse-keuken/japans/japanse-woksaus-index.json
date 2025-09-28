@@ -1,0 +1,93 @@
+[
+  {
+    "id": "482500",
+    "name": "AH Woksaus teriyaki",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832313232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482503",
+    "name": "AH Woksaus yakitori",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832313134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388384",
+    "name": "Kikkoman Teriyaki sauce roasted garlic",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136393032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388377",
+    "name": "Amoy Stir fry sauce teriyaki-sesame",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393136313333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553340",
+    "name": "Fairtrade Original Japanse teriyaki woksaus",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532333332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "190198",
+    "name": "Fairtrade Original Chinese sweet & sour woksaus",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436363234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389767",
+    "name": "Lee Kum Kee Teriyaki saus",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536333037?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse woksaus"
+    ],
+    "isFood": true
+  }
+]

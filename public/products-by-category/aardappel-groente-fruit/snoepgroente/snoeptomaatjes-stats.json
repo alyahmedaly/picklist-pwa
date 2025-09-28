@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Snoepgroente > Snoeptomaatjes",
+  "breadcrumbs": "Aardappel, groente, fruit > Snoepgroente > Snoeptomaatjes",
+  "totalProducts": 8,
+  "halalCompliance": 63,
+  "averageProtein": 0.6,
+  "averagePrice": 4.61,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 5,
+    "withIngredients": 5,
+    "withHalalCheck": 5
+  }
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "578805",
+    "name": "AH Verse soep Chinese tomaat",
+    "price": 5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137353238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578807",
+    "name": "AH Verse soep erwt",
+    "price": 4.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137353033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561682",
+    "name": "AH Verse soep Oosterse kip",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932353233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561685",
+    "name": "AH Verse soep pompoen",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932353239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576198",
+    "name": "AH Verse soep veggie boost met pompoen",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839353630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561683",
+    "name": "AH Verse soep bospaddenstoel",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932353137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561712",
+    "name": "AH Verse soep erwt",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561686",
+    "name": "AH Verse soep tomaat",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932353238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561684",
+    "name": "AH Veggie boost paprika tomaat",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932353230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578802",
+    "name": "Oma's Maaltijdsoep goulash",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133393334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578799",
+    "name": "AH Verse soep linzen",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137353032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578801",
+    "name": "Oma's maaltijdsoep soto ajam",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133393236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525264",
+    "name": "AH Pureersoep pastinaak tomaat",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935363537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533059",
+    "name": "Oma's Pompoen",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475882",
+    "name": "Oma's Rode linzen soep",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531353533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470803",
+    "name": "Oma's Tomaat met verse basilicum",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133393332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse soepen"
+    ],
+    "isFood": true
+  }
+]

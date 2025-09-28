@@ -1,0 +1,122 @@
+[
+  {
+    "id": "484897",
+    "name": "AH Kaars cijfer 0 kleur",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330393735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Feestje, gelegenheid",
+      "Taartversiering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484885",
+    "name": "AH Kaars cijfer 1 kleur",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330393736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Feestje, gelegenheid",
+      "Taartversiering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484888",
+    "name": "AH Kaars cijfer 2 kleur",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330393737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Feestje, gelegenheid",
+      "Taartversiering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484889",
+    "name": "AH Kaars cijfer 3 kleur",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330393738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Feestje, gelegenheid",
+      "Taartversiering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484890",
+    "name": "AH Kaars cijfer 4 kleur",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330393739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Feestje, gelegenheid",
+      "Taartversiering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484891",
+    "name": "AH Kaars cijfer 5 kleur",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330393734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Feestje, gelegenheid",
+      "Taartversiering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484892",
+    "name": "AH Kaars cijfer 6 kleur",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Feestje, gelegenheid",
+      "Taartversiering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484893",
+    "name": "AH Kaars cijfer 7 kleur",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Feestje, gelegenheid",
+      "Taartversiering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484894",
+    "name": "AH Kaars cijfer 8 kleur",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330393831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Feestje, gelegenheid",
+      "Taartversiering"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484895",
+    "name": "AH Kaars cijfer 9 kleur",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330393832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Feestje, gelegenheid",
+      "Taartversiering"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "62760",
+    "name": "Dr. Oetker Big Americans pizza Hawaii",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353538343236?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dikke bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421863",
+    "name": "Dr. Oetker Big Americans xl pizza double pepperoni",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638373332?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dikke bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62448",
+    "name": "Dr. Oetker Big Americans pizza supreme",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373333303939?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dikke bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62761",
+    "name": "Dr. Oetker Big Americans pizza Texas",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332393333?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dikke bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496863",
+    "name": "Dr. Oetker Big Americans pizza XL triple meat",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373435333034?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dikke bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397337",
+    "name": "Dr. Oetker Big Americans pizza BBQ pulled pork",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638363938?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dikke bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129673",
+    "name": "Dr. Oetker Big Americans pizza cheese onion",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638363839?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dikke bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "115964",
+    "name": "Dr. Oetker Big Americans pizza BBQ chicken",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363635303738?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dikke bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561532",
+    "name": "Dr. Oetker Big Americans shoarma",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530383232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dikke bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550176",
+    "name": "Dr. Oetker Big Americans pizza spinach",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232373832?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dikke bodem)"
+    ],
+    "isFood": true
+  }
+]

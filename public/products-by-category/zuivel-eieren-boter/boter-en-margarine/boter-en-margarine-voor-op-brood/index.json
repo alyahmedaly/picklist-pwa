@@ -1,0 +1,86 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Boter en margarine > Boter en margarine voor op brood",
+  "breadcrumbs": "Zuivel, eieren, boter > Boter en margarine > Boter en margarine voor op brood",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "smeerbare-roomboter",
+      "displayName": "Smeerbare Roomboter",
+      "productCount": 20,
+      "filePath": "smeerbare-roomboter.jsonl",
+      "indexPath": "smeerbare-roomboter-index.json",
+      "statsPath": "smeerbare-roomboter-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 70
+    },
+    {
+      "name": "smeerbare-margarine",
+      "displayName": "Smeerbare Margarine",
+      "productCount": 8,
+      "filePath": "smeerbare-margarine.jsonl",
+      "indexPath": "smeerbare-margarine-index.json",
+      "statsPath": "smeerbare-margarine-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 0
+    },
+    {
+      "name": "smeerbare-halvarine",
+      "displayName": "Smeerbare Halvarine",
+      "productCount": 7,
+      "filePath": "smeerbare-halvarine.jsonl",
+      "indexPath": "smeerbare-halvarine-index.json",
+      "statsPath": "smeerbare-halvarine-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 0
+    },
+    {
+      "name": "kruidenboter",
+      "displayName": "Kruidenboter",
+      "productCount": 6,
+      "filePath": "kruidenboter.jsonl",
+      "indexPath": "kruidenboter-index.json",
+      "statsPath": "kruidenboter-stats.json",
+      "averageProtein": 1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "product-met-vet-x",
+      "displayName": "Product Met Vet X",
+      "productCount": 5,
+      "filePath": "product-met-vet-x.jsonl",
+      "indexPath": "product-met-vet-x-index.json",
+      "statsPath": "product-met-vet-x-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 46,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 46,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Boter En Margarine",
+        "path": "../index.json"
+      },
+      {
+        "name": "Boter En Margarine Voor Op Brood",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "zuivel-eieren-boter/boter-en-margarine"
+  }
+}

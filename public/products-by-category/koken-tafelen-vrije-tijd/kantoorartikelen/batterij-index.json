@@ -1,0 +1,98 @@
+[
+  {
+    "id": "136835",
+    "name": "AH 9V alkaline batterijen",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383534363635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kantoorartikelen",
+      "Batterij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166525",
+    "name": "AH AA alkaline 1,5V mignon lange levensduur",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383534363633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kantoorartikelen",
+      "Batterij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196807",
+    "name": "AH AAA 1,5V batterijen",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532333737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kantoorartikelen",
+      "Batterij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "136832",
+    "name": "AH AAA alkaline batterijen",
+    "price": 3.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532333137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kantoorartikelen",
+      "Batterij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "136831",
+    "name": "AH Alkaline AA batterijen",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532333139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kantoorartikelen",
+      "Batterij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "136833",
+    "name": "AH C alkaline batterijen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532333231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kantoorartikelen",
+      "Batterij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "136834",
+    "name": "AH D alkaline batterijen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532333136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kantoorartikelen",
+      "Batterij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196910",
+    "name": "AH Micro AAA alkaline 1,5V LR03",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383534363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kantoorartikelen",
+      "Batterij"
+    ],
+    "isFood": true
+  }
+]

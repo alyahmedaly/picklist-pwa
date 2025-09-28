@@ -1,0 +1,114 @@
+[
+  {
+    "id": "185802",
+    "name": "AH Biologisch Rozijnen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Rozijnen",
+      "Rozijnen (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164746",
+    "name": "AH Rozijnen",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Rozijnen",
+      "Rozijnen (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126872",
+    "name": "AH Rozijnen zongedroogd",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Rozijnen",
+      "Rozijnen (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396924",
+    "name": "AH Rozijnen zongedroogd",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Rozijnen",
+      "Rozijnen (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541510",
+    "name": "AH Biologisch Blue thompson rozijnen",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Rozijnen",
+      "Rozijnen (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470157",
+    "name": "AH Biologisch Sultana rozijnen",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363336313438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Rozijnen",
+      "Rozijnen (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580066",
+    "name": "AH Biologisch Rozijnen 2-pack",
+    "price": 3.78,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Rozijnen",
+      "Rozijnen (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578700",
+    "name": "AH Biologisch Sultana rozijnen 2-pack",
+    "price": 10.98,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938343832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Rozijnen",
+      "Rozijnen (diverse)"
+    ],
+    "isFood": true
+  }
+]

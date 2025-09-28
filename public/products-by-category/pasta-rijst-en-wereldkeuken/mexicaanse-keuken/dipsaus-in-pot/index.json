@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Mexicaanse keuken > Dipsaus in pot",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Mexicaanse keuken > Dipsaus in pot",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "tomatendip",
+      "displayName": "Tomatendip",
+      "productCount": 7,
+      "filePath": "tomatendip.jsonl",
+      "indexPath": "tomatendip-index.json",
+      "statsPath": "tomatendip-stats.json",
+      "averageProtein": 1.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Mexicaanse Keuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Dipsaus In Pot",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/mexicaanse-keuken"
+  }
+}

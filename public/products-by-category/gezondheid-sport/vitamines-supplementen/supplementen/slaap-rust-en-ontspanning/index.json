@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Gezondheid, sport > Vitamines & supplementen > Supplementen > Slaap, rust en ontspanning",
+  "breadcrumbs": "Gezondheid, sport > Vitamines & supplementen > Supplementen > Slaap, rust en ontspanning",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "nachtrust",
+      "displayName": "Nachtrust",
+      "productCount": 15,
+      "filePath": "nachtrust.jsonl",
+      "indexPath": "nachtrust-index.json",
+      "statsPath": "nachtrust-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 53
+    },
+    {
+      "name": "stress-rust",
+      "displayName": "Stress Rust",
+      "productCount": 12,
+      "filePath": "stress-rust.jsonl",
+      "indexPath": "stress-rust-index.json",
+      "statsPath": "stress-rust-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 27,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 27,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Vitamines Supplementen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Supplementen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Slaap Rust En Ontspanning",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "gezondheid-sport/vitamines-supplementen/supplementen"
+  }
+}

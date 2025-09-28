@@ -1,0 +1,302 @@
+[
+  {
+    "id": "448160",
+    "name": "Lotus Assortiment gebak bel",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230303936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376165",
+    "name": "Bonne Maman Tartelettes chocolat caramel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323431333631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517709",
+    "name": "AH Roomboter koekjes assorti",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834353138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517490",
+    "name": "AH Roomboter zandkoekjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038333235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "54785",
+    "name": "AH Lunetta spritsen",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535333733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "142552",
+    "name": "AH Roomboter koggetjes met butterscotch",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383630353535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447170",
+    "name": "Farm Brothers Gember citroen koekjes bio",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530393337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "118266",
+    "name": "Jules Destrooper Almond thins",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303139343233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "224865",
+    "name": "Van Strien Strien lemon cookies",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363639323937?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162179",
+    "name": "AH Roomboter crème doublies",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533333930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1057",
+    "name": "AH Roomboter kletsmajoors",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383630353530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376164",
+    "name": "Bonne Maman Tartelettes citron",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323431333537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474047",
+    "name": "AH Cafe noir",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733313930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "35056",
+    "name": "AH Roomboter hazelnootzandjes",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517331",
+    "name": "AH Roomboter kaneelstengels",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383437363336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517508",
+    "name": "AH Roomboter spritsen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383436373638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "224863",
+    "name": "Van Strien Roomboter zandkoekjes",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363939393337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "57776",
+    "name": "AH Roomboter amandeltongen",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393635383134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517274",
+    "name": "AH Roomboter gesuikerde krakelingen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383437363335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "49858",
+    "name": "AH Roomboter jan hagel",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834353139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1051",
+    "name": "AH Kletskoppen met stukjes pinda",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440743",
+    "name": "AH Kokos naturel kokoskoek",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517558",
+    "name": "AH Roomboter krakelingen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543068",
+    "name": "Verkade Café noir de enige echte",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938313637?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211349",
+    "name": "AH Bitterkoekjes",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530313932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koffiekoekjes"
+    ],
+    "isFood": true
+  }
+]

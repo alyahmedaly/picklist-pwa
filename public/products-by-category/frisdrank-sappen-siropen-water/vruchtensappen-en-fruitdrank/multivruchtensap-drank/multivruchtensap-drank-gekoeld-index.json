@@ -1,0 +1,340 @@
+[
+  {
+    "id": "549645",
+    "name": "BioToday Ging'r beetroot premium drink",
+    "price": 11.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933373334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549686",
+    "name": "BioToday Ging'r cranberry premium drink",
+    "price": 11.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139353736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "377654",
+    "name": "Appelsientje Zwarte bes",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230363132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549644",
+    "name": "BioToday Ging'r carrot premium drink",
+    "price": 11.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136353436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416270",
+    "name": "Oasis Tropical",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536323335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569883",
+    "name": "CoolBest Fruit drink mango",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930323733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569885",
+    "name": "CoolBest Fruit drink passionfruit",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930323639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569889",
+    "name": "CoolBest Fruit drink pineapple",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930323638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569884",
+    "name": "CoolBest Fruit drink strawberry",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930323735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519997",
+    "name": "CoolBest Funky forest fruit",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383734343136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62190",
+    "name": "CoolBest Mango dream",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239333935?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221782",
+    "name": "CoolBest Mango dream voordeel",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221776",
+    "name": "CoolBest Passionfruit",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "53803",
+    "name": "CoolBest Strawberry hill",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401938",
+    "name": "CoolBest Strawberry hill",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541585",
+    "name": "Healthy people Golden kiwi",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933353536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569875",
+    "name": "Healthy people Energizing kers framboos met appel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933353739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "120894",
+    "name": "AH Gekoelde aardbei sinaasappeldrank",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569890",
+    "name": "CoolBest Fruit splash red fruit",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930313836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123322",
+    "name": "AH Gekoelde mango sinaasappeldrank",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "239501",
+    "name": "Appelsientje Multifruit volle smaak",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238303437?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569886",
+    "name": "CoolBest Fruit splash citrus",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930323633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569887",
+    "name": "CoolBest Fruit splash tropical",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930323631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "542729",
+    "name": "Appelsientje Kids fruitdrink appel en aardbei 6-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034303733?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577170",
+    "name": "CoolBest Mango Dream 3-pack",
+    "price": 7.66,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494869",
+    "name": "Lemonaid Bloodorange",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373433303230?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivruchtensap & drank",
+      "Multivruchtensap & drank (gekoeld)"
+    ],
+    "isFood": true
+  }
+]

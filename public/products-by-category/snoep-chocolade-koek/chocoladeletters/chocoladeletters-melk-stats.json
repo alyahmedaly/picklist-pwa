@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Chocoladeletters > Chocoladeletters melk",
+  "breadcrumbs": "Snoep, chocolade, koek > Chocoladeletters > Chocoladeletters melk",
+  "totalProducts": 64,
+  "halalCompliance": 41,
+  "averageProtein": 7.1,
+  "averagePrice": 3.21,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 64,
+    "withIngredients": 64,
+    "withHalalCheck": 64
+  }
+}

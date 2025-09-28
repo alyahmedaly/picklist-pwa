@@ -1,0 +1,210 @@
+[
+  {
+    "id": "505611",
+    "name": "AH Mix voor cheesecake",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373832373539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505655",
+    "name": "Dr. Oetker Monchou taart met kandijkoekjesbodem",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038383332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505664",
+    "name": "Dr. Oetker Red velvet cake met romige topping",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038383239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505653",
+    "name": "Dr. Oetker Monchou",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038383333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197088",
+    "name": "Dr. Oetker Wolken choco & vanillesmaak",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131343433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197087",
+    "name": "Dr. Oetker Wolken citroen",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131303437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583901",
+    "name": "Koopmans Mokkataartjes",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931323632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515778",
+    "name": "Leentjes Bakmix regenboog taart pret",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383437313339?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183136",
+    "name": "AH Mix voor kwarktaart aardbeien",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505649",
+    "name": "Dr. Oetker Kwarktaart aardbeismaak bakmix",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531303735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505651",
+    "name": "Dr. Oetker Kwarktaart citroensmaak bakmix",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531303635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550327",
+    "name": "Dr. Oetker Kwarktaart mangosmaak bakmix",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339383934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505650",
+    "name": "Dr. Oetker Kwarktaart naturel bakmix",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531303734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407561",
+    "name": "Dr. Oetker Basismix biscuittaart",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535393533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515786",
+    "name": "AH Mix voor hartige taart",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383330383030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561864",
+    "name": "Koopmans Hartige taart met sausmix",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531313131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Taartmix"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Chocolade > Candybars > Candybars multipack",
+  "breadcrumbs": "Snoep, chocolade, koek > Chocolade > Candybars > Candybars multipack",
+  "totalProducts": 35,
+  "halalCompliance": 0,
+  "averageProtein": 6.6,
+  "averagePrice": 2.99,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 35,
+    "withIngredients": 35,
+    "withHalalCheck": 35
+  }
+}

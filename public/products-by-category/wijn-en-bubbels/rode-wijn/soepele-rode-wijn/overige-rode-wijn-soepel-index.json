@@ -1,0 +1,106 @@
+[
+  {
+    "id": "222354",
+    "name": "AH Soepele Australische huiswijn rood",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038393832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Overige rode wijn (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222353",
+    "name": "AH Soepele Zuid-Afrikaanse huiswijn rood",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Overige rode wijn (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568389",
+    "name": "Chloss Terroir garnacha natural",
+    "price": 8.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Overige rode wijn (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561455",
+    "name": "Colonjes Bio cuvee rood",
+    "price": 14.99,
+    "image": "NA",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Overige rode wijn (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140656",
+    "name": "Ironstone Old Vine Zinfandel",
+    "price": 11.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831393032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Overige rode wijn (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370192",
+    "name": "just Red",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Overige rode wijn (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121073",
+    "name": "Vin de Pays d'Oc Rood",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313432393830?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Overige rode wijn (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123563",
+    "name": "Viña la Rosa La Capitana Carmenère",
+    "price": 9.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Overige rode wijn (Soepel)"
+    ],
+    "isFood": true
+  }
+]

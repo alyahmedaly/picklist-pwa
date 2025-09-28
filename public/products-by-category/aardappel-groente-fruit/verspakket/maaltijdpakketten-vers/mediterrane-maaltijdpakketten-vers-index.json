@@ -1,0 +1,483 @@
+[
+  {
+    "id": "570550",
+    "name": "AH Gesneden verspakket lasagne",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226973",
+    "name": "AH Italiaanse lasagne verspakket",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221577",
+    "name": "AH Marokkaanse couscous verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583926",
+    "name": "AH Gesneden verspakket orzotto",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134393138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505383",
+    "name": "AH Gesneden verspakket pompoen risotto",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "510587",
+    "name": "AH Verspakket mac 'n cheese met pompoen",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575087",
+    "name": "AH Biologisch Spaghetti gehaktballetjes verspakket",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581587",
+    "name": "AH Hamsterpasta met rode saus verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550232",
+    "name": "AH Gesneden verspakket courgetti carbonara",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530353333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579749",
+    "name": "AH Gesneden verspakket parelcouscous",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838373538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577395",
+    "name": "AH Gesneden verspakket Mediterrane stoof",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525240",
+    "name": "AH Gesneden verspakket Griekse pita gyros",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939353638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495906",
+    "name": "AH Gesneden verspakket shakshuka",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530353233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520798",
+    "name": "AH Portugese kip piri piri verspakket",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437333530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525431",
+    "name": "AH Fusilli salsa rossa verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530353239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444754",
+    "name": "AH Italiaanse pompoenrisotto verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836323735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575604",
+    "name": "AH Biologisch Spaghetti met Gehaktballetjes Verspakket",
+    "price": 12.47,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551135",
+    "name": "AH Fusilli Salsa Rossa Verspakket",
+    "price": 13.46,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439383437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583797",
+    "name": "AH Gesneden Courgetti Carbonara Verspakket",
+    "price": 11.22,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544206",
+    "name": "AH Gesneden Griekse Pita Gyros Verspakket",
+    "price": 11.88,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571453",
+    "name": "AH Gesneden Lasagne Verspakket",
+    "price": 12.46,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578769",
+    "name": "AH Gesneden Mediterrane Stoof Verspakket",
+    "price": 24.46,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583728",
+    "name": "AH Hamsterpasta Rode Saus Verspakket",
+    "price": 9.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541117",
+    "name": "AH Italiaanse Lasagne Verspakket",
+    "price": 12.72,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551087",
+    "name": "AH Marokkaanse Couscous Verspakket",
+    "price": 9.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568207",
+    "name": "AH Portugese Kip Piri Piri Verspakket",
+    "price": 11.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575605",
+    "name": "AH Vega Biologisch Spaghetti Verspakket",
+    "price": 9.57,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569867",
+    "name": "AH Vega Gesneden Courgetti Verspakket",
+    "price": 10.37,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335373833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "584208",
+    "name": "AH Vega Gesneden Eenpans Orzotto Verspakket",
+    "price": 8.78,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138373838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553105",
+    "name": "AH Vega Gesneden Gnocchi Verspakket",
+    "price": 10.34,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336323231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571452",
+    "name": "AH Vega Gesneden Lasagne Verspakket",
+    "price": 11.26,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438373638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583798",
+    "name": "AH Vega Gesneden Parelcouscous Verspakket",
+    "price": 9.18,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576295",
+    "name": "AH Vega Gesneden Pita Gyros Verspakket",
+    "price": 10.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136323636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583736",
+    "name": "AH Vega Hamsterpasta Rode Saus Verspakket",
+    "price": 6.98,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568245",
+    "name": "AH Vega Italiaanse Lasagne Verspakket",
+    "price": 11.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551086",
+    "name": "AH Vega Marokkaanse Couscous Verspakket",
+    "price": 6.98,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568927",
+    "name": "AH Vega Portugese Kip Piri Piri Verspakket",
+    "price": 10.97,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Mediterrane maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  }
+]

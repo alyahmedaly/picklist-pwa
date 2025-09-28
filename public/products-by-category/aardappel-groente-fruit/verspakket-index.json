@@ -1,0 +1,57 @@
+[
+  {
+    "id": "582272",
+    "name": "AH Gesneden verspakket naan pizza",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030383133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572031",
+    "name": "AH Terra Gesneden verspakket pasta pompoen linzen",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572030",
+    "name": "AH Terra Plantaardige verspakket groentecurry",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525235",
+    "name": "AH Gesneden verspakket traybake gnocchi",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525238",
+    "name": "AH Gesneden verspakket knolselderij prei",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030303033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket"
+    ],
+    "isFood": true
+  }
+]

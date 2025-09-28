@@ -1,0 +1,566 @@
+[
+  {
+    "id": "439404",
+    "name": "Tripel Karmeliet Speciaalbier",
+    "price": 1.56,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393637333731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438908",
+    "name": "Tripel Karmeliet Speciaalbier 4-pack",
+    "price": 6.22,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030343636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "48808",
+    "name": "Grimbergen Tripel abdijbier 6-pack",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383235343132?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "258235",
+    "name": "Grimbergen Tripel fles",
+    "price": 1.5,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536353132?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451098",
+    "name": "Leffe Tripel abdijbier",
+    "price": 1.44,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434363239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451157",
+    "name": "Leffe Tripel abdijbier 4-pack",
+    "price": 5.74,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739353938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468057",
+    "name": "Texels Tuunwal tripel speciaalbier",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639383734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570006",
+    "name": "Tripel Karmeliet Speciaalbier",
+    "price": 1.8,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335323838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570191",
+    "name": "Tripel Karmeliet Speciaalbier 4-pack",
+    "price": 7.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739363835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515111",
+    "name": "Affligem Tripel abdijbier 6-pack",
+    "price": 9.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639333038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491758",
+    "name": "Brasserie Caulier Paix dieu",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430323530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386830",
+    "name": "Brouwerij 't IJ Zatte tripel",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363931393437?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544925",
+    "name": "Brouwerij 't IJ Zatte tripel 12-pack",
+    "price": 31.2,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037373839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "201961",
+    "name": "Chimay Tripel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373339313437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "428242",
+    "name": "Davo Bieren Road trip",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505674",
+    "name": "de Eeuwige Jeugd Bullebak",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738373939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216069",
+    "name": "De Koninck Tripel d'anvers",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459476",
+    "name": "Duvel Tripel hop cashmere Belgian IPA",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535373632?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515117",
+    "name": "Fourchette Tripel",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383435323430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576653",
+    "name": "Frontaal Tripel intelligence",
+    "price": 3.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538323035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445685",
+    "name": "Gooische bierbrouwer Gooisch tripel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383431323031?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491867",
+    "name": "Hertog Jan Tripel",
+    "price": 1.14,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233303436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491926",
+    "name": "Hertog Jan Tripel 6-pack",
+    "price": 6.82,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "182752",
+    "name": "Kasteelbier Triple",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373437393631?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234408",
+    "name": "La Trappe Trappist tripel",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733303337?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548551",
+    "name": "La Trappe Trappist tripel",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335303735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548552",
+    "name": "La Trappe Trappist tripel 4-pack",
+    "price": 7.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335303737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230711",
+    "name": "Leffe Tripel abdijbier",
+    "price": 1.2,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834323130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "63826",
+    "name": "Leffe Tripel abdijbier 6-pack",
+    "price": 7.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485062",
+    "name": "LeFort Tripel",
+    "price": 2.23,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363632373435?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492099",
+    "name": "LeFort Tripel 4-pack",
+    "price": 8.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535323631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211414",
+    "name": "Lindeboom Gouverneur tripel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373731353536?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578910",
+    "name": "Oedipus Thai Thai",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039353238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491868",
+    "name": "Scheldebrouwerij Zeezuiper tripel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838313638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386829",
+    "name": "St. Bernardus Tripel",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135323138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491709",
+    "name": "St. Pierre Tripel",
+    "price": 1,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136333731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492069",
+    "name": "St. Pierre Tripel 6-pack",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138303731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569739",
+    "name": "Stadshaven brouwerij Piranha tripel",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332393636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "215425",
+    "name": "Straffe Hendrik Halve maan tripel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353532323135?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222828",
+    "name": "Tripel Karmeliet Bier",
+    "price": 4.12,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834323131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "215300",
+    "name": "Val-Dieu Val dieu triple",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393832353730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506053",
+    "name": "Van Moll Triple trouble tripel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639343736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578917",
+    "name": "Vandestreek Turf 'n surf bio tripel",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731363931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468421",
+    "name": "Vet & Lazy Je moeder",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383431313639?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507074",
+    "name": "Westmalle tripel",
+    "price": 2.3,
+    "image": "NA",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202071",
+    "name": "Westmalle Tripel",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535373233?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505909",
+    "name": "Westmalle Tripel 4-pack",
+    "price": 9.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363938323630?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Tripel bier"
+    ],
+    "isFood": true
+  }
+]

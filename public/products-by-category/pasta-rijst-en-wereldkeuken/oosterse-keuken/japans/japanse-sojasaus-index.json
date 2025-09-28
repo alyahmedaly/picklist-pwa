@@ -1,0 +1,106 @@
+[
+  {
+    "id": "203825",
+    "name": "Saitaku Sushi soy sauce",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse sojasaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496227",
+    "name": "AH Sojasaus",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse sojasaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "182796",
+    "name": "Kikkoman Sojasaus minder zout",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse sojasaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553350",
+    "name": "Kikkoman Soy sauce less salt",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232393834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse sojasaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376581",
+    "name": "Fairtrade Original Biologische sojasaus",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532303830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse sojasaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474505",
+    "name": "Go-Tan Sojasaus",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539383935?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse sojasaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62279",
+    "name": "Kikkoman Sojasaus",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363934363231?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse sojasaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553337",
+    "name": "Kikkoman Sojasaus",
+    "price": 5.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232393832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Japanse sojasaus"
+    ],
+    "isFood": true
+  }
+]

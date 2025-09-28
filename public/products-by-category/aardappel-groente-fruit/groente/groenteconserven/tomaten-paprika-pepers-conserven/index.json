@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Groenteconserven > Tomaten, paprika, pepers (conserven)",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Groenteconserven > Tomaten, paprika, pepers (conserven)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "jalapeno-pepers",
+      "displayName": "Jalapeno Pepers",
+      "productCount": 9,
+      "filePath": "jalapeno-pepers.jsonl",
+      "indexPath": "jalapeno-pepers-index.json",
+      "statsPath": "jalapeno-pepers-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 78
+    }
+  ],
+  "totalProducts": 9,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groenteconserven",
+        "path": "../index.json"
+      },
+      {
+        "name": "Tomaten Paprika Pepers Conserven",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/groenteconserven"
+  }
+}

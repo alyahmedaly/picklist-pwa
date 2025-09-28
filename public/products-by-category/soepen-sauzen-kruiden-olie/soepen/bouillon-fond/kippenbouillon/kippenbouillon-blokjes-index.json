@@ -1,0 +1,86 @@
+[
+  {
+    "id": "237242",
+    "name": "Knorr kippen bouillon",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036373838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Kippenbouillon",
+      "Kippenbouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549576",
+    "name": "Knorr Bouillonblokjes kip halal",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Kippenbouillon",
+      "Kippenbouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492035",
+    "name": "AH Bouillon kip",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373231313939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Kippenbouillon",
+      "Kippenbouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167895",
+    "name": "Maggi Bouillon blokjes kippen",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537383639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Kippenbouillon",
+      "Kippenbouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457584",
+    "name": "Maggi Kippen bouillon blokjes voordeelpak",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537383534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Kippenbouillon",
+      "Kippenbouillon (blokjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198974",
+    "name": "Maggi Kippen bouillon minder zout",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630303438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Bouillon, fond",
+      "Kippenbouillon",
+      "Kippenbouillon (blokjes)"
+    ],
+    "isFood": true
+  }
+]

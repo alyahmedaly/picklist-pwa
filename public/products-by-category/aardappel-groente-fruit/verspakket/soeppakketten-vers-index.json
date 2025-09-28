@@ -1,0 +1,242 @@
+[
+  {
+    "id": "548919",
+    "name": "AH Mosterdsoep verspakket",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "537158",
+    "name": "AH Champignonsoep verspakket",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435353034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550037",
+    "name": "AH Indiase wortelsoep verspakket",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437333534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491171",
+    "name": "AH Prei kerriesoep verspakket",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575086",
+    "name": "AH Biologisch Italiaanse groentesoep verspakket",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198387",
+    "name": "AH Groentesoep verspakket",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530353138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582967",
+    "name": "AH Romige pastinaak preisoep verspakket",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198386",
+    "name": "AH Verspakket tomatensoep",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139363935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399177",
+    "name": "AH Pompoensoep verspakket",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936373130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440523",
+    "name": "AH Rode linzensoep verspakket",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166560",
+    "name": "AH Erwtensoep verspakket",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572373",
+    "name": "AH Champignonsoep verspakket",
+    "price": 7.33,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567905",
+    "name": "AH Groentesoep verspakket",
+    "price": 9.47,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572374",
+    "name": "AH Groentesoep verspakket",
+    "price": 9.68,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533373933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574816",
+    "name": "AH Indiase wortelsoep verspakket",
+    "price": 9.96,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551100",
+    "name": "AH Mosterdsoep verspakket",
+    "price": 8.92,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555368",
+    "name": "AH Prei kerriesoep verspakket",
+    "price": 10.28,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568261",
+    "name": "AH Tomatensoep verspakket",
+    "price": 8.97,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541732",
+    "name": "AH Vega champignonsoep verspakket",
+    "price": 7.27,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567921",
+    "name": "AH Vega Groentesoep verspakket",
+    "price": 6.28,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Soeppakketten (vers)"
+    ],
+    "isFood": true
+  }
+]

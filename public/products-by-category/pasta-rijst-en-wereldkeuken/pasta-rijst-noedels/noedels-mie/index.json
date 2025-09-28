@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Noedels, mie",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Noedels, mie",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "noedels",
+      "displayName": "Noedels",
+      "productCount": 38,
+      "filePath": "noedels.jsonl",
+      "indexPath": "noedels-index.json",
+      "statsPath": "noedels-stats.json",
+      "averageProtein": 8.4,
+      "halalCompliance": 87
+    },
+    {
+      "name": "mie",
+      "displayName": "Mie",
+      "productCount": 11,
+      "filePath": "mie.jsonl",
+      "indexPath": "mie-index.json",
+      "statsPath": "mie-stats.json",
+      "averageProtein": 10.8,
+      "halalCompliance": 91
+    },
+    {
+      "name": "rijstnoedels",
+      "displayName": "Rijstnoedels",
+      "productCount": 8,
+      "filePath": "rijstnoedels.jsonl",
+      "indexPath": "rijstnoedels-index.json",
+      "statsPath": "rijstnoedels-stats.json",
+      "averageProtein": 5.6,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 57,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 57,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Pasta Rijst Noedels",
+        "path": "../index.json"
+      },
+      {
+        "name": "Noedels Mie",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/pasta-rijst-noedels"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Beleg salades > Groentesalades (beleg)",
+  "breadcrumbs": "Ontbijtgranen en beleg > Beleg salades > Groentesalades (beleg)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "sellerie-salade",
+      "displayName": "Sellerie Salade",
+      "productCount": 6,
+      "filePath": "sellerie-salade.jsonl",
+      "indexPath": "sellerie-salade-index.json",
+      "statsPath": "sellerie-salade-stats.json",
+      "averageProtein": 0.7,
+      "halalCompliance": 67
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Beleg Salades",
+        "path": "../index.json"
+      },
+      {
+        "name": "Groentesalades Beleg",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/beleg-salades"
+  }
+}

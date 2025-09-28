@@ -1,0 +1,158 @@
+[
+  {
+    "id": "553349",
+    "name": "Kewpie Wasabi mayo sauce",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Sushi benodigdheden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449946",
+    "name": "Saitaku Wasabi mayo squeeze",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632343836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Sushi benodigdheden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164402",
+    "name": "Saitaku Wasabi paste",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Sushi benodigdheden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188923",
+    "name": "Saitaku Rice vinegar",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631383132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Sushi benodigdheden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384725",
+    "name": "Saitaku Nori snack",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Sushi benodigdheden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553364",
+    "name": "Saitaku Poke ginger sticks",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830343239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Sushi benodigdheden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166952",
+    "name": "Saitaku Sushi ginger",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631383435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Sushi benodigdheden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203822",
+    "name": "Saitaku Geroosterd zwart sesamzaad",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Sushi benodigdheden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188922",
+    "name": "Saitaku Sushi kit",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638373739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Sushi benodigdheden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164490",
+    "name": "Saitaku Sushi nori",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638373737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Sushi benodigdheden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553424",
+    "name": "AH Nori vellen",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339353238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Sushi benodigdheden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191907",
+    "name": "Saitaku Mirin rijstwijn",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631383234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Japans",
+      "Sushi benodigdheden"
+    ],
+    "isFood": true
+  }
+]

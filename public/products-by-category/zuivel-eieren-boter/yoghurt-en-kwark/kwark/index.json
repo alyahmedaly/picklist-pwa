@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Yoghurt en kwark > Kwark",
+  "breadcrumbs": "Zuivel, eieren, boter > Yoghurt en kwark > Kwark",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kwark-met-smaak-groot",
+      "displayName": "Kwark Met Smaak Groot",
+      "productCount": 25,
+      "filePath": "kwark-met-smaak-groot.jsonl",
+      "indexPath": "kwark-met-smaak-groot-index.json",
+      "statsPath": "kwark-met-smaak-groot-stats.json",
+      "averageProtein": 5.7,
+      "halalCompliance": 88
+    },
+    {
+      "name": "magere-kwark",
+      "displayName": "Magere Kwark",
+      "productCount": 18,
+      "filePath": "magere-kwark.jsonl",
+      "indexPath": "magere-kwark-index.json",
+      "statsPath": "magere-kwark-stats.json",
+      "averageProtein": 4.7,
+      "halalCompliance": 39
+    },
+    {
+      "name": "volle-kwark",
+      "displayName": "Volle Kwark",
+      "productCount": 7,
+      "filePath": "volle-kwark.jsonl",
+      "indexPath": "volle-kwark-index.json",
+      "statsPath": "volle-kwark-stats.json",
+      "averageProtein": 6.6,
+      "halalCompliance": 57
+    }
+  ],
+  "totalProducts": 50,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 50,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Yoghurt En Kwark",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kwark",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "zuivel-eieren-boter/yoghurt-en-kwark"
+  }
+}

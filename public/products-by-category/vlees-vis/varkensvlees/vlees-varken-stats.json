@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Varkensvlees > Vlees (varken)",
+  "breadcrumbs": "Vlees, vis > Varkensvlees > Vlees (varken)",
+  "totalProducts": 5,
+  "halalCompliance": 0,
+  "averageProtein": 23.2,
+  "averagePrice": 4.33,
+  "highProteinProducts": 4,
+  "dataQuality": {
+    "withNutrition": 5,
+    "withIngredients": 5,
+    "withHalalCheck": 5
+  }
+}

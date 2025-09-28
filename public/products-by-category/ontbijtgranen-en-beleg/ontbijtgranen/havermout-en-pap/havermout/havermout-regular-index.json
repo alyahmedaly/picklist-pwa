@@ -1,0 +1,296 @@
+[
+  {
+    "id": "569797",
+    "name": "Quaker Oats express chocolate havermout",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331373036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569798",
+    "name": "Quaker Oats express banana havermout",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331373033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471000",
+    "name": "AH Volkoren havermout proteine",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569946",
+    "name": "AH Volkoren havermout appel kaneel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569800",
+    "name": "Zonnatura Havermout framboos energie",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500173",
+    "name": "AH Biologisch Havermout fijne vlokken",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475244",
+    "name": "AH Biologisch Volkoren havermout fijn",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332323732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475247",
+    "name": "AH Biologisch Volkoren havermout grof",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "48405",
+    "name": "AH Volkoren havermout fijne vlokken",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569985",
+    "name": "AH Volkoren havermout fijne vlokken",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509276",
+    "name": "AH Volkoren havermout grove vlokken",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569945",
+    "name": "AH Volkoren havermout grove vlokken",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410050",
+    "name": "Brinta Havermout",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363437343631?revLabel=7&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225014",
+    "name": "Smaakt Volkoren havermout",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233343430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "364891",
+    "name": "Smaakt Volkoren havermout",
+    "price": 6.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225012",
+    "name": "Smaakt Volkoren havervlokken",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "364890",
+    "name": "Smaakt Volkoren havervlokken",
+    "price": 7.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135313831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486805",
+    "name": "Zonnatura Volkoren havermout",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363838383037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417126",
+    "name": "Quaker Havermout",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932393731?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414776",
+    "name": "Quaker Havermout voordeelverpakking",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932393733?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456003",
+    "name": "Zonnatura Havermout meerzaden glutenvrij",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353439303235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Havermout",
+      "Havermout (regular)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "521091",
+    "name": "AH Bakpoeder",
+    "price": 0.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Bakpoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386329",
+    "name": "Arm & Hammer Pure baking soda",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437323538?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Bakpoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "52896",
+    "name": "Dr. Oetker Backin bakpoeder",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532353635?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Bakpoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "314377",
+    "name": "Dr. Oetker Baksoda",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Bakpoeder"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416034",
+    "name": "La Baleine Sodium bicarbonate BEL",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363836353034?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Bakpoeder"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "warm-tussendoor",
+      "displayName": "Warm Tussendoor",
+      "productCount": 146,
+      "hasSubdirectories": true,
+      "indexPath": "warm-tussendoor/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "protenerepen",
+      "displayName": "Protenerepen",
+      "productCount": 74,
+      "filePath": "protenerepen.jsonl",
+      "indexPath": "protenerepen-index.json",
+      "statsPath": "protenerepen-stats.json",
+      "averageProtein": 28.9,
+      "halalCompliance": 11
+    },
+    {
+      "name": "tussendoortjes-glutenvrij",
+      "displayName": "Tussendoortjes Glutenvrij",
+      "productCount": 12,
+      "filePath": "tussendoortjes-glutenvrij.jsonl",
+      "indexPath": "tussendoortjes-glutenvrij-index.json",
+      "statsPath": "tussendoortjes-glutenvrij-stats.json",
+      "averageProtein": 11.9,
+      "halalCompliance": 17
+    },
+    {
+      "name": "ontbijtkoekrepen",
+      "displayName": "Ontbijtkoekrepen",
+      "productCount": 11,
+      "filePath": "ontbijtkoekrepen.jsonl",
+      "indexPath": "ontbijtkoekrepen-index.json",
+      "statsPath": "ontbijtkoekrepen-stats.json",
+      "averageProtein": 3.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "fruitsnacks",
+      "displayName": "Fruitsnacks",
+      "productCount": 10,
+      "filePath": "fruitsnacks.jsonl",
+      "indexPath": "fruitsnacks-index.json",
+      "statsPath": "fruitsnacks-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 100
+    },
+    {
+      "name": "tussendoortjes-koolhydraatarm",
+      "displayName": "Tussendoortjes Koolhydraatarm",
+      "productCount": 5,
+      "filePath": "tussendoortjes-koolhydraatarm.jsonl",
+      "indexPath": "tussendoortjes-koolhydraatarm-index.json",
+      "statsPath": "tussendoortjes-koolhydraatarm-stats.json",
+      "averageProtein": 18.7,
+      "halalCompliance": 40
+    }
+  ],
+  "totalProducts": 258,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 258,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Tussendoortjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

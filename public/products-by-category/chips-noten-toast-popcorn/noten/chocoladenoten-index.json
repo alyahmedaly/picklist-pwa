@@ -1,0 +1,62 @@
+[
+  {
+    "id": "467572",
+    "name": "AH Chocolade pinda's karamel zeezout",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439303831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Chocoladenoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539305",
+    "name": "AH Rozijnenmix chocolade",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Chocoladenoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479895",
+    "name": "AH Chocolade Noten & Rozijnen mix",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236323139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Chocoladenoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467560",
+    "name": "AH Chocolade amandelen mix",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439313031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Chocoladenoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559278",
+    "name": "AH Luxe multimix choco",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Chocoladenoten"
+    ],
+    "isFood": true
+  }
+]

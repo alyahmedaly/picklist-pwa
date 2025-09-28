@@ -1,0 +1,123 @@
+[
+  {
+    "id": "492475",
+    "name": "Wahid Kipburger",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries halal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492524",
+    "name": "Wahid Kipfrikandellen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries halal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551201",
+    "name": "Mekkafood Burger",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373330343532?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries halal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551202",
+    "name": "Mekkafood Frikandel",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353532393237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries halal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186343",
+    "name": "Mekkafood Cornsticks",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835333836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries halal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186345",
+    "name": "Mekkafood Nuggy",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533303330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries halal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389028",
+    "name": "Mekkafood Rundvlees kroketten halal",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363436363033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries halal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468428",
+    "name": "Wahid Kipsaté",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363937393338?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries halal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558547",
+    "name": "Wahid Bapao kip",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries halal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416495",
+    "name": "Mekkafood Kebab",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363436363136?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries halal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516204",
+    "name": "Wahid Halal chicken tenders piri piri",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries halal"
+    ],
+    "isFood": true
+  }
+]

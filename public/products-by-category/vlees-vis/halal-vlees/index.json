@@ -1,0 +1,52 @@
+{
+  "categoryPath": "Vlees, vis > Halal vlees",
+  "breadcrumbs": "Vlees, vis > Halal vlees",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "halal-vleeswaren",
+      "displayName": "Halal Vleeswaren",
+      "productCount": 27,
+      "filePath": "halal-vleeswaren.jsonl",
+      "indexPath": "halal-vleeswaren-index.json",
+      "statsPath": "halal-vleeswaren-stats.json",
+      "averageProtein": 15,
+      "halalCompliance": 89
+    },
+    {
+      "name": "halal-rund",
+      "displayName": "Halal Rund",
+      "productCount": 6,
+      "filePath": "halal-rund.jsonl",
+      "indexPath": "halal-rund-index.json",
+      "statsPath": "halal-rund-stats.json",
+      "averageProtein": 19.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 33,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 33,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Halal Vlees",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "vlees-vis"
+  }
+}

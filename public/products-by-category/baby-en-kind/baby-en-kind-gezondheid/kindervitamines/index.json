@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Baby en kind > Baby en kind gezondheid > Kindervitamines",
+  "breadcrumbs": "Baby en kind > Baby en kind gezondheid > Kindervitamines",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kind-multivitamines",
+      "displayName": "Kind Multivitamines",
+      "productCount": 19,
+      "filePath": "kind-multivitamines.jsonl",
+      "indexPath": "kind-multivitamines-index.json",
+      "statsPath": "kind-multivitamines-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 47
+    }
+  ],
+  "totalProducts": 19,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Baby En Kind",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Baby En Kind Gezondheid",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kindervitamines",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "baby-en-kind/baby-en-kind-gezondheid"
+  }
+}

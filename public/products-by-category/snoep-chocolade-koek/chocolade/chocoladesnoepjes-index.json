@@ -1,0 +1,674 @@
+[
+  {
+    "id": "569837",
+    "name": "M&M'S Crispy melk chocolade",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134373833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569839",
+    "name": "M&M'S Crispy melk chocolade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134373838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221797",
+    "name": "M&M'S Crispy melk chocolade maxi",
+    "price": 5.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134373931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507754",
+    "name": "M&M'S Crispy melk chocolade party",
+    "price": 11.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569838",
+    "name": "M&M'S Gezouten karamel melk chocolade",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515674",
+    "name": "M&M'S Gezouten karamel melk chocolade maxi",
+    "price": 5.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937353235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507792",
+    "name": "AH Classic choco's",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383031383430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582793",
+    "name": "Kitkat Ball melkchocolade",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221560",
+    "name": "M&M'S Melk chocolade",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134373832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221580",
+    "name": "M&M'S Melk chocolade",
+    "price": 5.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134373839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228069",
+    "name": "M&M'S Melk chocolade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134373834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572147",
+    "name": "M&M'S Minis melk chocolade",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134373835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582796",
+    "name": "Treets Choco",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582795",
+    "name": "Treets Crispy",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130343132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563880",
+    "name": "Tony's Chocolonely Lil' bits melk karamel zeezout biscuit",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837363739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507964",
+    "name": "AH Stroopwafelrotsjes",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383039363530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177014",
+    "name": "M&M'S Pinda melk chocolade",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393135313731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228068",
+    "name": "M&M'S Pinda melk chocolade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035333232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569845",
+    "name": "M&M'S Pinda melk chocolade",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171437",
+    "name": "M&M'S Pinda melk chocolade maxi",
+    "price": 5.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933343337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160489",
+    "name": "M&M'S Pinda melk chocolade party",
+    "price": 11.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938383139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582798",
+    "name": "Treets Peanuts rainbow",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130333638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507716",
+    "name": "AH Crispy choco's",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931343035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507793",
+    "name": "AH Pretzel choco's",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383031383339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462722",
+    "name": "Kinder Joy",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039363833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221561",
+    "name": "M&M'S Melk chocolade party",
+    "price": 11.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471069",
+    "name": "Maltesers Melkchocolade",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636393430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493347",
+    "name": "Maltesers Melkchocolade",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139353538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493561",
+    "name": "Maltesers Melkchocolade",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330363331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549886",
+    "name": "Rolo Melkchocolade 4-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434333531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532268",
+    "name": "Smarties Melkchocolade stazak",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134353639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563788",
+    "name": "Tony's Chocolonely Lil' bits melk marshmellow biscuit mix",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549923",
+    "name": "Hands Off Bites peanut",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508009",
+    "name": "McVitie's Flipz melk",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383232333935?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508010",
+    "name": "McVitie's Flipz salted caramel chocolate pretzels",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383031333537?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563789",
+    "name": "Tony's Chocolonely Lil' bits puur sinaasappel chocokoek",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563617",
+    "name": "Tony's Chocolonely Lil' bits triple chocolate mix",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582799",
+    "name": "Treets Peanuts",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130333639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "144878",
+    "name": "AH Crunch choco's",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507770",
+    "name": "AH Pinda choco's",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383031383436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549924",
+    "name": "Maltesers Dark",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582801",
+    "name": "Treets Cornflakes & peanuts",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130343136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549957",
+    "name": "AH Pindarotsjes karamel zeezout",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549915",
+    "name": "Hands Off Bites sweet & salty almond",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582800",
+    "name": "Treets Malty",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130343131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507758",
+    "name": "AH Chocolade blaadjes puur citroen",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373939343632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "144877",
+    "name": "AH Hazelnoten choco's",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507760",
+    "name": "AH Pure chocolade truffels slagroom",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373939353031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "144880",
+    "name": "AH Rozijn choco's",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373035363439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484230",
+    "name": "Nestlé Choclait chips melkchocolade",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331313134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539301",
+    "name": "AH Pindamix chocolade",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549956",
+    "name": "AH Pindarotsjes wit",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336393631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507811",
+    "name": "AH Pindarotsjes melk",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734373234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507813",
+    "name": "AH Pindarotsjes melk",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734373237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507814",
+    "name": "AH Pindarotsjes mix",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734373236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507812",
+    "name": "AH Pindarotsjes puur",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734373235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocoladesnoepjes"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Bier en aperitieven > Speciaalbier > Bockbier",
+  "breadcrumbs": "Bier en aperitieven > Speciaalbier > Bockbier",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "herfstbok",
+      "displayName": "Herfstbok",
+      "productCount": 25,
+      "filePath": "herfstbok.jsonl",
+      "indexPath": "herfstbok-index.json",
+      "statsPath": "herfstbok-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 25,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Speciaalbier",
+        "path": "../index.json"
+      },
+      {
+        "name": "Bockbier",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bier-en-aperitieven/speciaalbier"
+  }
+}

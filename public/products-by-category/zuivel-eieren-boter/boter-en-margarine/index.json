@@ -1,0 +1,67 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "boter-en-margarine-voor-de-keuken",
+      "displayName": "Boter En Margarine Voor De Keuken",
+      "productCount": 57,
+      "hasSubdirectories": false,
+      "indexPath": "boter-en-margarine-voor-de-keuken/index.json"
+    },
+    {
+      "name": "boter-en-margarine-voor-op-brood",
+      "displayName": "Boter En Margarine Voor Op Brood",
+      "productCount": 46,
+      "hasSubdirectories": false,
+      "indexPath": "boter-en-margarine-voor-op-brood/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "plantaardige-boter-en-margarine-voor-op-brood",
+      "displayName": "Plantaardige Boter En Margarine Voor Op Brood",
+      "productCount": 9,
+      "filePath": "plantaardige-boter-en-margarine-voor-op-brood.jsonl",
+      "indexPath": "plantaardige-boter-en-margarine-voor-op-brood-index.json",
+      "statsPath": "plantaardige-boter-en-margarine-voor-op-brood-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 11
+    },
+    {
+      "name": "plantaardige-boter-en-margarine-voor-de-keuken",
+      "displayName": "Plantaardige Boter En Margarine Voor De Keuken",
+      "productCount": 7,
+      "filePath": "plantaardige-boter-en-margarine-voor-de-keuken.jsonl",
+      "indexPath": "plantaardige-boter-en-margarine-voor-de-keuken-index.json",
+      "statsPath": "plantaardige-boter-en-margarine-voor-de-keuken-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 119,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 119,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../index.json"
+      },
+      {
+        "name": "Boter En Margarine",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "zuivel-eieren-boter"
+  }
+}

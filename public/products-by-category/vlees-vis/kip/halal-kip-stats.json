@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Kip > Halal kip",
+  "breadcrumbs": "Vlees, vis > Kip > Halal kip",
+  "totalProducts": 18,
+  "halalCompliance": 94,
+  "averageProtein": 16.2,
+  "averagePrice": 5.25,
+  "highProteinProducts": 8,
+  "dataQuality": {
+    "withNutrition": 18,
+    "withIngredients": 18,
+    "withHalalCheck": 18
+  }
+}

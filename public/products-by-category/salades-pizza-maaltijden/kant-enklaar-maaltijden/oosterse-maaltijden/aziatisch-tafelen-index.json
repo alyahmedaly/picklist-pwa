@@ -1,0 +1,249 @@
+[
+  {
+    "id": "578804",
+    "name": "AH Babi ketjap",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133343336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470284",
+    "name": "AH Babi pangang",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631363536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455643",
+    "name": "AH Mihoen goreng",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455645",
+    "name": "AH Bami babi pangang",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455646",
+    "name": "AH Bami sate ajam",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455555",
+    "name": "AH Nasi",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455647",
+    "name": "AH Nasi babi pangang",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455622",
+    "name": "AH Nasi sate ajam",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496167",
+    "name": "AH Sate ajam",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631363538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455640",
+    "name": "AH Bami goreng",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578796",
+    "name": "AH Noodle maaltijd gochujang chicken",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578795",
+    "name": "AH Noodle maaltijd Thai shrimp",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455624",
+    "name": "AH Pad thai",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631363537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455629",
+    "name": "AH Foe yong hai",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631363539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551437",
+    "name": "AH Maaltijd bami goreng",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434373537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578793",
+    "name": "AH Noodle maaltijd Korean black beans",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455534",
+    "name": "AH Chow mein",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631363530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578792",
+    "name": "AH Verse maaltijd teriyaki noedels",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131333333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564079",
+    "name": "Crop's Bami goreng",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230303136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Oosterse maaltijden",
+      "Aziatisch tafelen"
+    ],
+    "isFood": true
+  }
+]

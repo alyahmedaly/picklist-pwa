@@ -1,0 +1,230 @@
+[
+  {
+    "id": "233005",
+    "name": "Caluwé Artisan Belgische pralines romig",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303139343639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233008",
+    "name": "Ravelli Roombonbons",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137373131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417316",
+    "name": "Caluwé Artisan Belgische pralines ballotin mix",
+    "price": 10.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135393637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233007",
+    "name": "Ravelli Ambachtelijke bonbons",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363936303535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396094",
+    "name": "Ravelli Bouchees en bonbons",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138313132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233009",
+    "name": "AH Handwerk bonbons",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373537353235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549920",
+    "name": "Caluwé Artisan Belgische pralines caramel",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232343032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507749",
+    "name": "Ferrero Mon cheri",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231313736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549921",
+    "name": "Caluwé Artisan Belgische pralines hazelnoot praliné",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403011",
+    "name": "Lindt Lindor hazelnoot chocolade bonbons",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232915",
+    "name": "Lindt Mini pralines chocolade",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565670",
+    "name": "Lindt Mini pralinés thank you",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130393938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523144",
+    "name": "Milka Horeca mixbox chocolade naps",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639353539?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1390",
+    "name": "Côte d'Or Chokotoff",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353735383635?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "144867",
+    "name": "Côte d'Or Chokotoff",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432383035?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "172425",
+    "name": "AH Chocolade zeevruchten",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "66043",
+    "name": "Guylian The original Belgische chocolade",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303138343634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520548",
+    "name": "Toblerone Horeca mixbox chocolade",
+    "price": 22.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035343433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507920",
+    "name": "BioToday Vegan choco bar pinda's",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839373238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Bonbons en pralines"
+    ],
+    "isFood": true
+  }
+]

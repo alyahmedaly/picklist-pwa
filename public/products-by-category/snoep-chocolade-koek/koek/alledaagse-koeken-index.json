@@ -1,0 +1,554 @@
+[
+  {
+    "id": "196296",
+    "name": "AH Reuze mergpijpen",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373635333036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440858",
+    "name": "AH Cakemergpijpjes",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383531383130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506036",
+    "name": "AH Créme melange",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517247",
+    "name": "AH Vruchtenkoeken",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438353839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399694",
+    "name": "AH Crème mergpijpjes",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383531383435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484030",
+    "name": "AH Red Velvet Cookies",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733323234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517246",
+    "name": "AH Roomboter appelkoeken mini",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538303837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517517",
+    "name": "AH Crème spritsen met advocaatsmaak",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383436373635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517253",
+    "name": "AH Gangmakers",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383436303131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563506",
+    "name": "AH Red velvet cheesecake cookie",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135383135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3640",
+    "name": "LU Bastogne original",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932353735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517316",
+    "name": "AH Bokkenpootjes",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517313",
+    "name": "AH Confettini's",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383436303130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196329",
+    "name": "AH Fourré vanillesmaak",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517701",
+    "name": "AH Roomboter gemberkoekjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833383232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484023",
+    "name": "Echte Enkhuizer Jodekoek original",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363833373438?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565932",
+    "name": "Verkade Nobo sprits speculaas",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835323936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487264",
+    "name": "AH Eierwafels met hazelnootsmaak",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535373935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487260",
+    "name": "AH Jodekoeken",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533393837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "142575",
+    "name": "AH Roomboter spritsen",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738333831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185555",
+    "name": "AH Roze koeken",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384699",
+    "name": "LU Bastogne duo amandel-vanille",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431383933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514848",
+    "name": "LU Bastogne mini's",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431383932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571979",
+    "name": "Madegood Cookies chocolate chip",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438353838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543065",
+    "name": "Verkade Nobo sprits naturel",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232393331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "35284",
+    "name": "AH Bakkersmakronen kokoskoek",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "142566",
+    "name": "AH Kandijkoeken",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "142571",
+    "name": "AH Roze koeken mini",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565937",
+    "name": "La Mere Poulard Citron lemon French shortbread",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035313039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571980",
+    "name": "Madegood Cookies vanilla",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438353930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492583",
+    "name": "Oreo Golden",
+    "price": 1.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934313631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492584",
+    "name": "Oreo Golden",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934313633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "142542",
+    "name": "AH Roomboter kokos kransen kokoskoek",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833393638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "142553",
+    "name": "AH Roomboter boterkoekreepjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383530333131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417133",
+    "name": "AH Roomboter ronde spritsen",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730303935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487267",
+    "name": "AH Pindakoeken",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486965",
+    "name": "AH Theebiscuits",
+    "price": 0.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533333931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485229",
+    "name": "Smaakt Cranberry chocoladekoekjes",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487259",
+    "name": "AH Speculoos koeken",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733323235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517379",
+    "name": "Matilde Vicenzi Amarettino d'Italia ameretti cookies",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531343231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227768",
+    "name": "BioToday Rozijnen cranberrykoeken",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485150",
+    "name": "Smaakt Kokos-citroenkoekjes",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373631373834?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408281",
+    "name": "AH Digestive volkoren met tarwebloem",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485148",
+    "name": "Smaakt Cranberrykoeken",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373631343333?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517378",
+    "name": "Matilde Vicenzi Cantuccini almond biscotti",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531343139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444828",
+    "name": "Smaakt Mueslikoeken",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139373030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Alledaagse koeken"
+    ],
+    "isFood": true
+  }
+]

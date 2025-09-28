@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Vlees, vis > Varkensvlees > Shoarma, Gyros",
+  "breadcrumbs": "Vlees, vis > Varkensvlees > Shoarma, Gyros",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "shoarma",
+      "displayName": "Shoarma",
+      "productCount": 8,
+      "filePath": "shoarma.jsonl",
+      "indexPath": "shoarma-index.json",
+      "statsPath": "shoarma-stats.json",
+      "averageProtein": 17.4,
+      "halalCompliance": 13
+    }
+  ],
+  "totalProducts": 8,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Varkensvlees",
+        "path": "../index.json"
+      },
+      {
+        "name": "Shoarma Gyros",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/varkensvlees"
+  }
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "129450",
+    "name": "Go-Tan Wok original mild curry",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383930363235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indiaas",
+      "Indiase woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481298",
+    "name": "Patak's Extra mild tikka masala saus",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indiaas",
+      "Indiase woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237972",
+    "name": "Patak's Madras saus",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indiaas",
+      "Indiase woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553556",
+    "name": "Tilda Korma",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638333933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indiaas",
+      "Indiase woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553552",
+    "name": "Tilda Butter chicken",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indiaas",
+      "Indiase woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553554",
+    "name": "Tilda Jalfrezi",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indiaas",
+      "Indiase woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553553",
+    "name": "Tilda Madras",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638333732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indiaas",
+      "Indiase woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553555",
+    "name": "Tilda Tikka masala",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indiaas",
+      "Indiase woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553565",
+    "name": "Tilda Balti",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638313731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indiaas",
+      "Indiase woksaus"
+    ],
+    "isFood": true
+  }
+]

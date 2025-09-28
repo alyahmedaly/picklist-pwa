@@ -1,0 +1,43 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "douchegel",
+      "displayName": "Douchegel",
+      "productCount": 15,
+      "hasSubdirectories": false,
+      "indexPath": "douchegel/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 15,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 15,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Drogisterij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Lichaamsverzorging",
+        "path": "../index.json"
+      },
+      {
+        "name": "Bad En Douche",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "drogisterij/lichaamsverzorging"
+  }
+}

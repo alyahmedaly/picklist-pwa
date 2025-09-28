@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Drop > Gemengde drop",
+  "breadcrumbs": "Snoep, chocolade, koek > Drop > Gemengde drop",
+  "totalProducts": 26,
+  "halalCompliance": 4,
+  "averageProtein": 3.3,
+  "averagePrice": 2.72,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 26,
+    "withIngredients": 26,
+    "withHalalCheck": 26
+  }
+}

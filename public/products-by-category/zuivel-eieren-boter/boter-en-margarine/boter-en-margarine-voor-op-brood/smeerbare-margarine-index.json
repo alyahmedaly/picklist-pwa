@@ -1,0 +1,106 @@
+[
+  {
+    "id": "532242",
+    "name": "Gouda's Glorie Volle pond",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393733343536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558300",
+    "name": "Becel Light palmolievrij",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732353432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532238",
+    "name": "Becel Light palmolievrij voordeelpak",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732363632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532237",
+    "name": "Becel Original limited edition",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138313734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558298",
+    "name": "Becel Original palmolievrij",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732353338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532239",
+    "name": "Becel Romig palmolievrij",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558302",
+    "name": "Becel Romig palmolievrij",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734323438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578462",
+    "name": "Blue Band Halvarine 3-pack",
+    "price": 5.91,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934343237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare margarine"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "379164",
+    "name": "Nestlé Hot chocolate mix original",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353335373839?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Instant chocolademelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561885",
+    "name": "Nestlé Nesquik cacao",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839313737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Instant chocolademelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551455",
+    "name": "Ovomaltine Cereal energy",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393331383732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Instant chocolademelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381473",
+    "name": "AH Hot choco navulling",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373335363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Instant chocolademelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568667",
+    "name": "Delicata Mix voor warme chocomelk",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036363334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Instant chocolademelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568669",
+    "name": "Delicata Mix voor warme chocomelk",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031363639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Instant chocolademelk"
+    ],
+    "isFood": true
+  }
+]

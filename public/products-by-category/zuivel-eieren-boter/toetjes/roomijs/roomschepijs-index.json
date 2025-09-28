@@ -1,0 +1,379 @@
+[
+  {
+    "id": "576830",
+    "name": "AH Caramel cookie dough toffee",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576831",
+    "name": "AH Macademia nut brittle caramel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451103",
+    "name": "Ben & Jerry's Caramel chew chew",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "754",
+    "name": "AH Roomijs stracciatella",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421718",
+    "name": "AH Schepijs bourbon vanille",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451124",
+    "name": "Ben & Jerry's Cookie dough",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177666",
+    "name": "AH Roomijs pecan caramel",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576829",
+    "name": "AH Strawberry cheesecake speculoos",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493725",
+    "name": "Hertog Ijssalon mini cookie crumble",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931353530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167128",
+    "name": "AH Chocolade roomijs",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "53218",
+    "name": "AH Roomijs kaneel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484905",
+    "name": "AH Schepijs tricolore",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466520",
+    "name": "Hertog Ijssalon advocaat royaal",
+    "price": 5.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138393736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419811",
+    "name": "Hertog Ijssalon amarena-kers vanille",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132333232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221373",
+    "name": "Hertog Ijssalon drie chocolades",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138393732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576836",
+    "name": "Tudy's Kitchen Coconut latte",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637313634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167130",
+    "name": "AH Roomijs aardbei",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938343937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "751",
+    "name": "AH Roomijs malaga",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "759",
+    "name": "AH Roomijs vanille",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67836",
+    "name": "AH Slagroomijs",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562442",
+    "name": "Hertog Ijssalon tiramisu",
+    "price": 5.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138393734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221726",
+    "name": "Hertog Slagroomijs",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138393738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576837",
+    "name": "Tudy's Kitchen Chai",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637313636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576835",
+    "name": "Tudy's Kitchen Salty vanilla bean",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637313635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408139",
+    "name": "Hertog Ijssalon pecan-karamel vanille",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138393739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221728",
+    "name": "Hertog Ijssalon vanille",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138393733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62444",
+    "name": "AH Biologisch Roomijs vanille",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576833",
+    "name": "Lohilo Exotic",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839333736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579285",
+    "name": "AH Slagroomijs 2-pack",
+    "price": 6.63,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Roomijs",
+      "Roomschepijs"
+    ],
+    "isFood": true
+  }
+]

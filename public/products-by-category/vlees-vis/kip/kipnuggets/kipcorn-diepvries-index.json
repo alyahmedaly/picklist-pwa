@@ -1,0 +1,80 @@
+[
+  {
+    "id": "169011",
+    "name": "Mora Originals kipkorn",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353834313935?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipnuggets",
+      "Kipcorn (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451463",
+    "name": "Mora Crispy chick'n original strips",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353536303231?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipnuggets",
+      "Kipcorn (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451479",
+    "name": "Mora Crispy chick'n spicy strips",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353536303232?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipnuggets",
+      "Kipcorn (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538735",
+    "name": "Vegan Fried Chick*n Vegan popcorn chicken",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030303837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipnuggets",
+      "Kipcorn (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538736",
+    "name": "Vegan Fried Chick*n Crispy tenders",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030303930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipnuggets",
+      "Kipcorn (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538747",
+    "name": "Itsu Chicken gyoza",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137323632?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipnuggets",
+      "Kipcorn (diepvries)"
+    ],
+    "isFood": true
+  }
+]

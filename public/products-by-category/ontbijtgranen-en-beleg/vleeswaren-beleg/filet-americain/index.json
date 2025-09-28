@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Vleeswaren beleg > Filet americain",
+  "breadcrumbs": "Ontbijtgranen en beleg > Vleeswaren beleg > Filet americain",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kuipje-filet-americain-versafdeling",
+      "displayName": "Kuipje Filet Americain Versafdeling",
+      "productCount": 6,
+      "filePath": "kuipje-filet-americain-versafdeling.jsonl",
+      "indexPath": "kuipje-filet-americain-versafdeling-index.json",
+      "statsPath": "kuipje-filet-americain-versafdeling-stats.json",
+      "averageProtein": 13.5,
+      "halalCompliance": 67
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vleeswaren Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Filet Americain",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/vleeswaren-beleg"
+  }
+}

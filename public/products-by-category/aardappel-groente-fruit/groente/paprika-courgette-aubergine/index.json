@@ -1,0 +1,43 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "paprika",
+      "displayName": "Paprika",
+      "productCount": 10,
+      "hasSubdirectories": false,
+      "indexPath": "paprika/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 10,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 10,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../index.json"
+      },
+      {
+        "name": "Paprika Courgette Aubergine",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/groente"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Soepen > Bouillon, fond > Groentebouillon",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Soepen > Bouillon, fond > Groentebouillon",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "groentebouillon-blokjes",
+      "displayName": "Groentebouillon Blokjes",
+      "productCount": 9,
+      "filePath": "groentebouillon-blokjes.jsonl",
+      "indexPath": "groentebouillon-blokjes-index.json",
+      "statsPath": "groentebouillon-blokjes-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 9,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Soepen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bouillon Fond",
+        "path": "../index.json"
+      },
+      {
+        "name": "Groentebouillon",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "soepen-sauzen-kruiden-olie/soepen/bouillon-fond"
+  }
+}

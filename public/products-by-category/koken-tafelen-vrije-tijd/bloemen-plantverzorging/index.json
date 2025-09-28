@@ -1,0 +1,36 @@
+{
+  "categoryPath": "Koken, tafelen, vrije tijd > Bloemen, plantverzorging",
+  "breadcrumbs": "Koken, tafelen, vrije tijd > Bloemen, plantverzorging",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "bloemen",
+      "displayName": "Bloemen",
+      "productCount": 61,
+      "filePath": "bloemen.jsonl",
+      "indexPath": "bloemen-index.json",
+      "statsPath": "bloemen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 61,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koken Tafelen Vrije Tijd",
+        "path": "../index.json"
+      },
+      {
+        "name": "Bloemen Plantverzorging",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "koken-tafelen-vrije-tijd"
+  }
+}

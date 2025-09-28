@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Diepvries > Diepvries snacks > Maaltijdsnacks > Kroket",
+  "breadcrumbs": "Diepvries > Diepvries snacks > Maaltijdsnacks > Kroket",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kroket-frituur",
+      "displayName": "Kroket Frituur",
+      "productCount": 8,
+      "filePath": "kroket-frituur.jsonl",
+      "indexPath": "kroket-frituur-index.json",
+      "statsPath": "kroket-frituur-stats.json",
+      "averageProtein": 7.2,
+      "halalCompliance": 38
+    }
+  ],
+  "totalProducts": 8,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Diepvries Snacks",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Maaltijdsnacks",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kroket",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "diepvries/diepvries-snacks/maaltijdsnacks"
+  }
+}

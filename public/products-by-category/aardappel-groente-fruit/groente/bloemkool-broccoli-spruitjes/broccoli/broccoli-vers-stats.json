@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Bloemkool, broccoli, spruitjes > Broccoli > Broccoli (vers)",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Bloemkool, broccoli, spruitjes > Broccoli > Broccoli (vers)",
+  "totalProducts": 5,
+  "halalCompliance": 60,
+  "averageProtein": 1.7,
+  "averagePrice": 2.38,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 3,
+    "withIngredients": 3,
+    "withHalalCheck": 3
+  }
+}

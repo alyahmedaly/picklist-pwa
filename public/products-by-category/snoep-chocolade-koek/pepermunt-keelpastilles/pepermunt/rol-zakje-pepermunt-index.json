@@ -1,0 +1,223 @@
+[
+  {
+    "id": "467169",
+    "name": "AH Pepermuntballen",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353736303736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "172205",
+    "name": "Mentos Mint",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836373738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369460",
+    "name": "Mentos Mint 5-pack",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540300",
+    "name": "Mentos Strongmint 5-pack",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935343739?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578450",
+    "name": "Wilhelmina Fruit & mint ballen",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569683",
+    "name": "Mentos Dropmintballen",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569682",
+    "name": "Mentos Pepermuntballen",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578449",
+    "name": "Wilhelmina Drop & mint ballen",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "962",
+    "name": "AH Pepermunt",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323333393031?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467168",
+    "name": "AH Pepermunt kussens",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353736303730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177126",
+    "name": "King Pepermunt original 5-pack",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393139323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211861",
+    "name": "King Pepermunt rol",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363838393437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556676",
+    "name": "Wilhelmina Dispenser per stuk verpakt",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578448",
+    "name": "Wilhelmina Extra frisse pepermunt",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486808",
+    "name": "Wilhelmina Pepermunt",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502629",
+    "name": "Wilhelmina Pepermunt",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "536061",
+    "name": "Wilhelmina Pepermunt singles",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383839353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepermunt, keelpastilles",
+      "Pepermunt",
+      "Rol, zakje pepermunt"
+    ],
+    "isFood": true
+  }
+]

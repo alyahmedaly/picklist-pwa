@@ -1,0 +1,374 @@
+[
+  {
+    "id": "579426",
+    "name": "AH Maaltijdsalade oude kaas",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030353437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579422",
+    "name": "AH Lunchsalade baba ganousch",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132573",
+    "name": "AH Maaltijdsalade gerookte zalm",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336373530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574842",
+    "name": "AH XL salade avocado kip bacon",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635383039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554904",
+    "name": "AH Maaltijdsalade kip bacon",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436303936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574881",
+    "name": "AH XL salade pasta kip barbecue",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536373335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "192729",
+    "name": "AH Maaltijdsalade Marokkaanse kip",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132574",
+    "name": "AH Maaltijdsalade walnoot geitenkaas",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564703",
+    "name": "AH Terra Plantaardig maaltijdsalade couscous fal",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393834373935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579594",
+    "name": "AH Terra Plantaardige pastasalade mediterraans",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035363037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365380",
+    "name": "AH Xl salade pasta tonijn",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "142440",
+    "name": "AH Maaltijdsalade Italiaanse kip",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554906",
+    "name": "AH Maaltijdsalade Japanse noodles roerei",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132561",
+    "name": "AH Maaltijdsalade kip caesar",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221485",
+    "name": "AH Maaltijdsalade kip ketjap",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564704",
+    "name": "AH Terra Plantaardige maaltijdsalade quinoa noten",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393834373938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "128129",
+    "name": "AH Basis maaltijdsalade tonijn scharrelei",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632313535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "352930",
+    "name": "AH Lunchsalade tonijn",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "155467",
+    "name": "AH Maaltijdsalade tomaat mozzarella",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "128128",
+    "name": "AH Basis maaltijdsalade gegrilde kip",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038323039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435142",
+    "name": "AH Basis maaltijdsalade pittige kip",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "385510",
+    "name": "AH Maaltijdsalade Mexicaanse kip",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564707",
+    "name": "AH Terra Plantaardige lunchsalade mango amandel",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837333730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564713",
+    "name": "AH Terra Plantaardige maaltijdsalade udon noodles",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537373732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132575",
+    "name": "AH Maaltijdsalade garnalen",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386315",
+    "name": "AH Maaltijdsalade gerookte kip appel",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564705",
+    "name": "AH Terra Plantaardig maaltijdsalade mango hazel",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393834373835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509278",
+    "name": "Bonduelle Lunchbowl bulgur",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137383337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509277",
+    "name": "Bonduelle Lunchbowl quinoa",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137383237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577287",
+    "name": "AH Salade bowl couscous linzen",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509279",
+    "name": "Bonduelle Lunchbowl spelt",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137383334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Maaltijdsalade"
+    ],
+    "isFood": true
+  }
+]

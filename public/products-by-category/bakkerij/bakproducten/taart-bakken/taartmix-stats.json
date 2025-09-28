@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Bakproducten > Taart bakken > Taartmix",
+  "breadcrumbs": "Bakkerij > Bakproducten > Taart bakken > Taartmix",
+  "totalProducts": 16,
+  "halalCompliance": 31,
+  "averageProtein": 5.8,
+  "averagePrice": 3.52,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 16,
+    "withIngredients": 16,
+    "withHalalCheck": 16
+  }
+}

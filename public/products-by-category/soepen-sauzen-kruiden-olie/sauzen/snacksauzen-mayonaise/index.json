@@ -1,0 +1,125 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "mayonaise",
+      "displayName": "Mayonaise",
+      "productCount": 82,
+      "hasSubdirectories": false,
+      "indexPath": "mayonaise/index.json"
+    },
+    {
+      "name": "mosterd",
+      "displayName": "Mosterd",
+      "productCount": 22,
+      "hasSubdirectories": false,
+      "indexPath": "mosterd/index.json"
+    },
+    {
+      "name": "knoflooksaus-aioli",
+      "displayName": "Knoflooksaus Aioli",
+      "productCount": 20,
+      "hasSubdirectories": false,
+      "indexPath": "knoflooksaus-aioli/index.json"
+    },
+    {
+      "name": "chilisaus",
+      "displayName": "Chilisaus",
+      "productCount": 11,
+      "hasSubdirectories": false,
+      "indexPath": "chilisaus/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "ketchup",
+      "displayName": "Ketchup",
+      "productCount": 27,
+      "filePath": "ketchup.jsonl",
+      "indexPath": "ketchup-index.json",
+      "statsPath": "ketchup-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 93
+    },
+    {
+      "name": "variatiesauzen",
+      "displayName": "Variatiesauzen",
+      "productCount": 23,
+      "filePath": "variatiesauzen.jsonl",
+      "indexPath": "variatiesauzen-index.json",
+      "statsPath": "variatiesauzen-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 96
+    },
+    {
+      "name": "fritessaus",
+      "displayName": "Fritessaus",
+      "productCount": 16,
+      "filePath": "fritessaus.jsonl",
+      "indexPath": "fritessaus-index.json",
+      "statsPath": "fritessaus-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 100
+    },
+    {
+      "name": "currysaus",
+      "displayName": "Currysaus",
+      "productCount": 13,
+      "filePath": "currysaus.jsonl",
+      "indexPath": "currysaus-index.json",
+      "statsPath": "currysaus-stats.json",
+      "averageProtein": 0.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "cocktailsaus-en-whiskeysaus",
+      "displayName": "Cocktailsaus En Whiskeysaus",
+      "productCount": 7,
+      "filePath": "cocktailsaus-en-whiskeysaus.jsonl",
+      "indexPath": "cocktailsaus-en-whiskeysaus-index.json",
+      "statsPath": "cocktailsaus-en-whiskeysaus-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 14
+    },
+    {
+      "name": "ravigottesaus-tartare-saus",
+      "displayName": "Ravigottesaus Tartare Saus",
+      "productCount": 5,
+      "filePath": "ravigottesaus-tartare-saus.jsonl",
+      "indexPath": "ravigottesaus-tartare-saus-index.json",
+      "statsPath": "ravigottesaus-tartare-saus-stats.json",
+      "averageProtein": 1,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 226,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 226,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Sauzen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Snacksauzen Mayonaise",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "soepen-sauzen-kruiden-olie/sauzen"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "koolzuurvrij-water",
+      "displayName": "Koolzuurvrij Water",
+      "productCount": 37,
+      "hasSubdirectories": false,
+      "indexPath": "koolzuurvrij-water/index.json"
+    },
+    {
+      "name": "koolzuurhoudend-water",
+      "displayName": "Koolzuurhoudend Water",
+      "productCount": 34,
+      "hasSubdirectories": false,
+      "indexPath": "koolzuurhoudend-water/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "water-in-tray",
+      "displayName": "Water In Tray",
+      "productCount": 15,
+      "filePath": "water-in-tray.jsonl",
+      "indexPath": "water-in-tray-index.json",
+      "statsPath": "water-in-tray-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 53
+    }
+  ],
+  "totalProducts": 86,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 86,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../index.json"
+      },
+      {
+        "name": "Water",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "frisdrank-sappen-siropen-water"
+  }
+}

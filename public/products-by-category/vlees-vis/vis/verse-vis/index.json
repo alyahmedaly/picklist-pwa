@@ -1,0 +1,74 @@
+{
+  "categoryPath": "Vlees, vis > Vis > Verse vis",
+  "breadcrumbs": "Vlees, vis > Vis > Verse vis",
+  "subdirectories": [
+    {
+      "name": "zalm-vers",
+      "displayName": "Zalm Vers",
+      "productCount": 16,
+      "hasSubdirectories": false,
+      "indexPath": "zalm-vers/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "garnalen-vers",
+      "displayName": "Garnalen Vers",
+      "productCount": 23,
+      "filePath": "garnalen-vers.jsonl",
+      "indexPath": "garnalen-vers-index.json",
+      "statsPath": "garnalen-vers-stats.json",
+      "averageProtein": 15.2,
+      "halalCompliance": 91
+    },
+    {
+      "name": "mosselen-vers",
+      "displayName": "Mosselen Vers",
+      "productCount": 11,
+      "filePath": "mosselen-vers.jsonl",
+      "indexPath": "mosselen-vers-index.json",
+      "statsPath": "mosselen-vers-stats.json",
+      "averageProtein": 11.8,
+      "halalCompliance": 91
+    },
+    {
+      "name": "pangasius-vers",
+      "displayName": "Pangasius Vers",
+      "productCount": 6,
+      "filePath": "pangasius-vers.jsonl",
+      "indexPath": "pangasius-vers-index.json",
+      "statsPath": "pangasius-vers-stats.json",
+      "averageProtein": 13.7,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 56,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 56,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Verse Vis",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/vis"
+  }
+}

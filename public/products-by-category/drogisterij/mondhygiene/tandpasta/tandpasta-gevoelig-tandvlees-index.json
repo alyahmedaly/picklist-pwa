@@ -1,0 +1,262 @@
+[
+  {
+    "id": "406463",
+    "name": "Meridol Dagelijkse tandverzorging tandpasta",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564845",
+    "name": "Oral-B Pro science intense reiniging tandpasta",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636343038?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551111",
+    "name": "Oral-B Pro-expert gevoeligheid tandpasta",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339323231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564847",
+    "name": "Oral-B Pro-repair fresh white tandpasta",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393637393234?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564846",
+    "name": "Oral-B Pro-repair original tandpasta",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636333331?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579281",
+    "name": "Parodontax Active Repair 4-pack",
+    "price": 24.8,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557804",
+    "name": "Parodontax Active repair tandvlees freshmint",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435333436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439128",
+    "name": "Parodontax Complete protection extrafresh",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238363237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439131",
+    "name": "Parodontax Complete protection whitening tandpasta",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238363330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417958",
+    "name": "Parodontax Extra fresh tandpasta",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836343133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417957",
+    "name": "Parodontax No fluoride tandpasta",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733323230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417953",
+    "name": "Parodontax Original tandpasta",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238363538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417959",
+    "name": "Parodontax Ultra clean tandpasta",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417956",
+    "name": "Parodontax Whitening tandpasta",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836343134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407363",
+    "name": "Perio Aid Intensive care gel tandpasta",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333353337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506597",
+    "name": "Prodent Gevoeligheid & tandvlees tandpasta",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839393730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573489",
+    "name": "Prodent Tandpasta gevoeligheid & tandvlees",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536333831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407377",
+    "name": "Vitis Gezond tandvlees",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333383530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410595",
+    "name": "Weleda Planten tandpasta",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373033363739?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473810",
+    "name": "Zendium Tandvlees protect",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393938343035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Mondhygiene",
+      "Tandpasta",
+      "Tandpasta gevoelig tandvlees"
+    ],
+    "isFood": true
+  }
+]

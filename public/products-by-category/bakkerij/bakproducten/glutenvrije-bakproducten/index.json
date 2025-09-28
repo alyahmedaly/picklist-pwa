@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Bakkerij > Bakproducten > Glutenvrije bakproducten",
+  "breadcrumbs": "Bakkerij > Bakproducten > Glutenvrije bakproducten",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "basismeel-glutenvrij",
+      "displayName": "Basismeel Glutenvrij",
+      "productCount": 8,
+      "filePath": "basismeel-glutenvrij.jsonl",
+      "indexPath": "basismeel-glutenvrij-index.json",
+      "statsPath": "basismeel-glutenvrij-stats.json",
+      "averageProtein": 10,
+      "halalCompliance": 63
+    },
+    {
+      "name": "maismeel",
+      "displayName": "Maismeel",
+      "productCount": 6,
+      "filePath": "maismeel.jsonl",
+      "indexPath": "maismeel-index.json",
+      "statsPath": "maismeel-stats.json",
+      "averageProtein": 7.6,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 14,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 14,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bakproducten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Glutenvrije Bakproducten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bakkerij/bakproducten"
+  }
+}

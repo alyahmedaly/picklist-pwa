@@ -1,0 +1,110 @@
+[
+  {
+    "id": "564763",
+    "name": "AH Terra Plantaardig smeerbaar margarine",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor op brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127489",
+    "name": "AH Terra Plantaardig halvarine lekker op brood",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034353732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor op brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "138500",
+    "name": "AH Terra Plantaardig goed begin",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034353730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor op brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127488",
+    "name": "AH Terra Plantaardig smeerbaar balans",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303033363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor op brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563969",
+    "name": "AH Terra Plantaardig biologische halvarine",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor op brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564762",
+    "name": "AH Terra Plantaardig cholesterol verlagend",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303033363838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor op brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127490",
+    "name": "AH Terra Plantaardig smeerbaar light",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor op brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571442",
+    "name": "Becel Light palmolievrij",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732343737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor op brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571441",
+    "name": "Becel Original palmolievrij",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732353430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor op brood"
+    ],
+    "isFood": true
+  }
+]

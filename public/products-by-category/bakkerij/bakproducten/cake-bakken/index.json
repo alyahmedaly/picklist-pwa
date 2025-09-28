@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Bakkerij > Bakproducten > Cake bakken",
+  "breadcrumbs": "Bakkerij > Bakproducten > Cake bakken",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "cakemix",
+      "displayName": "Cakemix",
+      "productCount": 21,
+      "filePath": "cakemix.jsonl",
+      "indexPath": "cakemix-index.json",
+      "statsPath": "cakemix-stats.json",
+      "averageProtein": 5.9,
+      "halalCompliance": 52
+    }
+  ],
+  "totalProducts": 21,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bakproducten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Cake Bakken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bakkerij/bakproducten"
+  }
+}

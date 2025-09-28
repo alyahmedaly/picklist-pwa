@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Varkensvlees > Shoarma, Gyros > Shoarma",
+  "breadcrumbs": "Vlees, vis > Varkensvlees > Shoarma, Gyros > Shoarma",
+  "totalProducts": 8,
+  "halalCompliance": 13,
+  "averageProtein": 17.4,
+  "averagePrice": 6.26,
+  "highProteinProducts": 7,
+  "dataQuality": {
+    "withNutrition": 7,
+    "withIngredients": 7,
+    "withHalalCheck": 7
+  }
+}

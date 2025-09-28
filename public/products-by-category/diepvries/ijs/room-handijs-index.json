@@ -1,0 +1,686 @@
+[
+  {
+    "id": "574304",
+    "name": "AH Mini karamel choco's",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550171",
+    "name": "Lotus Biscoff mini wit",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232393934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493719",
+    "name": "Lotus Biscoff Speculoos roomijs witte chocolade",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232393935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383211",
+    "name": "Magnum Double caramel",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393937353136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550164",
+    "name": "Magnum Double starchaser",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932343631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550148",
+    "name": "Magnum Mini double starchaser",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934313733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493710",
+    "name": "AH Choco white",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515677",
+    "name": "AH Disco ijsjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933373438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494036",
+    "name": "Magnum Double gold caramel billionaire",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838353739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479747",
+    "name": "Magnum Mini double caramel",
+    "price": 6.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232343038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571957",
+    "name": "Magnum Mini double caramel & billionaire",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439393031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494037",
+    "name": "Magnum Mini double gold caramel",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934313030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571956",
+    "name": "Magnum Mini euphoria pink lemonade",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335343933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574315",
+    "name": "Sammontana Gruvi pistacchio sincero",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632333436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437046",
+    "name": "AH Choco's mini mix",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408212",
+    "name": "AH Classic choco's",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237599",
+    "name": "Magnum Almond",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335353432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429647",
+    "name": "Magnum Almond",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335343832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571974",
+    "name": "Magnum Euphoria pink lemonade",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335343834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "192596",
+    "name": "Magnum Mini classic",
+    "price": 5.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188173",
+    "name": "Magnum Mini classic almond white",
+    "price": 8.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335353138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550154",
+    "name": "Magnum Mini double sunlover",
+    "price": 6.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934313736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233391",
+    "name": "Magnum Mini white chocolate & white almond",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393931393835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451443",
+    "name": "Magnum Vegan almond",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233333638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571973",
+    "name": "Milka Butter cookie",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538363931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574305",
+    "name": "AH Mini praliné choco's",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574303",
+    "name": "Häagen-Dazs Macadamia nut brittle",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635323834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237598",
+    "name": "Magnum Classic",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335353435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429644",
+    "name": "Magnum Classic",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436313637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162681",
+    "name": "Magnum Mini almond",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515458",
+    "name": "Magnum Mini almond remix",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "552895",
+    "name": "Magnum Mini double sunlover",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303030393336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451165",
+    "name": "Magnum Mini white chocolate & cookies",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839343634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429645",
+    "name": "Magnum White chocolate",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238363937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571972",
+    "name": "Milka Vanilla & chocolate swirl",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408118",
+    "name": "Oreo Ijs mini",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538363934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515456",
+    "name": "Snickers Peanut butter ice cream creamy",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132363631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451694",
+    "name": "Snickers White ijsrepen",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530343534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238152",
+    "name": "Twix IJsrepen",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032383037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408213",
+    "name": "AH Almond choco's",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493709",
+    "name": "AH Chocosticks",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429648",
+    "name": "Magnum Mini intense dark",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935303438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515462",
+    "name": "Ola Cornetto soft chocolatey",
+    "price": 4.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303136393632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571962",
+    "name": "Ola Nogger",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632323136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515730",
+    "name": "Snickers IJsrepen",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534313331?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515457",
+    "name": "Mars IJsrepen",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032373033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "371591",
+    "name": "Oreo Ijs",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538363438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574307",
+    "name": "IJsbaart Strawberry cheesecake",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631393138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574306",
+    "name": "IJsbaart Choco brownie",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631393233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571963",
+    "name": "Ola Jungle party cocoa & vanilla",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415336",
+    "name": "AH Roomijswafels",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130333731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163522",
+    "name": "Ola Split",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303032363736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167126",
+    "name": "AH Sunniez sinaasappel",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226471",
+    "name": "Ola Solero exotic",
+    "price": 4.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393937343835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62060",
+    "name": "Magnum Mini classic almond white",
+    "price": 5.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335343533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550161",
+    "name": "Oppo Brothers Caramelised biscuit",
+    "price": 6.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035303737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474581",
+    "name": "Claudi & Fin Frozen yoghurt ijsjes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839363536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Room handijs"
+    ],
+    "isFood": true
+  }
+]

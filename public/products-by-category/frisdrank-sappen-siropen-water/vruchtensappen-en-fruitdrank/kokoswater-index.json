@@ -1,0 +1,62 @@
+[
+  {
+    "id": "369322",
+    "name": "Mogu Mogu Mogu kokosnoot fles",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132353738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Kokoswater"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234780",
+    "name": "Tropical Coco milk drink",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538323237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Kokoswater"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "382451",
+    "name": "AH Kokoswater",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Kokoswater"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415202",
+    "name": "100% Coconut grove",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936353836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Kokoswater"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231430",
+    "name": "Healthy people Kokoswater",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933353633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Kokoswater"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "516495",
+    "name": "AH Kaas van de boerderij extra belegen 50+",
+    "price": 4.53,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934373431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Extra belegen kaas broodbeleg",
+      "Extra belegen kaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454058",
+    "name": "De Zaanse Hoeve Extra belegen 48+ stuk",
+    "price": 4.87,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934373432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Extra belegen kaas broodbeleg",
+      "Extra belegen kaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "52299",
+    "name": "AH Goudse extra belegen 48+ stuk",
+    "price": 7.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Extra belegen kaas broodbeleg",
+      "Extra belegen kaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474536",
+    "name": "AH Goudse extra belegen 48+ stuk",
+    "price": 10.66,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Extra belegen kaas broodbeleg",
+      "Extra belegen kaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486698",
+    "name": "AH Goudse extra belegen 48+ stuk",
+    "price": 8.27,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Extra belegen kaas broodbeleg",
+      "Extra belegen kaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "59811",
+    "name": "AH Zaanlander Extra belegen 48+ stuk",
+    "price": 8.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383338373633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Extra belegen kaas broodbeleg",
+      "Extra belegen kaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185783",
+    "name": "AH Biologisch Extra belegen 50+ stuk",
+    "price": 8.08,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131353532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Extra belegen kaas broodbeleg",
+      "Extra belegen kaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553807",
+    "name": "De Zaanse Hoeve Extra belegen 48+ plakken",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Extra belegen kaas broodbeleg",
+      "Extra belegen kaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417019",
+    "name": "AH Zaanlander Extra belegen 35+ stuk",
+    "price": 5.97,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Extra belegen kaas broodbeleg",
+      "Extra belegen kaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197949",
+    "name": "Beemster Extra belegen 48+ stuk",
+    "price": 9.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373339333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Extra belegen kaas broodbeleg",
+      "Extra belegen kaas (stuk)"
+    ],
+    "isFood": true
+  }
+]

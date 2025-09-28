@@ -1,0 +1,122 @@
+[
+  {
+    "id": "452031",
+    "name": "Streeckgenoten Twentse kaneelcake",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232313637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Cake (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212975",
+    "name": "AH Roomboter cake naturel",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Cake (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485003",
+    "name": "AH Roomboter cakeplakjes naturel",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133363634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Cake (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485002",
+    "name": "AH Roomboter cakeplakjes marmer",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Cake (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454131",
+    "name": "Streeckgenoten Arretjes cake",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232313633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Cake (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230776",
+    "name": "AH Choco kokos cake",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313738383638?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Cake (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230829",
+    "name": "AH Carrot cake",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313731383635?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Cake (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474409",
+    "name": "Homemade Mix voor kruidcake",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Cake (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "385856",
+    "name": "AH Kersencake met banketbakkersroom",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323737373130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Cake (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565960",
+    "name": "Leev Linzenwafels karamel 3-pack",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030373236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Cake (vers)"
+    ],
+    "isFood": true
+  }
+]

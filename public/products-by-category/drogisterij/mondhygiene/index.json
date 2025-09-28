@@ -1,0 +1,39 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "tandpasta",
+      "displayName": "Tandpasta",
+      "productCount": 20,
+      "hasSubdirectories": false,
+      "indexPath": "tandpasta/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 20,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 20,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Drogisterij",
+        "path": "../index.json"
+      },
+      {
+        "name": "Mondhygiene",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "drogisterij"
+  }
+}

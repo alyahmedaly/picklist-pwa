@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Water > Koolzuurhoudend water",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Water > Koolzuurhoudend water",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "flessen-water-koolzuurhoudend",
+      "displayName": "Flessen Water Koolzuurhoudend",
+      "productCount": 20,
+      "filePath": "flessen-water-koolzuurhoudend.jsonl",
+      "indexPath": "flessen-water-koolzuurhoudend-index.json",
+      "statsPath": "flessen-water-koolzuurhoudend-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 55
+    },
+    {
+      "name": "flesjes-water-koolzuurhoudend",
+      "displayName": "Flesjes Water Koolzuurhoudend",
+      "productCount": 14,
+      "filePath": "flesjes-water-koolzuurhoudend.jsonl",
+      "indexPath": "flesjes-water-koolzuurhoudend-index.json",
+      "statsPath": "flesjes-water-koolzuurhoudend-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 57
+    }
+  ],
+  "totalProducts": 34,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 34,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Water",
+        "path": "../index.json"
+      },
+      {
+        "name": "Koolzuurhoudend Water",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/water"
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "525269",
+    "name": "AH Groente & granen volkoren couscous",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934323430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentepasta, rijst, wraps",
+      "Groenterijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "379922",
+    "name": "AH Bloemkoolrijst",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532383632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentepasta, rijst, wraps",
+      "Groenterijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457053",
+    "name": "AH Bloemkoolrijst kvp",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131313138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentepasta, rijst, wraps",
+      "Groenterijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525231",
+    "name": "AH Groente & granen volkoren bulgur",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentepasta, rijst, wraps",
+      "Groenterijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572130",
+    "name": "AH Groente & granen zilvervliesrijst",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentepasta, rijst, wraps",
+      "Groenterijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399570",
+    "name": "AH Broccolirijst",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131313239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentepasta, rijst, wraps",
+      "Groenterijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457008",
+    "name": "AH Broccolirijst kvp",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131303639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentepasta, rijst, wraps",
+      "Groenterijst"
+    ],
+    "isFood": true
+  }
+]

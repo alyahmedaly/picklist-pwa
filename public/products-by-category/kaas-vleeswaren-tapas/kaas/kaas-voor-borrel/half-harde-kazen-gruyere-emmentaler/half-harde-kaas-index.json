@@ -1,0 +1,156 @@
+[
+  {
+    "id": "59701",
+    "name": "Rambol Hele noot 55+",
+    "price": 3.36,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373333313735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Half harde kazen, gruyere, emmentaler",
+      "Half harde kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104460",
+    "name": "AH Cheddar 48+",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323331313137?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Half harde kazen, gruyere, emmentaler",
+      "Half harde kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506124",
+    "name": "AH Cheddar 48+",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Half harde kazen, gruyere, emmentaler",
+      "Half harde kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483505",
+    "name": "Beemster Classic 48+ borrelstuk",
+    "price": 4.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383233343231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Half harde kazen, gruyere, emmentaler",
+      "Half harde kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188815",
+    "name": "Emmi Tete de moine",
+    "price": 11,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383233303938?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Half harde kazen, gruyere, emmentaler",
+      "Half harde kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468264",
+    "name": "AH Excellent Cantal",
+    "price": 3.88,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Half harde kazen, gruyere, emmentaler",
+      "Half harde kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550421",
+    "name": "AH Pere joseph 50+",
+    "price": 5.12,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233373534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Half harde kazen, gruyere, emmentaler",
+      "Half harde kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483521",
+    "name": "AH Tomme des pyrenees",
+    "price": 3.24,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363932303937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Half harde kazen, gruyere, emmentaler",
+      "Half harde kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384182",
+    "name": "Passendale Caractere",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234313933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Half harde kazen, gruyere, emmentaler",
+      "Half harde kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419620",
+    "name": "Passendale fruitig 50+",
+    "price": 4.24,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373032333737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Half harde kazen, gruyere, emmentaler",
+      "Half harde kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444965",
+    "name": "AH Excellent Comt AOP",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130383233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Half harde kazen, gruyere, emmentaler",
+      "Half harde kaas"
+    ],
+    "isFood": true
+  }
+]

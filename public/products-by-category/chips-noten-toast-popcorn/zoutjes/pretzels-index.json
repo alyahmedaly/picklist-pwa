@@ -1,0 +1,122 @@
+[
+  {
+    "id": "199611",
+    "name": "Schär Salinis",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373339383635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Pretzels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507218",
+    "name": "Chio Party mix original",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630393935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Pretzels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550126",
+    "name": "Elephant Pretzels honey mustard & onion",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303138303536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Pretzels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164268",
+    "name": "Bolletje Kaas pepsels",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303136363534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Pretzels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550125",
+    "name": "Elephant Pretzels tomatoes & herbs",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232393333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Pretzels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565528",
+    "name": "Elephant Pretzels zeezout",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303138303336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Pretzels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165117",
+    "name": "AH Mega mix",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323532323139?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Pretzels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164269",
+    "name": "Bolletje Pinda pepsels",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837313635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Pretzels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448430",
+    "name": "Bolletje Zoute pepsels",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837313536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Pretzels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578187",
+    "name": "AH Zoute sticks",
+    "price": 0.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Pretzels"
+    ],
+    "isFood": true
+  }
+]

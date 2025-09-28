@@ -1,0 +1,218 @@
+[
+  {
+    "id": "382536",
+    "name": "AH Biologisch Maiswafels met melk chocolade",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363035303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517892",
+    "name": "AH Dunne maïswafels melkchocolade 4-pack",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570639",
+    "name": "Haust Maïswafels sour creme",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532393032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570641",
+    "name": "Haust Maïswafels paprika",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477439",
+    "name": "AH Dunne maiswafels kaas 4-pack",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363439383130?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456379",
+    "name": "AH Dunne maiswafels paprika 4-pack",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363339393631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477560",
+    "name": "AH Dunne maiswafels sour cream 4-pack",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363439373834?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570640",
+    "name": "Haust Maïswafels kaas",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431343337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563614",
+    "name": "AH Dunne maïswafel pizzasmaak",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517906",
+    "name": "AH Extra dunne maïswafels met zeezout 4pack",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456369",
+    "name": "AH Gepofte Wafels Naturel",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363335373733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509517",
+    "name": "AH Protein maiswafels",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137343334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "382538",
+    "name": "AH Biologisch Maiswafels met zeezout",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363035303434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168655",
+    "name": "Zonnatura Maïswafels",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137303131?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395531",
+    "name": "AH Dunne maïswafels met zeezout",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237333536303032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456237",
+    "name": "AH Biologisch Maiswafels lijnzaad",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237313836363633?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518107",
+    "name": "AH Biologisch Dunne maïswafels met zeezout",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456494",
+    "name": "AH Dikke maiswafels met zeezout",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237313836363539?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Maiswafels"
+    ],
+    "isFood": true
+  }
+]

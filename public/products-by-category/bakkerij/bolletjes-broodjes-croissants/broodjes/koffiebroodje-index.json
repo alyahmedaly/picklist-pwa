@@ -1,0 +1,80 @@
+[
+  {
+    "id": "556513",
+    "name": "AH Raspberry crown",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439353130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Broodjes",
+      "Koffiebroodje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468259",
+    "name": "AH Kaneelbroodje",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Broodjes",
+      "Koffiebroodje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230726",
+    "name": "AH Maple pecan vlechtbrood",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Broodjes",
+      "Koffiebroodje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230738",
+    "name": "AH Koffiebroodje",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334373834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Broodjes",
+      "Koffiebroodje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574951",
+    "name": "Streeckgenoten Zeeuwse bolus",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232313635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Broodjes",
+      "Koffiebroodje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556512",
+    "name": "AH Cinnamon knot",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439353132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Broodjes",
+      "Koffiebroodje"
+    ],
+    "isFood": true
+  }
+]

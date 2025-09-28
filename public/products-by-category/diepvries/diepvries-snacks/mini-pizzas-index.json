@@ -1,0 +1,134 @@
+[
+  {
+    "id": "571893",
+    "name": "Dr. Oetker Ristorante piccolissima salame",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334353537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Mini pizza's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550157",
+    "name": "Wagner Piccolinis ham",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738313630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Mini pizza's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164157",
+    "name": "Wagner Piccolinis mini pizza salami",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Mini pizza's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496214",
+    "name": "AH Mini pizza salami",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Mini pizza's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "206693",
+    "name": "Wagner Piccolinis mini pizza 3 soorten kaas",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Mini pizza's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561533",
+    "name": "Dr. Oetker Mini pizza salame",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034303636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Mini pizza's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571894",
+    "name": "Dr. Oetker Ristorante piccolissima tre formaggi",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334353534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Mini pizza's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489295",
+    "name": "Schär Bont Italia mini pizza",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138303733?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Mini pizza's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561534",
+    "name": "Dr. Oetker Mini pizza formaggi",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034303635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Mini pizza's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167318",
+    "name": "Wagner Piccolinis mini pizza tomaat mozzarella",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737393133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Mini pizza's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561535",
+    "name": "Wagner Piccolinis tuna",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Mini pizza's"
+    ],
+    "isFood": true
+  }
+]

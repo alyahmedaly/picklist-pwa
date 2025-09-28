@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Ui, prei en knoflook > Prei",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Ui, prei en knoflook > Prei",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "prei-vers",
+      "displayName": "Prei Vers",
+      "productCount": 5,
+      "filePath": "prei-vers.jsonl",
+      "indexPath": "prei-vers-index.json",
+      "statsPath": "prei-vers-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Ui Prei En Knoflook",
+        "path": "../index.json"
+      },
+      {
+        "name": "Prei",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/ui-prei-en-knoflook"
+  }
+}

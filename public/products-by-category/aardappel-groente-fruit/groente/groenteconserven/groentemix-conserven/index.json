@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Groenteconserven > Groentemix (conserven)",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Groenteconserven > Groentemix (conserven)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "groenemix-conserven",
+      "displayName": "Groenemix Conserven",
+      "productCount": 12,
+      "filePath": "groenemix-conserven.jsonl",
+      "indexPath": "groenemix-conserven-index.json",
+      "statsPath": "groenemix-conserven-stats.json",
+      "averageProtein": 5,
+      "halalCompliance": 100
+    },
+    {
+      "name": "doperwtenwortelen-conserven",
+      "displayName": "Doperwtenwortelen Conserven",
+      "productCount": 9,
+      "filePath": "doperwtenwortelen-conserven.jsonl",
+      "indexPath": "doperwtenwortelen-conserven-index.json",
+      "statsPath": "doperwtenwortelen-conserven-stats.json",
+      "averageProtein": 2.7,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 21,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 21,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groenteconserven",
+        "path": "../index.json"
+      },
+      {
+        "name": "Groentemix Conserven",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/groenteconserven"
+  }
+}

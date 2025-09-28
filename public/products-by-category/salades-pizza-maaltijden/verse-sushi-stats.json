@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Verse sushi",
+  "breadcrumbs": "Salades, pizza, maaltijden > Verse sushi",
+  "totalProducts": 6,
+  "halalCompliance": 17,
+  "averageProtein": 4.5,
+  "averagePrice": 6.52,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 6,
+    "withIngredients": 6,
+    "withHalalCheck": 6
+  }
+}

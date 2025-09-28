@@ -1,0 +1,146 @@
+[
+  {
+    "id": "120328",
+    "name": "AH Bapao kipsate",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534353138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Bapao"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558548",
+    "name": "Wahid Bapao rund",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336383133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Bapao"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "33018",
+    "name": "AH Bapao kip",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533323839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Bapao"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "31392",
+    "name": "AH Bapao rundvlees",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533323339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Bapao"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560648",
+    "name": "AH Terra Plantaardige bapao groente",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393730303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Bapao"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560641",
+    "name": "AH Bapao pittige kip",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Bapao"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "56597",
+    "name": "AH Bapao rundvlees",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336313739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Bapao"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "56598",
+    "name": "AH Bapao kip",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336313830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Bapao"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571439",
+    "name": "Itsu Teriyaki chicken 4 bao'buns",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303435353037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Bapao"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558542",
+    "name": "Itsu Hoisin duck 4 bao'buns",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Bapao"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567339",
+    "name": "AH Bapao kip 4-pack",
+    "price": 4.14,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130373337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Bapao"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567367",
+    "name": "AH Bapao rundvlees 4-pack",
+    "price": 4.14,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130373633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Bapao"
+    ],
+    "isFood": true
+  }
+]

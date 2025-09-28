@@ -1,0 +1,93 @@
+[
+  {
+    "id": "99181",
+    "name": "Fattoria del Cerro Vino nobile di montepulciano",
+    "price": 13.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Sangiovese (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401832",
+    "name": "AH Excellent Selectie chianti classico",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323636333238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Sangiovese (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "93522",
+    "name": "Antinori Villa antinori rosso Toscana",
+    "price": 15.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830363734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Sangiovese (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67876",
+    "name": "Cecchi Chianti classico",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363738303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Sangiovese (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444111",
+    "name": "Cecchi Chianti classico riserva",
+    "price": 13.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036303631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Sangiovese (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207685",
+    "name": "Cecchi Vino nobile di montepulciano",
+    "price": 10.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303134343036?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Sangiovese (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436404",
+    "name": "Girorosso Puglia",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633313936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Sangiovese (Stevig)"
+    ],
+    "isFood": true
+  }
+]

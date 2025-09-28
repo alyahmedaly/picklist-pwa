@@ -1,0 +1,86 @@
+[
+  {
+    "id": "386450",
+    "name": "AH Chocolade muffins",
+    "price": 4.36,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323433323938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Muffins"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230757",
+    "name": "AH Muffin dubbelchocolade",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323831393235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Muffins"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230758",
+    "name": "AH Muffin vanille met chocolade stukjes",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323536393038?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Muffins"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494275",
+    "name": "AH Red velvet muffin",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373434393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Muffins"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386452",
+    "name": "AH Vanille muffins",
+    "price": 4.36,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323433323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Muffins"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509625",
+    "name": "AH Luxe blueberry muffin",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Muffins"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574949",
+    "name": "AH Lemon poppy seed muffin",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735343039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Muffins"
+    ],
+    "isFood": true
+  }
+]

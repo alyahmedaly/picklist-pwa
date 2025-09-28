@@ -1,0 +1,327 @@
+[
+  {
+    "id": "398856",
+    "name": "Texels Jutters bock",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238313838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578897",
+    "name": "Amstel Bock 6-pack",
+    "price": 7.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839313630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "375594",
+    "name": "Brand Dubbelbock",
+    "price": 1.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639333630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231285",
+    "name": "Brand Dubbelbock 6-pack",
+    "price": 7.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931343539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "392263",
+    "name": "Brouwerij 't IJ IJbock",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578900",
+    "name": "Frontaal Drop bock",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830323339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426456",
+    "name": "Gooische bierbrouwer Bock",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934323839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578844",
+    "name": "Grolsch Dunkel weizenbock 6-pack",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "283894",
+    "name": "Grolsch Gerijpte herfstbok",
+    "price": 1.47,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136383330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400104",
+    "name": "Grolsch Gerijpte herfstbok 6-pack",
+    "price": 8.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136383333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "215427",
+    "name": "Grolsch Rijke herfstbok",
+    "price": 1.48,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334393033?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173016",
+    "name": "Grolsch Rijke herfstbok speciaalbier",
+    "price": 1.34,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835393332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214162",
+    "name": "Grolsch Rijke herfstbok speciaalbier",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334383837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "105018",
+    "name": "Grolsch Rijke herfstbok speciaalbier 6-pack",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835393330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "215426",
+    "name": "Grolsch Rijke herfstbok speciaalbier 6-pack",
+    "price": 8.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835393333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216233",
+    "name": "Gulpener Herfstbock 6-pack",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133323935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "251342",
+    "name": "Hertog Jan Bockbier",
+    "price": 0.97,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132303730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "105019",
+    "name": "Hertog Jan Bockbier 6-pack",
+    "price": 5.77,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536323236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560971",
+    "name": "Jopen Bokbier 4-granen bok",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207486",
+    "name": "La Chouffe Bok 6666 4-pack",
+    "price": 8.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353734303439?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555121",
+    "name": "La Trappe Trappist bockbier",
+    "price": 1.93,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430323136?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555119",
+    "name": "La Trappe Trappist bockbier 4-pack",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535373733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "262406",
+    "name": "Lindeboom Bock",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393938343633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578904",
+    "name": "Moersleutel Remblok",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "530966",
+    "name": "Uiltje Brewing Apfelstrudel doppelbock",
+    "price": 3.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383937353838?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Bockbier",
+      "Herfstbok"
+    ],
+    "isFood": true
+  }
+]

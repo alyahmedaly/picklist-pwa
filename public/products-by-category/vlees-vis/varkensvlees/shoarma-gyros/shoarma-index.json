@@ -1,0 +1,106 @@
+[
+  {
+    "id": "210607",
+    "name": "AH Shoarma",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Shoarma, Gyros",
+      "Shoarma"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210608",
+    "name": "AH Shoarma",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Shoarma, Gyros",
+      "Shoarma"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232338",
+    "name": "AH Shoarma",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Shoarma, Gyros",
+      "Shoarma"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507416",
+    "name": "Streeckgenoten Shoarmareepjes",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383232313835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Shoarma, Gyros",
+      "Shoarma"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "443876",
+    "name": "AH Varkensshoarma 250g bel",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Shoarma, Gyros",
+      "Shoarma"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "443879",
+    "name": "AH Varkensshoarma 850g bel",
+    "price": 10.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Shoarma, Gyros",
+      "Shoarma"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217159",
+    "name": "AH Shoarma pittig",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Shoarma, Gyros",
+      "Shoarma"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578155",
+    "name": "AH Shoarma pittig 2-pack",
+    "price": 10.43,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Shoarma, Gyros",
+      "Shoarma"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Gezondheid, sport > Vitamines & supplementen > Vitamines > Multivitamines",
+  "breadcrumbs": "Gezondheid, sport > Vitamines & supplementen > Vitamines > Multivitamines",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "multivitamine",
+      "displayName": "Multivitamine",
+      "productCount": 33,
+      "filePath": "multivitamine.jsonl",
+      "indexPath": "multivitamine-index.json",
+      "statsPath": "multivitamine-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 73
+    },
+    {
+      "name": "vrouw-multivitamines",
+      "displayName": "Vrouw Multivitamines",
+      "productCount": 5,
+      "filePath": "vrouw-multivitamines.jsonl",
+      "indexPath": "vrouw-multivitamines-index.json",
+      "statsPath": "vrouw-multivitamines-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 40
+    }
+  ],
+  "totalProducts": 38,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 38,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Vitamines Supplementen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vitamines",
+        "path": "../index.json"
+      },
+      {
+        "name": "Multivitamines",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "gezondheid-sport/vitamines-supplementen/vitamines"
+  }
+}

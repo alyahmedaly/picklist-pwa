@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Bakproducten > Bakmix > Cupcake mix",
+  "breadcrumbs": "Bakkerij > Bakproducten > Bakmix > Cupcake mix",
+  "totalProducts": 5,
+  "halalCompliance": 60,
+  "averageProtein": 4.3,
+  "averagePrice": 3.89,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 4,
+    "withIngredients": 4,
+    "withHalalCheck": 4
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Wijn en bubbels > Witte wijn > Witte wijn - Lichtzoet",
+  "breadcrumbs": "Wijn en bubbels > Witte wijn > Witte wijn - Lichtzoet",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "moscato-lichtzoet",
+      "displayName": "Moscato Lichtzoet",
+      "productCount": 5,
+      "filePath": "moscato-lichtzoet.jsonl",
+      "indexPath": "moscato-lichtzoet-index.json",
+      "statsPath": "moscato-lichtzoet-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "overige-witte-wijn-lichtzoet",
+      "displayName": "Overige Witte Wijn Lichtzoet",
+      "productCount": 5,
+      "filePath": "overige-witte-wijn-lichtzoet.jsonl",
+      "indexPath": "overige-witte-wijn-lichtzoet-index.json",
+      "statsPath": "overige-witte-wijn-lichtzoet-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 10,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 10,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Witte Wijn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Witte Wijn Lichtzoet",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "wijn-en-bubbels/witte-wijn"
+  }
+}

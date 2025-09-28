@@ -1,0 +1,106 @@
+[
+  {
+    "id": "365808",
+    "name": "Antonin Rodet Bourgogne pinot noir",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Pinot Noir (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514725",
+    "name": "Antonin Rodet Vin de france pinot noir",
+    "price": 7.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393831333231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Pinot Noir (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "139152",
+    "name": "Arrogant Frog Lily Pad noir Pinot Noir",
+    "price": 13.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Pinot Noir (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "411213",
+    "name": "Cono Sur Bicicleta pinot noir",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236313733363337?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Pinot Noir (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209597",
+    "name": "JC Boisset Bourgogne Pinot Noir les Ursulines",
+    "price": 17.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313731323733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Pinot Noir (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "131024",
+    "name": "Masi Frescaripa Bardolino",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831303637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Pinot Noir (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228776",
+    "name": "Max Mann Pinot Noir",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373234313830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Pinot Noir (Fruitig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "69490",
+    "name": "Valdivieso Pinot Noir Single Valley Lot",
+    "price": 10.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130383335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Fruitige rode wijn",
+      "Pinot Noir (Fruitig)"
+    ],
+    "isFood": true
+  }
+]

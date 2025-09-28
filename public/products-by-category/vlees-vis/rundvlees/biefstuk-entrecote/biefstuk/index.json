@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Vlees, vis > Rundvlees > Biefstuk, entrecote > Biefstuk",
+  "breadcrumbs": "Vlees, vis > Rundvlees > Biefstuk, entrecote > Biefstuk",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "runderbiefstuk-vers",
+      "displayName": "Runderbiefstuk Vers",
+      "productCount": 17,
+      "filePath": "runderbiefstuk-vers.jsonl",
+      "indexPath": "runderbiefstuk-vers-index.json",
+      "statsPath": "runderbiefstuk-vers-stats.json",
+      "averageProtein": 21.8,
+      "halalCompliance": 94
+    }
+  ],
+  "totalProducts": 17,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Rundvlees",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Biefstuk Entrecote",
+        "path": "../index.json"
+      },
+      {
+        "name": "Biefstuk",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "vlees-vis/rundvlees/biefstuk-entrecote"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Asperges, bleekselderij, venkel, mais > Mais",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Asperges, bleekselderij, venkel, mais > Mais",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "maiskorrels-conserven",
+      "displayName": "Maiskorrels Conserven",
+      "productCount": 13,
+      "filePath": "maiskorrels-conserven.jsonl",
+      "indexPath": "maiskorrels-conserven-index.json",
+      "statsPath": "maiskorrels-conserven-stats.json",
+      "averageProtein": 2.5,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 13,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Asperges Bleekselderij Venkel Mais",
+        "path": "../index.json"
+      },
+      {
+        "name": "Mais",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/asperges-bleekselderij-venkel-mais"
+  }
+}

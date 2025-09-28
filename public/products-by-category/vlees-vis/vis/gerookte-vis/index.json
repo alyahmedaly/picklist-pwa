@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Vlees, vis > Vis > Gerookte vis",
+  "breadcrumbs": "Vlees, vis > Vis > Gerookte vis",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "gerookte-zalm-stukken",
+      "displayName": "Gerookte Zalm Stukken",
+      "productCount": 12,
+      "filePath": "gerookte-zalm-stukken.jsonl",
+      "indexPath": "gerookte-zalm-stukken-index.json",
+      "statsPath": "gerookte-zalm-stukken-stats.json",
+      "averageProtein": 19.7,
+      "halalCompliance": 92
+    },
+    {
+      "name": "gerookte-zalmfilet",
+      "displayName": "Gerookte Zalmfilet",
+      "productCount": 8,
+      "filePath": "gerookte-zalmfilet.jsonl",
+      "indexPath": "gerookte-zalmfilet-index.json",
+      "statsPath": "gerookte-zalmfilet-stats.json",
+      "averageProtein": 18.6,
+      "halalCompliance": 88
+    },
+    {
+      "name": "gerookte-makreel",
+      "displayName": "Gerookte Makreel",
+      "productCount": 6,
+      "filePath": "gerookte-makreel.jsonl",
+      "indexPath": "gerookte-makreel-index.json",
+      "statsPath": "gerookte-makreel-stats.json",
+      "averageProtein": 20.2,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 26,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 26,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Gerookte Vis",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/vis"
+  }
+}

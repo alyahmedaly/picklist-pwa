@@ -1,0 +1,72 @@
+{
+  "categoryPath": "Chips, noten, toast, popcorn > Zoutjes",
+  "breadcrumbs": "Chips, noten, toast, popcorn > Zoutjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "zoutjescrackers",
+      "displayName": "Zoutjescrackers",
+      "productCount": 29,
+      "filePath": "zoutjescrackers.jsonl",
+      "indexPath": "zoutjescrackers-index.json",
+      "statsPath": "zoutjescrackers-stats.json",
+      "averageProtein": 8.7,
+      "halalCompliance": 72
+    },
+    {
+      "name": "kaaszoutjes",
+      "displayName": "Kaaszoutjes",
+      "productCount": 25,
+      "filePath": "kaaszoutjes.jsonl",
+      "indexPath": "kaaszoutjes-index.json",
+      "statsPath": "kaaszoutjes-stats.json",
+      "averageProtein": 12.8,
+      "halalCompliance": 56
+    },
+    {
+      "name": "rijstzoutjes",
+      "displayName": "Rijstzoutjes",
+      "productCount": 24,
+      "filePath": "rijstzoutjes.jsonl",
+      "indexPath": "rijstzoutjes-index.json",
+      "statsPath": "rijstzoutjes-stats.json",
+      "averageProtein": 6.8,
+      "halalCompliance": 96
+    },
+    {
+      "name": "pretzels",
+      "displayName": "Pretzels",
+      "productCount": 10,
+      "filePath": "pretzels.jsonl",
+      "indexPath": "pretzels-index.json",
+      "statsPath": "pretzels-stats.json",
+      "averageProtein": 9.8,
+      "halalCompliance": 10
+    }
+  ],
+  "totalProducts": 88,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 88,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Chips Noten Toast Popcorn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Zoutjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "chips-noten-toast-popcorn"
+  }
+}

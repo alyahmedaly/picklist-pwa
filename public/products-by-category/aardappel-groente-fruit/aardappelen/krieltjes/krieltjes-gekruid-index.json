@@ -1,0 +1,80 @@
+[
+  {
+    "id": "196692",
+    "name": "AH BBQ mini krieltjes",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383336353030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Krieltjes",
+      "Krieltjes - gekruid"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475829",
+    "name": "AH Mini krieltjes curry",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Krieltjes",
+      "Krieltjes - gekruid"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497411",
+    "name": "AH BBQ mini krieltjes",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373739313834?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Krieltjes",
+      "Krieltjes - gekruid"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525254",
+    "name": "AH Mini krieltjes bistro",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Krieltjes",
+      "Krieltjes - gekruid"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475828",
+    "name": "AH Mini krieltjes kruidenboter",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Krieltjes",
+      "Krieltjes - gekruid"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525256",
+    "name": "AH Mini krieltjes sweet onion",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734373233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Krieltjes",
+      "Krieltjes - gekruid"
+    ],
+    "isFood": true
+  }
+]

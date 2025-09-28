@@ -1,0 +1,72 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Diepvries kant-en-klaar maaltijden",
+  "breadcrumbs": "Salades, pizza, maaltijden > Diepvries kant-en-klaar maaltijden",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "italiaanse-diepvries-maaltijd",
+      "displayName": "Italiaanse Diepvries Maaltijd",
+      "productCount": 8,
+      "filePath": "italiaanse-diepvries-maaltijd.jsonl",
+      "indexPath": "italiaanse-diepvries-maaltijd-index.json",
+      "statsPath": "italiaanse-diepvries-maaltijd-stats.json",
+      "averageProtein": 5.7,
+      "halalCompliance": 63
+    },
+    {
+      "name": "oosterse-diepvries-maaltijd",
+      "displayName": "Oosterse Diepvries Maaltijd",
+      "productCount": 8,
+      "filePath": "oosterse-diepvries-maaltijd.jsonl",
+      "indexPath": "oosterse-diepvries-maaltijd-index.json",
+      "statsPath": "oosterse-diepvries-maaltijd-stats.json",
+      "averageProtein": 4.1,
+      "halalCompliance": 75
+    },
+    {
+      "name": "wereld-diepvries-maaltijden",
+      "displayName": "Wereld Diepvries Maaltijden",
+      "productCount": 8,
+      "filePath": "wereld-diepvries-maaltijden.jsonl",
+      "indexPath": "wereld-diepvries-maaltijden-index.json",
+      "statsPath": "wereld-diepvries-maaltijden-stats.json",
+      "averageProtein": 4.8,
+      "halalCompliance": 100
+    },
+    {
+      "name": "diepvries-stoommaaltijden",
+      "displayName": "Diepvries Stoommaaltijden",
+      "productCount": 5,
+      "filePath": "diepvries-stoommaaltijden.jsonl",
+      "indexPath": "diepvries-stoommaaltijden-index.json",
+      "statsPath": "diepvries-stoommaaltijden-stats.json",
+      "averageProtein": 4.1,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 29,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 29,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Diepvries Kantenklaar Maaltijden",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "salades-pizza-maaltijden"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "categoryPath": "Baby en kind > Babyvoeding > Tussendoortjes (baby en kind) > Snacks (baby en kind)",
+  "breadcrumbs": "Baby en kind > Babyvoeding > Tussendoortjes (baby en kind) > Snacks (baby en kind)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "vanaf-12-maanden",
+      "displayName": "Vanaf 12 Maanden",
+      "productCount": 20,
+      "filePath": "vanaf-12-maanden.jsonl",
+      "indexPath": "vanaf-12-maanden-index.json",
+      "statsPath": "vanaf-12-maanden-stats.json",
+      "averageProtein": 6.9,
+      "halalCompliance": 70
+    },
+    {
+      "name": "vanaf-6-maanden",
+      "displayName": "Vanaf 6 Maanden",
+      "productCount": 12,
+      "filePath": "vanaf-6-maanden.jsonl",
+      "indexPath": "vanaf-6-maanden-index.json",
+      "statsPath": "vanaf-6-maanden-stats.json",
+      "averageProtein": 7.1,
+      "halalCompliance": 92
+    },
+    {
+      "name": "vanaf-8-maanden",
+      "displayName": "Vanaf 8 Maanden",
+      "productCount": 10,
+      "filePath": "vanaf-8-maanden.jsonl",
+      "indexPath": "vanaf-8-maanden-index.json",
+      "statsPath": "vanaf-8-maanden-stats.json",
+      "averageProtein": 7.1,
+      "halalCompliance": 70
+    }
+  ],
+  "totalProducts": 42,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 42,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Baby En Kind",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Babyvoeding",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Tussendoortjes Baby En Kind",
+        "path": "../index.json"
+      },
+      {
+        "name": "Snacks Baby En Kind",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "baby-en-kind/babyvoeding/tussendoortjes-baby-en-kind"
+  }
+}

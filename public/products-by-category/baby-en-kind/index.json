@@ -1,0 +1,40 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "babyvoeding",
+      "displayName": "Babyvoeding",
+      "productCount": 324,
+      "hasSubdirectories": true,
+      "indexPath": "babyvoeding/index.json"
+    },
+    {
+      "name": "baby-en-kind-gezondheid",
+      "displayName": "Baby En Kind Gezondheid",
+      "productCount": 24,
+      "hasSubdirectories": true,
+      "indexPath": "baby-en-kind-gezondheid/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 348,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 348,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Baby En Kind",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

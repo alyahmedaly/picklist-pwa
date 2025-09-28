@@ -1,0 +1,380 @@
+[
+  {
+    "id": "170748",
+    "name": "AH Appelmoes kaneel 0%",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583721",
+    "name": "AH Biologisch Appelmoes 0% suiker",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034383231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492393",
+    "name": "AH Appelmoes",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "810",
+    "name": "AH Appelmoes 0% suiker toegevoegd",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335303639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "811",
+    "name": "AH Appelmoes 0% suiker toegevoegd",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189673",
+    "name": "Hak Appelmoes light",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936323735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414037",
+    "name": "Hak Appelcompote 0%",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936323739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233988",
+    "name": "Hak Appelmoes 0%",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639303139?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414036",
+    "name": "Hak Appelmoes 0%",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936323833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435902",
+    "name": "Hak Appelmoes 0%",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936323831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189666",
+    "name": "Hak Appelmoes extra kwaliteit",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936323832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189671",
+    "name": "Hak Appelmoes extra kwaliteit",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936323834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189672",
+    "name": "Hak Appelmoes extra kwaliteit",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383937333933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189674",
+    "name": "Hak Appelmoes met kaneel",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583722",
+    "name": "Pink Lady Appelmoes",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636353531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583839",
+    "name": "Pink Lady Appelmoes",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636383339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "101205",
+    "name": "AH Biologisch Appelmoes 0% suiker toegevoegd",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195540",
+    "name": "AH Biologisch Appelmoes 0% suiker toegevoegd",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365956",
+    "name": "AH Biologisch Appelmoes 0% suiker toegevoegd",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "428754",
+    "name": "Servero Appelmoes biologisch",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393938343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446798",
+    "name": "Servero Appelmoes biologisch",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373936333037?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583844",
+    "name": "Servero Appelmoes friszoet",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036313138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "428749",
+    "name": "Servero Appelmoes original",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039383337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435896",
+    "name": "Servero Appelmoes original",
+    "price": 1.4,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373936323932?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435901",
+    "name": "Servero Appelmoesjes met stukjes",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938343330?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583843",
+    "name": "Servero Royal gala appelmoes",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036313232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520379",
+    "name": "AH Appelmoes 0% 4-pack",
+    "price": 6.42,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383734333537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (in pot)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Koek > Portieverpakking koek en cake",
+  "breadcrumbs": "Snoep, chocolade, koek > Koek > Portieverpakking koek en cake",
+  "totalProducts": 10,
+  "halalCompliance": 40,
+  "averageProtein": 7.2,
+  "averagePrice": 4.69,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 10,
+    "withIngredients": 10,
+    "withHalalCheck": 10
+  }
+}

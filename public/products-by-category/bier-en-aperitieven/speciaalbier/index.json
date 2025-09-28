@@ -1,0 +1,138 @@
+{
+  "categoryPath": "Bier en aperitieven > Speciaalbier",
+  "breadcrumbs": "Bier en aperitieven > Speciaalbier",
+  "subdirectories": [
+    {
+      "name": "ipa",
+      "displayName": "Ipa",
+      "productCount": 84,
+      "hasSubdirectories": false,
+      "indexPath": "ipa/index.json"
+    },
+    {
+      "name": "wit-weizen",
+      "displayName": "Wit Weizen",
+      "productCount": 53,
+      "hasSubdirectories": false,
+      "indexPath": "wit-weizen/index.json"
+    },
+    {
+      "name": "speciaalbier-laag-in-alcohol",
+      "displayName": "Speciaalbier Laag In Alcohol",
+      "productCount": 28,
+      "hasSubdirectories": false,
+      "indexPath": "speciaalbier-laag-in-alcohol/index.json"
+    },
+    {
+      "name": "bockbier",
+      "displayName": "Bockbier",
+      "productCount": 25,
+      "hasSubdirectories": false,
+      "indexPath": "bockbier/index.json"
+    },
+    {
+      "name": "alcoholvrij-speciaalbier-00",
+      "displayName": "Alcoholvrij Speciaalbier 00",
+      "productCount": 20,
+      "hasSubdirectories": false,
+      "indexPath": "alcoholvrij-speciaalbier-00/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "blond-bier",
+      "displayName": "Blond Bier",
+      "productCount": 89,
+      "filePath": "blond-bier.jsonl",
+      "indexPath": "blond-bier-index.json",
+      "statsPath": "blond-bier-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 98
+    },
+    {
+      "name": "tripel-bier",
+      "displayName": "Tripel Bier",
+      "productCount": 47,
+      "filePath": "tripel-bier.jsonl",
+      "indexPath": "tripel-bier-index.json",
+      "statsPath": "tripel-bier-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "dubbel-bier",
+      "displayName": "Dubbel Bier",
+      "productCount": 26,
+      "filePath": "dubbel-bier.jsonl",
+      "indexPath": "dubbel-bier-index.json",
+      "statsPath": "dubbel-bier-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "quadrupel-bier",
+      "displayName": "Quadrupel Bier",
+      "productCount": 18,
+      "filePath": "quadrupel-bier.jsonl",
+      "indexPath": "quadrupel-bier-index.json",
+      "statsPath": "quadrupel-bier-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "zwaar-bier",
+      "displayName": "Zwaar Bier",
+      "productCount": 17,
+      "filePath": "zwaar-bier.jsonl",
+      "indexPath": "zwaar-bier-index.json",
+      "statsPath": "zwaar-bier-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "porter-en-stout-bier",
+      "displayName": "Porter En Stout Bier",
+      "productCount": 12,
+      "filePath": "porter-en-stout-bier.jsonl",
+      "indexPath": "porter-en-stout-bier-index.json",
+      "statsPath": "porter-en-stout-bier-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "saison-bier",
+      "displayName": "Saison Bier",
+      "productCount": 8,
+      "filePath": "saison-bier.jsonl",
+      "indexPath": "saison-bier-index.json",
+      "statsPath": "saison-bier-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 88
+    }
+  ],
+  "totalProducts": 427,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 427,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../index.json"
+      },
+      {
+        "name": "Speciaalbier",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "bier-en-aperitieven"
+  }
+}

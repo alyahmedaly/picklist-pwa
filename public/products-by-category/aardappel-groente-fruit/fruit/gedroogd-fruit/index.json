@@ -1,0 +1,61 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Fruit > Gedroogd fruit",
+  "breadcrumbs": "Aardappel, groente, fruit > Fruit > Gedroogd fruit",
+  "subdirectories": [
+    {
+      "name": "rozijnen",
+      "displayName": "Rozijnen",
+      "productCount": 8,
+      "hasSubdirectories": false,
+      "indexPath": "rozijnen/index.json"
+    },
+    {
+      "name": "dadels",
+      "displayName": "Dadels",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "dadels/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "gedroogd-fruit-diverse",
+      "displayName": "Gedroogd Fruit Diverse",
+      "productCount": 19,
+      "filePath": "gedroogd-fruit-diverse.jsonl",
+      "indexPath": "gedroogd-fruit-diverse-index.json",
+      "statsPath": "gedroogd-fruit-diverse-stats.json",
+      "averageProtein": 2.7,
+      "halalCompliance": 95
+    }
+  ],
+  "totalProducts": 34,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 34,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Gedroogd Fruit",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/fruit"
+  }
+}

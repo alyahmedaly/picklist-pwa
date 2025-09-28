@@ -1,0 +1,206 @@
+[
+  {
+    "id": "456589",
+    "name": "AH Mango, papaya, koksnoot en ananas",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303435363830?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520275",
+    "name": "AH Ananas appel druif",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433333838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388475",
+    "name": "AH Granaatappelpitjes",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435353130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401913",
+    "name": "AH Granaatappelpitjes",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036363631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560565",
+    "name": "AH Ananas appel blauwe bes watermeloen",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437393530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543822",
+    "name": "AH Ananas kiwi cantaloupe",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520319",
+    "name": "AH Ananas mango",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431383331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561127",
+    "name": "AH Ananas mango cantaloupe",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437353639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237425",
+    "name": "AH Ananas mango sticks",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127588",
+    "name": "AH Verse ananas, appel grootverpakking",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131303635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "112214",
+    "name": "AH Verse ananas, appel, mango en druif",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131313233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197492",
+    "name": "AH Verse meloenmix",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "510667",
+    "name": "AH Verse meloenmix",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520310",
+    "name": "AH Appel aardbei blauwe bes",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431383635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561128",
+    "name": "AH Druif blauwe bes appel",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437393339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549791",
+    "name": "AH Groene appel mango granaatappel",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431383530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543824",
+    "name": "AH Peer blauwe bes appel",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433333835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitsalade (mix)"
+    ],
+    "isFood": true
+  }
+]

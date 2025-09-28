@@ -1,0 +1,86 @@
+[
+  {
+    "id": "493240",
+    "name": "Garden Gourmet Boterhamworst",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630313135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Vegetarische vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492934",
+    "name": "Garden Gourmet Kipfilet",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630313039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Vegetarische vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492935",
+    "name": "Garden Gourmet Kipfilet tuinkruiden",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Vegetarische vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414982",
+    "name": "Vegetarische Slager Vegan petit filet americain",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Vegetarische vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493117",
+    "name": "Garden Gourmet Smeerworst",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373230353435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Vegetarische vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560672",
+    "name": "AH Vegetarische kipfilet",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831343436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Vegetarische vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493192",
+    "name": "Garden Gourmet Smeerworst tuinkruiden",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373230353434?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische en plantaardige vleeswaren",
+      "Vegetarische vleeswaren"
+    ],
+    "isFood": true
+  }
+]

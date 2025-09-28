@@ -1,0 +1,392 @@
+[
+  {
+    "id": "583338",
+    "name": "AH Yoghurt Griekse stijl aardbei",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583339",
+    "name": "AH Yoghurt Griekse stijl honing",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451172",
+    "name": "AH Biologisch Yoghurt Griekse stijl",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412578",
+    "name": "AH Yoghurt Griekse stijl",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335303435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419839",
+    "name": "AH Yoghurt Griekse stijl 10% vet",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038313733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469187",
+    "name": "Campina Griekse stijl yoghurt",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373937353730?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216237",
+    "name": "De Zaanse Hoeve Yoghurt Griekse stijl 10% vet",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233373134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438678",
+    "name": "AH Yoghurt Griekse stijl",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335303434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458996",
+    "name": "Oikos Natuur",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233343732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177509",
+    "name": "AH Yoghurt Griekse stijl 5% vet",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038313731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570914",
+    "name": "De Zaanse Hoeve Yoghurt Griekse stijl vanillesmaak",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575523",
+    "name": "Campina Griekse stijl yoghurt 1,8% vet aardbei",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438363039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575522",
+    "name": "Campina Griekse stijl yoghurt 1,8% vet vanille",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531323636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575462",
+    "name": "Dodoni Griekse yoghurt 5% vet",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930323832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575467",
+    "name": "Dodoni Griekse yoghurt 5% vet",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407959",
+    "name": "De Zaanse Hoeve Yoghurt Griekse stijl 2% vet",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233373034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228639",
+    "name": "AH Yoghurt Griekse stijl 0% vet",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038313732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575521",
+    "name": "Campina Griekse stijl yoghurt 2% vet",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498204",
+    "name": "Campina Yoghurt Griekse stijl 2%",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933353238?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575464",
+    "name": "Dodoni Griekse yoghurt 0% vet",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839323237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575463",
+    "name": "Dodoni Griekse yoghurt 0% vet",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575465",
+    "name": "Dodoni Griekse yoghurt 0% vet",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037373939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575406",
+    "name": "Oikos Natuur 0% bel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233373530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566901",
+    "name": "AH Biologisch Griekse Yoghurt 2-pack",
+    "price": 5.68,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236333137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566822",
+    "name": "AH Griekse Stijl 6-pack",
+    "price": 3.93,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038333532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568526",
+    "name": "AH Yoghurt Griekse stijl 5% vet 3-pack",
+    "price": 4.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577931",
+    "name": "AH Yoghurt Griekse stijl 5% vet 3-pack",
+    "price": 4.18,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930313034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575718",
+    "name": "Campina Griekse stijl yoghurt 1kg 2-pack",
+    "price": 6.44,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580324",
+    "name": "Campina Griekse stijl yoghurt 1kg 2-pack",
+    "price": 6.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575466",
+    "name": "Dodoni Griekse yoghurt 5% vet",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636333535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Griekse yoghurt"
+    ],
+    "isFood": true
+  }
+]

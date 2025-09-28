@@ -1,0 +1,93 @@
+[
+  {
+    "id": "71493",
+    "name": "A.Vogel Geriaforce doorbloeding tabletten",
+    "price": 19.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373330343335?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Ontspanning en nachtrust",
+      "Rust, slapen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500111",
+    "name": "Davitamon Nachtrust 3-in-1 capsules",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332373734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Ontspanning en nachtrust",
+      "Rust, slapen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "411452",
+    "name": "Etos Valeriaan nachtrust complex",
+    "price": 7.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373638363139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Ontspanning en nachtrust",
+      "Rust, slapen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476413",
+    "name": "Lucovitaal Melatonine CBD 5mg capsules",
+    "price": 22.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373638323035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Ontspanning en nachtrust",
+      "Rust, slapen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476113",
+    "name": "Shiepz Melatonine original",
+    "price": 15.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383137353732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Ontspanning en nachtrust",
+      "Rust, slapen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476112",
+    "name": "Shiepz Melatonine time release",
+    "price": 15.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239303533?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Ontspanning en nachtrust",
+      "Rust, slapen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575399",
+    "name": "Yummygums Sleep",
+    "price": 24.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636383338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Ontspanning en nachtrust",
+      "Rust, slapen"
+    ],
+    "isFood": true
+  }
+]

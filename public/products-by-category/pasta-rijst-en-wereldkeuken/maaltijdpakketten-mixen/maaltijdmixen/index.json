@@ -1,0 +1,86 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Maaltijdpakketten, mixen > Maaltijdmixen",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Maaltijdpakketten, mixen > Maaltijdmixen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "indonesische-mix",
+      "displayName": "Indonesische Mix",
+      "productCount": 33,
+      "filePath": "indonesische-mix.jsonl",
+      "indexPath": "indonesische-mix-index.json",
+      "statsPath": "indonesische-mix-stats.json",
+      "averageProtein": 6.2,
+      "halalCompliance": 91
+    },
+    {
+      "name": "italiaanse-mix",
+      "displayName": "Italiaanse Mix",
+      "productCount": 21,
+      "filePath": "italiaanse-mix.jsonl",
+      "indexPath": "italiaanse-mix-index.json",
+      "statsPath": "italiaanse-mix-stats.json",
+      "averageProtein": 8.4,
+      "halalCompliance": 90
+    },
+    {
+      "name": "japanse-mix",
+      "displayName": "Japanse Mix",
+      "productCount": 11,
+      "filePath": "japanse-mix.jsonl",
+      "indexPath": "japanse-mix-index.json",
+      "statsPath": "japanse-mix-stats.json",
+      "averageProtein": 3,
+      "halalCompliance": 91
+    },
+    {
+      "name": "indiase-mix",
+      "displayName": "Indiase Mix",
+      "productCount": 10,
+      "filePath": "indiase-mix.jsonl",
+      "indexPath": "indiase-mix-index.json",
+      "statsPath": "indiase-mix-stats.json",
+      "averageProtein": 3.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "thaise-mix",
+      "displayName": "Thaise Mix",
+      "productCount": 7,
+      "filePath": "thaise-mix.jsonl",
+      "indexPath": "thaise-mix-index.json",
+      "statsPath": "thaise-mix-stats.json",
+      "averageProtein": 3.5,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 82,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 82,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Maaltijdpakketten Mixen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Maaltijdmixen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/maaltijdpakketten-mixen"
+  }
+}

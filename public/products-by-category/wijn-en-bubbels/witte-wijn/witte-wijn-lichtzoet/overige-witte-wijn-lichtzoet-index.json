@@ -1,0 +1,67 @@
+[
+  {
+    "id": "576199",
+    "name": "Cune Afrutado",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832313234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Witte wijn - Lichtzoet",
+      "Overige witte wijn (Lichtzoet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "192074",
+    "name": "J.B. Adam AOC Alsace Gewurztraminer Réserve",
+    "price": 14.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038363330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Witte wijn - Lichtzoet",
+      "Overige witte wijn (Lichtzoet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460315",
+    "name": "Mucho Mas Blanco",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373431353731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Witte wijn - Lichtzoet",
+      "Overige witte wijn (Lichtzoet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "138917",
+    "name": "Torres Vina Esmeralda",
+    "price": 10.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436303135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Witte wijn - Lichtzoet",
+      "Overige witte wijn (Lichtzoet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "93759",
+    "name": "Valdivieso Sauvignon Blanc",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130383436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Witte wijn - Lichtzoet",
+      "Overige witte wijn (Lichtzoet)"
+    ],
+    "isFood": true
+  }
+]

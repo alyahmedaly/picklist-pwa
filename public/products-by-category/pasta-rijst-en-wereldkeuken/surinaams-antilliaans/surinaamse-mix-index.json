@@ -1,0 +1,230 @@
+[
+  {
+    "id": "460784",
+    "name": "Faja Lobi Singh masala",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575309",
+    "name": "H. Nandan Hindostaanse boemboe kerrie vis",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638333638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575312",
+    "name": "H. Nandan Hindostaanse boemboe broodje kip kerrie",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638333639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575311",
+    "name": "H. Nandan Hindostaanse boemboe kerrie groente",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638333731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575310",
+    "name": "H. Nandan Hindostaanse boemboe kerrie vlees",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638333730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575308",
+    "name": "H. Nandan Hindostaanse boemboe roti kip kerrie",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638333637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518346",
+    "name": "By Soenil Mix voor satésaus",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383638363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553526",
+    "name": "By Soenil Surinaamse nasi roerbakmix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336383335?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461225",
+    "name": "Faja Lobi RotiChoti",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634303337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "443040",
+    "name": "Verstegen Mix voor gehakt Surinaams",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131343139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198170",
+    "name": "Chan's Asi no moto",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363736363535?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570861",
+    "name": "Mentos Fruity mix non-sparkling drink",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437333937?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570863",
+    "name": "Oasis Aardbei framboos",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337313135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518950",
+    "name": "By Soenil Tandoori masala specerijenmix",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636373331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518956",
+    "name": "By Soenil Vadouvan specerijenmix",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636373236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198169",
+    "name": "Chan's Massala roti kruiden",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363830343932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461228",
+    "name": "Faja Lobi Kruidenmix voor roti",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376584",
+    "name": "Faja Lobi Roti kip masala kruidenmix",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553577",
+    "name": "H. Nandan Roti kip masala",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530313435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse mix"
+    ],
+    "isFood": true
+  }
+]

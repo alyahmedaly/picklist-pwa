@@ -1,0 +1,98 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Groenteconserven > Bonen, peulvruchten (conserven)",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Groenteconserven > Bonen, peulvruchten (conserven)",
+  "subdirectories": [
+    {
+      "name": "linzen",
+      "displayName": "Linzen",
+      "productCount": 22,
+      "hasSubdirectories": false,
+      "indexPath": "linzen/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "bonenschotel",
+      "displayName": "Bonenschotel",
+      "productCount": 19,
+      "filePath": "bonenschotel.jsonl",
+      "indexPath": "bonenschotel-index.json",
+      "statsPath": "bonenschotel-stats.json",
+      "averageProtein": 3.9,
+      "halalCompliance": 89
+    },
+    {
+      "name": "velderwten-conserven",
+      "displayName": "Velderwten Conserven",
+      "productCount": 7,
+      "filePath": "velderwten-conserven.jsonl",
+      "indexPath": "velderwten-conserven-index.json",
+      "statsPath": "velderwten-conserven-stats.json",
+      "averageProtein": 6.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "cannellini-bonen",
+      "displayName": "Cannellini Bonen",
+      "productCount": 6,
+      "filePath": "cannellini-bonen.jsonl",
+      "indexPath": "cannellini-bonen-index.json",
+      "statsPath": "cannellini-bonen-stats.json",
+      "averageProtein": 7.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "chilibonen",
+      "displayName": "Chilibonen",
+      "productCount": 5,
+      "filePath": "chilibonen.jsonl",
+      "indexPath": "chilibonen-index.json",
+      "statsPath": "chilibonen-stats.json",
+      "averageProtein": 5.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "tuinbonen-conserven",
+      "displayName": "Tuinbonen Conserven",
+      "productCount": 5,
+      "filePath": "tuinbonen-conserven.jsonl",
+      "indexPath": "tuinbonen-conserven-index.json",
+      "statsPath": "tuinbonen-conserven-stats.json",
+      "averageProtein": 4.8,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 64,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 64,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groenteconserven",
+        "path": "../index.json"
+      },
+      {
+        "name": "Bonen Peulvruchten Conserven",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/groenteconserven"
+  }
+}

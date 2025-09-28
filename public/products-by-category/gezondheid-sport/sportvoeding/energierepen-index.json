@@ -1,0 +1,74 @@
+[
+  {
+    "id": "199336",
+    "name": "Isostar Energy sport bar multifruits",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534343832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Energierepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199337",
+    "name": "Isostar Energy sportbar cereals and banana",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339323534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Energierepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548271",
+    "name": "Dextro Energy sport tablets 2-pack",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230333034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Energierepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576709",
+    "name": "Upfront Endurance bar rood fruit smaak",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736373539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Energierepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474863",
+    "name": "Clif Bar Chocolate Peanut Butter",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430393737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Energierepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "35686",
+    "name": "Dextro Energy citroen",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Energierepen"
+    ],
+    "isFood": true
+  }
+]

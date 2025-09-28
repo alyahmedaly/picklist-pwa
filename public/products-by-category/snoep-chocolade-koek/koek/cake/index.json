@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Koek > Cake",
+  "breadcrumbs": "Snoep, chocolade, koek > Koek > Cake",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "cakejes",
+      "displayName": "Cakejes",
+      "productCount": 25,
+      "filePath": "cakejes.jsonl",
+      "indexPath": "cakejes-index.json",
+      "statsPath": "cakejes-stats.json",
+      "averageProtein": 5.4,
+      "halalCompliance": 20
+    },
+    {
+      "name": "cakes",
+      "displayName": "Cakes",
+      "productCount": 17,
+      "filePath": "cakes.jsonl",
+      "indexPath": "cakes-index.json",
+      "statsPath": "cakes-stats.json",
+      "averageProtein": 5.3,
+      "halalCompliance": 6
+    }
+  ],
+  "totalProducts": 42,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 42,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Koek",
+        "path": "../index.json"
+      },
+      {
+        "name": "Cake",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "snoep-chocolade-koek/koek"
+  }
+}

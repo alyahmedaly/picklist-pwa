@@ -1,0 +1,67 @@
+[
+  {
+    "id": "3515",
+    "name": "AH Zalm in bladerdeeg met spinazie",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131343835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Zalm (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135757",
+    "name": "AH Zalmfilet",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373232333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Zalm (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561541",
+    "name": "AH Zalmfilet op huid graatvrij",
+    "price": 9.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Zalm (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "178129",
+    "name": "AH Wilde zalmfilet",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373431313436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Zalm (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "141565",
+    "name": "AH Wilde zalmfilets",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373434303832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Zalm (diepvries)"
+    ],
+    "isFood": true
+  }
+]

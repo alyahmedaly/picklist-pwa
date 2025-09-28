@@ -1,0 +1,72 @@
+[
+  {
+    "id": "550830",
+    "name": "AH Ardenner boterhamworst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334333635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Boterhamworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543364",
+    "name": "AH Boterhamworst",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037393533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Boterhamworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197446",
+    "name": "AH Ardenner boterhamworst",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Boterhamworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389077",
+    "name": "AH Plak boterhamworst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635373738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Boterhamworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550831",
+    "name": "AH Boterhamworst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437353833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Boterhamworst (voorverpakt)"
+    ],
+    "isFood": true
+  }
+]

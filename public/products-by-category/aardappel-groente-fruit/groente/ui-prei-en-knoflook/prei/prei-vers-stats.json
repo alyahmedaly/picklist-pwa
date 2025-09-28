@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Ui, prei en knoflook > Prei > Prei (vers)",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Ui, prei en knoflook > Prei > Prei (vers)",
+  "totalProducts": 5,
+  "halalCompliance": 60,
+  "averageProtein": 1.2,
+  "averagePrice": 1.3,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 4,
+    "withIngredients": 3,
+    "withHalalCheck": 3
+  }
+}

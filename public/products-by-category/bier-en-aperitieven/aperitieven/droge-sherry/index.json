@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Bier en aperitieven > Aperitieven > Droge sherry",
+  "breadcrumbs": "Bier en aperitieven > Aperitieven > Droge sherry",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "spaanse-sherry-droog",
+      "displayName": "Spaanse Sherry Droog",
+      "productCount": 7,
+      "filePath": "spaanse-sherry-droog.jsonl",
+      "indexPath": "spaanse-sherry-droog-index.json",
+      "statsPath": "spaanse-sherry-droog-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Aperitieven",
+        "path": "../index.json"
+      },
+      {
+        "name": "Droge Sherry",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bier-en-aperitieven/aperitieven"
+  }
+}

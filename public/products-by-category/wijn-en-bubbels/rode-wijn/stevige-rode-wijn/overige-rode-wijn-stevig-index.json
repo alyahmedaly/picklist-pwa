@@ -1,0 +1,145 @@
+[
+  {
+    "id": "69300",
+    "name": "Masi Costasera Amarone Classico",
+    "price": 46.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835393635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Overige rode wijn (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401833",
+    "name": "Artefacto Vinho tinto",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323634313839?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Overige rode wijn (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203356",
+    "name": "Berberana Dragon reserva monastrell",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303739373333?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Overige rode wijn (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440705",
+    "name": "Castaño Monstrell organic",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934333032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Overige rode wijn (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183480",
+    "name": "La Motte Millennium",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303237343031?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Overige rode wijn (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397613",
+    "name": "La Palma Carmenère",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130383432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Overige rode wijn (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "382913",
+    "name": "Ricossa Barbera piemonte appassimento",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830393231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Overige rode wijn (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "178278",
+    "name": "Symington Altano organically farmed red",
+    "price": 10.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539383935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Overige rode wijn (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519167",
+    "name": "Vina Real Grand Reserva",
+    "price": 15.98,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536393832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Overige rode wijn (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "423053",
+    "name": "Zonin Valpolicella Amarone",
+    "price": 23.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131303631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Overige rode wijn (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "423054",
+    "name": "Zonin Valpolicella Ripasso",
+    "price": 13.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131303539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Overige rode wijn (Stevig)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "id": "583663",
+    "name": "AH Bakfeest gouden parels",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583930",
+    "name": "AH Bakfeest regenboog fantasie 4 kleuren",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583929",
+    "name": "AH Bakfeest strooipret dino",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583931",
+    "name": "AH Bakfeest strooipret unicorn",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492699",
+    "name": "AH Witte chocolade druppels",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228601",
+    "name": "Dr. Oetker Decoratiestiften choco & karamel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638393539?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492701",
+    "name": "AH Melk chocolade druppels",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515748",
+    "name": "Cake Décor Kleurstoffen regenboogtaart",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383530323237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505662",
+    "name": "Dr. Oetker Botercreme",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933363437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202344",
+    "name": "Dr. Oetker Topping roze",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373435333036?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492703",
+    "name": "AH Puur chocolade druppels",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526134",
+    "name": "Dr. Oetker Kleurstoffen",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735383132?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561861",
+    "name": "Leentjes Strooi pret letters & disco dip",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439383033?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "133829",
+    "name": "Dr. Oetker Glazuur choco",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383435383439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "147377",
+    "name": "Dr. Oetker Regenboogfantasie",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331313231?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561860",
+    "name": "Leentjes Poeder pret roze & blauw",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439373931?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561862",
+    "name": "Leentjes Strooi pret diertjes & regenboog",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439383036?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "224586",
+    "name": "Dr. Oetker Bakspray",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239383431?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164727",
+    "name": "Steensma Bigarreaux",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303331363936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228599",
+    "name": "Dr. Oetker Amandelspijs",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639303634?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456089",
+    "name": "Dr. Oetker Suikeroogjes",
+    "price": 3.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638373532?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164735",
+    "name": "Dr. Oetker Glazuur roze",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373533333638?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "133834",
+    "name": "Dr. Oetker Glazuur wit",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373631353335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438895",
+    "name": "AH Amandelstiften",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583879",
+    "name": "AH Bakfeest glitterspray goud",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033323231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583877",
+    "name": "AH Bakfeest versierset dino",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033323334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583660",
+    "name": "AH Glitter dust goud",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033323234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583875",
+    "name": "AH Versierset unicorn",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033323133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Taart decoratie"
+    ],
+    "isFood": true
+  }
+]

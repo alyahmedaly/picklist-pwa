@@ -1,0 +1,156 @@
+[
+  {
+    "id": "579827",
+    "name": "Jean Bâton Dipping sauce sweet chili",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Chilisaus",
+      "Tabasco, chilipepersaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467727",
+    "name": "Tabasco Sriracha",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353734313631?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Chilisaus",
+      "Tabasco, chilipepersaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563603",
+    "name": "Van Wijngaarden's Sriracha dipmix",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630373036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Chilisaus",
+      "Tabasco, chilipepersaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575517",
+    "name": "Cholula Hot sauce chipotle",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730393739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Chilisaus",
+      "Tabasco, chilipepersaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220778",
+    "name": "Frank's Redhot wings sauce buffalo",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373631353233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Chilisaus",
+      "Tabasco, chilipepersaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199035",
+    "name": "Tabasco Mild green pepper sauce",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353837343036?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Chilisaus",
+      "Tabasco, chilipepersaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575516",
+    "name": "Cholula Hot sauce chilli garlic",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730393736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Chilisaus",
+      "Tabasco, chilipepersaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575554",
+    "name": "Cholula Hot sauce original",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730393737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Chilisaus",
+      "Tabasco, chilipepersaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220777",
+    "name": "Frank's Red hot original pepersaus",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373631353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Chilisaus",
+      "Tabasco, chilipepersaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3393",
+    "name": "Tabasco Red peppersauce",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353837333930?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Chilisaus",
+      "Tabasco, chilipepersaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574318",
+    "name": "Tajín Clásico seasoning",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Chilisaus",
+      "Tabasco, chilipepersaus"
+    ],
+    "isFood": true
+  }
+]

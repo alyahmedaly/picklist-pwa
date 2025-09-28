@@ -1,0 +1,119 @@
+[
+  {
+    "id": "413820",
+    "name": "AH Bakkwast",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135383739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Bak accessoires, bakvormen",
+      "Bak accessoires, uitsteekvormpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413822",
+    "name": "AH Pannenlikker",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135383738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Bak accessoires, bakvormen",
+      "Bak accessoires, uitsteekvormpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413907",
+    "name": "AH Spuitzak met 5 kunststofmondjes",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636353739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Bak accessoires, bakvormen",
+      "Bak accessoires, uitsteekvormpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413843",
+    "name": "AH Spuitzakken met mondjes",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733313737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Bak accessoires, bakvormen",
+      "Bak accessoires, uitsteekvormpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "545453",
+    "name": "Craft Lab 3d Uitsteekvormpjes Kerstmis",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231313039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Bak accessoires, bakvormen",
+      "Bak accessoires, uitsteekvormpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "545455",
+    "name": "Craft Lab Uitsteekvormpje gingerbread huisje",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231313131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Bak accessoires, bakvormen",
+      "Bak accessoires, uitsteekvormpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "545454",
+    "name": "Craft Lab Uitsteekvormpjes gingerbread poppetje",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231313130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Bak accessoires, bakvormen",
+      "Bak accessoires, uitsteekvormpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561257",
+    "name": "Day Bakmat",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339343032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Bak accessoires, bakvormen",
+      "Bak accessoires, uitsteekvormpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561287",
+    "name": "Day Spuitzakken",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Bak accessoires, bakvormen",
+      "Bak accessoires, uitsteekvormpjes"
+    ],
+    "isFood": true
+  }
+]

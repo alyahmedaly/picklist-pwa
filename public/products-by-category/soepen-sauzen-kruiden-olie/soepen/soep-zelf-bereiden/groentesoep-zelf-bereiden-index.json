@@ -1,0 +1,119 @@
+[
+  {
+    "id": "37167",
+    "name": "Honig Basis voor tomaten-groentesoep",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037373231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (zelf bereiden)",
+      "Groentesoep (zelf bereiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549574",
+    "name": "Knorr Harira soep halal",
+    "price": 1.23,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233393537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (zelf bereiden)",
+      "Groentesoep (zelf bereiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126942",
+    "name": "Honig Basis voor chinese groentesoep",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037323433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (zelf bereiden)",
+      "Groentesoep (zelf bereiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3348",
+    "name": "Honig Basis voor groentesoep",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (zelf bereiden)",
+      "Groentesoep (zelf bereiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457572",
+    "name": "Unox Romige aspergesoep",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393936333733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (zelf bereiden)",
+      "Groentesoep (zelf bereiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582198",
+    "name": "Honig Basis voor groentesoep 3-pack",
+    "price": 4.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131353231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (zelf bereiden)",
+      "Groentesoep (zelf bereiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549575",
+    "name": "Knorr Chorba soep halal",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233393631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (zelf bereiden)",
+      "Groentesoep (zelf bereiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384660",
+    "name": "Knorr Groente bouillonblokjes voordeelpak",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393937383239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (zelf bereiden)",
+      "Groentesoep (zelf bereiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223832",
+    "name": "Knorr Mix voor groentesoep",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (zelf bereiden)",
+      "Groentesoep (zelf bereiden)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "284258",
+    "name": "St. Dalfour Vruchtenspread Vier vruchten",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353735323430?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Fruitspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563640",
+    "name": "AH Fruitspread aardbei framboos",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Fruitspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513468",
+    "name": "AH Fruitspread abrikoos",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Fruitspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563642",
+    "name": "AH Fruitspread bosbes",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036363330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Fruitspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563641",
+    "name": "AH Fruitspread braam appel",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036363233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Fruitspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563644",
+    "name": "AH Abrikoos fruitspread met maltitol",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837393834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Fruitspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563643",
+    "name": "AH Aardbei fruitspread met maltitol",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837393832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Fruitspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563645",
+    "name": "AH Bosvruchten fruitspread met maltitol",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Fruitspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567579",
+    "name": "AH Aardbei fruitspread met maltitol 2-pack",
+    "price": 4.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Fruitspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567588",
+    "name": "AH Abrikoos fruitspread met maltitol 2-pack",
+    "price": 4.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Fruitspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567510",
+    "name": "AH Bosvruchten fruitspread 2-pack",
+    "price": 4.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Fruitspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567577",
+    "name": "AH Fruitspread bosbes 2-pack",
+    "price": 5.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Fruitspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567576",
+    "name": "AH Fruitspread braam appel 2-pack",
+    "price": 5.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Fruitspread"
+    ],
+    "isFood": true
+  }
+]

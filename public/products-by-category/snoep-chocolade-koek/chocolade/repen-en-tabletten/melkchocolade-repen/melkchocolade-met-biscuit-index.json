@@ -1,0 +1,254 @@
+[
+  {
+    "id": "206449",
+    "name": "Milka Chocoladereep LU",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739373934?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209340",
+    "name": "Milka Chocoladereep Oreo",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393136333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487239",
+    "name": "Lotus Biscoff Speculoos melkchocolade crème",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036353836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225147",
+    "name": "Milka Chocoladereep melk cookies",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393136363538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466829",
+    "name": "Milka Mmmax chocoladereep aardbei cheesecake",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393136363439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232927",
+    "name": "Milka Mmmax chocoladereep Oreo",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383539313636?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211975",
+    "name": "Milka Chocoladereep choco-biscuit",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363932393533?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435730",
+    "name": "Milka Chocoladereep oreo sandwich",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739373939?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502241",
+    "name": "Tony's Chocolonely Reep melk pennywafel",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502242",
+    "name": "Tony's Chocolonely Reep melk karamel biscuit",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507974",
+    "name": "Delicata Reep melkchocolade stroopwafel",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033313536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487241",
+    "name": "Lotus Biscoff Speculoos melkchocolade stukjes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630303335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46545",
+    "name": "Milka Mmmax chocoladereep choco-swing biscuit",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533373831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507725",
+    "name": "Tony's Chocolonely Reep melk choco chip cookie",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507978",
+    "name": "Delicata Reep melkchocolade kletskop karamel",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032303632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209272",
+    "name": "Nestlé Crunch melkchocolade reep",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937323531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "452009",
+    "name": "Milka Chocoladereep Oreo brownie",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393136333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540305",
+    "name": "iChoc Choco cookie vegan m!lk-l!ke",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031383539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met biscuit"
+    ],
+    "isFood": true
+  }
+]

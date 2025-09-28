@@ -1,0 +1,82 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "frisdrank",
+      "displayName": "Frisdrank",
+      "productCount": 429,
+      "hasSubdirectories": true,
+      "indexPath": "frisdrank/index.json"
+    },
+    {
+      "name": "vruchtensappen-en-fruitdrank",
+      "displayName": "Vruchtensappen En Fruitdrank",
+      "productCount": 226,
+      "hasSubdirectories": true,
+      "indexPath": "vruchtensappen-en-fruitdrank/index.json"
+    },
+    {
+      "name": "water",
+      "displayName": "Water",
+      "productCount": 167,
+      "hasSubdirectories": true,
+      "indexPath": "water/index.json"
+    },
+    {
+      "name": "ice-tea",
+      "displayName": "Ice Tea",
+      "productCount": 129,
+      "hasSubdirectories": true,
+      "indexPath": "ice-tea/index.json"
+    },
+    {
+      "name": "energy-drink-sportdrank",
+      "displayName": "Energy Drink Sportdrank",
+      "productCount": 109,
+      "hasSubdirectories": true,
+      "indexPath": "energy-drink-sportdrank/index.json"
+    },
+    {
+      "name": "siroop",
+      "displayName": "Siroop",
+      "productCount": 100,
+      "hasSubdirectories": false,
+      "indexPath": "siroop/index.json"
+    },
+    {
+      "name": "water-met-smaak-vitamine-water",
+      "displayName": "Water Met Smaak Vitamine Water",
+      "productCount": 81,
+      "hasSubdirectories": false,
+      "indexPath": "water-met-smaak-vitamine-water/index.json"
+    },
+    {
+      "name": "drinkpakjes",
+      "displayName": "Drinkpakjes",
+      "productCount": 34,
+      "hasSubdirectories": false,
+      "indexPath": "drinkpakjes/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 1275,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 1275,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

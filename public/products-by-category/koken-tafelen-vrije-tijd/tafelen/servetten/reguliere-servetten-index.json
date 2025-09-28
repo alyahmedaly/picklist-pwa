@@ -1,0 +1,67 @@
+[
+  {
+    "id": "514606",
+    "name": "AH Servet donkerblauw",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934393039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Tafelen",
+      "Servetten",
+      "Reguliere servetten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514529",
+    "name": "AH Servet earthy champ",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Tafelen",
+      "Servetten",
+      "Reguliere servetten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "490282",
+    "name": "AH Servet wit 1 laags",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835373537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Tafelen",
+      "Servetten",
+      "Reguliere servetten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "624",
+    "name": "AH Servetten 2-laags 33x33 cm wit",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835373339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Tafelen",
+      "Servetten",
+      "Reguliere servetten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191755",
+    "name": "AH Servetten wit 3-laags",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835373435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Tafelen",
+      "Servetten",
+      "Reguliere servetten"
+    ],
+    "isFood": true
+  }
+]

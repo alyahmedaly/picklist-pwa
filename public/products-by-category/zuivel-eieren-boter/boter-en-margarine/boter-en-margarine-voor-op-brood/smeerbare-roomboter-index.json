@@ -1,0 +1,262 @@
+[
+  {
+    "id": "560685",
+    "name": "AH Zeezoutboter",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738373137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127486",
+    "name": "AH Roomboter gezouten in kuip",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533323838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558529",
+    "name": "AH Roomboter halfvol",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "172762",
+    "name": "Lurpak Smeerbaar gezouten",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432313538?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548041",
+    "name": "Lurpak Smeerbaar gezouten",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138393538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429612",
+    "name": "AH Roomboter met plantaardige olie gezouten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434373439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558570",
+    "name": "Becel Plantaardig alternatief voor roomboter",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530343530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558571",
+    "name": "Becel Plantaardig alternatief voor roomboter",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199897",
+    "name": "Campina Botergoud gezouten grasboter kuipje",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383433353936?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514808",
+    "name": "Blue Band Heerlijk romig",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138323537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514807",
+    "name": "Blue Band Roombeter",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138313137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558307",
+    "name": "AH Biologisch Grasboter makkelijk smeerbaar ongezouten",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536333031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127487",
+    "name": "AH Roomboter ongezouten",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159871",
+    "name": "Campina Botergoud ongezouten grasboter",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438363534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366071",
+    "name": "Echte Boter Cupjesverpakking ongezouten",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237373432?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "536045",
+    "name": "Echte Boter Miniporties",
+    "price": 15.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939303337?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429611",
+    "name": "AH Roomboter met plantaardige olie ongezout",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434373532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578711",
+    "name": "AH Roomboter gezouten in kuip 3-pack",
+    "price": 8.41,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938343339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "172761",
+    "name": "Lurpak Smeerbaar ongezouten",
+    "price": 3.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383437333236?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451444",
+    "name": "Lurpak Smeerbaar ongezouten",
+    "price": 6.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932303736?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare roomboter"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "509876",
+    "name": "Delizie di Calabria Nduja",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383233323234?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vleessalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "184625",
+    "name": "Johma Beenham salade",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232373633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vleessalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "584348",
+    "name": "Johma Beenhamsalade XL",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836313432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vleessalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560994",
+    "name": "AH Club sandwich salade",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536383638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vleessalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579622",
+    "name": "AH Pulled pork",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vleessalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560995",
+    "name": "AH Sparerib salade",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vleessalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197460",
+    "name": "Van Oers Bourgondische vleessalade",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363933383737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vleessalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560996",
+    "name": "AH Beenham mosterd salade",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vleessalades (beleg)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Vlees, vis > Varkensvlees > Spareribs",
+  "breadcrumbs": "Vlees, vis > Varkensvlees > Spareribs",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "spareribs-vers",
+      "displayName": "Spareribs Vers",
+      "productCount": 6,
+      "filePath": "spareribs-vers.jsonl",
+      "indexPath": "spareribs-vers-index.json",
+      "statsPath": "spareribs-vers-stats.json",
+      "averageProtein": 17.5,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Varkensvlees",
+        "path": "../index.json"
+      },
+      {
+        "name": "Spareribs",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/varkensvlees"
+  }
+}

@@ -1,0 +1,410 @@
+[
+  {
+    "id": "575587",
+    "name": "AH Hamster blauwe hoody 2.0",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930393135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576957",
+    "name": "Blue Hamster hoodie maat L.",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930393230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576956",
+    "name": "Blue Hamster hoodie maat M",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930393139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576955",
+    "name": "Blue Hamster hoodie maat S",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930393138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576958",
+    "name": "Blue Hamster hoodie maat XL",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930393231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572449",
+    "name": "Blue Overhemd gestreept maat L",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635343432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572448",
+    "name": "Blue Overhemd gestreept maat M",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635343430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572450",
+    "name": "Blue Overhemd gestreept maat XL",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635343434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572451",
+    "name": "Blue Overhemd gestreept maat XXL",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635343436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572445",
+    "name": "Blue Overhemd navy maat L",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635343334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572444",
+    "name": "Blue Overhemd navy maat M",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635343332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572446",
+    "name": "Blue Overhemd navy maat XL",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635343336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572447",
+    "name": "Blue Overhemd navy maat XXL",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572460",
+    "name": "Blue Short groen maat L",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572459",
+    "name": "Blue Short groen maat M",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572461",
+    "name": "Blue Short groen maat XL",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572462",
+    "name": "Blue Short groen maat XXL",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572456",
+    "name": "Blue Short kaki maat L",
+    "price": 12,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572455",
+    "name": "Blue Short kaki maat M",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572457",
+    "name": "Blue Short kaki maat XL",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572458",
+    "name": "Blue Short kaki maat XXL",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572452",
+    "name": "Blue Short navy maat L",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572463",
+    "name": "Blue Short navy maat M",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572453",
+    "name": "Blue Short navy maat XL",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572454",
+    "name": "Blue Short navy maat XXL",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572483",
+    "name": "Blue Zwembroek ananas L",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572556",
+    "name": "Blue Zwembroek ananas M",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572484",
+    "name": "Blue Zwembroek ananas XL",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572557",
+    "name": "Blue Zwembroek ananas XL",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572560",
+    "name": "Blue Zwembroek citrus L",
+    "price": 8,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572558",
+    "name": "Blue Zwembroek citrus M",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572566",
+    "name": "Blue Zwembroek citrus XL",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572603",
+    "name": "Blue Zwembroek citrus XXL",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513197",
+    "name": "John Cabot Heren vest donkerblauw M",
+    "price": 24.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393130393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Kleding en accessoires",
+      "Herenmode"
+    ],
+    "isFood": true
+  }
+]

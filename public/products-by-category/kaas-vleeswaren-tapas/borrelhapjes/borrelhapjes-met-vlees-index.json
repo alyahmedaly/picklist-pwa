@@ -1,0 +1,698 @@
+[
+  {
+    "id": "217287",
+    "name": "AH Spaanse fuet",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468277",
+    "name": "Huls Gesneden cervelaat",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934353739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408872",
+    "name": "AH Truffelsalami met Parmezaanse kaas",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633343839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503359",
+    "name": "AH Excellent Fuet Iberico zomertruffel",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635373832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378879",
+    "name": "AH Spaanse besos de fuet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485496",
+    "name": "AH Spareribs pikant",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550121",
+    "name": "AH Grillworst saté",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519701",
+    "name": "AH Mini salami",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217304",
+    "name": "AH Serranohamrolletjes met roomkaas",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134393030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234905",
+    "name": "AH Tapas boerenmetworst",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234904",
+    "name": "AH Volgerijpte Limburgse cervelaat",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736383436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468278",
+    "name": "Huls Gesneden chorizo",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935343735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481863",
+    "name": "AH Coppa rolletje met roomkaas truffel",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485485",
+    "name": "AH Gehaktballetjes ketjap",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550122",
+    "name": "AH Grillworst jalapeno zaanlander kaas",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335303135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445215",
+    "name": "AH Longaniza Iberica",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449008",
+    "name": "AH Roasted bacon",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217300",
+    "name": "AH Salami met geitenkaas",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217303",
+    "name": "AH Coppa rolletjes met roomkaas en vijg",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576206",
+    "name": "AH Gehaktballetjes ketjap",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217348",
+    "name": "AH Leverworst",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570866",
+    "name": "AH Spaanse tapas schotel",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217302",
+    "name": "AH Spianata Romana met roomkaas",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217350",
+    "name": "AH Gelderse gekookte worst",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217298",
+    "name": "AH Spekrolletjes met roomkaas",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485480",
+    "name": "AH Gehaktballetjes naturel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389147",
+    "name": "AH Kipfiletrolletjes roomkaas-tuinkruiden",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "182962",
+    "name": "Argal Chorizo tapas",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323335303439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485482",
+    "name": "AH Gehaktballetjes kip sweet chili",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483968",
+    "name": "AH Toscaanse Rib",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439313035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217349",
+    "name": "AH Grillworst",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485488",
+    "name": "AH Hotwings",
+    "price": 3.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217275",
+    "name": "AH Spaanse lomo",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633343830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485506",
+    "name": "AH Scharrel kipspiesjes yakitori",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421143",
+    "name": "AH Yakitori spiesjes",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133343931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485505",
+    "name": "AH Kipspiesjes Indisch",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217281",
+    "name": "AH Spaanse jamon serrano",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485487",
+    "name": "AH Kippenvleugels",
+    "price": 3.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481864",
+    "name": "AH Tapas wrap kruidenroomkaas ham",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383832393935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459629",
+    "name": "Kips Kipdijspiesjes mini mild gekruid",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363534353532?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580083",
+    "name": "AH Kip bites gevuld met kaas",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035333836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485492",
+    "name": "AH Kipkluifjes",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481866",
+    "name": "AH Wrap kip pesto paprika",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363730343233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518326",
+    "name": "Kips Mini kipfrietjes",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438333033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451467",
+    "name": "AH Indonesische kipspiesjes",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580099",
+    "name": "AH Rendang kroketjes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035333835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485481",
+    "name": "AH Kippeling",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580084",
+    "name": "AH Mini spiesjes kip kebab",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035333837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563355",
+    "name": "AH Scharrel kipfrietjes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036383530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121108",
+    "name": "AH Gyoza's",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580085",
+    "name": "AH Mini loempia's gevuld met groente en kip",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031323234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579232",
+    "name": "AH Indonesische kipsatespiesjes 3-pack",
+    "price": 7.26,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523148",
+    "name": "AH Luxe borrelhapjes pakket",
+    "price": 6.68,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579216",
+    "name": "AH Serranohamrolletjes met roomkaas 2-pack",
+    "price": 5.74,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579213",
+    "name": "AH Spaanse besos de fuet 2-pack",
+    "price": 5.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579211",
+    "name": "AH Spaanse fuet 2-pack",
+    "price": 4.48,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579233",
+    "name": "AH Spaanse jamon serrano 2-pack",
+    "price": 5.68,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579230",
+    "name": "AH Spaanse lomo 2-pack",
+    "price": 5.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vlees"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "deodorant",
+      "displayName": "Deodorant",
+      "productCount": 26,
+      "hasSubdirectories": true,
+      "indexPath": "deodorant/index.json"
+    },
+    {
+      "name": "bad-en-douche",
+      "displayName": "Bad En Douche",
+      "productCount": 15,
+      "hasSubdirectories": true,
+      "indexPath": "bad-en-douche/index.json"
+    },
+    {
+      "name": "handverzorging",
+      "displayName": "Handverzorging",
+      "productCount": 8,
+      "hasSubdirectories": true,
+      "indexPath": "handverzorging/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 49,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 49,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Drogisterij",
+        "path": "../index.json"
+      },
+      {
+        "name": "Lichaamsverzorging",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "drogisterij"
+  }
+}

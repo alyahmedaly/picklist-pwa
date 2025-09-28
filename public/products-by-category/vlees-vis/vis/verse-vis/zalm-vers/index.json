@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Vlees, vis > Vis > Verse vis > Zalm (vers)",
+  "breadcrumbs": "Vlees, vis > Vis > Verse vis > Zalm (vers)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "verse-zalmfilet",
+      "displayName": "Verse Zalmfilet",
+      "productCount": 16,
+      "filePath": "verse-zalmfilet.jsonl",
+      "indexPath": "verse-zalmfilet-index.json",
+      "statsPath": "verse-zalmfilet-stats.json",
+      "averageProtein": 18.8,
+      "halalCompliance": 94
+    }
+  ],
+  "totalProducts": 16,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Verse Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Zalm Vers",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "vlees-vis/vis/verse-vis"
+  }
+}

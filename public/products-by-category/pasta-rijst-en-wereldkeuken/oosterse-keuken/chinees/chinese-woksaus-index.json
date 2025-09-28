@@ -1,0 +1,119 @@
+[
+  {
+    "id": "232556",
+    "name": "Lee Kum Kee Chiu chow chili-olie",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536323238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Chinees",
+      "Chinese woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388369",
+    "name": "Kokki Djawa Hoisin saus",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373834353932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Chinees",
+      "Chinese woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232539",
+    "name": "Lee Kum Kee Hoisin saus",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536343333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Chinees",
+      "Chinese woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449907",
+    "name": "Go-Tan All Natural Woksaus Hoisin",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539383236?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Chinees",
+      "Chinese woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553426",
+    "name": "Lee Kum Kee Kung pao chicken",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Chinees",
+      "Chinese woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496226",
+    "name": "AH Oestersaus",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Chinees",
+      "Chinese woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388380",
+    "name": "Amoy Hoi sin woksaus",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931323334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Chinees",
+      "Chinese woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388376",
+    "name": "Amoy Stir fry sauce black bean",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033303236?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Chinees",
+      "Chinese woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232554",
+    "name": "Lee Kum Kee Premium oestersaus",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536343239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Chinees",
+      "Chinese woksaus"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "408280",
+    "name": "Zagazoe! Chocobars",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363936383738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399690",
+    "name": "LU Prince ministars witte chocolade",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433353732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517304",
+    "name": "Verkade Olifantentanden",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383737333336?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384703",
+    "name": "LU Prince ministars black & white",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135353835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384698",
+    "name": "LU Prince ministars melkchocolade",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034323533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "219843",
+    "name": "LU Chocoprince vanille",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132698",
+    "name": "LU Prince cake & choc",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450912",
+    "name": "Smoeltjes UFO Smoeltjes",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338313439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440997",
+    "name": "Van Delft Likkoekjes",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373630333733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517318",
+    "name": "Verkade Lange nekken",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383737333430?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "411077",
+    "name": "Lotus Dinosaurus gevuld melkchocolade bel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303138323932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543064",
+    "name": "LU Prince cake & roll",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433383031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384693",
+    "name": "Verkade Smiles met crèmevulling",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232393831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202315",
+    "name": "Verkade Kids&Co Prinses Aardbei",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484116",
+    "name": "Farm Brothers Vegan brownie almond",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231323937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "49679",
+    "name": "LU Prince vanille",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739303537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168723",
+    "name": "Lotus Cake mini madeleine melk",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136343531?revLabel=27&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121573",
+    "name": "Lotus Wafels vanille aap",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639383536?revLabel=28&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222683",
+    "name": "Prince pocket choco BEL",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202154",
+    "name": "LU Prince chocolade",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135353833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "142572",
+    "name": "LU Prince start naturel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373330393638?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129638",
+    "name": "Verkade Trouwe vriendjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232393636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376102",
+    "name": "Zagazoe! Mini cakes unicorn",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363936383737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484114",
+    "name": "Farm Brothers Choco chip bio cookies",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384708",
+    "name": "Smoeltjes Speculaasjes",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638323938?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517353",
+    "name": "AH Dierenkoekjes uitdeelzakjes",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831343531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Kinderkoekje"
+    ],
+    "isFood": true
+  }
+]

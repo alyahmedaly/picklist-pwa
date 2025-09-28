@@ -1,0 +1,86 @@
+[
+  {
+    "id": "567512",
+    "name": "Emmi Fondü without alcohol",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035323136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Kaasfondue, raclette",
+      "Fondue kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509566",
+    "name": "Emmi Fondü original",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373935323036?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Kaasfondue, raclette",
+      "Fondue kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539534",
+    "name": "Emmi Fondü original gvp",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034333739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Kaasfondue, raclette",
+      "Fondue kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419753",
+    "name": "AH Zwitserse kaasfondue",
+    "price": 9.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50393937343338?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Kaasfondue, raclette",
+      "Fondue kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583246",
+    "name": "Emmi Fondü cheesedip",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Kaasfondue, raclette",
+      "Fondue kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583245",
+    "name": "Rougette Ovenkaas landkaas 50+",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130303839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Kaasfondue, raclette",
+      "Fondue kaas"
+    ],
+    "isFood": true
+  }
+]

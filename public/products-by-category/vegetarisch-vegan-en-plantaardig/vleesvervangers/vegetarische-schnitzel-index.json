@@ -1,0 +1,230 @@
+[
+  {
+    "id": "558313",
+    "name": "AH Vegetarische kaasschnitzel chili",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442491",
+    "name": "AH Vegetarische kaasschnitzel",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031373036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493509",
+    "name": "AH Vegetarische kaasschnitzel",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031373032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475112",
+    "name": "Vivera Vegetarische kaas schnitzel",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132353037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580543",
+    "name": "AH Terra Spinazie schnitzel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "101186",
+    "name": "Garden Gourmet Gouda kaasschnitzel",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933313630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "143547",
+    "name": "Valess Vegetarische Gouda schnitzel",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493545",
+    "name": "Valess Vegetarische saté schnitzel",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639393331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572433",
+    "name": "AH Terra Plantaardig boomstammetjes",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502073",
+    "name": "Valess Vegetarische gouda family pack",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639393139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238986",
+    "name": "Valess Vegetarische tomaat mozzarella schnitzel",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639393234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "133171",
+    "name": "Valess Vegetarische schnitzel",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639393236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475113",
+    "name": "Vegetarische Slager Vegan auf wieder schnitzel",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839383032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565737",
+    "name": "AH Terra Plantaardige groenteschnitzel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135393334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564865",
+    "name": "AH Terra Plantaardige schnitzel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "51928",
+    "name": "Garden Gourmet Groenteschijf",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412564",
+    "name": "Garden Gourmet Vegan schnitzel",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132353730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397382",
+    "name": "Vivera Plantaardige kipkrokant schnitzel",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507422",
+    "name": "Vivera Plantaardige krokante schnitzel voordeel",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031373234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische schnitzel"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "135615",
+    "name": "AH 1 minuutje basmatirijst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366015",
+    "name": "Tilda Coconut chilli & lemongrass basmati rice",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366017",
+    "name": "Tilda Basmati rijst SWEET CHILLI & LIME",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637393530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525278",
+    "name": "Lassie Basmati rijst minuutje",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639313234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366016",
+    "name": "Tilda Lime & coriander basmati rice glutenfree",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639393736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199743",
+    "name": "Unirice Basmatirijst",
+    "price": 6.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363239383033?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228986",
+    "name": "Unirice Basmatirijst",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363239383035?revLabel=48&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "327670",
+    "name": "Fairtrade Original Basmati rijst",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532313630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525273",
+    "name": "Lassie Basmati rijst",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731313736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228987",
+    "name": "Mehnat Basmati rijst",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303338353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228989",
+    "name": "Mehnat Basmati rijst",
+    "price": 13.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383436333536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "80148",
+    "name": "AH Basmatirijst",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197585",
+    "name": "AH Basmatirijst",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933393333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199750",
+    "name": "AH Basmatirijst",
+    "price": 10.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435950",
+    "name": "AH Biologisch Basmati rijst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228988",
+    "name": "Mehnat Basmati rijst",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303338353336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435948",
+    "name": "AH Biologisch Volkoren Basmati rijst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553563",
+    "name": "Lassie Basmati rijst builtje",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525274",
+    "name": "Lassie Basmati rijst voordeelpak",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731313932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395662",
+    "name": "Lassie Basmatirijst builtjes",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932363634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366019",
+    "name": "Tilda Pure basmati",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638323032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366023",
+    "name": "Tilda Pure basmati",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638313634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395659",
+    "name": "Tilda Pure basmati",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637393630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395660",
+    "name": "Tilda Wholegrain basmati",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638323131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366020",
+    "name": "Tilda Wholegrain basmati rice",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Basmatirijst"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,324 @@
+[
+  {
+    "id": "215515",
+    "name": "Milka Chocoladereep confetti",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383538343537?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563895",
+    "name": "Delicata Reep karamel zeezout cheesecakesmaak",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480916",
+    "name": "Lindt Excellence karamel zeezout melkchocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213928",
+    "name": "Tony's Chocolonely Reep melk karamel zeezout",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515707",
+    "name": "Tony's Chocolonely Reep wit framboos biscuit",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549954",
+    "name": "AH Biologisch Reep melk karamel zeezout",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393234333339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487309",
+    "name": "Delicata Reep melkchocolade karamel zeezout",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507753",
+    "name": "Lindt Lindor reep karamel zeezout chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936333137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165843",
+    "name": "Milka Chocoladereep Daim",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393136333933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502246",
+    "name": "Verkade Tablet krokante karamel/zeezout",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932303833?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582788",
+    "name": "Lindt Lindor reep melkchocolade pistache",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234323730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515684",
+    "name": "Tony's Chocolonely Reep melk + alles heul veel",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459434",
+    "name": "AH Reep melk crispy",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373533353133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493680",
+    "name": "Hands Off Caramel seasalt hazelnut praline",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131353039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532269",
+    "name": "Tony's Chocolonely Reep B&J donkere melk brownie",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196585",
+    "name": "Tony's Chocolonely Reep melk noga",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549945",
+    "name": "Côte d'Or Melk caramel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "35392",
+    "name": "Delicata Reep melkchocolade butterscotch",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393039393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445813",
+    "name": "Delicata Reep witte chocolade cappuccino",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393039393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "98220",
+    "name": "Hands Off Coco island",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232383432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575434",
+    "name": "Hands Off Espresso martini",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582806",
+    "name": "MrBeast Feastables peanut buttert chocolate",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534363138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563894",
+    "name": "Delicata Reep pinda pretzel karamel melkchocolade",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536383737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met smaak"
+    ],
+    "isFood": true
+  }
+]

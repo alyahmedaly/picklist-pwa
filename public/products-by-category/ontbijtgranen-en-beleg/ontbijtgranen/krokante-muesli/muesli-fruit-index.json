@@ -1,0 +1,132 @@
+[
+  {
+    "id": "560773",
+    "name": "Kellogg's Extra met 3 rode vruchten",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630353434?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470758",
+    "name": "AH Muesli fruit pitten & zaden",
+    "price": 4.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332363939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554744",
+    "name": "Jordans Crunchy tropical fruits granola",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730333430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569942",
+    "name": "AH Krokante muesli appel rozijn",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471002",
+    "name": "AH Muesli fruit",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332363933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577536",
+    "name": "Jordans Crisp & crunch apple & berry",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739383337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218358",
+    "name": "Zonnatura Muesli rood fruit",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363834373030?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538519",
+    "name": "AH Volkoren muesli noten & zaden",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332363935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455999",
+    "name": "Zonnatura Muesli appel kaneel glutenvrij",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353439303234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581636",
+    "name": "Zonnatura Muesli Rood Fruit 3-pack",
+    "price": 7.62,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130323936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (fruit)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "583625",
+    "name": "Mousline Aardappelpuree crème fraiche bieslook",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936383831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Aardappelpuree (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583781",
+    "name": "Mousline Aardappelpuree kaas",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Aardappelpuree (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583785",
+    "name": "Mousline Aardappelpuree voor ovenschotel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936383931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Aardappelpuree (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161563",
+    "name": "AH Aardappelpuree",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363634333333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Aardappelpuree (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583787",
+    "name": "Mousline Aardappelpuree voor stamppot extra grof",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936383933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Aardappelpuree (mix)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583783",
+    "name": "Mousline Aardappelpuree naturel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936383932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Aardappelpuree (mix)"
+    ],
+    "isFood": true
+  }
+]

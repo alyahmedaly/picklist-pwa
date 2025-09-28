@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Drogisterij > Lichaamsverzorging > Deodorant > Deodorant mannen",
+  "breadcrumbs": "Drogisterij > Lichaamsverzorging > Deodorant > Deodorant mannen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "deospray-mannen",
+      "displayName": "Deospray Mannen",
+      "productCount": 10,
+      "filePath": "deospray-mannen.jsonl",
+      "indexPath": "deospray-mannen-index.json",
+      "statsPath": "deospray-mannen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 10,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Drogisterij",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Lichaamsverzorging",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Deodorant",
+        "path": "../index.json"
+      },
+      {
+        "name": "Deodorant Mannen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "drogisterij/lichaamsverzorging/deodorant"
+  }
+}

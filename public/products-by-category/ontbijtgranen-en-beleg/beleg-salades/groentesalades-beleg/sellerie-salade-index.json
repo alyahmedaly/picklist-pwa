@@ -1,0 +1,80 @@
+[
+  {
+    "id": "494457",
+    "name": "Johma Selleriesalade",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232383934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Groentesalades (beleg)",
+      "Sellerie salade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376551",
+    "name": "AH Selleriesalade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537343134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Groentesalades (beleg)",
+      "Sellerie salade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221959",
+    "name": "Délio Salade met selder & wortel bel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303137393738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Groentesalades (beleg)",
+      "Sellerie salade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170918",
+    "name": "AH Selleriesalade",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Groentesalades (beleg)",
+      "Sellerie salade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579341",
+    "name": "AH Pasta ham kaas salade 3-pack",
+    "price": 7.1,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Groentesalades (beleg)",
+      "Sellerie salade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579340",
+    "name": "AH Selleriesalade 2-pack",
+    "price": 3.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Groentesalades (beleg)",
+      "Sellerie salade"
+    ],
+    "isFood": true
+  }
+]

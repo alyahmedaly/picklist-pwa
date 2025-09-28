@@ -1,0 +1,102 @@
+{
+  "categoryPath": "Vegetarisch, vegan en plantaardig",
+  "breadcrumbs": "Vegetarisch, vegan en plantaardig",
+  "subdirectories": [
+    {
+      "name": "plantaardige-zuivel-alternatieven",
+      "displayName": "Plantaardige Zuivel Alternatieven",
+      "productCount": 155,
+      "hasSubdirectories": true,
+      "indexPath": "plantaardige-zuivel-alternatieven/index.json"
+    },
+    {
+      "name": "vleesvervangers",
+      "displayName": "Vleesvervangers",
+      "productCount": 130,
+      "hasSubdirectories": true,
+      "indexPath": "vleesvervangers/index.json"
+    },
+    {
+      "name": "vegetarische-en-plantaardige-vleeswaren",
+      "displayName": "Vegetarische En Plantaardige Vleeswaren",
+      "productCount": 36,
+      "hasSubdirectories": false,
+      "indexPath": "vegetarische-en-plantaardige-vleeswaren/index.json"
+    },
+    {
+      "name": "plantaardige-kaas",
+      "displayName": "Plantaardige Kaas",
+      "productCount": 24,
+      "hasSubdirectories": false,
+      "indexPath": "plantaardige-kaas/index.json"
+    },
+    {
+      "name": "tofu-tempeh-seitan",
+      "displayName": "Tofu Tempeh Seitan",
+      "productCount": 9,
+      "hasSubdirectories": false,
+      "indexPath": "tofu-tempeh-seitan/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "plantaardige-spreads",
+      "displayName": "Plantaardige Spreads",
+      "productCount": 47,
+      "filePath": "plantaardige-spreads.jsonl",
+      "indexPath": "plantaardige-spreads-index.json",
+      "statsPath": "plantaardige-spreads-stats.json",
+      "averageProtein": 3.9,
+      "halalCompliance": 100
+    },
+    {
+      "name": "vegetarische-spreads",
+      "displayName": "Vegetarische Spreads",
+      "productCount": 15,
+      "filePath": "vegetarische-spreads.jsonl",
+      "indexPath": "vegetarische-spreads-index.json",
+      "statsPath": "vegetarische-spreads-stats.json",
+      "averageProtein": 3.7,
+      "halalCompliance": 93
+    },
+    {
+      "name": "visvervangers",
+      "displayName": "Visvervangers",
+      "productCount": 13,
+      "filePath": "visvervangers.jsonl",
+      "indexPath": "visvervangers-index.json",
+      "statsPath": "visvervangers-stats.json",
+      "averageProtein": 10.6,
+      "halalCompliance": 100
+    },
+    {
+      "name": "vegan-snacks",
+      "displayName": "Vegan Snacks",
+      "productCount": 5,
+      "filePath": "vegan-snacks.jsonl",
+      "indexPath": "vegan-snacks-index.json",
+      "statsPath": "vegan-snacks-stats.json",
+      "averageProtein": 9.4,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 434,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 434,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vegetarisch Vegan En Plantaardig",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

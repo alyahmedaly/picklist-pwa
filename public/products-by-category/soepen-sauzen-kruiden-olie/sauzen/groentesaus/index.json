@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Sauzen > Groentesaus",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Sauzen > Groentesaus",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kaassaus",
+      "displayName": "Kaassaus",
+      "productCount": 7,
+      "filePath": "kaassaus.jsonl",
+      "indexPath": "kaassaus-index.json",
+      "statsPath": "kaassaus-stats.json",
+      "averageProtein": 6.8,
+      "halalCompliance": 86
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Sauzen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Groentesaus",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "soepen-sauzen-kruiden-olie/sauzen"
+  }
+}

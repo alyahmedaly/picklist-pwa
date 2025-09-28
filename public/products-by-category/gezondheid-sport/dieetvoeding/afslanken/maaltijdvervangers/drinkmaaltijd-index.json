@@ -1,0 +1,170 @@
+[
+  {
+    "id": "576726",
+    "name": "Yfood This is food drinkmaaltijd mango",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935303833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers",
+      "Drinkmaaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576724",
+    "name": "Yfood This is food drinkmaaltijd peach",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935313032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers",
+      "Drinkmaaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576503",
+    "name": "Wecare Meal replacement drink chocolate",
+    "price": 1.62,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539343132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers",
+      "Drinkmaaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519392",
+    "name": "Yfood This is food cold brew coffee",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935303830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers",
+      "Drinkmaaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548155",
+    "name": "Yfood This is food drinkmaaltijd fresh berry",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935303937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers",
+      "Drinkmaaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548156",
+    "name": "Yfood This is food drinkmaaltijd happy banana",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935303935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers",
+      "Drinkmaaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519372",
+    "name": "Yfood This is food smooth vanilla",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935303737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers",
+      "Drinkmaaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576504",
+    "name": "Wecare Meal replacement drink classic vanilla",
+    "price": 1.62,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539343433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers",
+      "Drinkmaaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576505",
+    "name": "Wecare Meal replacement drink red fruits",
+    "price": 1.62,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers",
+      "Drinkmaaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519373",
+    "name": "Yfood This is food drinkmaaltijd classic choco",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935303930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers",
+      "Drinkmaaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576728",
+    "name": "Yfood This is food drinkmaaltijd vegan vanilla",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935303835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers",
+      "Drinkmaaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576727",
+    "name": "Yfood This is food drinkmaaltijd vegan choco",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935303931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Dieetvoeding",
+      "Afslanken",
+      "Maaltijdvervangers",
+      "Drinkmaaltijd"
+    ],
+    "isFood": true
+  }
+]

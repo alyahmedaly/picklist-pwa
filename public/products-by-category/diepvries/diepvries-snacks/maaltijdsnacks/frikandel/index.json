@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Diepvries > Diepvries snacks > Maaltijdsnacks > Frikandel",
+  "breadcrumbs": "Diepvries > Diepvries snacks > Maaltijdsnacks > Frikandel",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "frikandel-frituur",
+      "displayName": "Frikandel Frituur",
+      "productCount": 11,
+      "filePath": "frikandel-frituur.jsonl",
+      "indexPath": "frikandel-frituur-index.json",
+      "statsPath": "frikandel-frituur-stats.json",
+      "averageProtein": 10.8,
+      "halalCompliance": 27
+    }
+  ],
+  "totalProducts": 11,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Diepvries Snacks",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Maaltijdsnacks",
+        "path": "../index.json"
+      },
+      {
+        "name": "Frikandel",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "diepvries/diepvries-snacks/maaltijdsnacks"
+  }
+}

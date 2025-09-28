@@ -1,0 +1,374 @@
+[
+  {
+    "id": "456378",
+    "name": "AH Rijstwafels melkchocolade 4-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373439343535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456375",
+    "name": "AH Rijstwafels yoghurt",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373435363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456492",
+    "name": "AH Rijstwafels melkchocolade",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373435323533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563590",
+    "name": "Consenza Rijstwafels choco",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456374",
+    "name": "AH Rijstwafels pure chocolade",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373435323630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366056",
+    "name": "Zonnatura Rijstwafels pure chocolade",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136323836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577801",
+    "name": "Koh Thai Sea salt snack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132323831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570306",
+    "name": "BioToday Rice cakes chocolade-kokos",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500292",
+    "name": "Snack a Jacks Cheeky cheese flavour",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836343837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570307",
+    "name": "BioToday Rice cakes pure chocolade",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136333430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513524",
+    "name": "Snack a Jacks Dreamy chocolate chip",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383337383236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509354",
+    "name": "AH Mini maiswafels paprika smaak",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383031383139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500291",
+    "name": "Snack a Jacks Smokey barbecue paprika",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933353730?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513523",
+    "name": "Snack a Jacks Cheeky cheese flavour",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383337383237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513522",
+    "name": "Snack a Jacks Smooooth caramel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383337373435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509353",
+    "name": "AH Mini maiswafels Italiaanse kruiden",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383031383330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "382537",
+    "name": "AH Biologisch Maiswafels met zeezout langwerpig",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363339333837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563606",
+    "name": "AH Kikkererwtenwafels",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036363139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513521",
+    "name": "Snack a Jacks Smokey barbecue paprika",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383337383239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166805",
+    "name": "AH Dikke rijstwafels met zeezout",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363034393737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "58492",
+    "name": "AH Biologisch Rijstwafels naturel",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393634303533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166806",
+    "name": "AH Dikke rijstwafels meergranen",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363034393739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "382535",
+    "name": "AH Biologisch Rijstwafels quinoa",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363431333830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "382534",
+    "name": "AH Biologisch Rijstwafels zilvervlies",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363431333739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412903",
+    "name": "AH Rijstwafels naturel",
+    "price": 0.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363439393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456323",
+    "name": "Zonnatura Rijstwafels",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363238323634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563607",
+    "name": "AH Dikke rijstwafels zonder toegevoegd zout",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036363234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168738",
+    "name": "Consenza Volkoren rijstwafel ongezouten",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832333632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541507",
+    "name": "Leev Kikkererwten wafels",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365910",
+    "name": "Zonnatura Boekweitwafel quinoa & lijnzaad",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353439313833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456477",
+    "name": "Zonnatura Kikkererwtenwafel",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138363335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Rijstwafels"
+    ],
+    "isFood": true
+  }
+]

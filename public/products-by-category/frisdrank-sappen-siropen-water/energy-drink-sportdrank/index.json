@@ -1,0 +1,50 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Energy drink, sportdrank",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Energy drink, sportdrank",
+  "subdirectories": [
+    {
+      "name": "sportdranken",
+      "displayName": "Sportdranken",
+      "productCount": 44,
+      "hasSubdirectories": false,
+      "indexPath": "sportdranken/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "energy-drinks",
+      "displayName": "Energy Drinks",
+      "productCount": 65,
+      "filePath": "energy-drinks.jsonl",
+      "indexPath": "energy-drinks-index.json",
+      "statsPath": "energy-drinks-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 97
+    }
+  ],
+  "totalProducts": 109,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 109,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../index.json"
+      },
+      {
+        "name": "Energy Drink Sportdrank",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "frisdrank-sappen-siropen-water"
+  }
+}

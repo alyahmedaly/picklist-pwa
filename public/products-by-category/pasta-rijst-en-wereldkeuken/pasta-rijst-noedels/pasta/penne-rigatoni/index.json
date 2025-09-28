@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Pasta > Penne, rigatoni",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Pasta > Penne, rigatoni",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "penne",
+      "displayName": "Penne",
+      "productCount": 19,
+      "filePath": "penne.jsonl",
+      "indexPath": "penne-index.json",
+      "statsPath": "penne-stats.json",
+      "averageProtein": 13.5,
+      "halalCompliance": 100
+    },
+    {
+      "name": "rigatoni",
+      "displayName": "Rigatoni",
+      "productCount": 5,
+      "filePath": "rigatoni.jsonl",
+      "indexPath": "rigatoni-index.json",
+      "statsPath": "rigatoni-stats.json",
+      "averageProtein": 13.9,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 24,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 24,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Pasta Rijst Noedels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Pasta",
+        "path": "../index.json"
+      },
+      {
+        "name": "Penne Rigatoni",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "pasta-rijst-en-wereldkeuken/pasta-rijst-noedels/pasta"
+  }
+}

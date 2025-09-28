@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Crackers > Ontbijtcrackers",
+  "breadcrumbs": "Bakkerij > Crackers > Ontbijtcrackers",
+  "totalProducts": 47,
+  "halalCompliance": 89,
+  "averageProtein": 13.9,
+  "averagePrice": 2.51,
+  "highProteinProducts": 16,
+  "dataQuality": {
+    "withNutrition": 45,
+    "withIngredients": 45,
+    "withHalalCheck": 45
+  }
+}

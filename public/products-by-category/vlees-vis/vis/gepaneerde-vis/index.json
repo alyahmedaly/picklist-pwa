@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Vlees, vis > Vis > Gepaneerde vis",
+  "breadcrumbs": "Vlees, vis > Vis > Gepaneerde vis",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "gepaneerde-vis-diepvries",
+      "displayName": "Gepaneerde Vis Diepvries",
+      "productCount": 13,
+      "filePath": "gepaneerde-vis-diepvries.jsonl",
+      "indexPath": "gepaneerde-vis-diepvries-index.json",
+      "statsPath": "gepaneerde-vis-diepvries-stats.json",
+      "averageProtein": 11,
+      "halalCompliance": 92
+    },
+    {
+      "name": "vissticks-diepvries",
+      "displayName": "Vissticks Diepvries",
+      "productCount": 10,
+      "filePath": "vissticks-diepvries.jsonl",
+      "indexPath": "vissticks-diepvries-index.json",
+      "statsPath": "vissticks-diepvries-stats.json",
+      "averageProtein": 12,
+      "halalCompliance": 100
+    },
+    {
+      "name": "vis-cuisine-diepvries",
+      "displayName": "Vis Cuisine Diepvries",
+      "productCount": 6,
+      "filePath": "vis-cuisine-diepvries.jsonl",
+      "indexPath": "vis-cuisine-diepvries-index.json",
+      "statsPath": "vis-cuisine-diepvries-stats.json",
+      "averageProtein": 10.4,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 29,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 29,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Gepaneerde Vis",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/vis"
+  }
+}

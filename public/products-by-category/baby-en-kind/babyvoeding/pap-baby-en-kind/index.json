@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Baby en kind > Babyvoeding > Pap (baby en kind)",
+  "breadcrumbs": "Baby en kind > Babyvoeding > Pap (baby en kind)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "pap-vanaf-6-maanden",
+      "displayName": "Pap Vanaf 6 Maanden",
+      "productCount": 8,
+      "filePath": "pap-vanaf-6-maanden.jsonl",
+      "indexPath": "pap-vanaf-6-maanden-index.json",
+      "statsPath": "pap-vanaf-6-maanden-stats.json",
+      "averageProtein": 7.5,
+      "halalCompliance": 88
+    },
+    {
+      "name": "pap-vanaf-12-maanden",
+      "displayName": "Pap Vanaf 12 Maanden",
+      "productCount": 5,
+      "filePath": "pap-vanaf-12-maanden.jsonl",
+      "indexPath": "pap-vanaf-12-maanden-index.json",
+      "statsPath": "pap-vanaf-12-maanden-stats.json",
+      "averageProtein": 11.8,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 13,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 13,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Baby En Kind",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Babyvoeding",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pap Baby En Kind",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "baby-en-kind/babyvoeding"
+  }
+}

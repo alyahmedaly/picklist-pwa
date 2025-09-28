@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Sauzen > Dipsaus",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Sauzen > Dipsaus",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "mix-voor-dipsaus",
+      "displayName": "Mix Voor Dipsaus",
+      "productCount": 10,
+      "filePath": "mix-voor-dipsaus.jsonl",
+      "indexPath": "mix-voor-dipsaus-index.json",
+      "statsPath": "mix-voor-dipsaus-stats.json",
+      "averageProtein": 6.8,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 10,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Sauzen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Dipsaus",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "soepen-sauzen-kruiden-olie/sauzen"
+  }
+}

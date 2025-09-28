@@ -1,0 +1,97 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Chocolade",
+  "breadcrumbs": "Snoep, chocolade, koek > Chocolade",
+  "subdirectories": [
+    {
+      "name": "repen-en-tabletten",
+      "displayName": "Repen En Tabletten",
+      "productCount": 208,
+      "hasSubdirectories": true,
+      "indexPath": "repen-en-tabletten/index.json"
+    },
+    {
+      "name": "candybars",
+      "displayName": "Candybars",
+      "productCount": 35,
+      "hasSubdirectories": false,
+      "indexPath": "candybars/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "chocoladesnoepjes",
+      "displayName": "Chocoladesnoepjes",
+      "productCount": 56,
+      "filePath": "chocoladesnoepjes.jsonl",
+      "indexPath": "chocoladesnoepjes-index.json",
+      "statsPath": "chocoladesnoepjes-stats.json",
+      "averageProtein": 7.7,
+      "halalCompliance": 2
+    },
+    {
+      "name": "luxe-chocolade",
+      "displayName": "Luxe Chocolade",
+      "productCount": 25,
+      "filePath": "luxe-chocolade.jsonl",
+      "indexPath": "luxe-chocolade-index.json",
+      "statsPath": "luxe-chocolade-stats.json",
+      "averageProtein": 5.7,
+      "halalCompliance": 0
+    },
+    {
+      "name": "chocolade-geschenken",
+      "displayName": "Chocolade Geschenken",
+      "productCount": 24,
+      "filePath": "chocolade-geschenken.jsonl",
+      "indexPath": "chocolade-geschenken-index.json",
+      "statsPath": "chocolade-geschenken-stats.json",
+      "averageProtein": 6.8,
+      "halalCompliance": 4
+    },
+    {
+      "name": "bonbons-en-pralines",
+      "displayName": "Bonbons En Pralines",
+      "productCount": 19,
+      "filePath": "bonbons-en-pralines.jsonl",
+      "indexPath": "bonbons-en-pralines-index.json",
+      "statsPath": "bonbons-en-pralines-stats.json",
+      "averageProtein": 5,
+      "halalCompliance": 5
+    },
+    {
+      "name": "nougat",
+      "displayName": "Nougat",
+      "productCount": 5,
+      "filePath": "nougat.jsonl",
+      "indexPath": "nougat-index.json",
+      "statsPath": "nougat-stats.json",
+      "averageProtein": 5.8,
+      "halalCompliance": 20
+    }
+  ],
+  "totalProducts": 372,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 372,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../index.json"
+      },
+      {
+        "name": "Chocolade",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "snoep-chocolade-koek"
+  }
+}

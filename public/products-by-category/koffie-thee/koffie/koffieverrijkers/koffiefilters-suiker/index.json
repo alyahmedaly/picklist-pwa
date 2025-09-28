@@ -1,0 +1,47 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "zoetstof",
+      "displayName": "Zoetstof",
+      "productCount": 11,
+      "hasSubdirectories": false,
+      "indexPath": "zoetstof/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 11,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 11,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Koffie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Koffieverrijkers",
+        "path": "../index.json"
+      },
+      {
+        "name": "Koffiefilters Suiker",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "koffie-thee/koffie/koffieverrijkers"
+  }
+}

@@ -1,0 +1,301 @@
+[
+  {
+    "id": "558429",
+    "name": "Gouda's Glorie Red hot samurai sauce",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935313135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558422",
+    "name": "Jean Bâton Classiques bearnaise sauce",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558419",
+    "name": "Jean Bâton Classiques Hollandaise sauce",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337373138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535149",
+    "name": "Mister kitchen's Truffle mayo",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131333433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444034",
+    "name": "Remia Frietje bikkelsaus",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373330303233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558412",
+    "name": "Jean Bâton Classiques pepper sauce",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137353237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571948",
+    "name": "Rimboesauzen Big burgersaus",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538363834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571947",
+    "name": "Rimboesauzen Tokkiesaus",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571934",
+    "name": "Remia Burgersaus",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330313736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429271",
+    "name": "Remia Shoarma tafelsaus",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353338353136?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429268",
+    "name": "Remia Hawaï tafelsaus",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353338353038?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558418",
+    "name": "Jean Bâton Classiques green pepper sauce",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195666",
+    "name": "Remia Tosti quick",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733323738?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509487",
+    "name": "Saus Guru Bigger than Mack hamburger sauce",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383133353530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210071",
+    "name": "Calvé Samba saus",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437313834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571946",
+    "name": "Rimboesauzen Piri piri saus",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536333439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535110",
+    "name": "Calvé Avocado & citroen",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393936363631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535151",
+    "name": "Calvé Tomaat & basilicum",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934313730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571939",
+    "name": "Calvé Fiesta picante",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331313036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429245",
+    "name": "Calvé Samourai saus knijpfles",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485550",
+    "name": "Calvé Hamburger saus",
+    "price": 3.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839383038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493108",
+    "name": "Calvé Samba saus",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934313430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571938",
+    "name": "Calvé Zoetzuur",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336333032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Variatiesauzen"
+    ],
+    "isFood": true
+  }
+]

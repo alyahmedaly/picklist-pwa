@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Brood > Meergranen brood",
+  "breadcrumbs": "Bakkerij > Brood > Meergranen brood",
+  "totalProducts": 12,
+  "halalCompliance": 100,
+  "averageProtein": 11.8,
+  "averagePrice": 2.18,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 12,
+    "withIngredients": 12,
+    "withHalalCheck": 12
+  }
+}

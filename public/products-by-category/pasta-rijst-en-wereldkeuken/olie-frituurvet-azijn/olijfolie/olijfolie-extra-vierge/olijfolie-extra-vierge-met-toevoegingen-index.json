@@ -1,0 +1,156 @@
+[
+  {
+    "id": "482405",
+    "name": "AH Excellent Olijfolie knoflook",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Olijfolie",
+      "Olijfolie extra vierge",
+      "Olijfolie extra vierge met toevoegingen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482406",
+    "name": "AH Excellent Olijfolie basilicum",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Olijfolie",
+      "Olijfolie extra vierge",
+      "Olijfolie extra vierge met toevoegingen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482407",
+    "name": "AH Excellent Olijfolie chillipeper",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Olijfolie",
+      "Olijfolie extra vierge",
+      "Olijfolie extra vierge met toevoegingen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575748",
+    "name": "AH Excellent Olijfolie eekhoorntjesbrood smaak",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Olijfolie",
+      "Olijfolie extra vierge",
+      "Olijfolie extra vierge met toevoegingen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575749",
+    "name": "AH Excellent Olijfolie Italiaanse kruiden smaak",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Olijfolie",
+      "Olijfolie extra vierge",
+      "Olijfolie extra vierge met toevoegingen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575747",
+    "name": "AH Excellent Olijfolie met chili smaak",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Olijfolie",
+      "Olijfolie extra vierge",
+      "Olijfolie extra vierge met toevoegingen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575750",
+    "name": "AH Excellent Olijfolie met citroen smaak",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Olijfolie",
+      "Olijfolie extra vierge",
+      "Olijfolie extra vierge met toevoegingen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575734",
+    "name": "AH Excellent Olijfolie met knoflook smaak",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Olijfolie",
+      "Olijfolie extra vierge",
+      "Olijfolie extra vierge met toevoegingen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575730",
+    "name": "AH Excellent Olijfolie truffel smaak",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Olijfolie",
+      "Olijfolie extra vierge",
+      "Olijfolie extra vierge met toevoegingen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194079",
+    "name": "AH Excellent Olijfolie truffelaroma",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035323032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Olijfolie",
+      "Olijfolie extra vierge",
+      "Olijfolie extra vierge met toevoegingen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "118065",
+    "name": "Monini Olijfolie met citroenaroma",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373339323034?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Olijfolie",
+      "Olijfolie extra vierge",
+      "Olijfolie extra vierge met toevoegingen"
+    ],
+    "isFood": true
+  }
+]

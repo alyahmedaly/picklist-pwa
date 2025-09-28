@@ -1,0 +1,301 @@
+[
+  {
+    "id": "577672",
+    "name": "Douwe Egberts Verwenkoffie latte baileys",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836393034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221449",
+    "name": "Nescafé Hazelnut latte oploskoffie",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937313736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229543",
+    "name": "Nescafé Family cappucino oploskoffie",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373037363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221444",
+    "name": "Nescafé Amaretto latte oploskoffie",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831383130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221445",
+    "name": "Nescafé Double choc mocha oploskoffie",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133343237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485617",
+    "name": "Nescafé Gold caramel latte oploskoffie",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551449",
+    "name": "Douwe Egberts Verwenkoffie latte choco hazelnut",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196708",
+    "name": "Nescafé 3in1 smooth & rich oploskoffie",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239343530323833?revLabel=9&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476427",
+    "name": "Douwe Egberts Warm of koud latte salted caramel",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432363438?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381366",
+    "name": "Perla Huisblends Latte macchiato oploskoffie",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383039363438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408112",
+    "name": "Douwe Egberts Verwenkoffie caramel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432363439?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408110",
+    "name": "Douwe Egberts Verwenkoffie latte macchiato oploskoffie",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432363534?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408106",
+    "name": "Douwe Egberts Verwenkoffie cappuccino oploskoffie",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303432303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485618",
+    "name": "Nescafé Wiener melange mocha oploskoffie",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133343236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381368",
+    "name": "Perla Huisblends Latte caramel oploskoffie",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383039363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572381",
+    "name": "Starbucks Caramel latte instant sticks",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634363838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572380",
+    "name": "Starbucks Cinnamon dolce latte instant sticks",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631303433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572466",
+    "name": "Starbucks White mocha instant sticks",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631303434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485616",
+    "name": "Nescafé Latte macchiato oploskoffie",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932343237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221452",
+    "name": "Nescafé Vanilla latte oploskoffie",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233393739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381365",
+    "name": "Perla Huisblends Cappuccino oploskoffie",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383039363436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221448",
+    "name": "Nescafé Cappuccino decaf oploskoffie",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838323530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485615",
+    "name": "Nescafé Cappuccino oploskoffie",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (melkbasis)"
+    ],
+    "isFood": true
+  }
+]

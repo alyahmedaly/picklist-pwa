@@ -1,0 +1,132 @@
+[
+  {
+    "id": "581976",
+    "name": "AH Liefde & Passie Desem San Francisco gesneden",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Liefde en Passiebrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581978",
+    "name": "AH Liefde & Passie Desem San Francisco ongesneden",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Liefde en Passiebrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581975",
+    "name": "AH Liefde & Passie Desem pompoen gesneden",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Liefde en Passiebrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581977",
+    "name": "AH Liefde & Passie Desem pompoen ongesneden",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Liefde en Passiebrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578300",
+    "name": "AH Liefde & Passie Desem winterblond met biet",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Liefde en Passiebrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578848",
+    "name": "AH Liefde & Passie Desem winterblond met biet",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136303435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Liefde en Passiebrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578847",
+    "name": "AH Liefde & Passie Desem zonne rogge gesneden",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Liefde en Passiebrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578846",
+    "name": "AH Liefde & Passie Desem zonne rogge ongesneden",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Liefde en Passiebrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230844",
+    "name": "AH Liefde & Passie Petit cereales",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830373734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Liefde en Passiebrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562102",
+    "name": "AH Liefde & Passie Nederlands desem brons",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639363235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Liefde en Passiebrood bruin"
+    ],
+    "isFood": true
+  }
+]

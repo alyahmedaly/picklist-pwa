@@ -1,0 +1,314 @@
+[
+  {
+    "id": "46003",
+    "name": "Alpro Sojadrink chocolade",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230343038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "108651",
+    "name": "Alpro Sojadrink banaan",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631353135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "113391",
+    "name": "Alpro Sojadrink banaan",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330323833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "152882",
+    "name": "Alpro Sojadrink macchiato",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330323831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580263",
+    "name": "Alpro Barista caramel smaak",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033343131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580281",
+    "name": "Alpro Barista vanille smaak",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033343132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556303",
+    "name": "Alpro Plantaardige drinkyoghurt aardbei-kers",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233383734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556304",
+    "name": "Alpro Plantaardige drinkyoghurt mango-passie",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837303533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164566",
+    "name": "Alpro Sojadrink rode vruchten",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330323638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "108650",
+    "name": "Alpro Sojadrink vanille",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233343235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188227",
+    "name": "Alpro Sojadrink original",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230373438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121227",
+    "name": "Alpro Sojadrink original gekoeld",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330323535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437544",
+    "name": "Alpro Barista soja",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230333337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519787",
+    "name": "Natrue Oat drink",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730373836?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "114698",
+    "name": "Alpro Sojadrink zonder suikers",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565763",
+    "name": "AH Terra Plantaardige sojadrink",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536383932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164567",
+    "name": "Alpro Sojadrink light",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330323634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565765",
+    "name": "AH Terra Plantaardige sojadrink ongezoet",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536383833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568163",
+    "name": "Alpro Barista soja 4-pack",
+    "price": 8.07,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239353936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581569",
+    "name": "Alpro Sojadrink banaan 4-pack",
+    "price": 9.84,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038303935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581565",
+    "name": "Alpro Sojadrink light 4-pack",
+    "price": 9.84,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038303931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562392",
+    "name": "Alpro Sojadrink original 4-pack",
+    "price": 7.56,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034333632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581570",
+    "name": "Alpro Sojadrink rode vruchten 4-pack",
+    "price": 9.84,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038303936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581571",
+    "name": "Alpro Sojadrink vanille 4-pack",
+    "price": 9.84,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038303937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Sojadrink"
+    ],
+    "isFood": true
+  }
+]

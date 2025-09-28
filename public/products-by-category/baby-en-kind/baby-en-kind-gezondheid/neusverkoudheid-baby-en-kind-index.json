@@ -1,0 +1,62 @@
+[
+  {
+    "id": "485376",
+    "name": "AH Baby neusspray",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363532353038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Baby en kind gezondheid",
+      "Neusverkoudheid baby en kind"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485134",
+    "name": "AH Kinderneusspray xylometazoline",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Baby en kind gezondheid",
+      "Neusverkoudheid baby en kind"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485135",
+    "name": "AH Neusspray xylometazoline menthol",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363531313538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Baby en kind gezondheid",
+      "Neusverkoudheid baby en kind"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "192304",
+    "name": "Dampo Kids inhalatiepleister",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332393032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Baby en kind gezondheid",
+      "Neusverkoudheid baby en kind"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "71567",
+    "name": "Etos Baby doseerspray (neusspray)",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373236323231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Baby en kind gezondheid",
+      "Neusverkoudheid baby en kind"
+    ],
+    "isFood": true
+  }
+]

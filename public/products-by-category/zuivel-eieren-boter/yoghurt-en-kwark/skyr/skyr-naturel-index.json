@@ -1,0 +1,132 @@
+[
+  {
+    "id": "509606",
+    "name": "Isey Skyr aardbei witte chocolade",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535373734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509604",
+    "name": "Isey Skyr licht gezouten caramel",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536353332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570898",
+    "name": "Arla Skyr naturel extra creamy 5% fat",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583276",
+    "name": "Isey Skyr naturel",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039363935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425572",
+    "name": "AH Skyr IJslandse stijl",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363838363031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425564",
+    "name": "Arla Biologisch skyr naturel yoghurt",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393634373131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370580",
+    "name": "Arla Skyr naturel yoghurt 0% fat",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038323739?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457983",
+    "name": "Arla Skyr naturel yoghurt 0% fat XL",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038333039?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582017",
+    "name": "Arla Biologisch skyr naturel yoghurt 3-pack",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130323736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582869",
+    "name": "Arla Skyr naturel yoghurt 2-pack",
+    "price": 3.78,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139313735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr naturel"
+    ],
+    "isFood": true
+  }
+]

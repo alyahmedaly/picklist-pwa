@@ -1,0 +1,756 @@
+[
+  {
+    "id": "198181",
+    "name": "Verstegen Kruidenmix voor chili con carne",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736343730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496690",
+    "name": "Verstegen Mix voor ei",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373439313537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557184",
+    "name": "Verstegen World spice blend furikake",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197877",
+    "name": "Verstegen Kruidenmix tex Mex",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333434?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518842",
+    "name": "Verstegen World spice blend za'atar",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "368110",
+    "name": "Kucharek Universal vegetable seasoning",
+    "price": 1.19,
+    "image": "NA",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164614",
+    "name": "Verstegen Kruidenmix macaroni spaghetti",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736343638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557218",
+    "name": "Verstegen Mix voor rendang",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579354",
+    "name": "Verstegen Kruidenmix voor kip pittige knoflook",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333338?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557189",
+    "name": "Verstegen Kruidenmix voor moussaka",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198207",
+    "name": "Verstegen Mix voor nasi & bami goreng",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736343639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216007",
+    "name": "Podravka vegeta",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557215",
+    "name": "Verstegen Mix voor kip krokant",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "38403",
+    "name": "Conimex Bami kruidenmix",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303032323335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "452205",
+    "name": "Verstegen Omelet kruidenmix",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425973",
+    "name": "Santa Maria Crispy chicken kruidenmix",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383133333731?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2199",
+    "name": "Conimex Mix voor nasi",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557222",
+    "name": "Verstegen Spicy touch blend habanero",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557221",
+    "name": "Verstegen Spicy touch blend red pepper",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433393538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518426",
+    "name": "Verstegen World spice blend habanero",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518910",
+    "name": "Verstegen World spice blend tandoori masala",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518452",
+    "name": "Verstegen World spice blend vadouvan",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518286",
+    "name": "Fairtrade Original Sri lankaanse colombo curry",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532323438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557346",
+    "name": "Verstegen Kip madras kruidenmix",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518817",
+    "name": "Verstegen World spice blend cajun",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518332",
+    "name": "Fairtrade Original Indiase butter chicken",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532323436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518876",
+    "name": "Verstegen World spice blend jamaican jerk",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557186",
+    "name": "Verstegen World spice blend piri piri",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518449",
+    "name": "Verstegen World spice blend ras el hanout",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518445",
+    "name": "Verstegen World spice blend toscane",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557220",
+    "name": "Verstegen Spicy touch blend jalapeño",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433393539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557185",
+    "name": "Verstegen World spice blend Nordic",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518924",
+    "name": "Verstegen World spice blend chimichurri",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518868",
+    "name": "Verstegen World spice blend harissa",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557187",
+    "name": "Verstegen World spice blend pumpkin spice",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518887",
+    "name": "Verstegen World spice blend napoli",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518448",
+    "name": "Verstegen World spice blend 5 spices",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518844",
+    "name": "Verstegen World spice blend garam masala",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518951",
+    "name": "By Soenil Garam masala verwarmende specerijenmix",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636373330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518953",
+    "name": "By Soenil Geroosterde masala specerijenmix",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636373233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575497",
+    "name": "Euroma Al-Andalus by Jonnie Boer",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575496",
+    "name": "Euroma Baharat by Jonnie Boer",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518913",
+    "name": "Euroma Burrito nacho",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532313738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518888",
+    "name": "Euroma Chili con carne",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532313831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518843",
+    "name": "Euroma Fajita",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532313838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518880",
+    "name": "Euroma Kip-kerrie",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532313737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518881",
+    "name": "Euroma Nasi bami",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532313730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518877",
+    "name": "Euroma Paella",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532313735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518864",
+    "name": "Euroma Pasta bolognese",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532313732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518915",
+    "name": "Euroma Pizza",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532313833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575366",
+    "name": "Euroma Roti masala by Jonnie Boer",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518832",
+    "name": "Euroma Stamppot",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532313835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518869",
+    "name": "Euroma Traybake groente",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532313733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575492",
+    "name": "Euroma Vadouvan by Jonnie Boer",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734333933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199028",
+    "name": "H. Nandan Masala nandan",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353738363632?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198210",
+    "name": "Picado Meervakstrooier",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373530373530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557211",
+    "name": "Samasaya Sansho peper",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636323939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475785",
+    "name": "Verstegen Poké bowl kruidenmix",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Maaltijd Kruidenmixen"
+    ],
+    "isFood": true
+  }
+]

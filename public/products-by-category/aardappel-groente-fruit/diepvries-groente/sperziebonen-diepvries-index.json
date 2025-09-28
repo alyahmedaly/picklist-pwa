@@ -1,0 +1,62 @@
+[
+  {
+    "id": "409995",
+    "name": "AH Biologisch Sperziebonen",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313932353437?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Sperziebonen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "39619",
+    "name": "AH Sperziebonen fijn heel",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313630313031?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Sperziebonen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "382561",
+    "name": "AH Sperziebonen gebroken",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323532393230?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Sperziebonen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226498",
+    "name": "AH Sperziebonen gebroken",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313433313332?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Sperziebonen (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226361",
+    "name": "Bonduelle Franse sperzieboontjes zeer fijn",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936373731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Sperziebonen (diepvries)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "569732",
+    "name": "Amstel Rosé bier",
+    "price": 1.28,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539333134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Rosé bier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569733",
+    "name": "Amstel Rosé bier 6-pack",
+    "price": 7.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934303334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Rosé bier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229984",
+    "name": "Boon Kriek",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393239333438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Rosé bier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210536",
+    "name": "Wittekerke Rosé",
+    "price": 1.48,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373637323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Rosé bier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548565",
+    "name": "Wittekerke Rosé 4-pack",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393134373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Rosé bier met alcohol"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "163804",
+    "name": "Unox Originele kippensoep",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Conserven",
+      "Soepen in blik",
+      "Kippensoep in blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "921",
+    "name": "AH Kippensoep",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437303433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Conserven",
+      "Soepen in blik",
+      "Kippensoep in blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124142",
+    "name": "AH Kippensoep",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Conserven",
+      "Soepen in blik",
+      "Kippensoep in blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163807",
+    "name": "Unox Originele kippensoep",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Conserven",
+      "Soepen in blik",
+      "Kippensoep in blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457580",
+    "name": "Unox Originele kippensoep",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839353732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Conserven",
+      "Soepen in blik",
+      "Kippensoep in blik"
+    ],
+    "isFood": true
+  }
+]

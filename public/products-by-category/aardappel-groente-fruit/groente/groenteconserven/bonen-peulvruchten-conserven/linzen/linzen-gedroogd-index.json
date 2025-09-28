@@ -1,0 +1,137 @@
+[
+  {
+    "id": "469874",
+    "name": "AH Biologisch Groene linzen",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338343233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (gedroogd)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469879",
+    "name": "AH Biologisch Rode linzen",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338343231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (gedroogd)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "235715",
+    "name": "Valle del sole Groene linzen",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731333931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (gedroogd)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "235716",
+    "name": "Valle del sole Rode splitlinzen",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (gedroogd)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "235721",
+    "name": "Valle del sole Donkergroene linzen",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732343132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (gedroogd)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198414",
+    "name": "Valle del sole Groene linzen",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637313132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (gedroogd)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198410",
+    "name": "Valle del sole Rode splitlinzen",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353933363937?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (gedroogd)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462250",
+    "name": "Valle del sole Rode linzen heel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234393138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (gedroogd)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163792",
+    "name": "Hak Blonde linzen gedroogd",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363836363536?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (gedroogd)"
+    ],
+    "isFood": true
+  }
+]

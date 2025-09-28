@@ -1,0 +1,277 @@
+[
+  {
+    "id": "579126",
+    "name": "AH Voor in de oven bladerdeeghapjes gehakt",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561344",
+    "name": "AH Oven varkenshaas rauwe ham pepersaus",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639393539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525348",
+    "name": "AH Oven varkenshaas katenspek",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738363339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582069",
+    "name": "AH Scharrel kipfilet kruidenroomkaas",
+    "price": 6.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130353932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517086",
+    "name": "AH Scharrel kipovenschotel kip carbonara",
+    "price": 4.81,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517094",
+    "name": "AH Voor in de oven kipdijfilet saté ajam",
+    "price": 5.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525353",
+    "name": "AH Oven varkensoester",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932383331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573453",
+    "name": "AH Loaded fries kip saté",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561826",
+    "name": "AH Oven zalm crumble",
+    "price": 5.93,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "418196",
+    "name": "AH Voor in de oven beenham honing mosterd",
+    "price": 8.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838363935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "143245",
+    "name": "AH Voor in de oven kipfilet pesto",
+    "price": 5.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573454",
+    "name": "AH Loaded fries kip barbecue",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578791",
+    "name": "AH Oven & airfryer loaded fries stoofvlees",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031333036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135519",
+    "name": "AH Voor in de oven scharrel kip sweet chili",
+    "price": 4.72,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537313833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560821",
+    "name": "Streeckgenoten Varkenshaas in satésaus",
+    "price": 5.79,
+    "image": "NA",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562333",
+    "name": "AH Scharrel kipkluifjes Aziatisch",
+    "price": 3.22,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635373737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517087",
+    "name": "AH Voor in de oven scharrel kip piri piri",
+    "price": 4.72,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "418194",
+    "name": "AH Voor in de oven beenham naturel",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572018",
+    "name": "AH Traybake scharrelkip Italiaans",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517085",
+    "name": "AH Voor in de oven kipfilet tomaat",
+    "price": 5.24,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537323234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517088",
+    "name": "AH Voor in de oven kipfilethaasjes tandoori",
+    "price": 5.24,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537313936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562334",
+    "name": "AH Traybake scharrelkip Aziatisch",
+    "price": 4.87,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562335",
+    "name": "AH Traybake scharrelkip Provençaals",
+    "price": 5.44,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237373132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577717",
+    "name": "AH Oven scharrel kip sweet chili 2-pack",
+    "price": 9.44,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930303933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578163",
+    "name": "AH Voor in de oven beenham naturel 2-pack",
+    "price": 15.18,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees, vis, kip (ovenschotel)"
+    ],
+    "isFood": true
+  }
+]

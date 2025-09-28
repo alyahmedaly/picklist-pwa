@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Belegde broodjes",
+  "breadcrumbs": "Salades, pizza, maaltijden > Belegde broodjes",
+  "totalProducts": 7,
+  "halalCompliance": 29,
+  "averageProtein": 10.5,
+  "averagePrice": 3.65,
+  "highProteinProducts": 1,
+  "dataQuality": {
+    "withNutrition": 7,
+    "withIngredients": 7,
+    "withHalalCheck": 7
+  }
+}

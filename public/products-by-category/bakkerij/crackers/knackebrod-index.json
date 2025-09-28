@@ -1,0 +1,362 @@
+[
+  {
+    "id": "419899",
+    "name": "Wasa Glutenvrij en lactosevrij classic",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353532393430?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455671",
+    "name": "AH Knäckebröd pompoenpit",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455873",
+    "name": "AH Knäckebröd sesam",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455871",
+    "name": "AH Knäckebröd zonnebloempit",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513518",
+    "name": "Bolletje Luchtig Knackebrod sesam",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236303534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518134",
+    "name": "AH Biologisch Knäckebröd sesam",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131313036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518127",
+    "name": "AH Biologisch Knäckebröd vezelrijk met tarwebloem",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131313130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455872",
+    "name": "AH Knäckebröd goudbruin",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513517",
+    "name": "Bolletje Luchtig Knackebrod goudbros",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236303532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439403",
+    "name": "Bolletje Oerknack Robuust Volkoren",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439279",
+    "name": "Bolletje Oerknack Waldkorn",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563580",
+    "name": "Bolletje Pro-fit kräckebröd proteïne",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934323635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209318",
+    "name": "Wasa Zuurdesem Meergranen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533303838?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "224892",
+    "name": "Wasa Zuurdesem Rogge",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533303939?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513519",
+    "name": "Bolletje Vezelrijk Knackebrod volkoren",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237373335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387907",
+    "name": "Wasa Sesam",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533303738?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376945",
+    "name": "Wasa Sesam Crunch Sensation",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533303934?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455672",
+    "name": "AH Knäckebröd volkoren",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395337",
+    "name": "Leksands Knäcke extra krokant gebakken",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233373037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395334",
+    "name": "Leksands Knäcke original",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233383233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456321",
+    "name": "Leksands Knäckebrod haver",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738303739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570298",
+    "name": "Leksands Zaden & zeezout",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437303335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435614",
+    "name": "Leksands Zweeds Rogge Knackebrod Punt zuurdesem",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353735323236?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517939",
+    "name": "Wasa Crunchy twist poppy seeds & sea salt",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383737363830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563578",
+    "name": "Wasa Crunchy twist sesam & sea salt",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435393437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387924",
+    "name": "Wasa Goudbruin",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353532393734?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387923",
+    "name": "Wasa Lichtgewicht",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533303830?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387920",
+    "name": "Wasa Vezelrijk",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353532383433?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387906",
+    "name": "Wasa Volkoren",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533303832?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583956",
+    "name": "Leksands original knackebrod 3-pack",
+    "price": 5.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139313834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Crackers",
+      "Knackebrod"
+    ],
+    "isFood": true
+  }
+]

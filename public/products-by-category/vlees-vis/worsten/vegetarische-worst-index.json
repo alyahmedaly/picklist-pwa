@@ -1,0 +1,110 @@
+[
+  {
+    "id": "567843",
+    "name": "Redefine Meat Bratwurst",
+    "price": 4.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132353638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Worsten",
+      "Vegetarische worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564866",
+    "name": "AH Terra Plantaardige kipbraadworst",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Worsten",
+      "Vegetarische worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475398",
+    "name": "Beyond Meat Sausage plantaardige worst",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Worsten",
+      "Vegetarische worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468160",
+    "name": "AH Terra Plantaardige rookworst",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Worsten",
+      "Vegetarische worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563713",
+    "name": "This Plantaardige worstjes",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537373935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Worsten",
+      "Vegetarische worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577209",
+    "name": "Garden Gourmet Sensational chipolata",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Worsten",
+      "Vegetarische worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577210",
+    "name": "Garden Gourmet Sensational merguez",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636373732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Worsten",
+      "Vegetarische worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564869",
+    "name": "AH Terra Plantaardige chipolata worstjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Worsten",
+      "Vegetarische worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474838",
+    "name": "Garden Gourmet Sensational bratwurst",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034343239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Worsten",
+      "Vegetarische worst"
+    ],
+    "isFood": true
+  }
+]

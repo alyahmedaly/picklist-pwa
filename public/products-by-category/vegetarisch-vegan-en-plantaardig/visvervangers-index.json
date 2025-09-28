@@ -1,0 +1,145 @@
+[
+  {
+    "id": "563707",
+    "name": "AH Terra Plantaardige garnalen",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Visvervangers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570156",
+    "name": "Vegetarische Slager Vegan leckerbekje",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237303731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Visvervangers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549481",
+    "name": "Princes Plantaardige tonijnsalade Mexicaans",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393234323339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Visvervangers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "537043",
+    "name": "Princes Plantaardige tonijn met groenten in saus",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383931353137?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Visvervangers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549482",
+    "name": "Princes Plantaardige tonijnsalade couscous",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393234323432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Visvervangers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507423",
+    "name": "Garden Gourmet Vuna",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630323231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Visvervangers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549457",
+    "name": "John West Vegan visvrije tonijn met olie",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232373831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Visvervangers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549456",
+    "name": "John West Vegan visvrije tonijn tomaat",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232393032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Visvervangers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515444",
+    "name": "Vivera Plantaardige zalmfilet",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630343235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Visvervangers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509492",
+    "name": "Iglo Green cuisine vegetarische visstick",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932353836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Visvervangers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "537042",
+    "name": "Princes Plantaardige tonijn met olijfolie",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383931353132?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Visvervangers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "537041",
+    "name": "Princes Plantaardige tonijn met zonnebloemolie",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383931353134?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Visvervangers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "537040",
+    "name": "Princes Plantaardige tonijn naturel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383931353133?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Visvervangers"
+    ],
+    "isFood": true
+  }
+]

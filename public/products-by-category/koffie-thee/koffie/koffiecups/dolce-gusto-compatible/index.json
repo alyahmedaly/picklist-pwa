@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Koffie, thee > Koffie > Koffiecups > Dolce Gusto compatible",
+  "breadcrumbs": "Koffie, thee > Koffie > Koffiecups > Dolce Gusto compatible",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "dolce-gusto-compatible-melkbasis",
+      "displayName": "Dolce Gusto Compatible Melkbasis",
+      "productCount": 22,
+      "filePath": "dolce-gusto-compatible-melkbasis.jsonl",
+      "indexPath": "dolce-gusto-compatible-melkbasis-index.json",
+      "statsPath": "dolce-gusto-compatible-melkbasis-stats.json",
+      "averageProtein": 1.5,
+      "halalCompliance": 77
+    },
+    {
+      "name": "dolce-gusto-compatible-regular",
+      "displayName": "Dolce Gusto Compatible Regular",
+      "productCount": 9,
+      "filePath": "dolce-gusto-compatible-regular.jsonl",
+      "indexPath": "dolce-gusto-compatible-regular-index.json",
+      "statsPath": "dolce-gusto-compatible-regular-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 31,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 31,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Koffie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Koffiecups",
+        "path": "../index.json"
+      },
+      {
+        "name": "Dolce Gusto Compatible",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "koffie-thee/koffie/koffiecups"
+  }
+}

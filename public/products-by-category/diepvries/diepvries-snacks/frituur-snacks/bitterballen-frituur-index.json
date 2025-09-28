@@ -1,0 +1,67 @@
+[
+  {
+    "id": "486323",
+    "name": "Van Dobben Rundvlees bitterballen",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363736393439?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Bitterballen (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412975",
+    "name": "Mora Mini's rundvlees bitterballen",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534393436?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Bitterballen (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1250",
+    "name": "AH Rundvlees bitterballen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323536333631?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Bitterballen (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226454",
+    "name": "Mora Rundvlees bitterballen",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733323534?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Bitterballen (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189410",
+    "name": "Mora Mini's rundvlees bitterballen",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353536323230?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Bitterballen (frituur)"
+    ],
+    "isFood": true
+  }
+]

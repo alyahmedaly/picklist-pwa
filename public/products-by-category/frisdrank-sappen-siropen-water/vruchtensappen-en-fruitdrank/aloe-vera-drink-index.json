@@ -1,0 +1,74 @@
+[
+  {
+    "id": "213551",
+    "name": "Tropical Aloe vera juice naturel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Aloe vera drink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195935",
+    "name": "Tropical Aloe vera naturel",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432383631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Aloe vera drink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209823",
+    "name": "Pure Plus Refresh aloe vera drink",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330313731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Aloe vera drink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "219885",
+    "name": "Tropical Aloe vera aardbei",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432383538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Aloe vera drink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213552",
+    "name": "Tropical Aloe vera juice mango",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432383632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Aloe vera drink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369301",
+    "name": "Tropical aloe vera zero suikervrij",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Aloe vera drink"
+    ],
+    "isFood": true
+  }
+]

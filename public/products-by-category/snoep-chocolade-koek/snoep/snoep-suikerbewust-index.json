@@ -1,0 +1,122 @@
+[
+  {
+    "id": "459489",
+    "name": "AH Suikervrij gummies met fruitsmaak",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoep (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502967",
+    "name": "AH Love hearts suikervrij",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoep (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397507",
+    "name": "Bear Fruit rolls aardbei",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933363837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoep (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448007",
+    "name": "Bear Fruit rolls framboos",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933363932?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoep (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397510",
+    "name": "Bear Fruit rolls mango",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933363838?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoep (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486809",
+    "name": "Wilhelmina Pepermunt suikervrij",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoep (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502481",
+    "name": "AH Tumtummetjes suikervrij",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoep (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "30507",
+    "name": "AH Suikervrij knoopjesdrop",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531333337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoep (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524835",
+    "name": "Food2Smile Gimme gummy mix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383736363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoep (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524836",
+    "name": "Food2Smile Very berry",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383736363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoep (suikerbewust)"
+    ],
+    "isFood": true
+  }
+]

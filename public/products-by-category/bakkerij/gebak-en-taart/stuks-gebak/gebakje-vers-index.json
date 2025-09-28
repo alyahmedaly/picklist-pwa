@@ -1,0 +1,145 @@
+[
+  {
+    "id": "230743",
+    "name": "AH Mokkagebakjes",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Stuks gebak",
+      "Gebakje (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577034",
+    "name": "AH Bannoffeesmaak croissantjes",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131333233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Stuks gebak",
+      "Gebakje (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564331",
+    "name": "AH Triple choco taartje",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Stuks gebak",
+      "Gebakje (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567589",
+    "name": "AH Tompouce croissant",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Stuks gebak",
+      "Gebakje (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191173",
+    "name": "AH Tompoucen",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Stuks gebak",
+      "Gebakje (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191174",
+    "name": "AH Bossche bollen",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Stuks gebak",
+      "Gebakje (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517041",
+    "name": "Dudok Carrot cake punten",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036303732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Stuks gebak",
+      "Gebakje (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519109",
+    "name": "AH Diepvries mini appeltaartjes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Stuks gebak",
+      "Gebakje (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517037",
+    "name": "AH Appeltaartpunten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Stuks gebak",
+      "Gebakje (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170056",
+    "name": "AH Bitterkoeken",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Stuks gebak",
+      "Gebakje (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485211",
+    "name": "AH Franse chocolade eclairs",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331303736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Stuks gebak",
+      "Gebakje (vers)"
+    ],
+    "isFood": true
+  }
+]

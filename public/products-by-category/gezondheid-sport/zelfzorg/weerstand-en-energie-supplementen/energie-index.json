@@ -1,0 +1,106 @@
+[
+  {
+    "id": "112249",
+    "name": "A.Vogel Echinaforce sterk** + energie",
+    "price": 13.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373330343131?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Weerstand en energie supplementen",
+      "Energie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437472",
+    "name": "Care Plus O.R.S. oral rehydration salt",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Weerstand en energie supplementen",
+      "Energie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445146",
+    "name": "Dagravit Vitaminen totaal 30 weerstand & energie",
+    "price": 15.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934343538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Weerstand en energie supplementen",
+      "Energie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400097",
+    "name": "Davitamon Energie boost forte kauwvitamines",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333353237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Weerstand en energie supplementen",
+      "Energie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386282",
+    "name": "Davitamon Energie boost ginseng bruistabletten",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336303634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Weerstand en energie supplementen",
+      "Energie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561551",
+    "name": "Davitamon Multi vrouw 50+",
+    "price": 23.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537373534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Weerstand en energie supplementen",
+      "Energie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473791",
+    "name": "Etos IJzer en vitamine C",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131383539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Weerstand en energie supplementen",
+      "Energie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "182269",
+    "name": "Floradix Vloeibaar ijzer-elixir met vitamines",
+    "price": 28.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Weerstand en energie supplementen",
+      "Energie"
+    ],
+    "isFood": true
+  }
+]

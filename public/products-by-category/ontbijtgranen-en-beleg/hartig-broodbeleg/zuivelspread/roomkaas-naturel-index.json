@@ -1,0 +1,67 @@
+[
+  {
+    "id": "217299",
+    "name": "AH Dadels met roomkaas",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Zuivelspread",
+      "Roomkaas (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384175",
+    "name": "Philadelphia Original",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230353133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Zuivelspread",
+      "Roomkaas (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384177",
+    "name": "Philadelphia Original XL",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237353731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Zuivelspread",
+      "Roomkaas (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575925",
+    "name": "Paturain Naturel",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233363939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Zuivelspread",
+      "Roomkaas (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562458",
+    "name": "Philadelphia Zuivelspread naturel 2-pack",
+    "price": 4.98,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632323236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Zuivelspread",
+      "Roomkaas (naturel)"
+    ],
+    "isFood": true
+  }
+]

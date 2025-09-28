@@ -1,0 +1,74 @@
+[
+  {
+    "id": "237604",
+    "name": "Koopmans Bladerdeeg origineel",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363734353331?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Bladerdeeg (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1241",
+    "name": "AH Bladerdeeg",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135393339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Bladerdeeg (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1243",
+    "name": "Koopmans Bladerdeeg roomboter",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363734353332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Bladerdeeg (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449579",
+    "name": "AH Bladerdeeg roomboter",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135393338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Bladerdeeg (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541496",
+    "name": "Koopmans Bladerdeeg volkoren",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383932393338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Bladerdeeg (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "39827",
+    "name": "Koopmans Deeg hartige taart",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363734353032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Bladerdeeg (diepvries)"
+    ],
+    "isFood": true
+  }
+]

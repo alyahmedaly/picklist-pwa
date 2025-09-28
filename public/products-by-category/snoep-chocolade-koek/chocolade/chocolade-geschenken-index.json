@@ -1,0 +1,290 @@
+[
+  {
+    "id": "88649",
+    "name": "Celebrations Assortiments mix",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383335383539?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421650",
+    "name": "Celebrations Assortiments mix",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030383531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583541",
+    "name": "Celebrations Chocolade geschenkfles",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738353233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493250",
+    "name": "Milka Party mix",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373237373438?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540302",
+    "name": "Kinder Happy moments mix",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737383138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "536029",
+    "name": "Merci Finest selection black & white",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935343736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532270",
+    "name": "Tony's Chocolonely Reep melk karamel zeezout hieperdepieper",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837363238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403053",
+    "name": "Ferrero Collection",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230393237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568547",
+    "name": "Lindt Lindor gemengde chocolade hart",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303435333832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493249",
+    "name": "Milka Happy birthday pralines melk créme",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734323731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467207",
+    "name": "Milka Thank you pralines melk créme",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393931373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3200",
+    "name": "Merci Finest selection",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236313137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "35485",
+    "name": "Merci Finest Selection melk",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353433393235?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "53205",
+    "name": "Merci Geschenkdoos",
+    "price": 8.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236313136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459338",
+    "name": "Merci Petits chocolate collection",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353434313637?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "268834",
+    "name": "Steenland Chocolade klompjes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303333363437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515673",
+    "name": "Tony's Chocolonely Tiny's kadoosje",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445922",
+    "name": "Merci Finest Selection Amandel",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353434313439?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507721",
+    "name": "Merci Petits crunch collection",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353933323936?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445399",
+    "name": "Milka With love pralines hazelnut créme",
+    "price": 5.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353933333839?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467208",
+    "name": "Milka With love pralines hazelnut crème",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031363139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532271",
+    "name": "Tony's Chocolonely Reep je wordt bedankt melk",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837363330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532272",
+    "name": "Tony's Chocolonely Reep melk noga blij met jou",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417359",
+    "name": "Tony's Chocolonely Proeverijtje",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Chocolade geschenken"
+    ],
+    "isFood": true
+  }
+]

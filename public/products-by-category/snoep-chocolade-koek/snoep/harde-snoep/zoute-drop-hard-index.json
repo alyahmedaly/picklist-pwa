@@ -1,0 +1,119 @@
+[
+  {
+    "id": "559381",
+    "name": "Italiano Salmiak mix",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393238313735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoute drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502969",
+    "name": "AH Salmiak hartjes",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373533343636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoute drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502488",
+    "name": "Fortuin DF Salmiak snoepjes",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373838353837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoute drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383071",
+    "name": "Oldtimers Zoute ruiten",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373134353238?revLabel=19&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoute drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547720",
+    "name": "Klene Grof geld licht zout",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338353635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoute drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547718",
+    "name": "Venco Boerderijdrop",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoute drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547746",
+    "name": "Klene Zakkenrollers zout & salmiak",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoute drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508432",
+    "name": "Klene Zeezout waterwerken",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838303238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoute drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383074",
+    "name": "Oldtimers Salmiak klinkers",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135353234?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoute drop (hard)"
+    ],
+    "isFood": true
+  }
+]

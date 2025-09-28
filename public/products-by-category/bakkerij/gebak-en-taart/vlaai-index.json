@@ -1,0 +1,134 @@
+[
+  {
+    "id": "537025",
+    "name": "AH Brownie karamel vlaai half",
+    "price": 7.5,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031303630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Vlaai"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577033",
+    "name": "AH Luxe roomvlaai half",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131333139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Vlaai"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517030",
+    "name": "AH Framboos witte choco vlaai half",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Vlaai"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "224353",
+    "name": "AH Rijstevlaai half",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Vlaai"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "224355",
+    "name": "AH Aardbeien bavaroise vlaai half",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Vlaai"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564328",
+    "name": "AH Pudding vlaaipunt mix",
+    "price": 5.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Vlaai"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194376",
+    "name": "AH Puddingkruimelvlaai half",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Vlaai"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "430098",
+    "name": "AH Vlaaipunten mix",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Vlaai"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "224357",
+    "name": "AH Kersenrastervlaai half",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Vlaai"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "224358",
+    "name": "AH Appelkruimelvlaai half",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Vlaai"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "490051",
+    "name": "Bakkerij Demandt Aardbeienvlaai",
+    "price": 4.25,
+    "image": "NA",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Vlaai"
+    ],
+    "isFood": true
+  }
+]

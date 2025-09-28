@@ -1,0 +1,67 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "droge-bubbels",
+      "displayName": "Droge Bubbels",
+      "productCount": 34,
+      "hasSubdirectories": false,
+      "indexPath": "droge-bubbels/index.json"
+    },
+    {
+      "name": "lichtzoete-bubbels",
+      "displayName": "Lichtzoete Bubbels",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "lichtzoete-bubbels/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "mousserend-overig",
+      "displayName": "Mousserend Overig",
+      "productCount": 10,
+      "filePath": "mousserend-overig.jsonl",
+      "indexPath": "mousserend-overig-index.json",
+      "statsPath": "mousserend-overig-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "alcoholvrije-bubbels",
+      "displayName": "Alcoholvrije Bubbels",
+      "productCount": 7,
+      "filePath": "alcoholvrije-bubbels.jsonl",
+      "indexPath": "alcoholvrije-bubbels-index.json",
+      "statsPath": "alcoholvrije-bubbels-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 29
+    }
+  ],
+  "totalProducts": 58,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 58,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../index.json"
+      },
+      {
+        "name": "Bubbels Mousserende Wijn",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "wijn-en-bubbels"
+  }
+}

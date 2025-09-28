@@ -1,0 +1,50 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "deodorant-vrouwen",
+      "displayName": "Deodorant Vrouwen",
+      "productCount": 16,
+      "hasSubdirectories": false,
+      "indexPath": "deodorant-vrouwen/index.json"
+    },
+    {
+      "name": "deodorant-mannen",
+      "displayName": "Deodorant Mannen",
+      "productCount": 10,
+      "hasSubdirectories": false,
+      "indexPath": "deodorant-mannen/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 26,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 26,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Drogisterij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Lichaamsverzorging",
+        "path": "../index.json"
+      },
+      {
+        "name": "Deodorant",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "drogisterij/lichaamsverzorging"
+  }
+}

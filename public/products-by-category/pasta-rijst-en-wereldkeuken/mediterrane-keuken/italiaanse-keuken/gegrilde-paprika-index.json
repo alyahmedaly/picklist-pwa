@@ -1,0 +1,80 @@
+[
+  {
+    "id": "462228",
+    "name": "Royal Geroosterde paprika in reepjes",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363631353531?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Gegrilde paprika"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168310",
+    "name": "Royal Geroosterde rode paprika",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353738363835?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Gegrilde paprika"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416515",
+    "name": "AH Paprika rode reepjes",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363336343531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Gegrilde paprika"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164088",
+    "name": "Royal Geroosterde gele paprika",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353738363235?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Gegrilde paprika"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189682",
+    "name": "AH Gegrilde rode paprika",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Gegrilde paprika"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520709",
+    "name": "Hak Uit de oven gevulde paprika",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235363331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Gegrilde paprika"
+    ],
+    "isFood": true
+  }
+]

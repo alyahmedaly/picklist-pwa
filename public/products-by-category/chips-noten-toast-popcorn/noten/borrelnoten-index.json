@@ -1,0 +1,494 @@
+[
+  {
+    "id": "467582",
+    "name": "AH Borrelmix pittig",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353930313237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570695",
+    "name": "Mitsuba Streetfood snackmix coconut & satay",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130383732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483927",
+    "name": "Mitsuba Wasabi peanut crunch",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363731303732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238824",
+    "name": "Chio Borrel bites original",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467579",
+    "name": "AH Borrelmix pepita",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353930313334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570697",
+    "name": "Mitsuba Streetfood snackmix beef noodles",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582832",
+    "name": "AH Borrelnoten sour cream smaak",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559247",
+    "name": "AH Sriracha bollen",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517528",
+    "name": "Duyvis Borrelnootjes kaas & mosterd smaak",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232383534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570696",
+    "name": "Mitsuba Streetfood snackmix Thai green curry",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130383733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559252",
+    "name": "AH Borrelmix",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533393338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559250",
+    "name": "AH Borrelnoten cocktail",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578189",
+    "name": "AH Borrelnoten cocktail",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578191",
+    "name": "AH Borrelnoten cocktail",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467565",
+    "name": "AH Borrelnoten cocktail gezouten",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238825",
+    "name": "Chio Borrel bites paprika sweet chili",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477619",
+    "name": "Duyvis Borrelnootjes cocktail",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335313833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582893",
+    "name": "Duyvis Borrelnootjes cocktail",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035353434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441403",
+    "name": "Duyvis Borrelnootjes Cocktail",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335313831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477618",
+    "name": "Duyvis Borrelnootjes oriental",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935333131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578192",
+    "name": "AH Borrelnoten provencale",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477621",
+    "name": "Duyvis Borrelnootjes provencale",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837393133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582894",
+    "name": "Duyvis Borrelnootjes provencale",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035353435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441402",
+    "name": "Duyvis Borrelnootjes Provencale",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036333737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560695",
+    "name": "Duyvis Borrelnootjes Provencale 20-pack",
+    "price": 19.8,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393635353532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576348",
+    "name": "Duyvis Tijgernootjes flamin hot",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536343737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467580",
+    "name": "AH Borrelmix mild",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353838323439?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578193",
+    "name": "AH Borrelnoten oriental",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582818",
+    "name": "AH Borrelnoten paprika smaak",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582640",
+    "name": "AH Borrelnoten smoked BBQ smaak",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477622",
+    "name": "Duyvis Tijgernootjes paprika fiesta",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636333532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559231",
+    "name": "AH Zeewier bollen mild",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477620",
+    "name": "Duyvis Borrelnootjes Poesta",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836363239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477623",
+    "name": "Duyvis Tijgernootjes bacon cheese",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836393333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582895",
+    "name": "Duyvis Tijgernootjes bacon cheese",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477624",
+    "name": "Duyvis Tijgernootjes BBQ Paprika",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836393332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559255",
+    "name": "AH Borrelnoten Shanghai",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578188",
+    "name": "AH Borrelnoten Shanghai",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578190",
+    "name": "AH Borrelnoten Shanghai",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518777",
+    "name": "BitesWeLove Crunchy corn sweet chilli",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730313238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477616",
+    "name": "BitesWeLove Crunchy peas smoked paprika",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131333832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Borrelnoten"
+    ],
+    "isFood": true
+  }
+]

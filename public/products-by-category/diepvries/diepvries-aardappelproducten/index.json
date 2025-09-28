@@ -1,0 +1,72 @@
+{
+  "categoryPath": "Diepvries > Diepvries aardappelproducten",
+  "breadcrumbs": "Diepvries > Diepvries aardappelproducten",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "friet",
+      "displayName": "Friet",
+      "productCount": 30,
+      "filePath": "friet.jsonl",
+      "indexPath": "friet-index.json",
+      "statsPath": "friet-stats.json",
+      "averageProtein": 2.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "aardappelpartjes-diepvries",
+      "displayName": "Aardappelpartjes Diepvries",
+      "productCount": 6,
+      "filePath": "aardappelpartjes-diepvries.jsonl",
+      "indexPath": "aardappelpartjes-diepvries-index.json",
+      "statsPath": "aardappelpartjes-diepvries-stats.json",
+      "averageProtein": 2.4,
+      "halalCompliance": 83
+    },
+    {
+      "name": "aardappelkroketten-diepvries",
+      "displayName": "Aardappelkroketten Diepvries",
+      "productCount": 5,
+      "filePath": "aardappelkroketten-diepvries.jsonl",
+      "indexPath": "aardappelkroketten-diepvries-index.json",
+      "statsPath": "aardappelkroketten-diepvries-stats.json",
+      "averageProtein": 2.4,
+      "halalCompliance": 60
+    },
+    {
+      "name": "rosti",
+      "displayName": "Rosti",
+      "productCount": 5,
+      "filePath": "rosti.jsonl",
+      "indexPath": "rosti-index.json",
+      "statsPath": "rosti-stats.json",
+      "averageProtein": 2.3,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 46,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 46,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "../index.json"
+      },
+      {
+        "name": "Diepvries Aardappelproducten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "diepvries"
+  }
+}

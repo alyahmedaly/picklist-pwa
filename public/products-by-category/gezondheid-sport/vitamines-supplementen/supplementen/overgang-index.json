@@ -1,0 +1,93 @@
+[
+  {
+    "id": "461670",
+    "name": "A.Vogel Famosan overgang gewichtsbeheersing",
+    "price": 21.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373536343538?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Overgang"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "125787",
+    "name": "A.Vogel Famosan overgang salvia sterk **",
+    "price": 22.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138313838?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Overgang"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "208333",
+    "name": "Davitamon Compleet vrouw overgang",
+    "price": 22.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Overgang"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459235",
+    "name": "Lucovitaal Overgang balans tabletten",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373733343838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Overgang"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565998",
+    "name": "Vitakruid Femme tabletten",
+    "price": 31.4,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530373739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Overgang"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480456",
+    "name": "Ymea Overgang 8-in-1",
+    "price": 29.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332373833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Overgang"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "141827",
+    "name": "Ymea Silhouet overgang",
+    "price": 25.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332383731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Overgang"
+    ],
+    "isFood": true
+  }
+]

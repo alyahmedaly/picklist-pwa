@@ -1,0 +1,250 @@
+{
+    "id": "576731",
+    "name": "Body & Fit Clear whey cherry",
+    "price": {
+        "regular": 19.99,
+        "currency": "EUR"
+    },
+    "ingredients": [
+        "Ingrediënten: wei-eiwitisolaat (MELK)",
+        "zuurteregelaars (appelzuur, citroenzuur)",
+        "aroma",
+        "resistente dextrine",
+        "koolzaadolie",
+        "kleurstof (bietenrood)",
+        "zoetstof (sucralose)",
+        "antischuimmiddel (siliciumdioxide)"
+    ],
+    "allergens": {
+        "contains": [
+            "milk"
+        ],
+        "mayContain": []
+    },
+    "categories": [
+        "Gezondheid, sport",
+        "Sportvoeding",
+        "Eiwitpoeder"
+    ],
+    "unit": {
+        "raw": "270 g",
+        "amount": 270,
+        "amountUnit": "g"
+    },
+    "nutrition": {
+        "unit": "per 100g",
+        "kcal": 338,
+        "kJ": 1435,
+        "fat": 0.4,
+        "satFat": 0.1,
+        "carbs": 5.5,
+        "sugars": 0.5,
+        "fiber": 1.9,
+        "protein": 73,
+        "salt": 0.05
+    },
+    "images": {
+        "low": "https://static.ah.nl/dam/product/AHI_4354523130303831323337?revLabel=1&rendition=200x200_JPG_Q85&fileType=binary",
+        "med": "https://static.ah.nl/dam/product/AHI_4354523130303831323337?revLabel=1&rendition=400x400_JPG_Q85&fileType=binary",
+        "high": "https://static.ah.nl/dam/product/AHI_4354523130303831323337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+        "primary": "https://static.ah.nl/dam/product/AHI_4354523130303831323337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary"
+    },
+    "flags": {
+        "isFood": true,
+        "isPetFood": false,
+        "addedSugarFlag": false,
+        "addedSaltFlag": false,
+        "artificialSweetenersFlag": true
+    },
+    "categoryTree": {
+        "tree": [
+            "Gezondheid, sport",
+            "Sportvoeding",
+            "Eiwitpoeder"
+        ],
+        "primary": "Gezondheid, sport",
+        "breadcrumbs": "Gezondheid, sport > Sportvoeding > Eiwitpoeder",
+        "depth": 3
+    },
+    "ingredientInfo": {
+        "core": [
+            "Ingrediënten: wei-eiwitisolaat (MELK)",
+            "zuurteregelaars (appelzuur, citroenzuur)",
+            "aroma",
+            "resistente dextrine",
+            "koolzaadolie",
+            "kleurstof (bietenrood)",
+            "zoetstof (sucralose)",
+            "antischuimmiddel (siliciumdioxide)"
+        ],
+        "additives": [],
+        "statements": [],
+        "total": 8
+    },
+    "added": {},
+    "duplicate_conflicts": [],
+    "nutritionalTags": {
+        "netCarbs": 3.6,
+        "lowCarb": true,
+        "netCarbsBucket": "low",
+        "highProtein": true,
+        "proteinDensity": "high",
+        "highFiber": false,
+        "vegan": false,
+        "vegetarian": true,
+        "lactoseFree": false,
+        "glutenFree": true,
+        "plantBased": true
+    },
+    "additiveInfo": {
+        "eNumbers": [
+            "E296",
+            "E330",
+            "E162",
+            "E955",
+            "E551"
+        ],
+        "dutchCategories": [
+            "kleurstof",
+            "zoetstof",
+            "zuurteregelaar"
+        ],
+        "functionalCategories": [
+            "Antiklontermiddel",
+            "Kleurstof",
+            "Voedingszuur",
+            "Zoetstof"
+        ],
+        "totalAdditives": 5,
+        "naturalAdditives": [
+            "E162",
+            "E296",
+            "E330"
+        ],
+        "syntheticAdditives": [
+            "E551",
+            "E955"
+        ],
+        "preservatives": [],
+        "colors": [
+            "E162"
+        ],
+        "antioxidants": [],
+        "stabilizers": [],
+        "sweeteners": [
+            "E955"
+        ],
+        "flavorEnhancers": []
+    },
+    "additiveFlags": {
+        "requiresChildWarning": false,
+        "containsAllergenicAdditives": false,
+        "requiresPKUWarning": false,
+        "mayWorsenAsthmaEczema": false,
+        "hasAnimalDerivedAdditives": false,
+        "organicCompatible": false,
+        "hasPreservatives": false,
+        "hasArtificialColors": false,
+        "hasArtificialSweeteners": true,
+        "hasFlavorEnhancers": false,
+        "hasNaturalAlternatives": true,
+        "allNaturalAdditives": false
+    },
+    "additivesSummary": {
+        "eNumbers": [
+            "E296",
+            "E330",
+            "E162",
+            "E955",
+            "E551"
+        ],
+        "summary": "Contains 5 additives: acidity regulator, coloring, sweetener",
+        "warnings": [],
+        "dietary": [
+            "Not suitable for organic"
+        ],
+        "categories": [
+            "zuurteregelaar",
+            "kleurstof",
+            "zoetstof"
+        ]
+    },
+    "warnings": [
+        "Contains allergens: milk"
+    ],
+    "nutriScore": 2,
+    "halalCheck": {
+        "status": "halal",
+        "flags": {
+            "hasAnimalGelatine": false,
+            "hasAlcohol": false,
+            "hasPork": false,
+            "hasNonHalalMeat": false,
+            "hasDoubtfulAdditives": false
+        },
+        "details": {
+            "problematicIngredients": [],
+            "eNumberConcerns": []
+        },
+        "confidence": "high"
+    },
+    "proteinOptimization": {
+        "proteinDensityScore": 81.6,
+        "proteinContribution": 73,
+        "targetContribution": 42.9
+    },
+    "satietyAnalysis": {
+        "satietyScore": 52.5,
+        "satietyFactors": {
+            "proteinFactor": 100,
+            "fiberFactor": 21.5,
+            "volumeFactor": 50,
+            "processingPenalty": 63
+        },
+        "expectedSatietyDuration": 215,
+        "caloriePerSatietyRatio": 6.4
+    },
+    "postWorkoutOptimization": {
+        "postWorkoutScore": 77.01,
+        "carbProteinRatio": 0.08,
+        "glycemicBoost": 1,
+        "recoveryWindow": "delayed",
+        "confidence": "high"
+    },
+    "fatLossCompatibility": {
+        "fatLossScore": 52.88,
+        "calorieDensity": 338,
+        "calorieDensityClass": "high",
+        "satietyEfficiency": 15.53,
+        "volumeAdvantage": false,
+        "confidence": "high"
+    },
+    "enhancedCalorieEfficiency": {
+        "efficiencyScore": 80.04,
+        "proteinEfficiency": 81.6,
+        "satietyEfficiency": 100,
+        "micronutrientDensity": 45,
+        "thermicEffect": 20,
+        "processingPenalty": 16,
+        "confidence": "high",
+        "macroBalance": 48.31
+    },
+    "bodyCompositionContext": {
+        "bodyCompositionPhase": "recomposition",
+        "mealTiming": "general",
+        "contextMultipliers": {
+            "proteinScoreMultiplier": 1.2,
+            "satietyScoreMultiplier": 1,
+            "postWorkoutMultiplier": 1,
+            "fatLossMultiplier": 1.1,
+            "efficiencyMultiplier": 1.2
+        },
+        "recommendationPriority": "protein",
+        "conflictResolution": "context_specific",
+        "context": "rest_day"
+    },
+    "globalHealthScore": 73.8,
+    "globalHealthGrade": "B",
+    "categoryHealthScore": 69.9,
+    "categoryHealthGrade": "B"
+}

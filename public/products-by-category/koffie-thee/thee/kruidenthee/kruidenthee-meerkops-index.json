@@ -1,0 +1,522 @@
+[
+  {
+    "id": "508333",
+    "name": "AH Biologisch Kruiden gember kurkuma",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508341",
+    "name": "AH Biologisch Hennep kamille",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508338",
+    "name": "AH Biologisch Hennep passievruchtsmaak",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508329",
+    "name": "AH Biologisch Kruiden kamille",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458295",
+    "name": "AH Biologisch Kruiden lavendel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508317",
+    "name": "AH Biologisch Kruiden munt",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508330",
+    "name": "AH Biologisch Kruiden munt zoethout",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508328",
+    "name": "AH Biologisch Kruiden salie",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508331",
+    "name": "AH Biologisch Kruiden venkel & kamille",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508324",
+    "name": "AH Biologisch Kruiden zoethout",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508343",
+    "name": "AH Biologisch Moment avond melange",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508344",
+    "name": "AH Biologisch Moment ochtend melange",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508347",
+    "name": "AH Biologisch Moment rust melange",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634333937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508339",
+    "name": "AH Biologisch Yerba mate brandnetel rozemarijn",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508346",
+    "name": "AH Biologisch Yerba mate gember limoen",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550313",
+    "name": "Pickwick Herbal day-to-night variation box",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132393935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523267",
+    "name": "Pickwick Herbal ginger goodness blueberry",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733333439?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567356",
+    "name": "Pukka Chamomile vanilla manuka honey",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534333935?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462207",
+    "name": "Pukka Feel new",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393539323136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467615",
+    "name": "Pukka Lemon ginger manuka honey",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383737353231?revLabel=26&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582641",
+    "name": "Pukka Morning berry",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467613",
+    "name": "Pukka Night time",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834353437?revLabel=30&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495614",
+    "name": "Pukka Night time berry",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383737353436?revLabel=24&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582644",
+    "name": "Pukka Peppermint & licorice",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435313434?revLabel=33&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467612",
+    "name": "Pukka Three ginger",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393539343531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582643",
+    "name": "Pukka Tumeric active",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393539323034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582642",
+    "name": "Pukka Vanilla chai",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393539373433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199732",
+    "name": "Zonnatura 100% brandnetel citroengras infusie",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363838383138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469382",
+    "name": "Zonnatura 100% kamille kruideninfusie",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373034363337?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437488",
+    "name": "Zonnatura 100% kurkuma gember kruideninfusie",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353439313532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469461",
+    "name": "Zonnatura 100% munt kruideninfusie",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363838383231?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196090",
+    "name": "Zonnatura 100% zoethout kruideninfusie",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138313530?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469453",
+    "name": "Zonnatura Chaimix kurkuma kruideninfusie",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363938383332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365852",
+    "name": "Zonnatura Detox citroengras kruideninfusie",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353439303639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187197",
+    "name": "Zonnatura Ideaal gewicht kruideninfusie",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137323037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187198",
+    "name": "Zonnatura Natuurlijke stoelgang kruideninfusie",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373335363033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199800",
+    "name": "Zonnatura Ontspanning kruideninfusie",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373335353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225667",
+    "name": "Zonnatura Oplosthee 20 kruiden",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138333635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196089",
+    "name": "Zonnatura Sterrenmix smaakmelange",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635353132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199731",
+    "name": "Zonnatura Theïnevrij zwarte thee",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136373938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Kruidenthee",
+      "Kruidenthee meerkops"
+    ],
+    "isFood": true
+  }
+]

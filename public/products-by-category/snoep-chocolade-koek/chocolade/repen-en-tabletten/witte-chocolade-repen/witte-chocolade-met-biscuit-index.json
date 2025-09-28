@@ -1,0 +1,100 @@
+[
+  {
+    "id": "502000",
+    "name": "Milka Chocoladereep Oreo wit",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137333330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556478",
+    "name": "Lotus Biscoff Speculoos witte chocolade crème",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034313330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523481",
+    "name": "Lotus Biscoff Speculoos witte chocolade stukjes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036353838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507975",
+    "name": "Delicata Reep witte chocolade framboos cheesecake",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033313435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228236",
+    "name": "Nestlé Crunch witte chocolade reep",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133363734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549953",
+    "name": "Verkade Crisp",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235363832?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade met biscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "35406",
+    "name": "Delicata Reep crispy witte chocolade",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393039393236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade met biscuit"
+    ],
+    "isFood": true
+  }
+]

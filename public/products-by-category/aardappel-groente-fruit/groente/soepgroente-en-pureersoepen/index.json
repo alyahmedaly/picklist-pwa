@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Soepgroente en pureersoepen",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Soepgroente en pureersoepen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "pureersoepen",
+      "displayName": "Pureersoepen",
+      "productCount": 6,
+      "filePath": "pureersoepen.jsonl",
+      "indexPath": "pureersoepen-index.json",
+      "statsPath": "pureersoepen-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../index.json"
+      },
+      {
+        "name": "Soepgroente En Pureersoepen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/groente"
+  }
+}

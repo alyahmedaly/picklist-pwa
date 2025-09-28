@@ -1,0 +1,145 @@
+[
+  {
+    "id": "570917",
+    "name": "AH Terra Plantaardig alternatief yoghurt Grieks",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518443",
+    "name": "Alpro Mild & creamy naturel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837313033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518423",
+    "name": "Alpro Mild & creamy zonder suikers",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837313035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "145350",
+    "name": "Alpro Plantaardige variatie op yoghurt nature",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836393635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556307",
+    "name": "Alpro Plantaardige variatie yoghurt no sugars",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837303033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570910",
+    "name": "Oatly! Oatgurt naturel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033353233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570908",
+    "name": "AH Terra Plantaardig alternatief voor yoghurt",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474614",
+    "name": "AH Terra Plantaardige soja kwark ongezoet",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335363433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575540",
+    "name": "Arla Jörd naturel Nordic oats",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378706",
+    "name": "AH Terra Plantaardige soja gurt ongezoet",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "510243",
+    "name": "AH Terra Plantaardige soja gurt ongezoet",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt naturel"
+    ],
+    "isFood": true
+  }
+]

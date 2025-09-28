@@ -1,0 +1,67 @@
+[
+  {
+    "id": "163802",
+    "name": "Unox Stevige champignonsoep",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839353138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Conserven",
+      "Soepen in blik",
+      "Champignonsoep in blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163860",
+    "name": "Unox Stevige champignonsoep",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839353230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Conserven",
+      "Soepen in blik",
+      "Champignonsoep in blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "37065",
+    "name": "AH Champignonsoep",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433393339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Conserven",
+      "Soepen in blik",
+      "Champignonsoep in blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124141",
+    "name": "AH Champignonsoep",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531313134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Conserven",
+      "Soepen in blik",
+      "Champignonsoep in blik"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167248",
+    "name": "Unox Champignonsoep",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935393232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Conserven",
+      "Soepen in blik",
+      "Champignonsoep in blik"
+    ],
+    "isFood": true
+  }
+]

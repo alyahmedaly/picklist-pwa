@@ -1,0 +1,218 @@
+[
+  {
+    "id": "474611",
+    "name": "AH Terra Plantaardige topping",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221000",
+    "name": "Campina Slagroom royaal",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933313237?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1498",
+    "name": "AH Slagroom",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475115",
+    "name": "AH Slagroom spuitbus",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2455",
+    "name": "Campina Echte slagroom",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373330393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475116",
+    "name": "AH Geslagen room light",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030393837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46744",
+    "name": "AH Opgeklopte slagroom",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931333735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1505",
+    "name": "AH Slagroom",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509633",
+    "name": "AH Slagroom",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509634",
+    "name": "AH Slagroom",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "34471",
+    "name": "AH Slagroom houdbaar",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195844",
+    "name": "De Zaanse Hoeve Slagroom",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191621",
+    "name": "AH Biologisch Verse slagroom",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577727",
+    "name": "AH Biologisch Verse slagroom 3-pack",
+    "price": 4.02,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568380",
+    "name": "AH Slagroom 2-pack",
+    "price": 4.73,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520481",
+    "name": "AH Slagroom houdbaar 4-pack",
+    "price": 3.76,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580326",
+    "name": "Campina slagroom spuitbus 2-pack",
+    "price": 3.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225502",
+    "name": "Devon Cream Company English clotted cream",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373032303337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Slagroom"
+    ],
+    "isFood": true
+  }
+]

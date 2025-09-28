@@ -1,0 +1,145 @@
+[
+  {
+    "id": "553348",
+    "name": "Kewpie Mayonnaise",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530313933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Japanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449949",
+    "name": "Saitaku Japanese mayo squeeze",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Japanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449948",
+    "name": "Saitaku Spicy mayo squeeze",
+    "price": 4.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632343439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Japanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577700",
+    "name": "Yuki&Love Japanse mochi mangosmaak",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936353837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Japanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553419",
+    "name": "AH Miso pasta",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338343538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Japanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553417",
+    "name": "AH Panko broodkruim",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338343433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Japanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577239",
+    "name": "Red Phoenix On top of noodles flakes of nori",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Japanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577251",
+    "name": "Red Phoenix On top of noodles furikake",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Japanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577257",
+    "name": "Red Phoenix On top of noodles garlic sesame seeds",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Japanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577252",
+    "name": "Red Phoenix On top of noodles togarashi",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Japanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577256",
+    "name": "Red Phoenix On top of noodles wasabi sesame seeds",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Japanse mix"
+    ],
+    "isFood": true
+  }
+]

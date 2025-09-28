@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Diepvries groente > Broccoli (diepvries)",
+  "breadcrumbs": "Aardappel, groente, fruit > Diepvries groente > Broccoli (diepvries)",
+  "totalProducts": 6,
+  "halalCompliance": 100,
+  "averageProtein": 2.5,
+  "averagePrice": 2.35,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 6,
+    "withIngredients": 6,
+    "withHalalCheck": 6
+  }
+}

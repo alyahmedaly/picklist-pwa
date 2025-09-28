@@ -1,0 +1,80 @@
+[
+  {
+    "id": "132394",
+    "name": "AH Extra jam bosvruchten",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636343239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Bosvruchtenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513469",
+    "name": "AH Fruitspread viervruchten",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835373433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Bosvruchtenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532218",
+    "name": "Hero Jam minder zoet bosvruchten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033353134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Bosvruchtenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413587",
+    "name": "AH Biologisch Bosvruchten fruitspread",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Bosvruchtenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563952",
+    "name": "Natù Bosvruchtenspread",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038373436?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Bosvruchtenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365787",
+    "name": "Zonnatura Fruitspread woudvruchten",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353439303937?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Bosvruchtenjam"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "227849",
+    "name": "Smaakt Polenta",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136333634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Glutenvrije bakproducten",
+      "Maismeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203859",
+    "name": "Valle del sole Maisbloem",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363236303134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Glutenvrije bakproducten",
+      "Maismeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203867",
+    "name": "Pan Voorgekookt wit maismeel",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373935363835?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Glutenvrije bakproducten",
+      "Maismeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225016",
+    "name": "Smaakt Maismeel biologisch",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032333439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Glutenvrije bakproducten",
+      "Maismeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203858",
+    "name": "Valle del sole Maisgriesmeel voor polenta bramata",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363330363239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Glutenvrije bakproducten",
+      "Maismeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234492",
+    "name": "Naturelmente Polenta gialla",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373431343134?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Glutenvrije bakproducten",
+      "Maismeel"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "485580",
+    "name": "Indo mie Instant noodles shrimp flavour 5-pack",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363739303937?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Noedels, mie",
+      "Mie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577699",
+    "name": "AH Eiermie",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Noedels, mie",
+      "Mie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "36766",
+    "name": "Soubry Chinese eiermie",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303137383330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Noedels, mie",
+      "Mie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "36767",
+    "name": "Soubry Chinese mie",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303136393932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Noedels, mie",
+      "Mie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "277023",
+    "name": "Amoy Straight to wok thread fine noodles",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939343233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Noedels, mie",
+      "Mie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577697",
+    "name": "AH Biologisch Mienestjes volkoren",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Noedels, mie",
+      "Mie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "944",
+    "name": "AH Mienestjes",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Noedels, mie",
+      "Mie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384143",
+    "name": "Honig Mienestjes fijn",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037313538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Noedels, mie",
+      "Mie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384852",
+    "name": "Honig Mienestjes origineel",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037313838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Noedels, mie",
+      "Mie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384228",
+    "name": "Honig Snelle roerbakmie",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037333131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Noedels, mie",
+      "Mie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450858",
+    "name": "Soubry alfabet bel",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303433373335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Noedels, mie",
+      "Mie"
+    ],
+    "isFood": true
+  }
+]

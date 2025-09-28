@@ -1,0 +1,98 @@
+[
+  {
+    "id": "396204",
+    "name": "Baglio di grisi Nero d'avola",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534383731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Overige rode wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160460",
+    "name": "Fontanafredda Barolo",
+    "price": 25.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303039303232?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Overige rode wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "219946",
+    "name": "Fontanafredda Nebbiolo langhe",
+    "price": 11.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739333039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Overige rode wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459652",
+    "name": "Mucho Mas Bag in Box",
+    "price": 21.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373234353238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Overige rode wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163547",
+    "name": "Settesoli Nero d'avola",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739393439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Overige rode wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440720",
+    "name": "Stellenb Vineyards Pinotage",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373936323830?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Overige rode wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497797",
+    "name": "Stormhoek Pinotage malbec",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383336343734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Overige rode wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485940",
+    "name": "Valle Ilaria Barolo",
+    "price": 16.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Overige rode wijn"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Komkommer, tomaat, avocado > Tomaten",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Komkommer, tomaat, avocado > Tomaten",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "tomaten-vers",
+      "displayName": "Tomaten Vers",
+      "productCount": 15,
+      "filePath": "tomaten-vers.jsonl",
+      "indexPath": "tomaten-vers-index.json",
+      "statsPath": "tomaten-vers-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 15,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Komkommer Tomaat Avocado",
+        "path": "../index.json"
+      },
+      {
+        "name": "Tomaten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/komkommer-tomaat-avocado"
+  }
+}

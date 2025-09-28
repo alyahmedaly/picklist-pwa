@@ -1,0 +1,80 @@
+[
+  {
+    "id": "233280",
+    "name": "Pringles Cheese & onion",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837343432?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Cheese & onion chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448477",
+    "name": "AH Mini frites sour cream",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431393036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Cheese & onion chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516961",
+    "name": "Lay's Max cheddar & onion",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383437353736?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Cheese & onion chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448462",
+    "name": "AH Chips cheese onion",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303436383635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Cheese & onion chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526379",
+    "name": "Lay's Cheese onion",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Cheese & onion chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574350",
+    "name": "Lay's Cheese onion",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932343632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Cheese & onion chips"
+    ],
+    "isFood": true
+  }
+]

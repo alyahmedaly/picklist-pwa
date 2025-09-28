@@ -1,0 +1,170 @@
+[
+  {
+    "id": "197950",
+    "name": "AH Geitenkaas oud 50+ stuk",
+    "price": 8.24,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363336383538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor beleg",
+      "Stukken kaas",
+      "Geitenkaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197853",
+    "name": "AH Geitenkaas belegen 50+ stuk",
+    "price": 7.24,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363336383936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor beleg",
+      "Stukken kaas",
+      "Geitenkaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367687",
+    "name": "AH Biologisch Geitenkaas jong belegen 50+ stuk",
+    "price": 8.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132313334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor beleg",
+      "Stukken kaas",
+      "Geitenkaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396970",
+    "name": "AH Geitenkaas honing 40+",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363035303630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor beleg",
+      "Stukken kaas",
+      "Geitenkaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104354",
+    "name": "AH Geitenkaas jong belegen 50+ stuk",
+    "price": 7.54,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363336383935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor beleg",
+      "Stukken kaas",
+      "Geitenkaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539845",
+    "name": "AH Geitenkaas jong belegen 50+ stuk klein",
+    "price": 5.2,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236333235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor beleg",
+      "Stukken kaas",
+      "Geitenkaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228223",
+    "name": "AH Geitenkaas jong belegen 30+ stuk",
+    "price": 7.54,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363339333339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor beleg",
+      "Stukken kaas",
+      "Geitenkaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396969",
+    "name": "AH Geitenkaas naturel 50+",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363035303539?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor beleg",
+      "Stukken kaas",
+      "Geitenkaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "385086",
+    "name": "AH Biologisch Geitenkaas naturel 48+",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363332323733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor beleg",
+      "Stukken kaas",
+      "Geitenkaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478023",
+    "name": "AH Geitenkaas 50+ gerijpt",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373337353433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor beleg",
+      "Stukken kaas",
+      "Geitenkaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460744",
+    "name": "AH Geitenkaas blanc",
+    "price": 1.5,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434313930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor beleg",
+      "Stukken kaas",
+      "Geitenkaas (stuk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121115",
+    "name": "Chavroux Pure geitenkaas",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136393334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor beleg",
+      "Stukken kaas",
+      "Geitenkaas (stuk)"
+    ],
+    "isFood": true
+  }
+]

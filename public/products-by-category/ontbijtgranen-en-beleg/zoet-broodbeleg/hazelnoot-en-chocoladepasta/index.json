@@ -1,0 +1,76 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Zoet broodbeleg > Hazelnoot- en chocoladepasta",
+  "breadcrumbs": "Ontbijtgranen en beleg > Zoet broodbeleg > Hazelnoot- en chocoladepasta",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "hazelnootpasta",
+      "displayName": "Hazelnootpasta",
+      "productCount": 29,
+      "filePath": "hazelnootpasta.jsonl",
+      "indexPath": "hazelnootpasta-index.json",
+      "statsPath": "hazelnootpasta-stats.json",
+      "averageProtein": 4.9,
+      "halalCompliance": 3
+    },
+    {
+      "name": "chocoladepasta",
+      "displayName": "Chocoladepasta",
+      "productCount": 8,
+      "filePath": "chocoladepasta.jsonl",
+      "indexPath": "chocoladepasta-index.json",
+      "statsPath": "chocoladepasta-stats.json",
+      "averageProtein": 3.4,
+      "halalCompliance": 25
+    },
+    {
+      "name": "overige-broodpasta",
+      "displayName": "Overige Broodpasta",
+      "productCount": 6,
+      "filePath": "overige-broodpasta.jsonl",
+      "indexPath": "overige-broodpasta-index.json",
+      "statsPath": "overige-broodpasta-stats.json",
+      "averageProtein": 2.6,
+      "halalCompliance": 33
+    },
+    {
+      "name": "speculoospasta",
+      "displayName": "Speculoospasta",
+      "productCount": 6,
+      "filePath": "speculoospasta.jsonl",
+      "indexPath": "speculoospasta-index.json",
+      "statsPath": "speculoospasta-stats.json",
+      "averageProtein": 3.2,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 49,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 49,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Zoet Broodbeleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Hazelnoot En Chocoladepasta",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/zoet-broodbeleg"
+  }
+}

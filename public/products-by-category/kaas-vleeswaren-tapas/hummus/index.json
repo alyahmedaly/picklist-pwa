@@ -1,0 +1,52 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Hummus",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Hummus",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "hummus-met-smaakje",
+      "displayName": "Hummus Met Smaakje",
+      "productCount": 27,
+      "filePath": "hummus-met-smaakje.jsonl",
+      "indexPath": "hummus-met-smaakje-index.json",
+      "statsPath": "hummus-met-smaakje-stats.json",
+      "averageProtein": 5.8,
+      "halalCompliance": 93
+    },
+    {
+      "name": "hummus-naturel",
+      "displayName": "Hummus Naturel",
+      "productCount": 8,
+      "filePath": "hummus-naturel.jsonl",
+      "indexPath": "hummus-naturel-index.json",
+      "statsPath": "hummus-naturel-stats.json",
+      "averageProtein": 6.7,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 35,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 35,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../index.json"
+      },
+      {
+        "name": "Hummus",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "kaas-vleeswaren-tapas"
+  }
+}

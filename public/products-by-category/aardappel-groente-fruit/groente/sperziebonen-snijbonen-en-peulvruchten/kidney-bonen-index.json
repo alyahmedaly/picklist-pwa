@@ -1,0 +1,275 @@
+[
+  {
+    "id": "569507",
+    "name": "Bonduelle Mung bonen",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130313738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569545",
+    "name": "Boon Kidneybonen in chilisaus",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238343835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569506",
+    "name": "Bonduelle Adzuki bonen",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538303430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "190839",
+    "name": "Bonduelle Rode kidneybonen",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437343133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569510",
+    "name": "Hak Kidneybonen",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036343034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569511",
+    "name": "Hak Kidneybonen",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036343035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389177",
+    "name": "Hak Kidneybonen chilischotel",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130343836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469878",
+    "name": "AH Biologisch Kidneybonen",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363334303338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198420",
+    "name": "Valle del sole Rode kidney bonen",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363235393730?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168814",
+    "name": "AH Biologisch Kidneybonen",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471761",
+    "name": "AH Kidneybonen groen",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833393538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509384",
+    "name": "AH Rode en zwarte bonen 2 kleintjes",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936383432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374218",
+    "name": "Hak Kidneybonen",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435898",
+    "name": "Hak Kidneybonen",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393637393930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "30428",
+    "name": "AH Kidneybonen",
+    "price": 0.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "182914",
+    "name": "AH Kidneybonen",
+    "price": 0.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556392",
+    "name": "AH Kidneybonen 2 kleintjes",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195555",
+    "name": "Bonduelle Rode kidneybonen",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436363638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389182",
+    "name": "Bonduelle Rode kidneybonen 2 mini's",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431343036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374221",
+    "name": "Bonduelle Rode kidneybonen bio",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303432373033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571003",
+    "name": "Hak Wraps met kidneybonen maaltijdpakket",
+    "price": 5.32,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034333638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Kidney bonen"
+    ],
+    "isFood": true
+  }
+]

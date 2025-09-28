@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1479",
+    "name": "AH Zwarte thee earl grey thee meerkops",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1477",
+    "name": "AH Zwarte thee Engelse melange meerkops",
+    "price": 0.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1478",
+    "name": "AH Zwarte thee Engelse melange meerkops",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2379",
+    "name": "Pickwick Original Ceylon meerkops",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323437?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1639",
+    "name": "Pickwick Original earl grey meerkops",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323138?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3712",
+    "name": "Pickwick Original English meerkops",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430323834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee meerkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46038",
+    "name": "Pickwick Original English meerkops",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313839?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee meerkops"
+    ],
+    "isFood": true
+  }
+]

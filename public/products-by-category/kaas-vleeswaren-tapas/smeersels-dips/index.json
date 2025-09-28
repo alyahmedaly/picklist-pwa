@@ -1,0 +1,67 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "pesto",
+      "displayName": "Pesto",
+      "productCount": 38,
+      "hasSubdirectories": false,
+      "indexPath": "pesto/index.json"
+    },
+    {
+      "name": "dip",
+      "displayName": "Dip",
+      "productCount": 14,
+      "hasSubdirectories": false,
+      "indexPath": "dip/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "aioli-boter",
+      "displayName": "Aioli Boter",
+      "productCount": 12,
+      "filePath": "aioli-boter.jsonl",
+      "indexPath": "aioli-boter-index.json",
+      "statsPath": "aioli-boter-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "tapenade-bruschetta",
+      "displayName": "Tapenade Bruschetta",
+      "productCount": 12,
+      "filePath": "tapenade-bruschetta.jsonl",
+      "indexPath": "tapenade-bruschetta-index.json",
+      "statsPath": "tapenade-bruschetta-stats.json",
+      "averageProtein": 3.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 76,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 76,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../index.json"
+      },
+      {
+        "name": "Smeersels Dips",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "kaas-vleeswaren-tapas"
+  }
+}

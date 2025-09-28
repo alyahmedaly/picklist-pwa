@@ -1,0 +1,67 @@
+[
+  {
+    "id": "58339",
+    "name": "AH Pijnboompitten",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731383337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pitten, zaden en notengarnering",
+      "Pijnboompitten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166614",
+    "name": "AH Pijnboompitten",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pitten, zaden en notengarnering",
+      "Pijnboompitten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470173",
+    "name": "AH Biologisch Pijnboompitten",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363334303135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pitten, zaden en notengarnering",
+      "Pijnboompitten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415609",
+    "name": "AH Pijnboompitten",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pitten, zaden en notengarnering",
+      "Pijnboompitten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183248",
+    "name": "AH Geroosterde pijnboompitten",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033333838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pitten, zaden en notengarnering",
+      "Pijnboompitten"
+    ],
+    "isFood": true
+  }
+]

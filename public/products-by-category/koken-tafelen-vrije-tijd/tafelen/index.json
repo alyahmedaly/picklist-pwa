@@ -1,0 +1,46 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "serviesgoed-bestek",
+      "displayName": "Serviesgoed Bestek",
+      "productCount": 25,
+      "hasSubdirectories": true,
+      "indexPath": "serviesgoed-bestek/index.json"
+    },
+    {
+      "name": "servetten",
+      "displayName": "Servetten",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "servetten/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 30,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 30,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koken Tafelen Vrije Tijd",
+        "path": "../index.json"
+      },
+      {
+        "name": "Tafelen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "koken-tafelen-vrije-tijd"
+  }
+}

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "369320",
+    "name": "Mogu Mogu Lychee",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236363539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Exotische sappen & dranken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502054",
+    "name": "Mogu Mogu Lychee",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393730353338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Exotische sappen & dranken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502055",
+    "name": "Mogu Mogu Zwarte bes",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393730353430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Exotische sappen & dranken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548180",
+    "name": "Maaza Guava fruit drink",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935383933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Exotische sappen & dranken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "151356",
+    "name": "Maaza Guave fruit drink",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Exotische sappen & dranken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502057",
+    "name": "Mogu Mogu Kokosnoot",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393730353431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Exotische sappen & dranken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502058",
+    "name": "Mogu Mogu Watermeloen",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373730373133?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Exotische sappen & dranken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502053",
+    "name": "Mogu Mogu Aardbei",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393730353337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Exotische sappen & dranken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502056",
+    "name": "Mogu Mogu Mango",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393730353339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Exotische sappen & dranken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "521820",
+    "name": "Maaza Passion fruit fruit drink",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Exotische sappen & dranken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558275",
+    "name": "Innocent Super smoothie exotic defense",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434303533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Exotische sappen & dranken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578153",
+    "name": "Mogu Mogu variatie pakket",
+    "price": 33.86,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Exotische sappen & dranken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578154",
+    "name": "Mogu Mogu Zwarte Bes 3-pack",
+    "price": 4.7,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933303230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Exotische sappen & dranken"
+    ],
+    "isFood": true
+  }
+]

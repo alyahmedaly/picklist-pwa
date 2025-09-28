@@ -1,0 +1,302 @@
+[
+  {
+    "id": "467796",
+    "name": "AH Musket flikken discodip",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373434323133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507759",
+    "name": "AH Chocolade blaadjes wit framboos",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507796",
+    "name": "AH Melkchocolade flikken musket",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537313835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555284",
+    "name": "Lindt Creation petits desserts chocolades",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582786",
+    "name": "Lindt Lindor gemengde chocolade bonbons",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234323731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507797",
+    "name": "AH Melkchocolade flikken gezouten karamel",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537323034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466426",
+    "name": "Lindt Lindor assorted chocolade bonbons",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467206",
+    "name": "Lindt Lindor melkchocolade bonbons",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234323735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582791",
+    "name": "Lindt Lindor melkchocolade bonbons",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234323734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583254",
+    "name": "Lindt Lindor pistache melkchocolade bonbons",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039393637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507808",
+    "name": "AH Chocolade figuurtjes",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383039363339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484233",
+    "name": "Ferrero Raffaello",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230393539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547045",
+    "name": "Lindt Lindor assorted chocolade bonbons",
+    "price": 29.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582785",
+    "name": "Lindt Lindor gemengde chocolade bonbons zilver",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234323732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515419",
+    "name": "Ferrero Raffaello",
+    "price": 6.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231303439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "50136",
+    "name": "Ferrero Rocher chocolade",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230393132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494145",
+    "name": "Ferrero Rocher chocolade",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520513",
+    "name": "Côte d'Or Melkchocolade mignonnettes",
+    "price": 27.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331343531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222678",
+    "name": "Côte d'Or Mignonnette chocolaatjes melk bel",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432383034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403835",
+    "name": "Côte d'Or Mignonnette double lait",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474072",
+    "name": "Lonka Sinassnippers",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135383239?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166847",
+    "name": "Nestlé After eight mint chocolate thins",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507795",
+    "name": "AH Melkchocolade flikken noot & rozijn",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383031383635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467183",
+    "name": "Lindt Lindor pure chocolade bonbons",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936333136?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222788",
+    "name": "Côte d'Or Mignonnette chocolaatjes noir de noir",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636383733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Luxe chocolade"
+    ],
+    "isFood": true
+  }
+]

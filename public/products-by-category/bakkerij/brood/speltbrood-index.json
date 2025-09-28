@@ -1,0 +1,170 @@
+[
+  {
+    "id": "229575",
+    "name": "Soma Speltkoren",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373836333535?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Speltbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230842",
+    "name": "AH Liefde & Passie Spelt",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393938363231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Speltbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "490856",
+    "name": "AH Liefde & Passie Spelt gesneden",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136383738?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Speltbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485719",
+    "name": "AH Liefde & Passie Spelt ongesneden",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136383735?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Speltbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230797",
+    "name": "AH Stevig spelt half",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038313534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Speltbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485704",
+    "name": "AH Stevig spelt half",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363932383535?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Speltbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230798",
+    "name": "AH Stevig spelt heel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031363737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Speltbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485705",
+    "name": "AH Stevig spelt heel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136383634?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Speltbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487305",
+    "name": "AH Liefde & Passie Spelt volkoren brood",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383237393233?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Speltbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "490859",
+    "name": "AH Liefde & Passie Spelt volkoren gesneden",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136383831?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Speltbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485713",
+    "name": "AH Liefde & Passie Spelt volkoren ongesneden",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131303634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Speltbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544584",
+    "name": "AH Liefde & Passie Spelt boekweit",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237373037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Speltbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "552839",
+    "name": "AH Liefde & Passie Spelt boekweit gesneden",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538393438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Speltbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544921",
+    "name": "AH Liefde & Passie Spelt boekweit ongesneden",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538393437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Speltbrood"
+    ],
+    "isFood": true
+  }
+]

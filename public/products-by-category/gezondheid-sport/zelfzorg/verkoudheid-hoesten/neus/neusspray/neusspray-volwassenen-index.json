@@ -1,0 +1,77 @@
+[
+  {
+    "id": "211953",
+    "name": "AH Neusspray xylometazoline",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383038333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Verkoudheid, hoesten",
+      "Neus",
+      "Neusspray",
+      "Neusspray volwassenen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575396",
+    "name": "AH Zeezout neusspray",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Verkoudheid, hoesten",
+      "Neus",
+      "Neusspray",
+      "Neusspray volwassenen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99242",
+    "name": "Daro Zoutoplossing",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373235353430?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Verkoudheid, hoesten",
+      "Neus",
+      "Neusspray",
+      "Neusspray volwassenen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "116490",
+    "name": "Etos Zeezout neusspray voor alle leeftijden",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373236323232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Verkoudheid, hoesten",
+      "Neus",
+      "Neusspray",
+      "Neusspray volwassenen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551194",
+    "name": "Lucovitaal Neus & bijholte spray",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337333139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Zelfzorg",
+      "Verkoudheid, hoesten",
+      "Neus",
+      "Neusspray",
+      "Neusspray volwassenen"
+    ],
+    "isFood": true
+  }
+]

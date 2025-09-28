@@ -1,0 +1,74 @@
+[
+  {
+    "id": "173816",
+    "name": "Aviko Gekruide chilipartjes",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536303434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Aardappelpartjes (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233059",
+    "name": "Aviko Zoete aardappel blokjes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536303337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Aardappelpartjes (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "66162",
+    "name": "AH Aardappelpartjes",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303130393432?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Aardappelpartjes (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173814",
+    "name": "Aviko Pom' Duchesse",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Aardappelpartjes (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "150182",
+    "name": "AH Aardappelpartjes knoflook-rozemarijn",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_434d503130313938373832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Aardappelpartjes (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183519",
+    "name": "Aviko Aardappelpartjes",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536303436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Aardappelpartjes (diepvries)"
+    ],
+    "isFood": true
+  }
+]

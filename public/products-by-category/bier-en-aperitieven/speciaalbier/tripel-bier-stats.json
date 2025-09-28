@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bier en aperitieven > Speciaalbier > Tripel bier",
+  "breadcrumbs": "Bier en aperitieven > Speciaalbier > Tripel bier",
+  "totalProducts": 47,
+  "halalCompliance": 100,
+  "averageProtein": 0.2,
+  "averagePrice": 4.63,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 13,
+    "withIngredients": 47,
+    "withHalalCheck": 47
+  }
+}

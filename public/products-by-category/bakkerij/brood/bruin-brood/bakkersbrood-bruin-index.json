@@ -1,0 +1,158 @@
+[
+  {
+    "id": "507697",
+    "name": "AH West Fries vloer donker half",
+    "price": 1.35,
+    "image": "NA",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Bakkersbrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231535",
+    "name": "AH Tijger bruin half",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Bakkersbrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485692",
+    "name": "AH Tijger bruin half",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363931323331?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Bakkersbrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556859",
+    "name": "AH Tijger bruin half",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335343232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Bakkersbrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168181",
+    "name": "AH Tijger bruin heel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738373234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Bakkersbrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446411",
+    "name": "AH Tijger bruin heel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236363939383731?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Bakkersbrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578302",
+    "name": "AH Les pains matisse half",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Bakkersbrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578877",
+    "name": "AH Les pains matisse half",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132313437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Bakkersbrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578303",
+    "name": "AH Les pains matisse heel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Bakkersbrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578875",
+    "name": "AH Les pains matisse heel",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132313438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Bakkersbrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568824",
+    "name": "AH Liefde & Passie Petit cereales gesneden",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539313836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Bakkersbrood bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568825",
+    "name": "AH Liefde & Passie Petit cereales ongesneden",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539313837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Bakkersbrood bruin"
+    ],
+    "isFood": true
+  }
+]

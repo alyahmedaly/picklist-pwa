@@ -1,0 +1,62 @@
+[
+  {
+    "id": "382489",
+    "name": "Friesche Vlag Latte opschuimmelk",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230383832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Cappuccino melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183173",
+    "name": "AH Opschuimmelk",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Cappuccino melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447641",
+    "name": "AH Opschuimmelk",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Cappuccino melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442228",
+    "name": "Friesche Vlag Latte opschuimmelk",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935323635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Cappuccino melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575714",
+    "name": "Friesche Vlag Latte 1L 3-pack",
+    "price": 5.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Cappuccino melk"
+    ],
+    "isFood": true
+  }
+]

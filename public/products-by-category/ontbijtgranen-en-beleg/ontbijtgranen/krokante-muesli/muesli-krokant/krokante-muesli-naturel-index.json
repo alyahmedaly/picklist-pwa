@@ -1,0 +1,170 @@
+[
+  {
+    "id": "538527",
+    "name": "AH Krokante muesli koffie smaak",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332373031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569940",
+    "name": "AH Krokante muesli rozijn",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538528",
+    "name": "AH Krokante muesli speculaas smaak",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332373037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123393",
+    "name": "Quaker Cruesli luchtig",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478687",
+    "name": "Quaker Cruesli luchtig value pack",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232323334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560781",
+    "name": "Quaker Cruesli speculoos",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530313735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437374",
+    "name": "AH Krokante muesli naturel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332373030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "60445",
+    "name": "AH Biologisch Krokante muesli naturel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331343938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494242",
+    "name": "AH Glutenvrij Krokante muesli met noten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373230393835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569747",
+    "name": "Holie Granola protein peanut butter",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426012",
+    "name": "Zonnatura Krokante muesli naturel",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363834373033?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569750",
+    "name": "Holie Crunchy muesli crispy",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734373737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (naturel)"
+    ],
+    "isFood": true
+  }
+]

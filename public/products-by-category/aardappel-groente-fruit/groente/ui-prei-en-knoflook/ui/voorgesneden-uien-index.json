@@ -1,0 +1,100 @@
+[
+  {
+    "id": "569602",
+    "name": "AH Rode uienringen zoetzuur",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233373139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Ui, prei en knoflook",
+      "Ui",
+      "Voorgesneden uien"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104819",
+    "name": "AH Biologisch Uiensnippers",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935303935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Ui, prei en knoflook",
+      "Ui",
+      "Voorgesneden uien"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "404283",
+    "name": "AH Gesneden rode uien",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935313132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Ui, prei en knoflook",
+      "Ui",
+      "Voorgesneden uien"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "41078",
+    "name": "AH Gesneden uien",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935303936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Ui, prei en knoflook",
+      "Ui",
+      "Voorgesneden uien"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197293",
+    "name": "AH Gesneden uien grootverpakking",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935303933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Ui, prei en knoflook",
+      "Ui",
+      "Voorgesneden uien"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230679",
+    "name": "AH Uienmix",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032303435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Ui, prei en knoflook",
+      "Ui",
+      "Voorgesneden uien"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568345",
+    "name": "AH Gesneden uien grootverpakking 2-pack",
+    "price": 4.27,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Ui, prei en knoflook",
+      "Ui",
+      "Voorgesneden uien"
+    ],
+    "isFood": true
+  }
+]

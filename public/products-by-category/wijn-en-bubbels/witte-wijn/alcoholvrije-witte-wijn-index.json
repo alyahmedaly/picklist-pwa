@@ -1,0 +1,122 @@
+[
+  {
+    "id": "564069",
+    "name": "AH Excellent Selectie sauvignon blanc alcoholvrij",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234353933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Alcoholvrije witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575844",
+    "name": "ISH Paloma alcoholfree",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734353031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Alcoholvrije witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401917",
+    "name": "Viverty Sparkling wit alcoholvrij",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630373237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Alcoholvrije witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560570",
+    "name": "Viverty Sparkling wit alcoholvrij",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534323737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Alcoholvrije witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171569",
+    "name": "Faber Chardonnay alcoholvrij",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353637373837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Alcoholvrije witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384836",
+    "name": "Faber Sauvignon Blanc alcoholvrij",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373234353635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Alcoholvrije witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221927",
+    "name": "Faber Sparkling White alcoholvrij",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353637373937?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Alcoholvrije witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481746",
+    "name": "Free Feather Chardonnay Alcoholvrij",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373335313634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Alcoholvrije witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583228",
+    "name": "Not Guilty Pinot grigio",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137333635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Alcoholvrije witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164764",
+    "name": "Torres Natureo white alcoholvrij",
+    "price": 8.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436303138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Alcoholvrije witte wijn"
+    ],
+    "isFood": true
+  }
+]

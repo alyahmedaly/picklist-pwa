@@ -1,0 +1,119 @@
+[
+  {
+    "id": "155357",
+    "name": "Garden Gourmet Falafel",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933313539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Falafel, vega balletjes",
+      "Falafel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199525",
+    "name": "Garden Gourmet Falafel pikant",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933313534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Falafel, vega balletjes",
+      "Falafel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564792",
+    "name": "AH Terra Plantaardige falafel pikant",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Falafel, vega balletjes",
+      "Falafel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577215",
+    "name": "AH Terra Falafel tomaat basilicum",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931343530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Falafel, vega balletjes",
+      "Falafel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564793",
+    "name": "AH Terra Plantaardige falafel",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030343733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Falafel, vega balletjes",
+      "Falafel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564890",
+    "name": "AH Terra Plantaardige falafel",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Falafel, vega balletjes",
+      "Falafel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570161",
+    "name": "AH Terra Plantaardige falafel paprika harissa",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Falafel, vega balletjes",
+      "Falafel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577214",
+    "name": "AH Terra Falafel courgette",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Falafel, vega balletjes",
+      "Falafel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563883",
+    "name": "Garden Gourmet Falafel spinazie",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933393739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Falafel, vega balletjes",
+      "Falafel"
+    ],
+    "isFood": true
+  }
+]

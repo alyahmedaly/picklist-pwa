@@ -1,0 +1,98 @@
+[
+  {
+    "id": "374019",
+    "name": "Stegeman Chorizo licht pittig",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539323538?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Chorizo worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556750",
+    "name": "Stegeman Plus chorizo",
+    "price": 4.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Chorizo worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129552",
+    "name": "AH Chorizo",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323132353330?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Chorizo worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199411",
+    "name": "AH Excellent Chorizo",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363533373634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Chorizo worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376819",
+    "name": "Argal Chorizo sticks",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035373735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Chorizo worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199681",
+    "name": "AH Chorizo Pamplona",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032373831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Chorizo worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374013",
+    "name": "Argal Chorizo doux",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323533353733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Chorizo worst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410385",
+    "name": "Argal Chorizo pikant",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303334333237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Chorizo worst"
+    ],
+    "isFood": true
+  }
+]

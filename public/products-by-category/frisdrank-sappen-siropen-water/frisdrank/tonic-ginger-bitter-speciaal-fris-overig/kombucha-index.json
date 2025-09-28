@@ -1,0 +1,197 @@
+[
+  {
+    "id": "568474",
+    "name": "Butcha Rasberry rose & black tea 0%",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303133383935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579868",
+    "name": "Zonnatura Kombucha citroengras",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579867",
+    "name": "Zonnatura Kombucha jasmijn",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579866",
+    "name": "Zonnatura Kombucha lavendel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553815",
+    "name": "Batu Kombucha ginger & lemon",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339373933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553814",
+    "name": "Batu Kombucha lime & mint",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339373932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553816",
+    "name": "Batu Kombucha passion fruit & hop",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339373931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568475",
+    "name": "Butcha Ginger lemongrass & green tea 0%",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303133383936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496905",
+    "name": "The Gutsy Captain Kombucha zero ginger lemon",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496906",
+    "name": "The Gutsy Captain Kombucha zero original",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334373432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496907",
+    "name": "The Gutsy Captain Kombucha zero raspberry",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334373433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478475",
+    "name": "YAYA Kombucha ginger",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337353434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553802",
+    "name": "YAYA Kombucha passionfruit",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478476",
+    "name": "YAYA Kombucha yuzu",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337353433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469378",
+    "name": "Zonnatura Kombucha gember",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332313435?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Kombucha"
+    ],
+    "isFood": true
+  }
+]

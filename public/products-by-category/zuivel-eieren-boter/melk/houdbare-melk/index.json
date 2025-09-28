@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Melk > Houdbare melk",
+  "breadcrumbs": "Zuivel, eieren, boter > Melk > Houdbare melk",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "halfvolle-houdbare-melk",
+      "displayName": "Halfvolle Houdbare Melk",
+      "productCount": 10,
+      "filePath": "halfvolle-houdbare-melk.jsonl",
+      "indexPath": "halfvolle-houdbare-melk-index.json",
+      "statsPath": "halfvolle-houdbare-melk-stats.json",
+      "averageProtein": 2.9,
+      "halalCompliance": 30
+    },
+    {
+      "name": "volle-houdbare-melk",
+      "displayName": "Volle Houdbare Melk",
+      "productCount": 7,
+      "filePath": "volle-houdbare-melk.jsonl",
+      "indexPath": "volle-houdbare-melk-index.json",
+      "statsPath": "volle-houdbare-melk-stats.json",
+      "averageProtein": 3.6,
+      "halalCompliance": 43
+    }
+  ],
+  "totalProducts": 17,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 17,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Melk",
+        "path": "../index.json"
+      },
+      {
+        "name": "Houdbare Melk",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "zuivel-eieren-boter/melk"
+  }
+}

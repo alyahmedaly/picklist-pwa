@@ -1,0 +1,275 @@
+[
+  {
+    "id": "561579",
+    "name": "Fever-Tree Sparkling pink grapefruit",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730353033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568463",
+    "name": "Wostok Tannenwald",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735303335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568466",
+    "name": "Cucumis Original",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735303332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568484",
+    "name": "Cucumis Lavender",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735303333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "379082",
+    "name": "Fentimans Rose lemonade",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568278",
+    "name": "Mojo Maté Original",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303136373832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568469",
+    "name": "Mojo Maté Passionfruit",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303136373739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518845",
+    "name": "Royal Club Rose lemonade 0% suiker",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518871",
+    "name": "Royal Club Rose lemonade 0% suiker",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230373637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568450",
+    "name": "Drink a Flower Elderflower & lime",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138323131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568448",
+    "name": "Drink a Flower Ginger & lime",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138323038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568449",
+    "name": "Drink a Flower Peach & lemon",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138323039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568479",
+    "name": "Something & Nothing Hibiscus & rose",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532313335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568478",
+    "name": "Something & Nothing Yuzu",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532313333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568351",
+    "name": "Bionade Elderberry",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732333736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568352",
+    "name": "Bionade Ginger orange",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130393930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568477",
+    "name": "Bionade Lemon bergamot",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568356",
+    "name": "Brand Garage Orange mama",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532313235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519030",
+    "name": "Fentimans Rose lemonade 6-pack",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476865",
+    "name": "Fentimans Rose lemonade blik",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568464",
+    "name": "Wostok Dragon-gember",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735343430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Elderflower, rose, lime"
+    ],
+    "isFood": true
+  }
+]

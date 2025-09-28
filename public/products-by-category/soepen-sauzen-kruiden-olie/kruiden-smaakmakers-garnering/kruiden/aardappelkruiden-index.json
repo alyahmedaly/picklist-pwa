@@ -1,0 +1,67 @@
+[
+  {
+    "id": "197859",
+    "name": "Verstegen Kruidenmix voor aardappel",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Aardappelkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197884",
+    "name": "Verstegen Kruidenmix voor aardappel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638353838?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Aardappelkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168956",
+    "name": "AH Kruidenmix met zout aardappel mini jar",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303436363134?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Aardappelkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484336",
+    "name": "Euroma Jonnie Boer Carribean spice",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363836313433?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Aardappelkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470019",
+    "name": "Smaakt Vegan falafelmix",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Aardappelkruiden"
+    ],
+    "isFood": true
+  }
+]

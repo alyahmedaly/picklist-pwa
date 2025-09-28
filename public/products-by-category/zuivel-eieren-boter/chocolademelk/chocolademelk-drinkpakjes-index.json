@@ -1,0 +1,134 @@
+[
+  {
+    "id": "130261",
+    "name": "AH Chocolademelk classic 6-pack",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Chocolademelk drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130268",
+    "name": "AH Chocolademelk halfvol 6-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437333439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Chocolademelk drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "319574",
+    "name": "Chocomel 0% suiker toegevoegd",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531343535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Chocolademelk drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569851",
+    "name": "Chocomel 0% suiker toegevoegd",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232323939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Chocolademelk drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "136245",
+    "name": "Chocomel 0% suiker toegevoegd 6-pack",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336353030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Chocolademelk drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416909",
+    "name": "Chocomel Koud",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373330393531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Chocolademelk drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580486",
+    "name": "Chocomel Vol",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432353433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Chocolademelk drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "521896",
+    "name": "Chocomel Vol 16-pack",
+    "price": 17.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383835393434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Chocolademelk drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "136248",
+    "name": "Chocomel Vol 6-pack",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432353530?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Chocolademelk drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "136247",
+    "name": "Chocomel Halfvol 6-pack",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Chocolademelk drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575745",
+    "name": "Chocomel 0% flesjes 6-pack",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733313936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Chocolademelk",
+      "Chocolademelk drinkpakjes"
+    ],
+    "isFood": true
+  }
+]

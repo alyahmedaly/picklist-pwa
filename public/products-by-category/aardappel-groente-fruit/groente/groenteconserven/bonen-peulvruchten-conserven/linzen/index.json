@@ -1,0 +1,64 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Groenteconserven > Bonen, peulvruchten (conserven) > Linzen",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Groenteconserven > Bonen, peulvruchten (conserven) > Linzen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "linzen-conserven",
+      "displayName": "Linzen Conserven",
+      "productCount": 13,
+      "filePath": "linzen-conserven.jsonl",
+      "indexPath": "linzen-conserven-index.json",
+      "statsPath": "linzen-conserven-stats.json",
+      "averageProtein": 6.3,
+      "halalCompliance": 85
+    },
+    {
+      "name": "linzen-gedroogd",
+      "displayName": "Linzen Gedroogd",
+      "productCount": 9,
+      "filePath": "linzen-gedroogd.jsonl",
+      "indexPath": "linzen-gedroogd-index.json",
+      "statsPath": "linzen-gedroogd-stats.json",
+      "averageProtein": 19.7,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 22,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 22,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groenteconserven",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bonen Peulvruchten Conserven",
+        "path": "../index.json"
+      },
+      {
+        "name": "Linzen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 5,
+    "parentPath": "aardappel-groente-fruit/groente/groenteconserven/bonen-peulvruchten-conserven"
+  }
+}

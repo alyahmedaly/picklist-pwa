@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Sauzen > Vleessaus",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Sauzen > Vleessaus",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "marinade",
+      "displayName": "Marinade",
+      "productCount": 13,
+      "filePath": "marinade.jsonl",
+      "indexPath": "marinade-index.json",
+      "statsPath": "marinade-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "vleessauzen",
+      "displayName": "Vleessauzen",
+      "productCount": 7,
+      "filePath": "vleessauzen.jsonl",
+      "indexPath": "vleessauzen-index.json",
+      "statsPath": "vleessauzen-stats.json",
+      "averageProtein": 1,
+      "halalCompliance": 71
+    },
+    {
+      "name": "kerriesauzen",
+      "displayName": "Kerriesauzen",
+      "productCount": 5,
+      "filePath": "kerriesauzen.jsonl",
+      "indexPath": "kerriesauzen-index.json",
+      "statsPath": "kerriesauzen-stats.json",
+      "averageProtein": 2.6,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 25,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 25,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Sauzen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vleessaus",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "soepen-sauzen-kruiden-olie/sauzen"
+  }
+}

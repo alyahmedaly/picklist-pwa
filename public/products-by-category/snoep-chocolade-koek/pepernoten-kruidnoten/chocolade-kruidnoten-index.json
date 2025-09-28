@@ -1,0 +1,266 @@
+[
+  {
+    "id": "505544",
+    "name": "AH Witte kruidnoten",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578272",
+    "name": "AH Disco regenboog kruidnoten",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578200",
+    "name": "Van Delft Chocolade kruidnootjes kwarktaart-kers",
+    "price": 4.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839363634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578199",
+    "name": "Van Delft Chocolade kruidnootjes pistache wit",
+    "price": 4.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839353533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578270",
+    "name": "AH Truffel kruidnoot cinnamon roll",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578269",
+    "name": "AH Truffel tiramisu kruidnoten",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558182",
+    "name": "Bolletje Kruidnoten witte chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436333535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578198",
+    "name": "Van Delft Chocolade kruidnootjes stroopwafel",
+    "price": 4.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839363532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232479",
+    "name": "AH Chocolade kruidnoten",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165247",
+    "name": "AH Chocoladekruidnoten",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730303635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "418833",
+    "name": "AH Chocoladekruidnoten",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730303939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578271",
+    "name": "AH Melk kokos kruidnoten",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202959",
+    "name": "AH Chocolade kruidnoten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373837393130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558160",
+    "name": "AH Dubbel choco kruidnoten",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237373131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581460",
+    "name": "Maître Mathis Kruidnoten mix gluten vrij",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033333733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505557",
+    "name": "Van Delft Luxe mix",
+    "price": 4.5,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373736303630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558183",
+    "name": "Bolletje Kruidnoten karamel en chocolade",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436333738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558184",
+    "name": "Bolletje Kruidnoten kokos chocolade",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436333736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558181",
+    "name": "Bolletje Kruidnoten truffel chocolade",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436333737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558180",
+    "name": "Bolletje Kruidnoten chocolade gemengd",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436333533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558200",
+    "name": "Bolletje Kruidnoten dub choco hazelnoot",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735303838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578268",
+    "name": "AH Truffel puur kruidnoten",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Pepernoten, kruidnoten",
+      "Chocolade kruidnoten"
+    ],
+    "isFood": true
+  }
+]

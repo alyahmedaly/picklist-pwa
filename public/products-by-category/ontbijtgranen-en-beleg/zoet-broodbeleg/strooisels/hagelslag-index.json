@@ -1,0 +1,483 @@
+[
+  {
+    "id": "511064",
+    "name": "AH Strooifeest karamelsmaak bolletjes wit",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563626",
+    "name": "AH Strooifeest kruidnootjes mix karamel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479577",
+    "name": "AH Strooifeest choco mix",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571403",
+    "name": "De Ruijter Specials gezouten karamel smaak",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493652",
+    "name": "De Ruijter Hagelfeest",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037313931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479565",
+    "name": "HagelSwag Echte chocolade chunks puur met caramel",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930333331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563636",
+    "name": "Venz Beer hagelslag melk & vanille",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032393433?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212295",
+    "name": "Venz Kwinkslag puur vanille",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233343332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212294",
+    "name": "Venz Hagelslag puur",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138303839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "114424",
+    "name": "Venz XXL hagelslag melk",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571409",
+    "name": "AH Strooifeest choco loops melk en wit",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232323736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461455",
+    "name": "Fairtrade Original Hagelslag puur",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737393337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479562",
+    "name": "HagelSwag Echte chocolade chunks puur",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195731",
+    "name": "Jacques Matinettes melk",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383330353135?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493644",
+    "name": "De Ruijter Chocoladehagel melk",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62618",
+    "name": "De Ruijter Kleintjes hagelslag",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137313331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493651",
+    "name": "De Ruijter Royaal chocoladehagel extra puur",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037363835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1606",
+    "name": "AH Hagelslag mix",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031303034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479581",
+    "name": "AH Hagelslag mix",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131303938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571408",
+    "name": "AH Strooi mini's",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336313837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479578",
+    "name": "AH Strooifeest brownies bites",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493645",
+    "name": "De Ruijter Chocoladehagel puur",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037333734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571404",
+    "name": "De Ruijter Specials chocolade kaneel smaak",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195730",
+    "name": "Jacques Dark chocolate 60% matinettes",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733353337?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493642",
+    "name": "De Ruijter Specials hagelslag intens puur",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137343636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212293",
+    "name": "Venz Hagelslag melk",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037333538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130890",
+    "name": "Venz XXL hagelslag wit",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035303232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551390",
+    "name": "AH Melk hagelslag met choco hamsters XL",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1607",
+    "name": "AH Hagelslag melk",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "32784",
+    "name": "AH Hagelslag melk",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731383535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1608",
+    "name": "AH Hagelslag puur",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "32786",
+    "name": "AH Hagelslag puur",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030393638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567088",
+    "name": "AH Pure hagelslag met Zaanse huisjes XL",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335393039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465751",
+    "name": "AH XL hagel melk",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465752",
+    "name": "AH XL hagel puur",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030393832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563630",
+    "name": "Côte d'Or Chocolade hagelslag melk",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430323036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563631",
+    "name": "Côte d'Or Chocolade hagelslag puur",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430323035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Hagelslag"
+    ],
+    "isFood": true
+  }
+]

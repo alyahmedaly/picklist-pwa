@@ -1,0 +1,74 @@
+[
+  {
+    "id": "401920",
+    "name": "AH Vol & halfzoete Zuid-Afrikaanse rosé",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632373832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Lichtzoete rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167838",
+    "name": "Echo Falls White zinfandel",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313239373138?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Lichtzoete rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408182",
+    "name": "Inycon Growers Pinot Grigio Blush",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632393530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Lichtzoete rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "65780",
+    "name": "Lancers Rosé",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363631353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Lichtzoete rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237332",
+    "name": "Nice Rosé",
+    "price": 8.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839373534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Lichtzoete rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "65781",
+    "name": "Remy Pannier Rosé cuvée spéciale",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323430323633?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Lichtzoete rosé"
+    ],
+    "isFood": true
+  }
+]

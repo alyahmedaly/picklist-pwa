@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Halal vlees > Halal vleeswaren",
+  "breadcrumbs": "Vlees, vis > Halal vlees > Halal vleeswaren",
+  "totalProducts": 27,
+  "halalCompliance": 89,
+  "averageProtein": 15,
+  "averagePrice": 2.53,
+  "highProteinProducts": 15,
+  "dataQuality": {
+    "withNutrition": 27,
+    "withIngredients": 27,
+    "withHalalCheck": 27
+  }
+}

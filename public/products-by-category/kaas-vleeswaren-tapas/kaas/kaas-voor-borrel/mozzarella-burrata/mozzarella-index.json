@@ -1,0 +1,296 @@
+[
+  {
+    "id": "474824",
+    "name": "Zanetti Mini burratine",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331313739?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513429",
+    "name": "AH Mozzarella tostikaas 40+ plakken",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437353030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506235",
+    "name": "AH Mozzarella",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373439353038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123142",
+    "name": "Galbani Mozzarella",
+    "price": 1.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137333434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168583",
+    "name": "Galbani Mozzarella maxi",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231363633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163826",
+    "name": "Galbani Mozzarella mini",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195370",
+    "name": "AH Italiaanse mozzarella",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638323839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462684",
+    "name": "AH Italiaanse mozzarella di bufala campana",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383039363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457607",
+    "name": "Galbani Di latte di bufala maxi",
+    "price": 3.52,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230393638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186787",
+    "name": "Galbani Mozzarella bufala",
+    "price": 2.44,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131363532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419558",
+    "name": "Goldsteig Mini mozzarella",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373032303437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238912",
+    "name": "AH Biologisch Buffelmozzarella 52+",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363437353731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550417",
+    "name": "AH Biologisch Mini buffelmozzarella",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231363637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518702",
+    "name": "Galbani Mozzarella latte di bufala mini",
+    "price": 2.77,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383639373235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132259",
+    "name": "Zanetti Mozzarella di bufala campana",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373032303836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384976",
+    "name": "Zanetti Mozzarella di bufala campana",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373032303738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238911",
+    "name": "AH Biologisch Italiaanse mozzarella",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323033323838?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384977",
+    "name": "Zanetti Mini mozzarelle",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236313638383534?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "128420",
+    "name": "Galbani Mozzarella light",
+    "price": 1.64,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336333537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "545811",
+    "name": "AH Italiaanse mozzarella 4-pack",
+    "price": 7.18,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393130373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439393",
+    "name": "Goldsteig Mozzarella light",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373032303436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Mozzarella"
+    ],
+    "isFood": true
+  }
+]

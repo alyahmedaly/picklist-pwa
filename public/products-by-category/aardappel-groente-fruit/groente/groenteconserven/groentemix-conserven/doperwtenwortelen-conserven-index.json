@@ -1,0 +1,128 @@
+[
+  {
+    "id": "195105",
+    "name": "Hak Doperwtjes met worteltjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Groentemix (conserven)",
+      "Doperwten/wortelen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195106",
+    "name": "Hak Doperwtjes met worteltjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Groentemix (conserven)",
+      "Doperwten/wortelen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202203",
+    "name": "Hak Doperwtjes met worteltjes",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Groentemix (conserven)",
+      "Doperwten/wortelen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "66112",
+    "name": "AH Biologisch Doperwten wortelen",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434343938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Groentemix (conserven)",
+      "Doperwten/wortelen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "833",
+    "name": "AH Doperwten en wortelen",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383433353439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Groentemix (conserven)",
+      "Doperwten/wortelen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "39103",
+    "name": "AH Doperwten en wortelen",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534343932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Groentemix (conserven)",
+      "Doperwten/wortelen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160586",
+    "name": "AH Doperwten en wortelen",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434353033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Groentemix (conserven)",
+      "Doperwten/wortelen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195552",
+    "name": "Bonduelle Doperwtjes & worteltjes",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434353730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Groentemix (conserven)",
+      "Doperwten/wortelen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195557",
+    "name": "Bonduelle Doperwtjes & worteltjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438313530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Groentemix (conserven)",
+      "Doperwten/wortelen (conserven)"
+    ],
+    "isFood": true
+  }
+]

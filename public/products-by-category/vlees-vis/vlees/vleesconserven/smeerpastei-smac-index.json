@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1537",
+    "name": "AH Leverpastei",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3902",
+    "name": "Unox Leverpastei 3-pack",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "33287",
+    "name": "AH Luncheon meat",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635333832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187615",
+    "name": "Unox Smac",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934323231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400377",
+    "name": "Salland Boterhamworst",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363534353631?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400376",
+    "name": "Salland Luncheon meat",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363534353531?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187616",
+    "name": "Unox Smac mager",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934323232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570110",
+    "name": "Argeta Kip pikant spread 2-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436313734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198144",
+    "name": "Argeta Kip spread",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549380",
+    "name": "Argeta Kip spread duopack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581472",
+    "name": "Argeta Meatless chicken spread",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131303535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581473",
+    "name": "Argeta Meatless chicken spread pikant",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131303534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581471",
+    "name": "Argeta Salmon spread",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131313036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220765",
+    "name": "Argeta Spread kip halal",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034343037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410380",
+    "name": "Argeta Spread kip pikant",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034343038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514114",
+    "name": "Argeta Kip spread rund salami",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432353638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543607",
+    "name": "Profi Pasztet z pieczarkami",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229830",
+    "name": "Unox Leverpastei 6-pack",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839383133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "103388",
+    "name": "Unox Magere leverpastei",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839383134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "33355",
+    "name": "Unox Smac XXL",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839383130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Smeerpastei, smac"
+    ],
+    "isFood": true
+  }
+]

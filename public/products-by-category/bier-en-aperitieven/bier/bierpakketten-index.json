@@ -1,0 +1,146 @@
+[
+  {
+    "id": "388600",
+    "name": "Brouwerij 't IJ Kadoverpakking",
+    "price": 18.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439363635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bierpakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485636",
+    "name": "Grolsch Finale geschenkverpakking",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363937303930?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bierpakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468399",
+    "name": "Grolsch Geschenkverpakking",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535333838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bierpakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "131412",
+    "name": "Hertog Jan Assortiment geschenkverpakking",
+    "price": 10.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631303839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bierpakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388621",
+    "name": "La Chouffe Big chouffe",
+    "price": 10.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bierpakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399464",
+    "name": "La Chouffe Kist geschenkverpakking",
+    "price": 19.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236393637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bierpakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458987",
+    "name": "La Chouffe Ontdekkingspakket",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363731373536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bierpakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438848",
+    "name": "Oedipus Geschenkverpakking",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353834373737?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bierpakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410435",
+    "name": "Oedipus Geschenkverpakking Oedipus",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137323433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bierpakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188388",
+    "name": "Speciale bieren geschenkverpakking",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383838343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bierpakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229549",
+    "name": "Weihenstephaner Geschenkverpakking hefe weisse & glas",
+    "price": 7.99,
+    "image": "NA",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bierpakketten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132142",
+    "name": "World of Beers Geschenkverpakking",
+    "price": 13.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373636353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bierpakketten"
+    ],
+    "isFood": true
+  }
+]

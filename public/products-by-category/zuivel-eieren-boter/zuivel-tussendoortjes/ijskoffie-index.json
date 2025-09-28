@@ -1,0 +1,482 @@
+[
+  {
+    "id": "168909",
+    "name": "Douwe Egberts Ice macchiato ijskoffie",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383431363436?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365872",
+    "name": "Starbucks Cappuccino",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631373735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551351",
+    "name": "Starbucks Cappucino grande cup",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433383233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493102",
+    "name": "Starbucks Chocolate hazelnut flavour cappuccino",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130303132?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415681",
+    "name": "AH IJskoffie macchiato",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548274",
+    "name": "Starbucks Caramel macchiato",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393234323637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509580",
+    "name": "Starbucks Caramel macchiato grande cup",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933363731?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515794",
+    "name": "Starbucks Hazelnut macchiato",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "552701",
+    "name": "Oatly! Mocha latte",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195025",
+    "name": "Starbucks Caffè latte",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631373732?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553401",
+    "name": "Starbucks Cappuccino",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437373032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388995",
+    "name": "Starbucks Frappuccino caramel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383639303937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493101",
+    "name": "Starbucks Frappuccino cookies & cream",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383639313030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515733",
+    "name": "Starbucks Frappuccino s'mores",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130313034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415680",
+    "name": "AH IJskoffie cappuccino",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551363",
+    "name": "Douwe Egberts Ice latte white chocolate cookie",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383233313839?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "552702",
+    "name": "Oatly! Caffè latte",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134393433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580198",
+    "name": "Starbucks White chocolate mocha",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831343636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415679",
+    "name": "AH IJskoffie espresso",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168915",
+    "name": "Douwe Egberts Ice cappuccino ijskoffie",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730343237?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401893",
+    "name": "Douwe Egberts Ice caramel latte ijskoffie",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313231?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565414",
+    "name": "illy Ready to drink latte macchiato",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731373230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415700",
+    "name": "Starbucks Vanilla bean macchiato",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565415",
+    "name": "illy Ready to drink cappuccino",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731373236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195024",
+    "name": "Starbucks Caramel macchiato",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631373731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566133",
+    "name": "AH IJskoffie cappuccino",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566134",
+    "name": "AH IJskoffie macchiato karamelsmaak",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636313730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553400",
+    "name": "Starbucks Caffe latte no added sugar",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437373033?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582265",
+    "name": "Upfront Eiwit ijskoffie cappuccino smaak",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035393334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223367",
+    "name": "Starbucks Caffè latte no added sugar",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631373734?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566135",
+    "name": "AH IJskoffie skinny latte",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636353631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569872",
+    "name": "Jimmy's Iced coffee caramel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303432373237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569869",
+    "name": "Jimmy's Iced coffee mocha",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303432383035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569870",
+    "name": "Jimmy's Iced coffee original",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303432373238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551463",
+    "name": "Nescafé Gold iced latte vanilla oploskoffie",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832343436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520036",
+    "name": "Emmi Caffe latte high protein bel",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569893",
+    "name": "illy Cold brew classico",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235363339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569540",
+    "name": "Oatly! Caffe Latte 5-pack",
+    "price": 10.3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335383032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582018",
+    "name": "Starbucks Caffe latte no added sugar 4-pack",
+    "price": 14.36,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130323831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582019",
+    "name": "Starbucks Caramel macchiato 4-pack",
+    "price": 14.36,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130333030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "IJskoffie"
+    ],
+    "isFood": true
+  }
+]

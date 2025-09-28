@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Pepernoten, kruidnoten > Chocolade kruidnoten",
+  "breadcrumbs": "Snoep, chocolade, koek > Pepernoten, kruidnoten > Chocolade kruidnoten",
+  "totalProducts": 22,
+  "halalCompliance": 0,
+  "averageProtein": 5.4,
+  "averagePrice": 3.32,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 22,
+    "withIngredients": 22,
+    "withHalalCheck": 22
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Vleeswaren beleg > Leverworst",
+  "breadcrumbs": "Ontbijtgranen en beleg > Vleeswaren beleg > Leverworst",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "plakken-leverworst-versafdeling",
+      "displayName": "Plakken Leverworst Versafdeling",
+      "productCount": 5,
+      "filePath": "plakken-leverworst-versafdeling.jsonl",
+      "indexPath": "plakken-leverworst-versafdeling-index.json",
+      "statsPath": "plakken-leverworst-versafdeling-stats.json",
+      "averageProtein": 12,
+      "halalCompliance": 20
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vleeswaren Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Leverworst",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/vleeswaren-beleg"
+  }
+}

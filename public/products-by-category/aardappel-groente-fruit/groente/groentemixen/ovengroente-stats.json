@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Groentemixen > Ovengroente",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Groentemixen > Ovengroente",
+  "totalProducts": 5,
+  "halalCompliance": 100,
+  "averageProtein": 1.3,
+  "averagePrice": 3.99,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 5,
+    "withIngredients": 5,
+    "withHalalCheck": 5
+  }
+}

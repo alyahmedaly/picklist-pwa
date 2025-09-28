@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Snoep > Zachte snoep > Schuimpjes",
+  "breadcrumbs": "Snoep, chocolade, koek > Snoep > Zachte snoep > Schuimpjes",
+  "totalProducts": 13,
+  "halalCompliance": 8,
+  "averageProtein": 3.7,
+  "averagePrice": 2.02,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 13,
+    "withIngredients": 13,
+    "withHalalCheck": 13
+  }
+}

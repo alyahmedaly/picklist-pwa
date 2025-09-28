@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Vlees, vis > Reepjes & blokjes vlees > Varken - reepjes en blokjes > Hamreepjes",
+  "breadcrumbs": "Vlees, vis > Reepjes & blokjes vlees > Varken - reepjes en blokjes > Hamreepjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "hamreepjes-voorverpakt",
+      "displayName": "Hamreepjes Voorverpakt",
+      "productCount": 5,
+      "filePath": "hamreepjes-voorverpakt.jsonl",
+      "indexPath": "hamreepjes-voorverpakt-index.json",
+      "statsPath": "hamreepjes-voorverpakt-stats.json",
+      "averageProtein": 10.6,
+      "halalCompliance": 20
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Reepjes Blokjes Vlees",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Varken Reepjes En Blokjes",
+        "path": "../index.json"
+      },
+      {
+        "name": "Hamreepjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "vlees-vis/reepjes-blokjes-vlees/varken-reepjes-en-blokjes"
+  }
+}

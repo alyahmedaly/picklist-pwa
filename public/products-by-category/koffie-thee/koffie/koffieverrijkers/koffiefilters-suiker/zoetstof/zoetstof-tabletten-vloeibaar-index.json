@@ -1,0 +1,167 @@
+[
+  {
+    "id": "195110",
+    "name": "Canderel Green zoetjes",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353734333139?revLabel=103&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiefilters, suiker",
+      "Zoetstof",
+      "Zoetstof tabletten, vloeibaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213916",
+    "name": "AH Sucralose zoetjes",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiefilters, suiker",
+      "Zoetstof",
+      "Zoetstof tabletten, vloeibaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216005",
+    "name": "AH Sucralose zoetjes navul",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiefilters, suiker",
+      "Zoetstof",
+      "Zoetstof tabletten, vloeibaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213918",
+    "name": "AH Stevia zoetjes",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiefilters, suiker",
+      "Zoetstof",
+      "Zoetstof tabletten, vloeibaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "53789",
+    "name": "Natrena Zoetjes",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334363736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiefilters, suiker",
+      "Zoetstof",
+      "Zoetstof tabletten, vloeibaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "36414",
+    "name": "Natrena Classic zoetjes navul",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232333633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiefilters, suiker",
+      "Zoetstof",
+      "Zoetstof tabletten, vloeibaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "36412",
+    "name": "Natrena Zoetjes",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431333631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiefilters, suiker",
+      "Zoetstof",
+      "Zoetstof tabletten, vloeibaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216331",
+    "name": "AH Zoetjes",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiefilters, suiker",
+      "Zoetstof",
+      "Zoetstof tabletten, vloeibaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "190481",
+    "name": "Natrena Vloeibare zoetjes",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiefilters, suiker",
+      "Zoetstof",
+      "Zoetstof tabletten, vloeibaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403361",
+    "name": "AH Sucralose zoetstof",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiefilters, suiker",
+      "Zoetstof",
+      "Zoetstof tabletten, vloeibaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213929",
+    "name": "Canderel Green klontjes",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353734313837?revLabel=114&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiefilters, suiker",
+      "Zoetstof",
+      "Zoetstof tabletten, vloeibaar"
+    ],
+    "isFood": true
+  }
+]

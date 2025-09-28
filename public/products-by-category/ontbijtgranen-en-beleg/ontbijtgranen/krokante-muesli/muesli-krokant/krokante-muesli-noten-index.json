@@ -1,0 +1,128 @@
+[
+  {
+    "id": "437991",
+    "name": "AH Krokante muesli geroosterde noten",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332373036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538553",
+    "name": "AH Biologisch Krokante muesli noten & zaden",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331353032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569862",
+    "name": "AH Krokante muesli noten 0% suiker",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332373038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577534",
+    "name": "Bolletje Krokante muesli proteine",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832323531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500142",
+    "name": "Bolletje Krokante notenmix muesli",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832323530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500066",
+    "name": "Bolletje Krokante hazelnoot & amandel muesli",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832323437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225314",
+    "name": "Quaker Cruesli granola pecan & brazil nuts zero",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636373639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569794",
+    "name": "Quaker Cruesli zero sugar added nuts",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331383934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (noten)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478688",
+    "name": "Quaker Cruesli 4 nuts",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303037373530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (noten)"
+    ],
+    "isFood": true
+  }
+]

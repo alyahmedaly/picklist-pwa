@@ -1,0 +1,36 @@
+{
+  "categoryPath": "Koken, tafelen, vrije tijd > Kantoorartikelen",
+  "breadcrumbs": "Koken, tafelen, vrije tijd > Kantoorartikelen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "batterij",
+      "displayName": "Batterij",
+      "productCount": 8,
+      "filePath": "batterij.jsonl",
+      "indexPath": "batterij-index.json",
+      "statsPath": "batterij-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 8,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koken Tafelen Vrije Tijd",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kantoorartikelen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "koken-tafelen-vrije-tijd"
+  }
+}

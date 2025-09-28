@@ -1,0 +1,686 @@
+[
+  {
+    "id": "226477",
+    "name": "Lekker & Anders Doner pizza",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031333337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514068",
+    "name": "Dr. Oetker Casa di mama pizza hawaii",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383439333030?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514010",
+    "name": "Dr. Oetker Casa di mama pizza salami",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383439323938?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445242",
+    "name": "AH Steenoven pizza piccante",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561537",
+    "name": "Crosta & Mollica Pinsa salami & mozzarella",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530313131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514071",
+    "name": "Crosta & Mollica Pizza stromboli",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437393538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514070",
+    "name": "Wagner Bella Napoli salami",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130303634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462809",
+    "name": "AH Pizza krokante speciaal",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383436303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514074",
+    "name": "Crosta & Mollica Pizza imperia",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432393332?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514011",
+    "name": "Dr. Oetker Casa di mama pizza quattro formaggi",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383439323939?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233387",
+    "name": "Dr. Oetker Casa di mama pizza salame extra piccante",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638363438?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571917",
+    "name": "Dr. Oetker Casa di mama pizza truffle style",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334353533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571892",
+    "name": "Crosta & Mollica Garlic sourdough pizzabread",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532323337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514006",
+    "name": "Dr. Oetker Ristorante pizza diavola",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514003",
+    "name": "Dr. Oetker Ristorante pizza salami",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514009",
+    "name": "Dr. Oetker Ristorante vegan pizza margherita",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232383330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550166",
+    "name": "Crosta & Mollica Pizza bosco",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337373738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561540",
+    "name": "Crosta & Mollica Pizza Stromboli 2-pack",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544491",
+    "name": "Dr. Oetker Casa di mama pizza margherita",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383932393339?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513996",
+    "name": "Dr. Oetker Ristorante pizza hawaii",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514008",
+    "name": "Dr. Oetker Ristorante pizza salami mozzarella pesto",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514001",
+    "name": "Dr. Oetker Ristorante pizza speciale",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465686",
+    "name": "AH Pizza krokante Hawaii",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383436303037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462810",
+    "name": "AH Pizza krokante salami",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383436303034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445235",
+    "name": "AH Steenoven pizza 5 formaggi",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476439",
+    "name": "Dr. Oetker Casa di mama pizza mozzarella pomodori",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363537373232?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465685",
+    "name": "AH Pizza krokante 4 kazen",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383436303038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550167",
+    "name": "Crosta & Mollica Pizzetta margherita 2-pack",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432393336?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514012",
+    "name": "Dr. Oetker Casa di mama pizza tonno",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383439333031?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514065",
+    "name": "Dr. Oetker Ristorante pizza quattro formaggi",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514002",
+    "name": "Dr. Oetker Ristorante pizza vegetale",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484217",
+    "name": "Wagner Bella Napoli pizza diavola pepperoni",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136343834?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445254",
+    "name": "AH Steenoven pizza margherita",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571916",
+    "name": "Crosta & Mollica Fiorentina sourdough pizza",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532323737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561538",
+    "name": "Crosta & Mollica Pizza positano",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533343137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514016",
+    "name": "Dr. Oetker La mia pinsa rundersalami",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532333833?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514005",
+    "name": "Dr. Oetker Ristorante pizza margherita",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513999",
+    "name": "Dr. Oetker Ristorante pizza mozzarella",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435595",
+    "name": "Dr. Oetker Ristorante pizza piccola margherita",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383439323837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514000",
+    "name": "Dr. Oetker Ristorante pizza spinazie",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484218",
+    "name": "Wagner Bella Napoli pizza margherita",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130303336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473390",
+    "name": "AH Biologisch Pizza mozzarella",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363235353434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581610",
+    "name": "AH Pizza krokante mozzarella",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736323532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514072",
+    "name": "Crosta & Mollica Pizza margherita",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432393335?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513997",
+    "name": "Dr. Oetker Ristorante pizza funghi",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514064",
+    "name": "Dr. Oetker Ristorante pizza rossa vegetale",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383439323936?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "737",
+    "name": "AH Pizza kaas tomaat",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535303032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506637",
+    "name": "AH Pizza krokante kip tikka",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565672",
+    "name": "Dr. Oetker La mia pinsa rucola",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532343038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581611",
+    "name": "AH Pizza krokante margherita",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445259",
+    "name": "AH Pizza krokante margherita 2 stuks",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383436303033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506636",
+    "name": "AH Pizza krokante tex mex",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514007",
+    "name": "Dr. Oetker Ristorante pizza bolognese",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514004",
+    "name": "Dr. Oetker Ristorante pizza pollo",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513998",
+    "name": "Dr. Oetker Ristorante pizza tonno",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465687",
+    "name": "AH Pizza krokante tonijn",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383436303035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550158",
+    "name": "Dr. Oetker Ristorante pizza rucola",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235373334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizza (dunne bodem)"
+    ],
+    "isFood": true
+  }
+]

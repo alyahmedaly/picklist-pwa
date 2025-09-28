@@ -1,0 +1,422 @@
+[
+  {
+    "id": "574291",
+    "name": "Knorr Spaghetteria formaggio",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331363234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574290",
+    "name": "Knorr Spaghetteria pomodoro mozzarella",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333353630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159760",
+    "name": "AH Biologisch Spaghetti",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62028",
+    "name": "AH Spaghetti",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232363133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421620",
+    "name": "AH Spaghetti met ei",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232353833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543649",
+    "name": "AH Spaghetti vlugkokend",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036323337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575908",
+    "name": "Grand' Italia Mini spaghetti tradizionali",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830303835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2090",
+    "name": "Grand' Italia Spaghetti tradizionali",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830303834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419486",
+    "name": "Honig Spaghetti original",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419519",
+    "name": "Honig Spaghetti vlugkokend",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138303937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539970",
+    "name": "Knorr Spinazie spaghetti",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839363633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198330",
+    "name": "Ankara Makarnasi spaghetti",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353836323537?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575909",
+    "name": "Bertolli Spaghetti no105",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197037",
+    "name": "De Cecco Spaghetti Nr. 12",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197038",
+    "name": "De Cecco Spaghettini nr11",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939393832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "375941",
+    "name": "De Cecco Spaghettoni quadrati 413",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939393737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46016",
+    "name": "Grand' Italia Spaghetti all'uovo",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830363437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419476",
+    "name": "Honig Spaghettini",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383234343938?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539972",
+    "name": "Knorr Tomaten spaghetti",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935303732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477354",
+    "name": "La Molisana Spaghetti",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363736363536?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575912",
+    "name": "Liguori Spaghetti no3",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733363439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438217",
+    "name": "Soubry Spelt spaghetti fijn",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303136393736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421618",
+    "name": "AH Spaghetti spelt",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393039393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167687",
+    "name": "Grand' Italia Spaghetti volkoren",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739383038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "58169",
+    "name": "AH Biologisch Volkoren spaghetti",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036323634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437648",
+    "name": "AH Gele linzen spaghetti",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409906",
+    "name": "De Cecco Spaghetti integrale",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939393938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566557",
+    "name": "Grand' Italia Spaghetti half volkoren",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739393136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419483",
+    "name": "Honig Spaghetti volkoren",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037313634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410850",
+    "name": "Soubry Haver spaghetti fijn bel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303137383134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Spaghetti, linguine",
+      "Spaghetti"
+    ],
+    "isFood": true
+  }
+]

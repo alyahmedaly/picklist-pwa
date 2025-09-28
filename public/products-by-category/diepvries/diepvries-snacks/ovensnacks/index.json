@@ -1,0 +1,96 @@
+{
+  "categoryPath": "Diepvries > Diepvries snacks > Ovensnacks",
+  "breadcrumbs": "Diepvries > Diepvries snacks > Ovensnacks",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kroket-oven",
+      "displayName": "Kroket Oven",
+      "productCount": 16,
+      "filePath": "kroket-oven.jsonl",
+      "indexPath": "kroket-oven-index.json",
+      "statsPath": "kroket-oven-stats.json",
+      "averageProtein": 5.9,
+      "halalCompliance": 44
+    },
+    {
+      "name": "bitterballen-oven",
+      "displayName": "Bitterballen Oven",
+      "productCount": 12,
+      "filePath": "bitterballen-oven.jsonl",
+      "indexPath": "bitterballen-oven-index.json",
+      "statsPath": "bitterballen-oven-stats.json",
+      "averageProtein": 5.6,
+      "halalCompliance": 42
+    },
+    {
+      "name": "kaashapjes-oven",
+      "displayName": "Kaashapjes Oven",
+      "productCount": 11,
+      "filePath": "kaashapjes-oven.jsonl",
+      "indexPath": "kaashapjes-oven-index.json",
+      "statsPath": "kaashapjes-oven-stats.json",
+      "averageProtein": 10.9,
+      "halalCompliance": 82
+    },
+    {
+      "name": "borrelmix-oven",
+      "displayName": "Borrelmix Oven",
+      "productCount": 9,
+      "filePath": "borrelmix-oven.jsonl",
+      "indexPath": "borrelmix-oven-index.json",
+      "statsPath": "borrelmix-oven-stats.json",
+      "averageProtein": 7,
+      "halalCompliance": 22
+    },
+    {
+      "name": "kaassouffle-oven",
+      "displayName": "Kaassouffle Oven",
+      "productCount": 6,
+      "filePath": "kaassouffle-oven.jsonl",
+      "indexPath": "kaassouffle-oven-index.json",
+      "statsPath": "kaassouffle-oven-stats.json",
+      "averageProtein": 6.8,
+      "halalCompliance": 0
+    },
+    {
+      "name": "mini-loempias",
+      "displayName": "Mini Loempias",
+      "productCount": 6,
+      "filePath": "mini-loempias.jsonl",
+      "indexPath": "mini-loempias-index.json",
+      "statsPath": "mini-loempias-stats.json",
+      "averageProtein": 6.9,
+      "halalCompliance": 33
+    }
+  ],
+  "totalProducts": 60,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 60,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Diepvries Snacks",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ovensnacks",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "diepvries/diepvries-snacks"
+  }
+}

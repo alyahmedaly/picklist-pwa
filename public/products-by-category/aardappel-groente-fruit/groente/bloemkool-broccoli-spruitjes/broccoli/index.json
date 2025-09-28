@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Bloemkool, broccoli, spruitjes > Broccoli",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Bloemkool, broccoli, spruitjes > Broccoli",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "broccoli-vers",
+      "displayName": "Broccoli Vers",
+      "productCount": 5,
+      "filePath": "broccoli-vers.jsonl",
+      "indexPath": "broccoli-vers-index.json",
+      "statsPath": "broccoli-vers-stats.json",
+      "averageProtein": 1.7,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bloemkool Broccoli Spruitjes",
+        "path": "../index.json"
+      },
+      {
+        "name": "Broccoli",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/bloemkool-broccoli-spruitjes"
+  }
+}

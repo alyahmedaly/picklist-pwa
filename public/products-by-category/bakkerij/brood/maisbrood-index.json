@@ -1,0 +1,62 @@
+[
+  {
+    "id": "561016",
+    "name": "AH Tijger tarwe maïs half",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838343432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Maisbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561937",
+    "name": "AH Tijger tarwe maïs half",
+    "price": 1.35,
+    "image": "NA",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Maisbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562107",
+    "name": "AH Tijger tarwe maïs half",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393930343334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Maisbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561017",
+    "name": "AH Tijger tarwe maïs heel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Maisbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562106",
+    "name": "AH Tijger tarwe maïs heel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131303635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Maisbrood"
+    ],
+    "isFood": true
+  }
+]

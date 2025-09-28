@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Groentemixen > Roerbakgroente",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Groentemixen > Roerbakgroente",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "roerbakmix-vers",
+      "displayName": "Roerbakmix Vers",
+      "productCount": 10,
+      "filePath": "roerbakmix-vers.jsonl",
+      "indexPath": "roerbakmix-vers-index.json",
+      "statsPath": "roerbakmix-vers-stats.json",
+      "averageProtein": 1.7,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 10,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groentemixen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Roerbakgroente",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/groentemixen"
+  }
+}

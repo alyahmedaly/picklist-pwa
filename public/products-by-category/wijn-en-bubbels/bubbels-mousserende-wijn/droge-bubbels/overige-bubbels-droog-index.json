@@ -1,0 +1,106 @@
+[
+  {
+    "id": "115199",
+    "name": "Lindeman's Bin 25 brut cuvée",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Overige bubbels (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130474",
+    "name": "Lindeman's Bin 30 sparkling rosé",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Overige bubbels (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570745",
+    "name": "Wijntje Bubbels bio",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431333533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Overige bubbels (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194765",
+    "name": "Antonin Rodet Cremant de bourgogne brut",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636383833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Overige bubbels (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494523",
+    "name": "Krone Borealis vintage cuvée brut",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373538383732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Overige bubbels (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494524",
+    "name": "Krone Vintage rosé cuvée brut",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373236353532?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Overige bubbels (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478719",
+    "name": "Le bijou Ma chérie rosé brut",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639373936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Overige bubbels (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222389",
+    "name": "Solatio Vino frizzante bianco",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313432343439?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Overige bubbels (Droog)"
+    ],
+    "isFood": true
+  }
+]

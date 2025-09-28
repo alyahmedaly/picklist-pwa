@@ -1,0 +1,81 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "belegen-kaas-broodbeleg",
+      "displayName": "Belegen Kaas Broodbeleg",
+      "productCount": 46,
+      "hasSubdirectories": false,
+      "indexPath": "belegen-kaas-broodbeleg/index.json"
+    },
+    {
+      "name": "jong-belegen-kaas-broodbeleg",
+      "displayName": "Jong Belegen Kaas Broodbeleg",
+      "productCount": 37,
+      "hasSubdirectories": false,
+      "indexPath": "jong-belegen-kaas-broodbeleg/index.json"
+    },
+    {
+      "name": "jonge-kaas-broodbeleg",
+      "displayName": "Jonge Kaas Broodbeleg",
+      "productCount": 34,
+      "hasSubdirectories": false,
+      "indexPath": "jonge-kaas-broodbeleg/index.json"
+    },
+    {
+      "name": "roomkaas",
+      "displayName": "Roomkaas",
+      "productCount": 31,
+      "hasSubdirectories": false,
+      "indexPath": "roomkaas/index.json"
+    },
+    {
+      "name": "oude-kaas-broodbeleg",
+      "displayName": "Oude Kaas Broodbeleg",
+      "productCount": 30,
+      "hasSubdirectories": false,
+      "indexPath": "oude-kaas-broodbeleg/index.json"
+    },
+    {
+      "name": "plakken-kaas",
+      "displayName": "Plakken Kaas",
+      "productCount": 26,
+      "hasSubdirectories": false,
+      "indexPath": "plakken-kaas/index.json"
+    },
+    {
+      "name": "extra-belegen-kaas-broodbeleg",
+      "displayName": "Extra Belegen Kaas Broodbeleg",
+      "productCount": 22,
+      "hasSubdirectories": false,
+      "indexPath": "extra-belegen-kaas-broodbeleg/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 226,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 226,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kaas Beleg",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "ontbijtgranen-en-beleg"
+  }
+}

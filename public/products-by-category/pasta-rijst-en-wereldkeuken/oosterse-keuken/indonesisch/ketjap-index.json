@@ -1,0 +1,158 @@
+[
+  {
+    "id": "388330",
+    "name": "ABC Sweet soy sauce",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536343335?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Ketjap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199109",
+    "name": "Vanka-Kawat Kaki tiga ketjap medja no.1",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373836323731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Ketjap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553371",
+    "name": "Samasaya Boemboe babi ketjap",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336393038?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Ketjap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "242674",
+    "name": "A Trade Mark Ketjap manis",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334393439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Ketjap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553343",
+    "name": "Go-Tan Ketjap manis",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237323639?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Ketjap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "152210",
+    "name": "Vanka-Kawat Ketjap manis",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373835393232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Ketjap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388293",
+    "name": "AH Ketjap manis",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030323236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Ketjap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532262",
+    "name": "BioFan Ketjap manis",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Ketjap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553427",
+    "name": "Kokki Djawa Ketjap asin",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433383939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Ketjap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167782",
+    "name": "Conimex Ketjap manis",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031373638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Ketjap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199175",
+    "name": "Conimex Ketjap manis",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Ketjap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "139801",
+    "name": "Conimex Ketjap manis premium",
+    "price": 4.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935353336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Ketjap"
+    ],
+    "isFood": true
+  }
+]

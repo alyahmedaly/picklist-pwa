@@ -1,0 +1,574 @@
+[
+  {
+    "id": "495903",
+    "name": "AH Gesneden verspakket poke bowl",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495901",
+    "name": "AH Gesneden verspakket oosterse nasi",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498545",
+    "name": "AH Japanse teriyaki verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630383331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570332",
+    "name": "AH Sajoer boontjes met gehakt verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331353238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582966",
+    "name": "AH Verspakket kerrie pie",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030323333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582604",
+    "name": "AH Biologisch Foe yong hai verspakket",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035343036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525237",
+    "name": "AH Gesneden verspakket oosterse bami",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838373231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549985",
+    "name": "AH Indiase tikka masala verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935313730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579959",
+    "name": "AH Gesneden verspakket gele curry",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399173",
+    "name": "AH Thaise groene curry verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517588",
+    "name": "AH Gesneden verspakket Japanse teriyaki",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233440",
+    "name": "AH Indiase curry madras verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440549",
+    "name": "AH Indiase tandoori verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579958",
+    "name": "AH Terra Gesneden verspakket dahl Indiaase stijl",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034383033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564236",
+    "name": "AH Indiase butter chicken verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734373330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579961",
+    "name": "AH Gesneden verspakket bulgogi bowl",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031373130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564214",
+    "name": "AH Gesneden verspakket Koreaanse bowl kip",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031323039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575098",
+    "name": "AH Aziatische groente traybake verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573894",
+    "name": "AH Gesneden Bami Verspakket",
+    "price": 11.2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632303939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583794",
+    "name": "AH Gesneden Bulgogi Bowl Verspakket",
+    "price": 13.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583792",
+    "name": "AH Gesneden Gele Curry Verspakket",
+    "price": 13.87,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540184",
+    "name": "AH Gesneden Japanse Teriyaki Verspakket",
+    "price": 13.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567928",
+    "name": "AH Gesneden Koreaanse Bowl Verspakket",
+    "price": 9.81,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514393",
+    "name": "AH Gesneden Pokebowl Verspakket",
+    "price": 11.23,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568302",
+    "name": "AH Indiase Curry Madras Verspakket",
+    "price": 12.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235303033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551126",
+    "name": "AH Indiase Tikka Masala Verspakket",
+    "price": 13.86,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551104",
+    "name": "AH Japanse Teriyaki Verspakket",
+    "price": 12.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439383435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570600",
+    "name": "AH Sajoer Boontjes Verspakket",
+    "price": 11.37,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433373238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583753",
+    "name": "AH Terra Gesneden Dahl Verspakket",
+    "price": 8.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567923",
+    "name": "AH Thaise Groene Curry Verspakket",
+    "price": 12.37,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573855",
+    "name": "AH Vega Gesneden Bami Verspakket",
+    "price": 10.57,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632313033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583793",
+    "name": "AH Vega Gesneden Gele Curry Verspakket",
+    "price": 10.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567926",
+    "name": "AH Vega Gesneden Koreaanse Bowl Verspakket",
+    "price": 10.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230383834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576352",
+    "name": "AH Vega Gesneden Nasi Verspakket",
+    "price": 10.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136323637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553095",
+    "name": "AH Vega Gesneden Poke Bowl Verspakket",
+    "price": 10.43,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569871",
+    "name": "AH Vega Gesneden Shakshuka Verspakket",
+    "price": 9.08,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337303336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576162",
+    "name": "AH Vega Gesneden Teriyaki Verspakket",
+    "price": 9.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568303",
+    "name": "AH Vega Indiase Curry Madras Verspakket",
+    "price": 9.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234393234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571247",
+    "name": "AH Vega Indiase Tandoori Verspakket",
+    "price": 9.66,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436363936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551125",
+    "name": "AH Vega Indiase Tikka Masala Verspakket",
+    "price": 9.96,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567925",
+    "name": "AH Vega Japanse Teriyaki Verspakket",
+    "price": 9.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583746",
+    "name": "AH Vega Kerrie Pie Verspakket",
+    "price": 9.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570599",
+    "name": "AH Vega Sajoer Boontjes Verspakket",
+    "price": 9.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433373237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551085",
+    "name": "AH Vega Thaise Groene Curry Verspakket",
+    "price": 10.57,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237333530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Oosterse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  }
+]

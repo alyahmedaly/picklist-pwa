@@ -1,0 +1,80 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Snel snacken",
+  "breadcrumbs": "Salades, pizza, maaltijden > Snel snacken",
+  "subdirectories": [
+    {
+      "name": "saucijzenbroodjes",
+      "displayName": "Saucijzenbroodjes",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "saucijzenbroodjes/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "overige",
+      "displayName": "Overige",
+      "productCount": 18,
+      "filePath": "overige.jsonl",
+      "indexPath": "overige-index.json",
+      "statsPath": "overige-stats.json",
+      "averageProtein": 9.3,
+      "halalCompliance": 28
+    },
+    {
+      "name": "focaccia",
+      "displayName": "Focaccia",
+      "productCount": 14,
+      "filePath": "focaccia.jsonl",
+      "indexPath": "focaccia-index.json",
+      "statsPath": "focaccia-stats.json",
+      "averageProtein": 6.3,
+      "halalCompliance": 64
+    },
+    {
+      "name": "bapao",
+      "displayName": "Bapao",
+      "productCount": 12,
+      "filePath": "bapao.jsonl",
+      "indexPath": "bapao-index.json",
+      "statsPath": "bapao-stats.json",
+      "averageProtein": 6.6,
+      "halalCompliance": 67
+    },
+    {
+      "name": "halal-snacks-vers",
+      "displayName": "Halal Snacks Vers",
+      "productCount": 11,
+      "filePath": "halal-snacks-vers.jsonl",
+      "indexPath": "halal-snacks-vers-index.json",
+      "statsPath": "halal-snacks-vers-stats.json",
+      "averageProtein": 8.4,
+      "halalCompliance": 64
+    }
+  ],
+  "totalProducts": 60,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 60,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Snel Snacken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "salades-pizza-maaltijden"
+  }
+}

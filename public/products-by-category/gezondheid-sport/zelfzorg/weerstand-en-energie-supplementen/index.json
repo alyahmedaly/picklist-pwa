@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Gezondheid, sport > Zelfzorg > Weerstand en energie supplementen",
+  "breadcrumbs": "Gezondheid, sport > Zelfzorg > Weerstand en energie supplementen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "weerstand",
+      "displayName": "Weerstand",
+      "productCount": 17,
+      "filePath": "weerstand.jsonl",
+      "indexPath": "weerstand-index.json",
+      "statsPath": "weerstand-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 82
+    },
+    {
+      "name": "energie",
+      "displayName": "Energie",
+      "productCount": 8,
+      "filePath": "energie.jsonl",
+      "indexPath": "energie-index.json",
+      "statsPath": "energie-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 75
+    }
+  ],
+  "totalProducts": 25,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 25,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Zelfzorg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Weerstand En Energie Supplementen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "gezondheid-sport/zelfzorg"
+  }
+}

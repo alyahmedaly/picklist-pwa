@@ -1,0 +1,129 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "spaghetti-linguine",
+      "displayName": "Spaghetti Linguine",
+      "productCount": 30,
+      "hasSubdirectories": false,
+      "indexPath": "spaghetti-linguine/index.json"
+    },
+    {
+      "name": "penne-rigatoni",
+      "displayName": "Penne Rigatoni",
+      "productCount": 24,
+      "hasSubdirectories": false,
+      "indexPath": "penne-rigatoni/index.json"
+    },
+    {
+      "name": "macaroni-maccheroncini",
+      "displayName": "Macaroni Maccheroncini",
+      "productCount": 14,
+      "hasSubdirectories": false,
+      "indexPath": "macaroni-maccheroncini/index.json"
+    },
+    {
+      "name": "farfalle-schelpjes-orecchiette",
+      "displayName": "Farfalle Schelpjes Orecchiette",
+      "productCount": 13,
+      "hasSubdirectories": false,
+      "indexPath": "farfalle-schelpjes-orecchiette/index.json"
+    },
+    {
+      "name": "tagliatelle-pappardelle",
+      "displayName": "Tagliatelle Pappardelle",
+      "productCount": 9,
+      "hasSubdirectories": false,
+      "indexPath": "tagliatelle-pappardelle/index.json"
+    },
+    {
+      "name": "gevulde-pasta",
+      "displayName": "Gevulde Pasta",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "gevulde-pasta/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "fusilli-casareccia",
+      "displayName": "Fusilli Casareccia",
+      "productCount": 15,
+      "filePath": "fusilli-casareccia.jsonl",
+      "indexPath": "fusilli-casareccia-index.json",
+      "statsPath": "fusilli-casareccia-stats.json",
+      "averageProtein": 13.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "lasagnebladen",
+      "displayName": "Lasagnebladen",
+      "productCount": 10,
+      "filePath": "lasagnebladen.jsonl",
+      "indexPath": "lasagnebladen-index.json",
+      "statsPath": "lasagnebladen-stats.json",
+      "averageProtein": 12.9,
+      "halalCompliance": 100
+    },
+    {
+      "name": "glutenvrije-pasta",
+      "displayName": "Glutenvrije Pasta",
+      "productCount": 8,
+      "filePath": "glutenvrije-pasta.jsonl",
+      "indexPath": "glutenvrije-pasta-index.json",
+      "statsPath": "glutenvrije-pasta-stats.json",
+      "averageProtein": 6.5,
+      "halalCompliance": 75
+    },
+    {
+      "name": "orzo-riso",
+      "displayName": "Orzo Riso",
+      "productCount": 7,
+      "filePath": "orzo-riso.jsonl",
+      "indexPath": "orzo-riso-index.json",
+      "statsPath": "orzo-riso-stats.json",
+      "averageProtein": 12.8,
+      "halalCompliance": 100
+    },
+    {
+      "name": "vermicelli",
+      "displayName": "Vermicelli",
+      "productCount": 6,
+      "filePath": "vermicelli.jsonl",
+      "indexPath": "vermicelli-index.json",
+      "statsPath": "vermicelli-stats.json",
+      "averageProtein": 10,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 141,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 141,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Pasta Rijst Noedels",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pasta",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/pasta-rijst-noedels"
+  }
+}

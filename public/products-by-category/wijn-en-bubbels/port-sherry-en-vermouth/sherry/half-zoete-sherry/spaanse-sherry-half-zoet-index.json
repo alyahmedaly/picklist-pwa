@@ -1,0 +1,72 @@
+[
+  {
+    "id": "135954",
+    "name": "Gonzalez Byass Nectar Pedro Ximenez dulce",
+    "price": 8.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Port, sherry en vermouth",
+      "Sherry",
+      "Half zoete sherry",
+      "Spaanse sherry (half zoet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2701",
+    "name": "Domecq Sherry medium dry",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373833393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Port, sherry en vermouth",
+      "Sherry",
+      "Half zoete sherry",
+      "Spaanse sherry (half zoet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1446",
+    "name": "Jerez Sherry 887 medium",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303133373833?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Port, sherry en vermouth",
+      "Sherry",
+      "Half zoete sherry",
+      "Spaanse sherry (half zoet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "34347",
+    "name": "Jerez Sherry medium",
+    "price": 4.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734323435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Port, sherry en vermouth",
+      "Sherry",
+      "Half zoete sherry",
+      "Spaanse sherry (half zoet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "69556",
+    "name": "Los Cisnes Cream sherry",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Port, sherry en vermouth",
+      "Sherry",
+      "Half zoete sherry",
+      "Spaanse sherry (half zoet)"
+    ],
+    "isFood": true
+  }
+]

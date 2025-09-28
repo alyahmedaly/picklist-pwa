@@ -1,0 +1,74 @@
+[
+  {
+    "id": "564067",
+    "name": "AH Excellent Selectie shiraz alcoholvrij",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234353634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Alcoholvrije rode wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481747",
+    "name": "Lindeman's Rood alcoholvrij",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Alcoholvrije rode wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465840",
+    "name": "Viverty Cabernet Sauvignon Alcvrij ds",
+    "price": 26.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353835313839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Alcoholvrije rode wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171626",
+    "name": "Faber Cabernet Sauvignon alcoholvrij",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373234343430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Alcoholvrije rode wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481749",
+    "name": "Free Feather Merlot Alcoholvrij",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373335313635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Alcoholvrije rode wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187043",
+    "name": "Torres Natureo red alcoholvrij",
+    "price": 8.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383332373930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Alcoholvrije rode wijn"
+    ],
+    "isFood": true
+  }
+]

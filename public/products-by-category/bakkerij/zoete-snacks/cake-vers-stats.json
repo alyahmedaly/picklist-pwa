@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Zoete snacks > Cake (vers)",
+  "breadcrumbs": "Bakkerij > Zoete snacks > Cake (vers)",
+  "totalProducts": 10,
+  "halalCompliance": 20,
+  "averageProtein": 6.1,
+  "averagePrice": 2.52,
+  "highProteinProducts": 1,
+  "dataQuality": {
+    "withNutrition": 10,
+    "withIngredients": 10,
+    "withHalalCheck": 10
+  }
+}

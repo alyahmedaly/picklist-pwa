@@ -1,0 +1,50 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Pepermunt, keelpastilles",
+  "breadcrumbs": "Snoep, chocolade, koek > Pepermunt, keelpastilles",
+  "subdirectories": [
+    {
+      "name": "pepermunt",
+      "displayName": "Pepermunt",
+      "productCount": 45,
+      "hasSubdirectories": false,
+      "indexPath": "pepermunt/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "keelpastilles",
+      "displayName": "Keelpastilles",
+      "productCount": 42,
+      "filePath": "keelpastilles.jsonl",
+      "indexPath": "keelpastilles-index.json",
+      "statsPath": "keelpastilles-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 81
+    }
+  ],
+  "totalProducts": 87,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 87,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pepermunt Keelpastilles",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "snoep-chocolade-koek"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "plantaardige-drinks",
+      "displayName": "Plantaardige Drinks",
+      "productCount": 92,
+      "hasSubdirectories": false,
+      "indexPath": "plantaardige-drinks/index.json"
+    },
+    {
+      "name": "plantaardige-yoghurt",
+      "displayName": "Plantaardige Yoghurt",
+      "productCount": 35,
+      "hasSubdirectories": false,
+      "indexPath": "plantaardige-yoghurt/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "plantaardige-room",
+      "displayName": "Plantaardige Room",
+      "productCount": 14,
+      "filePath": "plantaardige-room.jsonl",
+      "indexPath": "plantaardige-room-index.json",
+      "statsPath": "plantaardige-room-stats.json",
+      "averageProtein": 1.3,
+      "halalCompliance": 71
+    },
+    {
+      "name": "plantaardige-toetjes",
+      "displayName": "Plantaardige Toetjes",
+      "productCount": 8,
+      "filePath": "plantaardige-toetjes.jsonl",
+      "indexPath": "plantaardige-toetjes-index.json",
+      "statsPath": "plantaardige-toetjes-stats.json",
+      "averageProtein": 2,
+      "halalCompliance": 25
+    },
+    {
+      "name": "plantaardige-kwark",
+      "displayName": "Plantaardige Kwark",
+      "productCount": 6,
+      "filePath": "plantaardige-kwark.jsonl",
+      "indexPath": "plantaardige-kwark-index.json",
+      "statsPath": "plantaardige-kwark-stats.json",
+      "averageProtein": 6.1,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 155,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 155,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vegetarisch Vegan En Plantaardig",
+        "path": "../index.json"
+      },
+      {
+        "name": "Plantaardige Zuivel Alternatieven",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "vegetarisch-vegan-en-plantaardig"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Snoep > Zachte snoep > Zure gums",
+  "breadcrumbs": "Snoep, chocolade, koek > Snoep > Zachte snoep > Zure gums",
+  "totalProducts": 28,
+  "halalCompliance": 57,
+  "averageProtein": 2.3,
+  "averagePrice": 2.41,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 25,
+    "withIngredients": 28,
+    "withHalalCheck": 28
+  }
+}

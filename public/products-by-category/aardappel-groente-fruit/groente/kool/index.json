@@ -1,0 +1,64 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "rode-kool",
+      "displayName": "Rode Kool",
+      "productCount": 14,
+      "hasSubdirectories": false,
+      "indexPath": "rode-kool/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "zuurkool",
+      "displayName": "Zuurkool",
+      "productCount": 8,
+      "filePath": "zuurkool.jsonl",
+      "indexPath": "zuurkool-index.json",
+      "statsPath": "zuurkool-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 50
+    },
+    {
+      "name": "witte-kool-chinese-kool-en-koolrabi",
+      "displayName": "Witte Kool Chinese Kool En Koolrabi",
+      "productCount": 5,
+      "filePath": "witte-kool-chinese-kool-en-koolrabi.jsonl",
+      "indexPath": "witte-kool-chinese-kool-en-koolrabi-index.json",
+      "statsPath": "witte-kool-chinese-kool-en-koolrabi-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 20
+    }
+  ],
+  "totalProducts": 27,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 27,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kool",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/groente"
+  }
+}

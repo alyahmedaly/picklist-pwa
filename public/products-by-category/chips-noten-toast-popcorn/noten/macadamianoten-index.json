@@ -1,0 +1,98 @@
+[
+  {
+    "id": "559264",
+    "name": "AH Gezouten macadamia mix",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Macadamianoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487231",
+    "name": "AH Macadamiamix gezouten",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533303139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Macadamianoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559302",
+    "name": "AH Macadamiamix gezouten",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532343233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Macadamianoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457235",
+    "name": "AH Ongezouten macadamia's geroosterd",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534393832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Macadamianoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559265",
+    "name": "AH Ongezouten macadamia mix",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Macadamianoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487230",
+    "name": "AH Macadamiamix ongezouten",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Macadamianoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576349",
+    "name": "AH Ongezouten macadamia mix",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Macadamianoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559301",
+    "name": "AH Ongezouten macadamiamix",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532343239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Macadamianoten"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Hartige taart, quiches",
+  "breadcrumbs": "Salades, pizza, maaltijden > Hartige taart, quiches",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "quiches",
+      "displayName": "Quiches",
+      "productCount": 7,
+      "filePath": "quiches.jsonl",
+      "indexPath": "quiches-index.json",
+      "statsPath": "quiches-stats.json",
+      "averageProtein": 8.3,
+      "halalCompliance": 86
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Hartige Taart Quiches",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "salades-pizza-maaltijden"
+  }
+}

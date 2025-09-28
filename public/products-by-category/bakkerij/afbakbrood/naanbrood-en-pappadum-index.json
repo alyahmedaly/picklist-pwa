@@ -1,0 +1,194 @@
+[
+  {
+    "id": "237973",
+    "name": "Patak's Pappadums naturel kant-en-klaar",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363534313430?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449956",
+    "name": "Patak's Mini naan garlic & coriander",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236363430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553535",
+    "name": "Patak's Pappadum snack lightly salted",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335353436?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449955",
+    "name": "Patak's Mini naan plain",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236363431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450186",
+    "name": "Patak's Naan plain",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236363339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408924",
+    "name": "Patak's Pappadums garlic coriander kant en klaar",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363637343934?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553582",
+    "name": "AH Mini naanbrood naturel",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339333232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553585",
+    "name": "AH Naanbrood naturel",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339333233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450187",
+    "name": "Patak's Naan garlic & coriander",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236363432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553584",
+    "name": "AH Mini naanbrood knoflook koriander",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339333231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498341",
+    "name": "AH Naanbrood",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735363538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553583",
+    "name": "AH Naanbrood knoflook koriander",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518437",
+    "name": "By Soenil Surinaams platbrood",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518427",
+    "name": "By Soenil Surinaams platbrood knoflook & koriander",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636373235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582213",
+    "name": "AH Mini naan brood volkoren",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936373138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568284",
+    "name": "AH Naanbrood 2-pack",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Naanbrood en pappadum"
+    ],
+    "isFood": true
+  }
+]

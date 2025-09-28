@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Wijn en bubbels > Port, sherry en vermouth > Sherry > Half zoete sherry",
+  "breadcrumbs": "Wijn en bubbels > Port, sherry en vermouth > Sherry > Half zoete sherry",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "spaanse-sherry-half-zoet",
+      "displayName": "Spaanse Sherry Half Zoet",
+      "productCount": 5,
+      "filePath": "spaanse-sherry-half-zoet.jsonl",
+      "indexPath": "spaanse-sherry-half-zoet-index.json",
+      "statsPath": "spaanse-sherry-half-zoet-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Port Sherry En Vermouth",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Sherry",
+        "path": "../index.json"
+      },
+      {
+        "name": "Half Zoete Sherry",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "wijn-en-bubbels/port-sherry-en-vermouth/sherry"
+  }
+}

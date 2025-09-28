@@ -1,0 +1,184 @@
+[
+  {
+    "id": "538254",
+    "name": "Bonduelle Crispy maïs chili",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538363633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Mais",
+      "Maiskorrels (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583799",
+    "name": "AH Biologisch Maiskorrels 0% zout toegevoegd",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Mais",
+      "Maiskorrels (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509350",
+    "name": "AH Maiskorrels fris en crispy 2 kleintjes",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936383239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Mais",
+      "Maiskorrels (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509288",
+    "name": "AH Maiskorrels fris en knapperig 3-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393139303038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Mais",
+      "Maiskorrels (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3537",
+    "name": "Bonduelle Crispy maïs",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434353139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Mais",
+      "Maiskorrels (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104064",
+    "name": "Bonduelle Crispy maïs",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438313634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Mais",
+      "Maiskorrels (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401382",
+    "name": "Bonduelle Crispy maïs 2 mini's",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434313030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Mais",
+      "Maiskorrels (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "521065",
+    "name": "Bonduelle Crispy maïs 3-pack voordeel",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535323430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Mais",
+      "Maiskorrels (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "182994",
+    "name": "Bonduelle Crispy mais bio",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538363535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Mais",
+      "Maiskorrels (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "182993",
+    "name": "Bonduelle Crispy maïs bio",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538363733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Mais",
+      "Maiskorrels (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "101170",
+    "name": "AH Biologisch Maïskorrels",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136373030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Mais",
+      "Maiskorrels (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "800",
+    "name": "AH Maiskorrels fris en knapperig",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338383136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Mais",
+      "Maiskorrels (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485769",
+    "name": "Bonduelle Crispy mais 0% zout toegevoegd",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535393739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Mais",
+      "Maiskorrels (conserven)"
+    ],
+    "isFood": true
+  }
+]

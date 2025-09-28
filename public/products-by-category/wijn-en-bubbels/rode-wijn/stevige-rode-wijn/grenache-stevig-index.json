@@ -1,0 +1,80 @@
+[
+  {
+    "id": "161982",
+    "name": "Domaine grand Tinel Châteauneuf-du-pape rouge",
+    "price": 27.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733393337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Grenache (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "93570",
+    "name": "Sangre de Toro Reserva",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133313437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Grenache (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "363029",
+    "name": "Campo Viejo Rioja garnacha",
+    "price": 7.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437393733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Grenache (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365206",
+    "name": "E. Guigal Châteauneuf-du-pape",
+    "price": 38.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234363638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Grenache (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234653",
+    "name": "E. Guigal Gigondas",
+    "price": 21.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234363639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Grenache (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173519",
+    "name": "Gabriel Meffre Vacqueyras Saint-Barthélémy",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353732303333?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Grenache (Stevig)"
+    ],
+    "isFood": true
+  }
+]

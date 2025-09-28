@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Koek > Glutenvrije koek",
+  "breadcrumbs": "Snoep, chocolade, koek > Koek > Glutenvrije koek",
+  "totalProducts": 32,
+  "halalCompliance": 25,
+  "averageProtein": 5.8,
+  "averagePrice": 3.14,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 32,
+    "withIngredients": 32,
+    "withHalalCheck": 32
+  }
+}

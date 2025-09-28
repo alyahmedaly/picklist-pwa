@@ -1,0 +1,119 @@
+[
+  {
+    "id": "53734",
+    "name": "AH Extra lang lekker tijger bruin half",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Dagvers bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "112339",
+    "name": "AH Extra lang lekker tijger bruin heel",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Dagvers bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582989",
+    "name": "AH Extra lang lekker Zaans bruin half",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Dagvers bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582988",
+    "name": "AH Extra lang lekker Zaans bruin heel",
+    "price": 1.7,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032353031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Dagvers bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "117841",
+    "name": "AH Oberlander",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Dagvers bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "512389",
+    "name": "AH Waldkorn authentic half",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Dagvers bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "512387",
+    "name": "AH Waldkorn authentic heel",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332383533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Dagvers bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573752",
+    "name": "AH Biologisch Zaans meergranen bruin half",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Dagvers bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573750",
+    "name": "AH Biologisch Zaans meergranen bruin heel",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Bruin brood",
+      "Dagvers bruin"
+    ],
+    "isFood": true
+  }
+]

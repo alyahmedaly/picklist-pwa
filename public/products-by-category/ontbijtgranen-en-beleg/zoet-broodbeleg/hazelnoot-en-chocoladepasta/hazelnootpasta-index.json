@@ -1,0 +1,379 @@
+[
+  {
+    "id": "119026",
+    "name": "AH Choco spread duo",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383839373234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162018",
+    "name": "AH Duo pasta hazelnoot wit",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735353932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "55730",
+    "name": "AH Duopasta hazelnoot wit",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383639323035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161616",
+    "name": "Duo Penotti Hazelnoot & vanille",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232323130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450619",
+    "name": "Duo Penotti Hazelnoot & vanille",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232323039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450768",
+    "name": "Duo Penotti Hazelnoot & vanille",
+    "price": 2.77,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232323132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370829",
+    "name": "Nutella Cups",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530393735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2406",
+    "name": "Nutella Hazelnootpasta",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233383336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "32918",
+    "name": "Nutella Hazelnootpasta",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231303832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167907",
+    "name": "Nutella Hazelnootpasta",
+    "price": 6.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231313431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513475",
+    "name": "Nutella Hazelnootpasta",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530393034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563633",
+    "name": "Uno Penotti Wit met geroosterde amandelen",
+    "price": 2.47,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563632",
+    "name": "Uno Penotti Praliné hazelnootpasta",
+    "price": 2.47,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230353238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207676",
+    "name": "AH Biologisch Hazelnootpasta",
+    "price": 3.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834353834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162019",
+    "name": "AH Hazelnootpasta",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635383132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479179",
+    "name": "Milka Hazelnootpasta met chocolade",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363632353839?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479583",
+    "name": "Milka Hazelnootpasta met chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363632353836?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469800",
+    "name": "So Vegan So Fine Hazelnootpasta",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353938333231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "511061",
+    "name": "Bonne Maman Hazelnootpasta",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933363538?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563955",
+    "name": "Nocciolata Cacao- en hazelnootpasta zonder melk",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131353530?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563954",
+    "name": "Nocciolata Cacao- en hazelnootpasta zonder palmolie",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131353439?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "511062",
+    "name": "Bonne Maman Hazelnootpasta",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933363537?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563956",
+    "name": "Nocciolata Crunchy hazelnootpasta zonder palmolie",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131353531?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563624",
+    "name": "So Vegan So Fine Witte hazelnootpasta",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537363834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563957",
+    "name": "Nocciolata Bianca hazelnootpasta zonder palmolie",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131353438?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557087",
+    "name": "AH Hazelnootpasta zonder toegevoegde suiker",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231363430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212303",
+    "name": "Duo Penotti Hazelnoot & karamel",
+    "price": 2.77,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230353237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532254",
+    "name": "Flower Farm Hazelnootpasta zonder palmolie",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131353133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479180",
+    "name": "OriNoko Hazelnootpasta",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373230343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Hazelnootpasta"
+    ],
+    "isFood": true
+  }
+]

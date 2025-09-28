@@ -1,0 +1,132 @@
+[
+  {
+    "id": "121432",
+    "name": "Ouwehand Zoetzure haring",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363931393431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Haring (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197685",
+    "name": "Ouwehand Zure haring",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363931393337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Haring (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "200104",
+    "name": "Statesman Haringfilets in tomatensaus",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432393133?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Haring (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "172763",
+    "name": "Ouwehand Braadharing",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363932323634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Haring (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496945",
+    "name": "Princes Haring in milde tomatensaus",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383437313637?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Haring (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410025",
+    "name": "John West Haringfilets in tomatensaus",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535323735?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Haring (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496873",
+    "name": "Fish Tales Haring in tomatensaus",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434333034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Haring (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "53543",
+    "name": "Ouwehand Rolmops",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363932323631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Haring (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "53542",
+    "name": "Ouwehand Zure haring",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363931393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Haring (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "241731",
+    "name": "Ouwehand Zure haring",
+    "price": 3.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363931393336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Haring (conserven)"
+    ],
+    "isFood": true
+  }
+]

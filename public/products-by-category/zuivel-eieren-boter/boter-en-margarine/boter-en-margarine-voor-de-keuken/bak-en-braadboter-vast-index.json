@@ -1,0 +1,171 @@
+[
+  {
+    "id": "122553",
+    "name": "Croma Bakken en braden",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236313139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Bak- en braadboter (vast)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558305",
+    "name": "Croma Bakken en braden voordeelpak",
+    "price": 3.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238363735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Bak- en braadboter (vast)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "31482",
+    "name": "Blue Band Voor koken, bakken en braden voordeelpak",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436383833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Bak- en braadboter (vast)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484958",
+    "name": "Flower Farm Bakken zonder palm",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363932373430?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Bak- en braadboter (vast)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465866",
+    "name": "AH Bak en braad",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734373134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Bak- en braadboter (vast)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171210",
+    "name": "Campina Botergoud bakken & braden roomboter",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337373835?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Bak- en braadboter (vast)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514733",
+    "name": "AH Bak en braad",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531393632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Bak- en braadboter (vast)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446967",
+    "name": "AH Geklaarde boter",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Bak- en braadboter (vast)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466153",
+    "name": "Lois Harmony Bio ghee geklaarde boter",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353734303233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Bak- en braadboter (vast)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514804",
+    "name": "Bertolli Ongezouten",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334333638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Bak- en braadboter (vast)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3834",
+    "name": "Blue Band Voor koken, bakken en braden",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383839313034?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Bak- en braadboter (vast)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "109283",
+    "name": "Croma Smeltjus",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236313138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Bak- en braadboter (vast)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408067",
+    "name": "Khanum Butter ghee",
+    "price": 9.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234323832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Bak- en braadboter (vast)"
+    ],
+    "isFood": true
+  }
+]

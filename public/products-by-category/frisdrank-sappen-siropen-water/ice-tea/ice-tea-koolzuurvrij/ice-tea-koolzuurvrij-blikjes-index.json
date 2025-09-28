@@ -1,0 +1,353 @@
+[
+  {
+    "id": "362268",
+    "name": "Lipton Ice tea green",
+    "price": 1.01,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477053",
+    "name": "AH Ice tea refreshing green 12-pack",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393234333133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518906",
+    "name": "Arizona Green tea peach",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535343530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415307",
+    "name": "Arizona Iced tea with peach flavour",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334343331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415304",
+    "name": "Arizona Original green tea with honey",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332333232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437897",
+    "name": "Fuze Tea Black ice tea peach hibiscus",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437910",
+    "name": "Fuze Tea Black ice tea peach hibiscus 4-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438303038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553749",
+    "name": "Fuze Tea Green ice tea",
+    "price": 24.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636323139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437898",
+    "name": "Fuze Tea Green ice tea mango chamomile",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337333330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437911",
+    "name": "Fuze Tea Green ice tea mango chamomile 4-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438303131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496983",
+    "name": "Lipton Ice tea green",
+    "price": 0.9,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839323739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496999",
+    "name": "Lipton Ice tea green 4-pack",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839323938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569111",
+    "name": "Lipton Ice tea green lemon",
+    "price": 0.9,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839323633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569112",
+    "name": "Lipton Ice tea green lemon 4-pack",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838393435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496891",
+    "name": "Lipton Ice tea peach",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838393434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496902",
+    "name": "Lipton Ice tea peach 4-pack",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839323439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569107",
+    "name": "Lipton Ice tea green zero sugar",
+    "price": 0.9,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839323435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569108",
+    "name": "Lipton Ice tea green zero sugar 4-pack",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839323630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569105",
+    "name": "Lipton Ice tea peach zero sugar",
+    "price": 0.9,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838393438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569106",
+    "name": "Lipton Ice tea peach zero sugar 4-pack",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838393439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562286",
+    "name": "Clipper Lemon ginger rooibos",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568446",
+    "name": "Clipper Mint lemon lime",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532373435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562287",
+    "name": "Clipper Chamomile peach orange",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434363437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568047",
+    "name": "Fuze Tea Green Ice Tea 2-tray pakket",
+    "price": 45.77,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576123",
+    "name": "Fuze Tea Green Ice Tea 3-tray pakket",
+    "price": 65.04,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736363136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578627",
+    "name": "Lipton green 12-pack",
+    "price": 9.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936343234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578629",
+    "name": "Lipton peach 12-pack",
+    "price": 8.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936343236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurvrij",
+      "Ice tea koolzuurvrij (blikjes)"
+    ],
+    "isFood": true
+  }
+]

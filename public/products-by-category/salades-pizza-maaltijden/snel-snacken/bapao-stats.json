@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Snel snacken > Bapao",
+  "breadcrumbs": "Salades, pizza, maaltijden > Snel snacken > Bapao",
+  "totalProducts": 12,
+  "halalCompliance": 67,
+  "averageProtein": 6.6,
+  "averagePrice": 2.13,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 10,
+    "withIngredients": 10,
+    "withHalalCheck": 10
+  }
+}

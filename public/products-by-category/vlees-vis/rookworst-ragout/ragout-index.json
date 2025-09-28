@@ -1,0 +1,134 @@
+[
+  {
+    "id": "189610",
+    "name": "Jos Poell Mini pasteitjes",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363636313035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Ragout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "200103",
+    "name": "Jos Poell Pasteitjes traditioneel",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131363132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Ragout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "404029",
+    "name": "Jos Poell Krokante cupjes naturel",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363732313733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Ragout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560827",
+    "name": "Streeckgenoten Kippenragout op ambachtelijke wijze",
+    "price": 5.59,
+    "image": "NA",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Ragout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123855",
+    "name": "Unox Kipragout",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837313930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Ragout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123804",
+    "name": "Unox Ragout champignon",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393936343139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Ragout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "33269",
+    "name": "AH Champignonragout",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Ragout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1545",
+    "name": "AH Kippenragout",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Ragout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1542",
+    "name": "AH Kalfsragout",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Ragout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199388",
+    "name": "Streeckgenoten Kippenragout",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535373734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Ragout"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "30929",
+    "name": "AH Rundvleesragout",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Ragout"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "583529",
+    "name": "AH Gesneden verspakket plaattaart rode biet",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630333338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Hollandse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567599",
+    "name": "AH Gesneden verspakket plaattaart groente",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Hollandse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "537159",
+    "name": "AH Groentestoof geitenkaas verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Hollandse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579957",
+    "name": "AH Gesneden verspakket snelle stamppot",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Hollandse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583789",
+    "name": "AH Gesneden Snelle Stampot Verspakket",
+    "price": 11.92,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Hollandse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "584210",
+    "name": "AH Gesneden verspakket knolselderij prei",
+    "price": 12.43,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138373930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Hollandse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "584209",
+    "name": "AH Gesneden verspakket plaattaart",
+    "price": 9.18,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138373839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Hollandse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567904",
+    "name": "AH Groentestoof GeitenKaas Verspakket",
+    "price": 11.66,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234393631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Hollandse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583790",
+    "name": "AH Vega Gesneden Snelle Stamppot Verspakket",
+    "price": 9.48,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Hollandse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540209",
+    "name": "AH Vega Groentestoof Geitenkaas Verspakket",
+    "price": 8.67,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Hollandse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  }
+]

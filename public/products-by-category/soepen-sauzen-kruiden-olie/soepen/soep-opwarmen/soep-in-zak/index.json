@@ -1,0 +1,80 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Soepen > Soep (opwarmen) > Soep in zak",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Soepen > Soep (opwarmen) > Soep in zak",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "tomatensoep-in-zak",
+      "displayName": "Tomatensoep In Zak",
+      "productCount": 22,
+      "filePath": "tomatensoep-in-zak.jsonl",
+      "indexPath": "tomatensoep-in-zak-index.json",
+      "statsPath": "tomatensoep-in-zak-stats.json",
+      "averageProtein": 2.9,
+      "halalCompliance": 68
+    },
+    {
+      "name": "groentesoep-in-zak",
+      "displayName": "Groentesoep In Zak",
+      "productCount": 9,
+      "filePath": "groentesoep-in-zak.jsonl",
+      "indexPath": "groentesoep-in-zak-index.json",
+      "statsPath": "groentesoep-in-zak-stats.json",
+      "averageProtein": 1.8,
+      "halalCompliance": 89
+    },
+    {
+      "name": "champignonsoep-in-zak",
+      "displayName": "Champignonsoep In Zak",
+      "productCount": 6,
+      "filePath": "champignonsoep-in-zak.jsonl",
+      "indexPath": "champignonsoep-in-zak-index.json",
+      "statsPath": "champignonsoep-in-zak-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 83
+    },
+    {
+      "name": "erwtensoep-in-zak",
+      "displayName": "Erwtensoep In Zak",
+      "productCount": 5,
+      "filePath": "erwtensoep-in-zak.jsonl",
+      "indexPath": "erwtensoep-in-zak-index.json",
+      "statsPath": "erwtensoep-in-zak-stats.json",
+      "averageProtein": 5.9,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 42,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 42,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Soepen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Soep Opwarmen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Soep In Zak",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "soepen-sauzen-kruiden-olie/soepen/soep-opwarmen"
+  }
+}

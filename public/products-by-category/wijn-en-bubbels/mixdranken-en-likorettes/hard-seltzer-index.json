@@ -1,0 +1,314 @@
+[
+  {
+    "id": "494465",
+    "name": "Viper Hard seltzer lime",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393239303036?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533228",
+    "name": "Viper Hard seltzer peach",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393239303038?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574295",
+    "name": "Viper Hard seltzer tropical cherry 4-pack",
+    "price": 8.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534383436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572698",
+    "name": "Viper Hard seltzer variety 4-pack",
+    "price": 8.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534383437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519125",
+    "name": "Viper Hard seltzer variety 6-pack",
+    "price": 11.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534383435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519070",
+    "name": "Bozu Hard ice tea lemon ginger",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519102",
+    "name": "Bozu Hard ice tea peach hibiscus",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738313637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583285",
+    "name": "Bozu Hard iced tea peach 4-pack",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139373036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571765",
+    "name": "Ketel 1 Hard lemonade ginger & blood orange",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633383239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557142",
+    "name": "Ketel 1 Hard lemonade lemon & lime",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631333732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557143",
+    "name": "Ketel 1 Hard lemonade strawberry & watermelon",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439323932?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560445",
+    "name": "KUGI Hard iced tea peach",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560444",
+    "name": "KUGI Hard iced tea yuzu",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574223",
+    "name": "Stëlz Hard iced tea green tea lemon",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735303537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496469",
+    "name": "Stëlz Hard seltzer mix 4-pack",
+    "price": 8.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636313538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489888",
+    "name": "Stëlz Hard seltzer raspberry",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735303538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553706",
+    "name": "Stëlz Hard seltzer tropical 4-pack",
+    "price": 8.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636313539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571834",
+    "name": "Stëlz Mixed moscow mule",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735303630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574220",
+    "name": "Stëlz Raspberry and passion 6-pack",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631393335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572700",
+    "name": "Stëlz Spritz 4-pack",
+    "price": 8.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735303536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578433",
+    "name": "Viper Variety 4-pack voordeel pakket",
+    "price": 12.88,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935313839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574225",
+    "name": "White claw Hard seltzer passion fruit variety pack",
+    "price": 9.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831303536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574216",
+    "name": "White claw Hard seltzer watermelon 4-pack",
+    "price": 9.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831303237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496468",
+    "name": "White claw Mango",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831303234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583296",
+    "name": "White claw Mango 4-pack",
+    "price": 10.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131313137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481776",
+    "name": "White claw Raspberry",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831303233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Hard seltzer"
+    ],
+    "isFood": true
+  }
+]

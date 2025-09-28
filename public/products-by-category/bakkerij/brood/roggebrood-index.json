@@ -1,0 +1,62 @@
+[
+  {
+    "id": "201051",
+    "name": "Soma Waldkorn roggebrood",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738323836?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Roggebrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369181",
+    "name": "Van Dijk Roggebrood",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339363336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Roggebrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485257",
+    "name": "AH Fries roggebrood kuipje",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Roggebrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67642",
+    "name": "Bolletje Fries roggebrood",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363235393535?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Roggebrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549424",
+    "name": "TastyBasics Roggebrood",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Roggebrood"
+    ],
+    "isFood": true
+  }
+]

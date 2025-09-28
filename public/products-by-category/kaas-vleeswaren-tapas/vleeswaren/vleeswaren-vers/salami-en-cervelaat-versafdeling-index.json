@@ -1,0 +1,67 @@
+[
+  {
+    "id": "170741",
+    "name": "AH Biologisch Salami",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Salami en cervelaat (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498159",
+    "name": "AH Biologisch Salami milano",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Salami en cervelaat (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "137935",
+    "name": "AH Goudsalami",
+    "price": 2.24,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Salami en cervelaat (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570865",
+    "name": "AH Kalkoensalami",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Salami en cervelaat (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366079",
+    "name": "AH Rundersalami",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037383934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Salami en cervelaat (versafdeling)"
+    ],
+    "isFood": true
+  }
+]

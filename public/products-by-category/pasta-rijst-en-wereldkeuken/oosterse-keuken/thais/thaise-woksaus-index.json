@@ -1,0 +1,67 @@
+[
+  {
+    "id": "165003",
+    "name": "Conimex Woksaus sweet chili",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231373732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Thais",
+      "Thaise woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129461",
+    "name": "Go-Tan Gehakte lemon grass",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353134353433?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Thais",
+      "Thaise woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161715",
+    "name": "Blue Elephant Thaise groene curry pasta",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363635353630?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Thais",
+      "Thaise woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577742",
+    "name": "Koh Thai Woksaus oyster & garlic",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132323739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Thais",
+      "Thaise woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577741",
+    "name": "Koh Thai Woksaus pad thai",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132333434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Thais",
+      "Thaise woksaus"
+    ],
+    "isFood": true
+  }
+]

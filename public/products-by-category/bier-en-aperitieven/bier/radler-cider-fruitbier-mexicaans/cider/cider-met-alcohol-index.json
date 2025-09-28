@@ -1,0 +1,114 @@
+[
+  {
+    "id": "434074",
+    "name": "Apple Bandit Classic apple cider",
+    "price": 1.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730333238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Cider",
+      "Cider met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "434090",
+    "name": "Apple Bandit Classic apple cider 6-pack",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639363739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Cider",
+      "Cider met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389247",
+    "name": "Apple Bandit Juicy apple cider",
+    "price": 1.2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639383336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Cider",
+      "Cider met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389420",
+    "name": "Apple Bandit Juicy apple cider 6-pack",
+    "price": 7.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032303235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Cider",
+      "Cider met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505701",
+    "name": "Apple Bandit Raspberry cider",
+    "price": 1.07,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531363934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Cider",
+      "Cider met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505714",
+    "name": "Apple Bandit Raspberry cider 6-pack",
+    "price": 6.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Cider",
+      "Cider met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "368575",
+    "name": "Somersby Blackberry cider",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432353038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Cider",
+      "Cider met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222078",
+    "name": "Stassen Perzik BEL",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432313637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Cider",
+      "Cider met alcohol"
+    ],
+    "isFood": true
+  }
+]

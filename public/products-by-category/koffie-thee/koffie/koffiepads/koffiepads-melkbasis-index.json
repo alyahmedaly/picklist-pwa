@@ -1,0 +1,80 @@
+[
+  {
+    "id": "470953",
+    "name": "Senseo Cappuccino caramel coffee pads",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313635?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiepads",
+      "Koffiepads (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197507",
+    "name": "Senseo Cappuccino pads",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiepads",
+      "Koffiepads (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551467",
+    "name": "Senseo Cappuccino pads value pack",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiepads",
+      "Koffiepads (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196701",
+    "name": "Senseo Café latte coffee pads",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323234?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiepads",
+      "Koffiepads (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420290",
+    "name": "Senseo Café latte vanille coffee pads",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313335?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiepads",
+      "Koffiepads (melkbasis)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197509",
+    "name": "Senseo Cappuccino choco pads",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313730?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiepads",
+      "Koffiepads (melkbasis)"
+    ],
+    "isFood": true
+  }
+]

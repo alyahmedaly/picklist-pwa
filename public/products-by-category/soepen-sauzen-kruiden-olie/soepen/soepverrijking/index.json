@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Soepen > Soepverrijking",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Soepen > Soepverrijking",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "soepstengels",
+      "displayName": "Soepstengels",
+      "productCount": 6,
+      "filePath": "soepstengels.jsonl",
+      "indexPath": "soepstengels-index.json",
+      "statsPath": "soepstengels-stats.json",
+      "averageProtein": 11,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Soepen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Soepverrijking",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "soepen-sauzen-kruiden-olie/soepen"
+  }
+}

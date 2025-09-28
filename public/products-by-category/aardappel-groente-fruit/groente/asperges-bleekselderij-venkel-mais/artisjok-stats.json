@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Asperges, bleekselderij, venkel, mais > Artisjok",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Asperges, bleekselderij, venkel, mais > Artisjok",
+  "totalProducts": 6,
+  "halalCompliance": 67,
+  "averageProtein": 0.9,
+  "averagePrice": 3,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 4,
+    "withIngredients": 4,
+    "withHalalCheck": 4
+  }
+}

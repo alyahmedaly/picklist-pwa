@@ -1,0 +1,158 @@
+[
+  {
+    "id": "439264",
+    "name": "Nakd. Lemon cake bars",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639373639?revLabel=10&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Fruitrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516569",
+    "name": "AH Fruitreep appel",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383339363239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Fruitrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516554",
+    "name": "AH Fruitreep bosvruchten",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383339363139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Fruitrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "54752",
+    "name": "Liga Haverkick appelsmaak",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736303239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Fruitrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "54753",
+    "name": "Liga Haverkick bosvruchtensmaak",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531343634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Fruitrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556896",
+    "name": "AH Fruit en notenreep bosbessen",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Fruitrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386215",
+    "name": "Nakd. Berry delight bars",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639323531?revLabel=8&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Fruitrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556897",
+    "name": "AH Fruit & notenreep cacao",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538333937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Fruitrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549679",
+    "name": "BioToday Dadelreep appel-kaneel",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Fruitrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498775",
+    "name": "Nakd. Almond macaroon bars",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373536373835?revLabel=20&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Fruitrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439266",
+    "name": "Nakd. Blueberry muffin bars",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639373730?revLabel=7&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Fruitrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493544",
+    "name": "BioToday Abrikoos-hazelnootreep less sugar",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933373436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Fruitrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221335",
+    "name": "Zonnatura Appel kaneel notenreep",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336363134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Fruitrepen"
+    ],
+    "isFood": true
+  }
+]

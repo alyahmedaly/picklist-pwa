@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Fruit > Gedroogd fruit > Rozijnen",
+  "breadcrumbs": "Aardappel, groente, fruit > Fruit > Gedroogd fruit > Rozijnen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "rozijnen-diverse",
+      "displayName": "Rozijnen Diverse",
+      "productCount": 8,
+      "filePath": "rozijnen-diverse.jsonl",
+      "indexPath": "rozijnen-diverse-index.json",
+      "statsPath": "rozijnen-diverse-stats.json",
+      "averageProtein": 2.3,
+      "halalCompliance": 75
+    }
+  ],
+  "totalProducts": 8,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Gedroogd Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Rozijnen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/fruit/gedroogd-fruit"
+  }
+}

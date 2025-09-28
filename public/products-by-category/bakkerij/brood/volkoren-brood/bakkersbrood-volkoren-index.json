@@ -1,0 +1,197 @@
+[
+  {
+    "id": "487020",
+    "name": "AH Rond volkoren half",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363935383630?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487022",
+    "name": "AH Rond volkoren heel",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363937313530?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531314",
+    "name": "AH Biologisch Vloerbrood volkoren zonnebloempit heel",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393136373238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485689",
+    "name": "AH Les pains boulogne half",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131303337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446406",
+    "name": "AH Les pains boulogne heel",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131303334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485706",
+    "name": "AH Stevig grof volkoren half",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136383736?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485690",
+    "name": "AH Stevig grof volkoren heel",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363931323334?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485691",
+    "name": "AH Tijger volkoren half",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363930343637?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446412",
+    "name": "AH Tijger volkoren heel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236363939383730?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485696",
+    "name": "AH Les pains bastille half",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131303338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446405",
+    "name": "AH Les pains bastille heel",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038313532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561020",
+    "name": "AH Vloer waldkorn half",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561021",
+    "name": "AH Vloer waldkorn heel",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485699",
+    "name": "AH Vloerbrood volkoren heel",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038313538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568570",
+    "name": "AH Vloerbrood volkoren heel 2-pack",
+    "price": 5.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Bakkersbrood volkoren"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "409529",
+    "name": "AH Doosje met tropisch fruit",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries fruit",
+      "Fruitmix - diepvries"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550323",
+    "name": "AH Doosje met aardbei banaan",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033373630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries fruit",
+      "Fruitmix - diepvries"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170001",
+    "name": "AH Doosje met zomerfruit",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438343339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries fruit",
+      "Fruitmix - diepvries"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376520",
+    "name": "AH Zakje met zomerfruit",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438343436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries fruit",
+      "Fruitmix - diepvries"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441707",
+    "name": "AH Doosje met passievruchtblokjes",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383530373638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries fruit",
+      "Fruitmix - diepvries"
+    ],
+    "isFood": true
+  }
+]

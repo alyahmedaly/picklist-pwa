@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Soepen > Bouillon, fond > Kippenbouillon",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Soepen > Bouillon, fond > Kippenbouillon",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kippenbouillon-blokjes",
+      "displayName": "Kippenbouillon Blokjes",
+      "productCount": 6,
+      "filePath": "kippenbouillon-blokjes.jsonl",
+      "indexPath": "kippenbouillon-blokjes-index.json",
+      "statsPath": "kippenbouillon-blokjes-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 67
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Soepen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bouillon Fond",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kippenbouillon",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "soepen-sauzen-kruiden-olie/soepen/bouillon-fond"
+  }
+}

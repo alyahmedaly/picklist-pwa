@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Hartig broodbeleg > Zuivelspread",
+  "breadcrumbs": "Ontbijtgranen en beleg > Hartig broodbeleg > Zuivelspread",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "roomkaas-naturel",
+      "displayName": "Roomkaas Naturel",
+      "productCount": 5,
+      "filePath": "roomkaas-naturel.jsonl",
+      "indexPath": "roomkaas-naturel-index.json",
+      "statsPath": "roomkaas-naturel-stats.json",
+      "averageProtein": 4.8,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Hartig Broodbeleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Zuivelspread",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/hartig-broodbeleg"
+  }
+}

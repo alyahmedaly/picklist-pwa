@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Oosterse keuken > Oosterse sauzen",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Oosterse keuken > Oosterse sauzen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "currypasta",
+      "displayName": "Currypasta",
+      "productCount": 18,
+      "filePath": "currypasta.jsonl",
+      "indexPath": "currypasta-index.json",
+      "statsPath": "currypasta-stats.json",
+      "averageProtein": 3.7,
+      "halalCompliance": 83
+    },
+    {
+      "name": "roerbaksaus",
+      "displayName": "Roerbaksaus",
+      "productCount": 16,
+      "filePath": "roerbaksaus.jsonl",
+      "indexPath": "roerbaksaus-index.json",
+      "statsPath": "roerbaksaus-stats.json",
+      "averageProtein": 2.4,
+      "halalCompliance": 94
+    }
+  ],
+  "totalProducts": 34,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 34,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Oosterse Keuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Oosterse Sauzen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/oosterse-keuken"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Gezondheid, sport > Optiek > Lenzen, lenzenvloeistof",
+  "breadcrumbs": "Gezondheid, sport > Optiek > Lenzen, lenzenvloeistof",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "maandlenzen",
+      "displayName": "Maandlenzen",
+      "productCount": 17,
+      "filePath": "maandlenzen.jsonl",
+      "indexPath": "maandlenzen-index.json",
+      "statsPath": "maandlenzen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "daglenzen",
+      "displayName": "Daglenzen",
+      "productCount": 16,
+      "filePath": "daglenzen.jsonl",
+      "indexPath": "daglenzen-index.json",
+      "statsPath": "daglenzen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "lenzenvloeistof",
+      "displayName": "Lenzenvloeistof",
+      "productCount": 11,
+      "filePath": "lenzenvloeistof.jsonl",
+      "indexPath": "lenzenvloeistof-index.json",
+      "statsPath": "lenzenvloeistof-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 82
+    }
+  ],
+  "totalProducts": 44,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 44,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Optiek",
+        "path": "../index.json"
+      },
+      {
+        "name": "Lenzen Lenzenvloeistof",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "gezondheid-sport/optiek"
+  }
+}

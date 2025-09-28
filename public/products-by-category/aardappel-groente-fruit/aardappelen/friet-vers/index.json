@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Aardappelen > Friet (vers)",
+  "breadcrumbs": "Aardappel, groente, fruit > Aardappelen > Friet (vers)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "aardappelfriet-vers",
+      "displayName": "Aardappelfriet Vers",
+      "productCount": 6,
+      "filePath": "aardappelfriet-vers.jsonl",
+      "indexPath": "aardappelfriet-vers-index.json",
+      "statsPath": "aardappelfriet-vers-stats.json",
+      "averageProtein": 2.6,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Aardappelen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Friet Vers",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/aardappelen"
+  }
+}

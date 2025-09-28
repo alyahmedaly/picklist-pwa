@@ -1,0 +1,122 @@
+[
+  {
+    "id": "231217",
+    "name": "Amstel Radler citroen bier",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639363732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Radler",
+      "Radler met alcohol",
+      "Radler citroen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231218",
+    "name": "Amstel Radler citroen bier",
+    "price": 0.98,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Radler",
+      "Radler met alcohol",
+      "Radler citroen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210141",
+    "name": "Amstel Radler citroen bier 6-pack",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032303233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Radler",
+      "Radler met alcohol",
+      "Radler citroen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210142",
+    "name": "Amstel Radler citroen bier 6-pack",
+    "price": 5.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937313839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Radler",
+      "Radler met alcohol",
+      "Radler citroen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "360945",
+    "name": "Grolsch Radler citroen",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432383639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Radler",
+      "Radler met alcohol",
+      "Radler citroen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232950",
+    "name": "Grolsch Radler citroen 2.0 6-pack",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383235343133?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Radler",
+      "Radler met alcohol",
+      "Radler citroen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238813",
+    "name": "Grolsch Radler citroen 2.0 6-pack",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Radler",
+      "Radler met alcohol",
+      "Radler citroen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570084",
+    "name": "Lindeboom Mango radler 2.0%",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532323139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Radler",
+      "Radler met alcohol",
+      "Radler citroen"
+    ],
+    "isFood": true
+  }
+]

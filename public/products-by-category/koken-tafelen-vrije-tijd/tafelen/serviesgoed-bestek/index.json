@@ -1,0 +1,54 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "kommen-schaaltjes",
+      "displayName": "Kommen Schaaltjes",
+      "productCount": 16,
+      "hasSubdirectories": false,
+      "indexPath": "kommen-schaaltjes/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "mok",
+      "displayName": "Mok",
+      "productCount": 9,
+      "filePath": "mok.jsonl",
+      "indexPath": "mok-index.json",
+      "statsPath": "mok-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 25,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 25,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koken Tafelen Vrije Tijd",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Tafelen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Serviesgoed Bestek",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "koken-tafelen-vrije-tijd/tafelen"
+  }
+}

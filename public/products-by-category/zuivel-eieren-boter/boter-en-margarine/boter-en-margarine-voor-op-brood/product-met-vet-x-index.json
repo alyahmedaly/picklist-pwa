@@ -1,0 +1,67 @@
+[
+  {
+    "id": "492793",
+    "name": "Gouda's Glorie Smeerbaar met roomboter",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373334303131?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Product met vet X %"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532243",
+    "name": "Becel Omega3+",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837363331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Product met vet X %"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "80167",
+    "name": "Becel Proactiv light cholesterolverlagend",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533383938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Product met vet X %"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "56127",
+    "name": "Bertolli Smeerbaar met olijfolie",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531303931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Product met vet X %"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "49816",
+    "name": "Blue Band Goede start met calcium",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393331333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Product met vet X %"
+    ],
+    "isFood": true
+  }
+]

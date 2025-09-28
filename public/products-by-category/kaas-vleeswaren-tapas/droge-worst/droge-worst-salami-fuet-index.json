@@ -1,0 +1,410 @@
+[
+  {
+    "id": "237274",
+    "name": "AH Excellent Fuet knoflook",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363636393336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "364670",
+    "name": "AH Excellent Fuet zwarte peper",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363532353031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170819",
+    "name": "AH Excellent Fuet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393130303237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531820",
+    "name": "AH Spaanse fuet truffel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467809",
+    "name": "Huls Gesneden salami",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935333331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374021",
+    "name": "Stegeman Salami Italiaanse kruiden",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539323531?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199339",
+    "name": "Steneker Sten gr droge worst",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303336383437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570171",
+    "name": "Stegeman Plus salami sticks",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331393236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426441",
+    "name": "AH Excellent Fuet Iberico manchego",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635373739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199682",
+    "name": "AH Excellent Longaniza de pages",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363733383635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199332",
+    "name": "Steneker Friese worst",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303336383435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426392",
+    "name": "AH Biologisch Fuet",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363532353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199500",
+    "name": "AH Excellent Baton pur porc",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363533373839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218139",
+    "name": "AH Excellent Fuet Iberico",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635373932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458140",
+    "name": "AH Excellent Fuet Iberico met olijf",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199754",
+    "name": "AH Excellent Le blanc walnoot",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363533373637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "133860",
+    "name": "AH Excellent Picollini",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363533373633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435685",
+    "name": "Stegeman Fuet ambachtelijk",
+    "price": 3.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639393137?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374018",
+    "name": "Stegeman Salami mild gekruid",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539323530?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161938",
+    "name": "AH Excellent Spaanse fuet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303331383738?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "33068",
+    "name": "AH Salami",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313834343538?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "358500",
+    "name": "Weidenaar Friese drogeworst groot",
+    "price": 4.99,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "235116",
+    "name": "AH Excellent Saucisson sec aux noisettes",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570170",
+    "name": "Stegeman Plus salami",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331393430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199410",
+    "name": "AH Excellent Spaanse salami",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383838333832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376258",
+    "name": "Argal Fuet sticks",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303339353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "537131",
+    "name": "Argal Fuet extra met truffel",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138303330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374012",
+    "name": "Argal Fuet tradicion",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303339343735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168368",
+    "name": "Argal Snack",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303335393330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523187",
+    "name": "AH Vleeswaren borrel pakket",
+    "price": 6,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739363235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207302",
+    "name": "Herz hot paprika sausage",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303435313635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "358504",
+    "name": "Weidenaar Drentse droge worst",
+    "price": 5.39,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "358507",
+    "name": "Weidenaar Friese drogeworst",
+    "price": 4.99,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "358497",
+    "name": "Weidenaar Groninger droge worst groot",
+    "price": 4.99,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - salami, fuet"
+    ],
+    "isFood": true
+  }
+]

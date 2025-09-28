@@ -1,0 +1,67 @@
+[
+  {
+    "id": "218023",
+    "name": "Nutrilon 5 peutermelk 2-3 jaar",
+    "price": 17.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036323732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Flesvoeding",
+      "Vanaf 2 jaar (peutermelk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477819",
+    "name": "Hero Nutrasense 4 peutermelk vanaf 2 jaar",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Flesvoeding",
+      "Vanaf 2 jaar (peutermelk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222953",
+    "name": "Nestlé Groeimelk 2+ bel",
+    "price": 2.12,
+    "image": "NA",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Flesvoeding",
+      "Vanaf 2 jaar (peutermelk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "511277",
+    "name": "Nestlé Little steps peutermelk 2 jaar+",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383138393732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Flesvoeding",
+      "Vanaf 2 jaar (peutermelk)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "536911",
+    "name": "Hipp Junior combiotik 4",
+    "price": 17.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339383535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Flesvoeding",
+      "Vanaf 2 jaar (peutermelk)"
+    ],
+    "isFood": true
+  }
+]

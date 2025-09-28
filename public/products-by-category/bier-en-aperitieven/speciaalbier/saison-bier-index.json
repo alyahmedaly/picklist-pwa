@@ -1,0 +1,98 @@
+[
+  {
+    "id": "515114",
+    "name": "Brouwerij Wilderen Cuvee clarisse whisky infused",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373736353539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Saison bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "368559",
+    "name": "Dupont Saison",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431343534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Saison bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570457",
+    "name": "Gebrouwen door vrouw Pomme saison",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538313134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Saison bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479197",
+    "name": "Grutte Pier Lentebier",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383637323534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Saison bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496567",
+    "name": "Kaapse Brouwers Harrie saison",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383837313437?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Saison bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460669",
+    "name": "Oedipus Mannenliefde",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383637323536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Saison bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578908",
+    "name": "Oedipus Mannenliefde",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Saison bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407346",
+    "name": "Oersoep Blanco witte saison",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303334313637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Saison bier"
+    ],
+    "isFood": true
+  }
+]

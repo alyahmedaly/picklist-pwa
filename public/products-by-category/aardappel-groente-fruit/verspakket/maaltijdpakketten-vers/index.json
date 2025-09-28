@@ -1,0 +1,96 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Verspakket > Maaltijdpakketten (vers)",
+  "breadcrumbs": "Aardappel, groente, fruit > Verspakket > Maaltijdpakketten (vers)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "oosterse-maaltijdpakketten-vers",
+      "displayName": "Oosterse Maaltijdpakketten Vers",
+      "productCount": 44,
+      "filePath": "oosterse-maaltijdpakketten-vers.jsonl",
+      "indexPath": "oosterse-maaltijdpakketten-vers-index.json",
+      "statsPath": "oosterse-maaltijdpakketten-vers-stats.json",
+      "averageProtein": 2,
+      "halalCompliance": 36
+    },
+    {
+      "name": "mediterrane-maaltijdpakketten-vers",
+      "displayName": "Mediterrane Maaltijdpakketten Vers",
+      "productCount": 37,
+      "filePath": "mediterrane-maaltijdpakketten-vers.jsonl",
+      "indexPath": "mediterrane-maaltijdpakketten-vers-index.json",
+      "statsPath": "mediterrane-maaltijdpakketten-vers-stats.json",
+      "averageProtein": 2.3,
+      "halalCompliance": 43
+    },
+    {
+      "name": "wereldkeuken-maaltijdpakketten-vers",
+      "displayName": "Wereldkeuken Maaltijdpakketten Vers",
+      "productCount": 16,
+      "filePath": "wereldkeuken-maaltijdpakketten-vers.jsonl",
+      "indexPath": "wereldkeuken-maaltijdpakketten-vers-index.json",
+      "statsPath": "wereldkeuken-maaltijdpakketten-vers-stats.json",
+      "averageProtein": 1.7,
+      "halalCompliance": 31
+    },
+    {
+      "name": "midden-en-zuid-amerikaanse-maaltijdpakketten-vers",
+      "displayName": "Midden En Zuid Amerikaanse Maaltijdpakketten Vers",
+      "productCount": 15,
+      "filePath": "midden-en-zuid-amerikaanse-maaltijdpakketten-vers.jsonl",
+      "indexPath": "midden-en-zuid-amerikaanse-maaltijdpakketten-vers-index.json",
+      "statsPath": "midden-en-zuid-amerikaanse-maaltijdpakketten-vers-stats.json",
+      "averageProtein": 2.1,
+      "halalCompliance": 40
+    },
+    {
+      "name": "hollandse-maaltijdpakketten-vers",
+      "displayName": "Hollandse Maaltijdpakketten Vers",
+      "productCount": 10,
+      "filePath": "hollandse-maaltijdpakketten-vers.jsonl",
+      "indexPath": "hollandse-maaltijdpakketten-vers-index.json",
+      "statsPath": "hollandse-maaltijdpakketten-vers-stats.json",
+      "averageProtein": 2,
+      "halalCompliance": 30
+    },
+    {
+      "name": "seizoens-maaltijdpakketten-vers",
+      "displayName": "Seizoens Maaltijdpakketten Vers",
+      "productCount": 7,
+      "filePath": "seizoens-maaltijdpakketten-vers.jsonl",
+      "indexPath": "seizoens-maaltijdpakketten-vers-index.json",
+      "statsPath": "seizoens-maaltijdpakketten-vers-stats.json",
+      "averageProtein": 2.2,
+      "halalCompliance": 57
+    }
+  ],
+  "totalProducts": 129,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 129,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Verspakket",
+        "path": "../index.json"
+      },
+      {
+        "name": "Maaltijdpakketten Vers",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/verspakket"
+  }
+}

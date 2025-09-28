@@ -1,0 +1,102 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Borrelhapjes",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Borrelhapjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "borrelhapjes-met-vlees",
+      "displayName": "Borrelhapjes Met Vlees",
+      "productCount": 58,
+      "filePath": "borrelhapjes-met-vlees.jsonl",
+      "indexPath": "borrelhapjes-met-vlees-index.json",
+      "statsPath": "borrelhapjes-met-vlees-stats.json",
+      "averageProtein": 15.8,
+      "halalCompliance": 26
+    },
+    {
+      "name": "luxe-toast",
+      "displayName": "Luxe Toast",
+      "productCount": 24,
+      "filePath": "luxe-toast.jsonl",
+      "indexPath": "luxe-toast-index.json",
+      "statsPath": "luxe-toast-stats.json",
+      "averageProtein": 10.5,
+      "halalCompliance": 79
+    },
+    {
+      "name": "borrelhapjes-groente",
+      "displayName": "Borrelhapjes Groente",
+      "productCount": 12,
+      "filePath": "borrelhapjes-groente.jsonl",
+      "indexPath": "borrelhapjes-groente-index.json",
+      "statsPath": "borrelhapjes-groente-stats.json",
+      "averageProtein": 5.2,
+      "halalCompliance": 92
+    },
+    {
+      "name": "borrelhapjes-kaas",
+      "displayName": "Borrelhapjes Kaas",
+      "productCount": 12,
+      "filePath": "borrelhapjes-kaas.jsonl",
+      "indexPath": "borrelhapjes-kaas-index.json",
+      "statsPath": "borrelhapjes-kaas-stats.json",
+      "averageProtein": 18.7,
+      "halalCompliance": 67
+    },
+    {
+      "name": "borrelplank",
+      "displayName": "Borrelplank",
+      "productCount": 8,
+      "filePath": "borrelplank.jsonl",
+      "indexPath": "borrelplank-index.json",
+      "statsPath": "borrelplank-stats.json",
+      "averageProtein": 9,
+      "halalCompliance": 0
+    },
+    {
+      "name": "gehaktballetjes",
+      "displayName": "Gehaktballetjes",
+      "productCount": 8,
+      "filePath": "gehaktballetjes.jsonl",
+      "indexPath": "gehaktballetjes-index.json",
+      "statsPath": "gehaktballetjes-stats.json",
+      "averageProtein": 10.6,
+      "halalCompliance": 0
+    },
+    {
+      "name": "borrelhapjes-met-vis",
+      "displayName": "Borrelhapjes Met Vis",
+      "productCount": 6,
+      "filePath": "borrelhapjes-met-vis.jsonl",
+      "indexPath": "borrelhapjes-met-vis-index.json",
+      "statsPath": "borrelhapjes-met-vis-stats.json",
+      "averageProtein": 12.9,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 128,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 128,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../index.json"
+      },
+      {
+        "name": "Borrelhapjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "kaas-vleeswaren-tapas"
+  }
+}

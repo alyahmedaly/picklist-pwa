@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Tussendoortjes > Warm tussendoor",
+  "breadcrumbs": "Tussendoortjes > Warm tussendoor",
+  "subdirectories": [
+    {
+      "name": "soep-tussendoor",
+      "displayName": "Soep Tussendoor",
+      "productCount": 42,
+      "hasSubdirectories": false,
+      "indexPath": "soep-tussendoor/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "noedelsoep",
+      "displayName": "Noedelsoep",
+      "productCount": 92,
+      "filePath": "noedelsoep.jsonl",
+      "indexPath": "noedelsoep-index.json",
+      "statsPath": "noedelsoep-stats.json",
+      "averageProtein": 4,
+      "halalCompliance": 43
+    },
+    {
+      "name": "pasta-tussendoor",
+      "displayName": "Pasta Tussendoor",
+      "productCount": 12,
+      "filePath": "pasta-tussendoor.jsonl",
+      "indexPath": "pasta-tussendoor-index.json",
+      "statsPath": "pasta-tussendoor-stats.json",
+      "averageProtein": 3.4,
+      "halalCompliance": 75
+    }
+  ],
+  "totalProducts": 146,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 146,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Tussendoortjes",
+        "path": "../index.json"
+      },
+      {
+        "name": "Warm Tussendoor",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "tussendoortjes"
+  }
+}

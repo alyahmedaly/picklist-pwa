@@ -1,0 +1,93 @@
+[
+  {
+    "id": "34290",
+    "name": "Jerez Sherry 887 Fino",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313736353235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Aperitieven",
+      "Droge sherry",
+      "Spaanse sherry (droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2692",
+    "name": "Domecq Sherry fino",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373833393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Aperitieven",
+      "Droge sherry",
+      "Spaanse sherry (droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "93824",
+    "name": "Domecq Sherry manzanilla",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373234303239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Aperitieven",
+      "Droge sherry",
+      "Spaanse sherry (droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "31401",
+    "name": "Jerez Sherry fino",
+    "price": 4.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734323434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Aperitieven",
+      "Droge sherry",
+      "Spaanse sherry (droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163537",
+    "name": "La Guita Sherry Manzanilla",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439373538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Aperitieven",
+      "Droge sherry",
+      "Spaanse sherry (droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "69558",
+    "name": "Los Cisnes Sherry Fino",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Aperitieven",
+      "Droge sherry",
+      "Spaanse sherry (droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2696",
+    "name": "Sandeman Sherry Fino",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353732393634?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Aperitieven",
+      "Droge sherry",
+      "Spaanse sherry (droog)"
+    ],
+    "isFood": true
+  }
+]

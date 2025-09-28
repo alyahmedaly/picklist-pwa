@@ -1,0 +1,156 @@
+[
+  {
+    "id": "190834",
+    "name": "Bonduelle Jonge velderwtjes",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536363739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Doperwten",
+      "Doperwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195104",
+    "name": "Hak Doperwtjes",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Doperwten",
+      "Doperwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "201908",
+    "name": "Hak Doperwtjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Doperwten",
+      "Doperwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202209",
+    "name": "Hak Doperwtjes",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Doperwten",
+      "Doperwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "190837",
+    "name": "Bonduelle Doperwt ef",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537343630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Doperwten",
+      "Doperwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195561",
+    "name": "Bonduelle Doperwtjes",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537313136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Doperwten",
+      "Doperwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "66113",
+    "name": "AH Biologisch Doperwten",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Doperwten",
+      "Doperwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "838",
+    "name": "AH Doperwten",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434353039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Doperwten",
+      "Doperwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "839",
+    "name": "AH Doperwten",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433333732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Doperwten",
+      "Doperwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160587",
+    "name": "AH Doperwten",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130353938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Doperwten",
+      "Doperwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492395",
+    "name": "AH Doperwten 0% zout",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434353138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Doperwten",
+      "Doperwten (conserven)"
+    ],
+    "isFood": true
+  }
+]

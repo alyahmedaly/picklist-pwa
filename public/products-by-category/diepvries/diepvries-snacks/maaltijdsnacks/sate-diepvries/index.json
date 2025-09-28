@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Diepvries > Diepvries snacks > Maaltijdsnacks > Sate (diepvries)",
+  "breadcrumbs": "Diepvries > Diepvries snacks > Maaltijdsnacks > Sate (diepvries)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kipsate-diepvries",
+      "displayName": "Kipsate Diepvries",
+      "productCount": 8,
+      "filePath": "kipsate-diepvries.jsonl",
+      "indexPath": "kipsate-diepvries-index.json",
+      "statsPath": "kipsate-diepvries-stats.json",
+      "averageProtein": 11.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 8,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Diepvries Snacks",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Maaltijdsnacks",
+        "path": "../index.json"
+      },
+      {
+        "name": "Sate Diepvries",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "diepvries/diepvries-snacks/maaltijdsnacks"
+  }
+}

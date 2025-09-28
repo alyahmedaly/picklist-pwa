@@ -1,0 +1,100 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Beleg salades",
+  "breadcrumbs": "Ontbijtgranen en beleg > Beleg salades",
+  "subdirectories": [
+    {
+      "name": "groentesalades-beleg",
+      "displayName": "Groentesalades Beleg",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "groentesalades-beleg/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "vissalades-beleg",
+      "displayName": "Vissalades Beleg",
+      "productCount": 18,
+      "filePath": "vissalades-beleg.jsonl",
+      "indexPath": "vissalades-beleg-index.json",
+      "statsPath": "vissalades-beleg-stats.json",
+      "averageProtein": 9.8,
+      "halalCompliance": 78
+    },
+    {
+      "name": "kipsalade-beleg",
+      "displayName": "Kipsalade Beleg",
+      "productCount": 17,
+      "filePath": "kipsalade-beleg.jsonl",
+      "indexPath": "kipsalade-beleg-index.json",
+      "statsPath": "kipsalade-beleg-stats.json",
+      "averageProtein": 8.4,
+      "halalCompliance": 100
+    },
+    {
+      "name": "slaatjes",
+      "displayName": "Slaatjes",
+      "productCount": 15,
+      "filePath": "slaatjes.jsonl",
+      "indexPath": "slaatjes-index.json",
+      "statsPath": "slaatjes-stats.json",
+      "averageProtein": 2.6,
+      "halalCompliance": 100
+    },
+    {
+      "name": "eiersalades-beleg",
+      "displayName": "Eiersalades Beleg",
+      "productCount": 12,
+      "filePath": "eiersalades-beleg.jsonl",
+      "indexPath": "eiersalades-beleg-index.json",
+      "statsPath": "eiersalades-beleg-stats.json",
+      "averageProtein": 7.9,
+      "halalCompliance": 83
+    },
+    {
+      "name": "vleessalades-beleg",
+      "displayName": "Vleessalades Beleg",
+      "productCount": 8,
+      "filePath": "vleessalades-beleg.jsonl",
+      "indexPath": "vleessalades-beleg-index.json",
+      "statsPath": "vleessalades-beleg-stats.json",
+      "averageProtein": 6.7,
+      "halalCompliance": 0
+    },
+    {
+      "name": "kaassalades",
+      "displayName": "Kaassalades",
+      "productCount": 5,
+      "filePath": "kaassalades.jsonl",
+      "indexPath": "kaassalades-index.json",
+      "statsPath": "kaassalades-stats.json",
+      "averageProtein": 7.5,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 81,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 81,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Beleg Salades",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "ontbijtgranen-en-beleg"
+  }
+}

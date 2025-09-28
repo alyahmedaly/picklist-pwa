@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Afbakbrood > Afbakbroodjes bruin",
+  "breadcrumbs": "Bakkerij > Afbakbrood > Afbakbroodjes bruin",
+  "totalProducts": 9,
+  "halalCompliance": 89,
+  "averageProtein": 10.1,
+  "averagePrice": 2.13,
+  "highProteinProducts": 1,
+  "dataQuality": {
+    "withNutrition": 9,
+    "withIngredients": 9,
+    "withHalalCheck": 9
+  }
+}

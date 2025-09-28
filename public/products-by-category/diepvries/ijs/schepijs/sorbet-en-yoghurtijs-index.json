@@ -1,0 +1,106 @@
+[
+  {
+    "id": "188217",
+    "name": "AH Yoghurtijs lemon",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032303433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Schepijs",
+      "Sorbet en yoghurtijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135647",
+    "name": "AH Yoghurtijs naturel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032303334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Schepijs",
+      "Sorbet en yoghurtijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429593",
+    "name": "Hertog Ijssalon yoghurt bosvruchten",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138393735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Schepijs",
+      "Sorbet en yoghurtijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132557",
+    "name": "AH Yoghurtijs bosvruchten",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Schepijs",
+      "Sorbet en yoghurtijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "542032",
+    "name": "AH Sorbetijs stoofpeer",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Schepijs",
+      "Sorbet en yoghurtijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "112572",
+    "name": "AH Sorbetijs citroen",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031393939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Schepijs",
+      "Sorbet en yoghurtijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "112570",
+    "name": "AH Sorbetijs bosvruchten",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032303438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Schepijs",
+      "Sorbet en yoghurtijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132556",
+    "name": "AH Sorbetijs mango",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032303434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Schepijs",
+      "Sorbet en yoghurtijs"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "258249",
+    "name": "Grimbergen Dubbel",
+    "price": 1.34,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536353133?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "48810",
+    "name": "Grimbergen Dubbel 6-pack",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383235343135?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230713",
+    "name": "Leffe Bruin abdijbier",
+    "price": 1,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834323133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "58222",
+    "name": "Leffe Bruin abdijbier 6-pack",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739323237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560970",
+    "name": "Leffe Bruin abdijbier 6-pack",
+    "price": 6.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491705",
+    "name": "Affligem Dubbel abdijbier",
+    "price": 1.4,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639393035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492065",
+    "name": "Affligem Dubbel abdijbier 6-pack",
+    "price": 8.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "385792",
+    "name": "Antwerpse Brouw Comp Bootjes",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353432343532?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "363747",
+    "name": "Brand Oud-bruin",
+    "price": 1.11,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237393036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236949",
+    "name": "Brand Oud-bruin 6-pack",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931343731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "201944",
+    "name": "Chimay Rood",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373030323138?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "201930",
+    "name": "Chimay Trappist speciale",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239343632303338?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506325",
+    "name": "Hert Bier Lang zal die leven",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438383738?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491866",
+    "name": "Hertog Jan Karakter",
+    "price": 1.04,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491925",
+    "name": "Hertog Jan Karakter 6-pack",
+    "price": 6.22,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140290",
+    "name": "Kasteelbier Bruin",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838313532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "179065",
+    "name": "Kasteelbier Rouge",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332373732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548549",
+    "name": "La Trappe Trappist dubbel",
+    "price": 1.83,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335303733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548550",
+    "name": "La Trappe Trappist dubbel 4-pack",
+    "price": 7.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335303734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234407",
+    "name": "La Trappe Trappist isid'or",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531363633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548555",
+    "name": "La Trappe Trappist Isid'or",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337373138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548556",
+    "name": "La Trappe Trappist Isid'or 4-pack",
+    "price": 8.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335303632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "128857",
+    "name": "Palm Amber bier 6-pack",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231333333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234410",
+    "name": "Trappistes Rochefort 8 Beer",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383838323232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507070",
+    "name": "Westmalle dubbel",
+    "price": 2.03,
+    "image": "NA",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505908",
+    "name": "Westmalle Dubbel 4-pack",
+    "price": 8.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363938323636?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Dubbel bier"
+    ],
+    "isFood": true
+  }
+]

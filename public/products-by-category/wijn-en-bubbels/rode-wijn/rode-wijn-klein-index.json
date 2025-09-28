@@ -1,0 +1,170 @@
+[
+  {
+    "id": "559304",
+    "name": "AH Excellent Selectie cangrande valpolicella ripasso",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837333131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Rode wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183612",
+    "name": "AH Biologisch Cabernet sauvignon",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131373932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Rode wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183611",
+    "name": "AH Biologisch Merlot",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Rode wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195945",
+    "name": "Antinori Santa cristina toscana rosso",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Rode wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559305",
+    "name": "Campo Viejo Rioja tempranillo",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639383534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Rode wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162053",
+    "name": "Belem Madeira",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532343732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Rode wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440918",
+    "name": "Cadis Valpolicella ripasso",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236333838?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Rode wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186047",
+    "name": "Casillero del Diablo Cabernet sauvignon reserva",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313432363530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Rode wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222164",
+    "name": "Château Haut Versann Saint-emilion",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333363838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Rode wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195788",
+    "name": "La Tulipe Merlot",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Rode wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441008",
+    "name": "Sangre de Toro Rood",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935323133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Rode wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "115212",
+    "name": "Undurraga Cabernet sauvignon",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383336393434?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Rode wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "178295",
+    "name": "Valdivieso Merlot",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130383531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Rode wijn (klein)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421179",
+    "name": "Viña Albali Rood",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50363632333839?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Rode wijn (klein)"
+    ],
+    "isFood": true
+  }
+]

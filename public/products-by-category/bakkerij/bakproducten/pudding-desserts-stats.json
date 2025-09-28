@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Bakproducten > Pudding, desserts",
+  "breadcrumbs": "Bakkerij > Bakproducten > Pudding, desserts",
+  "totalProducts": 17,
+  "halalCompliance": 65,
+  "averageProtein": 3.7,
+  "averagePrice": 1.36,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 16,
+    "withIngredients": 17,
+    "withHalalCheck": 17
+  }
+}

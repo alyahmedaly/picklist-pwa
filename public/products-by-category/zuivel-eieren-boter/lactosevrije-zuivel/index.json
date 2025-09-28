@@ -1,0 +1,36 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Lactosevrije zuivel",
+  "breadcrumbs": "Zuivel, eieren, boter > Lactosevrije zuivel",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "lactosevrije-yoghurt-en-kwark",
+      "displayName": "Lactosevrije Yoghurt En Kwark",
+      "productCount": 6,
+      "filePath": "lactosevrije-yoghurt-en-kwark.jsonl",
+      "indexPath": "lactosevrije-yoghurt-en-kwark-index.json",
+      "statsPath": "lactosevrije-yoghurt-en-kwark-stats.json",
+      "averageProtein": 5.8,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../index.json"
+      },
+      {
+        "name": "Lactosevrije Zuivel",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "zuivel-eieren-boter"
+  }
+}

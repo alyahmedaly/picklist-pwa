@@ -1,0 +1,100 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "groente",
+      "displayName": "Groente",
+      "productCount": 535,
+      "hasSubdirectories": true,
+      "indexPath": "groente/index.json"
+    },
+    {
+      "name": "fruit",
+      "displayName": "Fruit",
+      "productCount": 171,
+      "hasSubdirectories": true,
+      "indexPath": "fruit/index.json"
+    },
+    {
+      "name": "verspakket",
+      "displayName": "Verspakket",
+      "productCount": 149,
+      "hasSubdirectories": true,
+      "indexPath": "verspakket/index.json"
+    },
+    {
+      "name": "koudgeperste-sappen-smoothies",
+      "displayName": "Koudgeperste Sappen Smoothies",
+      "productCount": 107,
+      "hasSubdirectories": false,
+      "indexPath": "koudgeperste-sappen-smoothies/index.json"
+    },
+    {
+      "name": "aardappelen",
+      "displayName": "Aardappelen",
+      "productCount": 61,
+      "hasSubdirectories": true,
+      "indexPath": "aardappelen/index.json"
+    },
+    {
+      "name": "diepvries-groente",
+      "displayName": "Diepvries Groente",
+      "productCount": 46,
+      "hasSubdirectories": true,
+      "indexPath": "diepvries-groente/index.json"
+    },
+    {
+      "name": "kruiden-en-smaakmakers",
+      "displayName": "Kruiden En Smaakmakers",
+      "productCount": 26,
+      "hasSubdirectories": true,
+      "indexPath": "kruiden-en-smaakmakers/index.json"
+    },
+    {
+      "name": "snoepgroente",
+      "displayName": "Snoepgroente",
+      "productCount": 22,
+      "hasSubdirectories": false,
+      "indexPath": "snoepgroente/index.json"
+    },
+    {
+      "name": "diepvries-fruit",
+      "displayName": "Diepvries Fruit",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "diepvries-fruit/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "verspakket",
+      "displayName": "Verspakket",
+      "productCount": 5,
+      "filePath": "verspakket.jsonl",
+      "indexPath": "verspakket-index.json",
+      "statsPath": "verspakket-stats.json",
+      "averageProtein": 5.8,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 1127,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 1127,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

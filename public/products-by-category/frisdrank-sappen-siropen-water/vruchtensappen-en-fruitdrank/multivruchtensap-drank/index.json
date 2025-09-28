@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Vruchtensappen en fruitdrank > Multivruchtensap & drank",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Vruchtensappen en fruitdrank > Multivruchtensap & drank",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "multivruchtensap-drank-gekoeld",
+      "displayName": "Multivruchtensap Drank Gekoeld",
+      "productCount": 26,
+      "filePath": "multivruchtensap-drank-gekoeld.jsonl",
+      "indexPath": "multivruchtensap-drank-gekoeld-index.json",
+      "statsPath": "multivruchtensap-drank-gekoeld-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 96
+    }
+  ],
+  "totalProducts": 26,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vruchtensappen En Fruitdrank",
+        "path": "../index.json"
+      },
+      {
+        "name": "Multivruchtensap Drank",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/vruchtensappen-en-fruitdrank"
+  }
+}

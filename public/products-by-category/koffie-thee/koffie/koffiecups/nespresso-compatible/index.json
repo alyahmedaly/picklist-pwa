@@ -1,0 +1,70 @@
+{
+  "categoryPath": "Koffie, thee > Koffie > Koffiecups > Nespresso compatible",
+  "breadcrumbs": "Koffie, thee > Koffie > Koffiecups > Nespresso compatible",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "nespresso-compatible-regular",
+      "displayName": "Nespresso Compatible Regular",
+      "productCount": 21,
+      "filePath": "nespresso-compatible-regular.jsonl",
+      "indexPath": "nespresso-compatible-regular-index.json",
+      "statsPath": "nespresso-compatible-regular-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "nespresso-compatible-krachtig",
+      "displayName": "Nespresso Compatible Krachtig",
+      "productCount": 14,
+      "filePath": "nespresso-compatible-krachtig.jsonl",
+      "indexPath": "nespresso-compatible-krachtig-index.json",
+      "statsPath": "nespresso-compatible-krachtig-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "nespresso-compatible-origins",
+      "displayName": "Nespresso Compatible Origins",
+      "productCount": 11,
+      "filePath": "nespresso-compatible-origins.jsonl",
+      "indexPath": "nespresso-compatible-origins-index.json",
+      "statsPath": "nespresso-compatible-origins-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 46,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 46,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Koffie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Koffiecups",
+        "path": "../index.json"
+      },
+      {
+        "name": "Nespresso Compatible",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "koffie-thee/koffie/koffiecups"
+  }
+}

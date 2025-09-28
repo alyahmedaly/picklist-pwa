@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Koffie, thee > Koffie > Koffiebonen",
+  "breadcrumbs": "Koffie, thee > Koffie > Koffiebonen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "koffiebonen-krachtig",
+      "displayName": "Koffiebonen Krachtig",
+      "productCount": 17,
+      "filePath": "koffiebonen-krachtig.jsonl",
+      "indexPath": "koffiebonen-krachtig-index.json",
+      "statsPath": "koffiebonen-krachtig-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "koffiebonen-regular",
+      "displayName": "Koffiebonen Regular",
+      "productCount": 11,
+      "filePath": "koffiebonen-regular.jsonl",
+      "indexPath": "koffiebonen-regular-index.json",
+      "statsPath": "koffiebonen-regular-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "koffiebonen-origins",
+      "displayName": "Koffiebonen Origins",
+      "productCount": 9,
+      "filePath": "koffiebonen-origins.jsonl",
+      "indexPath": "koffiebonen-origins-index.json",
+      "statsPath": "koffiebonen-origins-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 37,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 37,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Koffie",
+        "path": "../index.json"
+      },
+      {
+        "name": "Koffiebonen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "koffie-thee/koffie"
+  }
+}

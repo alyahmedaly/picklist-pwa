@@ -1,0 +1,57 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "bolletjes",
+      "displayName": "Bolletjes",
+      "productCount": 35,
+      "hasSubdirectories": false,
+      "indexPath": "bolletjes/index.json"
+    },
+    {
+      "name": "broodjes",
+      "displayName": "Broodjes",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "broodjes/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "croissants",
+      "displayName": "Croissants",
+      "productCount": 18,
+      "filePath": "croissants.jsonl",
+      "indexPath": "croissants-index.json",
+      "statsPath": "croissants-stats.json",
+      "averageProtein": 7.8,
+      "halalCompliance": 28
+    }
+  ],
+  "totalProducts": 59,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 59,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../index.json"
+      },
+      {
+        "name": "Bolletjes Broodjes Croissants",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "bakkerij"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Kant- en-klaar maaltijden > Hollandse maaltijden",
+  "breadcrumbs": "Salades, pizza, maaltijden > Kant- en-klaar maaltijden > Hollandse maaltijden",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "stamppot",
+      "displayName": "Stamppot",
+      "productCount": 11,
+      "filePath": "stamppot.jsonl",
+      "indexPath": "stamppot-index.json",
+      "statsPath": "stamppot-stats.json",
+      "averageProtein": 3.8,
+      "halalCompliance": 0
+    },
+    {
+      "name": "traditionele-hollandse-gerechten",
+      "displayName": "Traditionele Hollandse Gerechten",
+      "productCount": 7,
+      "filePath": "traditionele-hollandse-gerechten.jsonl",
+      "indexPath": "traditionele-hollandse-gerechten-index.json",
+      "statsPath": "traditionele-hollandse-gerechten-stats.json",
+      "averageProtein": 4.6,
+      "halalCompliance": 14
+    }
+  ],
+  "totalProducts": 18,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 18,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kant Enklaar Maaltijden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Hollandse Maaltijden",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "salades-pizza-maaltijden/kant-enklaar-maaltijden"
+  }
+}

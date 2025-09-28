@@ -1,0 +1,119 @@
+[
+  {
+    "id": "437704",
+    "name": "Santa Maria Tortilla chips salted",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031363038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579874",
+    "name": "AH Biologisch Tortilla chips naturel",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387610",
+    "name": "AH Knapperige tortilla strips naturel",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534393939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191601",
+    "name": "AH Nacho chips naturel",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323136333531?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449006",
+    "name": "AH Tortilla chips naturel",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534393638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579885",
+    "name": "Doritos Salted original",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038313135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516971",
+    "name": "Doritos Salted original corn chips",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437574",
+    "name": "Santa Maria Nacho chips original",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438313431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519194",
+    "name": "Santa Maria Nacho chips original",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034303931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (naturel)"
+    ],
+    "isFood": true
+  }
+]

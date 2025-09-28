@@ -1,0 +1,110 @@
+[
+  {
+    "id": "187540",
+    "name": "Kinder Melkschijfjes",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231323038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Kindertoetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121608",
+    "name": "Danone Af en toetje yoghurt sprinklins",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Kindertoetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448366",
+    "name": "Danone Af en toetje vanilleyoghurt",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636353935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Kindertoetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475129",
+    "name": "Danone Af en toetje yoghurt met knetters",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636353834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Kindertoetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194068",
+    "name": "De Zaanse Hoeve Kinderkwark",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363737303832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Kindertoetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130193",
+    "name": "AH Smikkeltoetje aardbei banaan abrikoos",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Kindertoetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438103",
+    "name": "Danoontje Fruitkwark aardbei abrikoos",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634333530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Kindertoetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438225",
+    "name": "Danoontje Fruitkwark banaan aardbei abrikoos",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032303338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Kindertoetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163665",
+    "name": "AH Super kwarksnack aardbei",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339333138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Kindertoetjes"
+    ],
+    "isFood": true
+  }
+]

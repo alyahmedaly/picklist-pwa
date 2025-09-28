@@ -1,0 +1,122 @@
+[
+  {
+    "id": "170238",
+    "name": "Healthy people Cranberry",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238313834?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Cranberrysap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177568",
+    "name": "AH Cranberry classic drink",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437333531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Cranberrysap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177567",
+    "name": "AH Cranberry light drink",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373537303232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Cranberrysap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577149",
+    "name": "Healthy people combi voordeelpakket",
+    "price": 7.18,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Cranberrysap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577151",
+    "name": "Healthy people Cranberry 3-pack",
+    "price": 7.18,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Cranberrysap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "142821",
+    "name": "Ocean Spray Cranberry blueberry",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631383339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Cranberrysap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129477",
+    "name": "Ocean Spray Cranberry classic",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Cranberrysap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556556",
+    "name": "Ocean Spray Cranberry framboos & cranberry",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632303333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Cranberrysap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "134004",
+    "name": "Ocean Spray Cranberry laag in suiker",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Cranberrysap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381953",
+    "name": "Zonnatura Cranberrysap",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353439313831?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Cranberrysap & drank"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "171458",
+    "name": "AH Zeeuws spek",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Spek en bacon plakken (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171456",
+    "name": "AH Katenspek",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363339333736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Spek en bacon plakken (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171472",
+    "name": "AH Biologisch Katenspek",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393133373334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Spek en bacon plakken (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498063",
+    "name": "AH Roasted indisch spek",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439303939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Spek en bacon plakken (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220401",
+    "name": "AH Biologisch Ontbijtspek",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Spek en bacon plakken (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197147",
+    "name": "AH Gerookt ontbijtspek",
+    "price": 2.94,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363336383737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Spek en bacon plakken (versafdeling)"
+    ],
+    "isFood": true
+  }
+]

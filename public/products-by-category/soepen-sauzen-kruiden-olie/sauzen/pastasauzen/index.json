@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Sauzen > Pastasauzen",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Sauzen > Pastasauzen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "pastasaus-in-pot",
+      "displayName": "Pastasaus In Pot",
+      "productCount": 65,
+      "filePath": "pastasaus-in-pot.jsonl",
+      "indexPath": "pastasaus-in-pot-index.json",
+      "statsPath": "pastasaus-in-pot-stats.json",
+      "averageProtein": 2.3,
+      "halalCompliance": 91
+    },
+    {
+      "name": "pastasaus-in-zak",
+      "displayName": "Pastasaus In Zak",
+      "productCount": 8,
+      "filePath": "pastasaus-in-zak.jsonl",
+      "indexPath": "pastasaus-in-zak-index.json",
+      "statsPath": "pastasaus-in-zak-stats.json",
+      "averageProtein": 1.9,
+      "halalCompliance": 75
+    }
+  ],
+  "totalProducts": 73,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 73,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Sauzen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pastasauzen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "soepen-sauzen-kruiden-olie/sauzen"
+  }
+}

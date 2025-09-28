@@ -1,0 +1,62 @@
+[
+  {
+    "id": "574253",
+    "name": "AH Framboos pistache slofje",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Schnitten en sloffen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564332",
+    "name": "AH Mini chocomouse slofjes",
+    "price": 4,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031363834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Schnitten en sloffen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564324",
+    "name": "AH Mokkaschnitte",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Schnitten en sloffen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485210",
+    "name": "AH Aardbeien bavarois schnitte",
+    "price": 6.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Schnitten en sloffen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577046",
+    "name": "AH Eton mess slof",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131333234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Schnitten en sloffen"
+    ],
+    "isFood": true
+  }
+]

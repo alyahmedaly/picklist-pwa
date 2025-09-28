@@ -1,0 +1,132 @@
+[
+  {
+    "id": "563703",
+    "name": "AH Vegetarische cordon bleu",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033323336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische kip",
+      "Vegetarische kipfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548746",
+    "name": "Vivera Plantaardige chicken tenders",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334313430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische kip",
+      "Vegetarische kipfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563704",
+    "name": "AH Terra Plantaardige krokante kipschnitzel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische kip",
+      "Vegetarische kipfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580470",
+    "name": "Planted Spies BBQ",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische kip",
+      "Vegetarische kipfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444783",
+    "name": "Valess Crispy sticks met chili",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639393237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische kip",
+      "Vegetarische kipfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548743",
+    "name": "Vegetarische Slager Vegan kip krockant",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische kip",
+      "Vegetarische kipfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533317",
+    "name": "Vegetarische Slager Vegan kiptevree filet",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932353635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische kip",
+      "Vegetarische kipfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580477",
+    "name": "Planted Skewers tandoori",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138303736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische kip",
+      "Vegetarische kipfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580399",
+    "name": "This Plantaardige kippendij",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133373330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische kip",
+      "Vegetarische kipfilet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570163",
+    "name": "Valess Vegetarische chick'n filet",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339383130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische kip",
+      "Vegetarische kipfilet"
+    ],
+    "isFood": true
+  }
+]

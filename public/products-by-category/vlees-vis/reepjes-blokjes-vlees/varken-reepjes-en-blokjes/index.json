@@ -1,0 +1,43 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "hamreepjes",
+      "displayName": "Hamreepjes",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "hamreepjes/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 5,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 5,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Reepjes Blokjes Vlees",
+        "path": "../index.json"
+      },
+      {
+        "name": "Varken Reepjes En Blokjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/reepjes-blokjes-vlees"
+  }
+}

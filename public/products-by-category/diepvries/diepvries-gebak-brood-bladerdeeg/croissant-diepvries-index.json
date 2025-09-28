@@ -1,0 +1,74 @@
+[
+  {
+    "id": "471642",
+    "name": "AH Choc croissants dv",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Croissant (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "146484",
+    "name": "Délifrance Roomboter croissants",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Croissant (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429286",
+    "name": "Picard Chocoladebroodjes",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373738363336?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Croissant (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429279",
+    "name": "Picard Croissants",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533313235?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Croissant (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429281",
+    "name": "Picard Mini croissants",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533313231?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Croissant (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471556",
+    "name": "AH Kaas croissants",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Croissant (diepvries)"
+    ],
+    "isFood": true
+  }
+]

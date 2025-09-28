@@ -1,0 +1,704 @@
+[
+  {
+    "id": "547739",
+    "name": "Red Band Juicy bites aardbeiensmaak",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451267",
+    "name": "Haribo Duo's fruity",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932363832?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547738",
+    "name": "Red Band Juicy bites frambozensmaak",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514812",
+    "name": "Red Band Real fruit candy fruit & berries",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132373736?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514813",
+    "name": "Red Band Real fruit candy fruit & citrus",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132373733?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514811",
+    "name": "Red Band Real fruit dropfruit duo's",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138383432?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578451",
+    "name": "Haribo Rotella",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030343836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417370",
+    "name": "Katja Oeries aardbei",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734353930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410053",
+    "name": "Red Band Pret sleutels",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578493",
+    "name": "Red Band Zoete appels",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502398",
+    "name": "AH Winegums",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373539393430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578506",
+    "name": "Autodrop Proefritje popcorn",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631393631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387802",
+    "name": "Candyman Frisse watermeloen",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231393537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569674",
+    "name": "Red Band Berries zacht zoet",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383430373230?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502397",
+    "name": "AH Dropfruit duo's",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514861",
+    "name": "AH Uiltjes bananensmaak",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533323531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578499",
+    "name": "Autodrop Hemelszachte vegan cadillacs",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830323332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547742",
+    "name": "Red Band Dropfruit duo's zoet zuur",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232313139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547768",
+    "name": "Red Band Duo winegums voordeelverpakking",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547757",
+    "name": "Red Band Duo winegums zoet zuur",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565968",
+    "name": "Red Band Tumtum",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383430373434?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410055",
+    "name": "Red Band Zoete aardbeien",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447970",
+    "name": "Autodrop Goed geschuimde cadillacs",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135353239?revLabel=37&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547672",
+    "name": "Red Band Dropfruit duo's",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131393730?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547767",
+    "name": "Red Band Dropfruit duo's voordeelverpakking",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547758",
+    "name": "Red Band Duo winegums zoet fris",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547751",
+    "name": "Red Band Winegums original",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547766",
+    "name": "Red Band Winegums original voordeelverpakking",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508516",
+    "name": "Trolli Squiggle twist",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039393530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447980",
+    "name": "Autodrop Beroemde bosvruchtrode cadillacs",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135353030?revLabel=22&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458171",
+    "name": "Autodrop Beroemde bosvruchtrode cadillacs XL",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373134353435?revLabel=14&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486785",
+    "name": "Autodrop Zoete & zure cadillacs",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363734363130?revLabel=14&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399889",
+    "name": "Haribo Kikkers",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569676",
+    "name": "Haribo Cameleon",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399890",
+    "name": "Haribo Goudberen",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932373339?revLabel=10&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399715",
+    "name": "Haribo Happy cherries",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537343538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399886",
+    "name": "Haribo Happy-cola",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932373432?revLabel=15&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503614",
+    "name": "Haribo Mega roulette",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935363132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508425",
+    "name": "Klene Suikervrij fruitmunten",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234363136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578505",
+    "name": "Autodrop Proefritje suikerspin",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447994",
+    "name": "Haribo Appelringen",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236323930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447993",
+    "name": "Haribo Cherry-cola",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233343038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447990",
+    "name": "Haribo Giant Strawbs",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399888",
+    "name": "Haribo Happy peaches",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932373431?revLabel=27&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451266",
+    "name": "Haribo Happy peaches",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932363931?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166965",
+    "name": "Katja Apekoppen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734323734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183452",
+    "name": "Katja Apekoppen XXL voordeel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166964",
+    "name": "Katja Biggetjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734353531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183031",
+    "name": "Katja Biggetjes voordeelverpakking",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166967",
+    "name": "Katja Farm mix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939333937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569681",
+    "name": "Katja Pop-mix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436333830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493031",
+    "name": "Katja Regenboog geluk",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436333737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166966",
+    "name": "Katja Yoghurtgums",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166968",
+    "name": "Katja Zoo mix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031343832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Winegums"
+    ],
+    "isFood": true
+  }
+]

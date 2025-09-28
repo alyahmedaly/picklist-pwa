@@ -1,0 +1,67 @@
+[
+  {
+    "id": "524859",
+    "name": "AH Varkenshaas culinair gekruid",
+    "price": 6.11,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635373330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Varkenshaas",
+      "Varkenshaas (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524858",
+    "name": "AH Varkenshaas culinair naturel",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Varkenshaas",
+      "Varkenshaas (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426434",
+    "name": "AH Excellent Varkenshaasspies Indonesian",
+    "price": 6,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Varkenshaas",
+      "Varkenshaas (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "4044",
+    "name": "AH Varkenshaas",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Varkenshaas",
+      "Varkenshaas (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232208",
+    "name": "AH Varkenshaas",
+    "price": 7.46,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Varkenshaas",
+      "Varkenshaas (vers)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "157793",
+    "name": "Dr. Oetker Pizza pakket",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339383935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Pizzabodems",
+      "Pizzabodem mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515738",
+    "name": "AH Mix voor pizzabodem",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Pizzabodems",
+      "Pizzabodem mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126880",
+    "name": "Dr. Oetker Pizzabodem origineel",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363732393839?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Pizzabodems",
+      "Pizzabodem mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165962",
+    "name": "La Tua Farina Mix voor pizza en focaccia",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303331363833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Pizzabodems",
+      "Pizzabodem mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214286",
+    "name": "La Tua Farina Bloem voor pizzadeeg",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383130353737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Pizzabodems",
+      "Pizzabodem mix"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "550189",
+    "name": "Crosta & Mollica Lasagna",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337373735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Italiaanse diepvries maaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187167",
+    "name": "Iglo Roerbaksensatie pasta kipfilet boursin",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Italiaanse diepvries maaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186927",
+    "name": "Iglo Roerbaksensatie tagliatelle met zalm",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831363033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Italiaanse diepvries maaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571890",
+    "name": "Iglo Ping & klaar lasagne bolognese",
+    "price": 5.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Italiaanse diepvries maaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417034",
+    "name": "Iglo Ping & klaar lasagnette met sperziebonen",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Italiaanse diepvries maaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578771",
+    "name": "Fitmeals Pasta chicken",
+    "price": 6.49,
+    "image": "NA",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Italiaanse diepvries maaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233418",
+    "name": "Iglo Roerbak sensatie tagliatelle funghi",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831353938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Italiaanse diepvries maaltijd"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564350",
+    "name": "Good Chef Gnocchetti al ragù",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133393337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Italiaanse diepvries maaltijd"
+    ],
+    "isFood": true
+  }
+]

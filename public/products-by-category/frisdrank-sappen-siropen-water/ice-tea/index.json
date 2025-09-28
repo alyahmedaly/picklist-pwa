@@ -1,0 +1,46 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "ice-tea-koolzuurvrij",
+      "displayName": "Ice Tea Koolzuurvrij",
+      "productCount": 110,
+      "hasSubdirectories": false,
+      "indexPath": "ice-tea-koolzuurvrij/index.json"
+    },
+    {
+      "name": "ice-tea-koolzuurhoudend",
+      "displayName": "Ice Tea Koolzuurhoudend",
+      "productCount": 19,
+      "hasSubdirectories": false,
+      "indexPath": "ice-tea-koolzuurhoudend/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 129,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 129,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ice Tea",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "frisdrank-sappen-siropen-water"
+  }
+}

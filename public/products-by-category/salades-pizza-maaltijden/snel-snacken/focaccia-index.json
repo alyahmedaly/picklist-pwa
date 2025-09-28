@@ -1,0 +1,170 @@
+[
+  {
+    "id": "425912",
+    "name": "AH Focaccia pepperoni",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Focaccia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524349",
+    "name": "AH Focaccia paprika olijf",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Focaccia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524339",
+    "name": "AH Focaccia margherita",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Focaccia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451137",
+    "name": "AH Focaccia mozzarella",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303539333432?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Focaccia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230652",
+    "name": "AH Rozemarijn zeezout focaccia",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836393934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Focaccia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560639",
+    "name": "AH Focaccia mozzarella",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639393938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Focaccia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "537022",
+    "name": "AH Pizzastuk vegetarisch",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Focaccia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524337",
+    "name": "AH Focaccia mozzarella",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Focaccia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524338",
+    "name": "AH Focaccia basilicum tomaat",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383838333931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Focaccia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "411164",
+    "name": "AH Kaas uienbroodje",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031343633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Focaccia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580122",
+    "name": "AH Focaccia basilicum tomaat 2-pack",
+    "price": 4.92,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034333730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Focaccia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567447",
+    "name": "AH Focaccia margherita 3-pack",
+    "price": 7.1,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135333838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Focaccia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567484",
+    "name": "AH Focaccia mozzarella 2-pack",
+    "price": 4.92,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236333231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Focaccia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580124",
+    "name": "AH Focaccia paprika olijf 2-pack",
+    "price": 4.92,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034333831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Focaccia"
+    ],
+    "isFood": true
+  }
+]

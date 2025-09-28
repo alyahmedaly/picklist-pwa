@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Vlees, vis > Rundvlees > Hamburgers",
+  "breadcrumbs": "Vlees, vis > Rundvlees > Hamburgers",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "hamburger-vers",
+      "displayName": "Hamburger Vers",
+      "productCount": 26,
+      "filePath": "hamburger-vers.jsonl",
+      "indexPath": "hamburger-vers-index.json",
+      "statsPath": "hamburger-vers-stats.json",
+      "averageProtein": 13.3,
+      "halalCompliance": 77
+    }
+  ],
+  "totalProducts": 26,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Rundvlees",
+        "path": "../index.json"
+      },
+      {
+        "name": "Hamburgers",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/rundvlees"
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "549416",
+    "name": "Naturo Adult mini grain free chicken potatoes",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434323439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Honden",
+      "Nat hondenvoer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549417",
+    "name": "Naturo Adult mini salmon & rice",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434323531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Honden",
+      "Nat hondenvoer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467493",
+    "name": "Naturo Duck with blueberries,pumpkin, courgette",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434323430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Honden",
+      "Nat hondenvoer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "368934",
+    "name": "Naturo Eend en rijst voor de hond",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434323434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Honden",
+      "Nat hondenvoer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "368935",
+    "name": "Naturo Kip lam en rijst voor de hond",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434323432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Honden",
+      "Nat hondenvoer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467494",
+    "name": "Naturo Turkey with fruit and vegetables",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434323433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Honden",
+      "Nat hondenvoer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "490521",
+    "name": "Naturo Variety pack grain free adult",
+    "price": 10.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434323435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Honden",
+      "Nat hondenvoer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "368936",
+    "name": "Naturo Zalm en aardappel voor de hond",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434323437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Huisdier",
+      "Honden",
+      "Nat hondenvoer"
+    ],
+    "isFood": true
+  }
+]

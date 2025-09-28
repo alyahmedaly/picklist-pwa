@@ -1,0 +1,106 @@
+[
+  {
+    "id": "407791",
+    "name": "AH Glutenvrij Zelfrijzende bakmix",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373033343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Glutenvrije bakproducten",
+      "Basismeel (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494147",
+    "name": "Doves Farm Freee self raising white flour",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373231303635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Glutenvrije bakproducten",
+      "Basismeel (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388411",
+    "name": "Koopmans Zelfrijzend amandelbakmeel glutenvrij",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638393837?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Glutenvrije bakproducten",
+      "Basismeel (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407793",
+    "name": "AH Glutenvrij Amandelmeel",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373035363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Glutenvrije bakproducten",
+      "Basismeel (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532261",
+    "name": "Koopmans Glutenvrij basismeel",
+    "price": 3.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834353231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Glutenvrije bakproducten",
+      "Basismeel (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407792",
+    "name": "AH Glutenvrij Boekweitmeel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373035363639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Glutenvrije bakproducten",
+      "Basismeel (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494146",
+    "name": "Doves Farm Freee plain white flour",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373231303634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Glutenvrije bakproducten",
+      "Basismeel (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408457",
+    "name": "Peak's Rijstmeel glutenvrij",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Glutenvrije bakproducten",
+      "Basismeel (glutenvrij)"
+    ],
+    "isFood": true
+  }
+]

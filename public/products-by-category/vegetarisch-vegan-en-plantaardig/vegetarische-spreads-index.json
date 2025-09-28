@@ -1,0 +1,167 @@
+[
+  {
+    "id": "582408",
+    "name": "Old Amsterdam Kaasspread pesto",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582409",
+    "name": "Old Amsterdam Kaasspread truffel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134313936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236487",
+    "name": "Heinz Sandwich spread tomaat lente-ui",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733353136?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236489",
+    "name": "Heinz Sandwich spread fijne tuinkruiden",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232363533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383294",
+    "name": "AH Brood spread",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636373833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575950",
+    "name": "Heks'nkaas Voor op brood",
+    "price": 3.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236486",
+    "name": "Heinz Sandwich spread naturel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037323532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236488",
+    "name": "Heinz Sandwich spread naturel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363932323131?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236492",
+    "name": "Heinz Sandwich spread pikante groenten",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037313930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561202",
+    "name": "Vegetarische Slager Blij ei & speck salade",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735343035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561203",
+    "name": "Vegetarische Slager Kipleckere samba salade",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735343037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187155",
+    "name": "Heinz Sandwich spread komkommer",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138383830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202747",
+    "name": "Maza Baba anoesh",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130393434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236490",
+    "name": "Heinz Sandwich spread mediterraan",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137343933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561049",
+    "name": "Klilah Aubergine babaganush",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534323133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vegetarische spreads"
+    ],
+    "isFood": true
+  }
+]

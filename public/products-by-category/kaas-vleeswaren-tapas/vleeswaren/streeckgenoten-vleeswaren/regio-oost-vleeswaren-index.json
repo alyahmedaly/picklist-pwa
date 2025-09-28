@@ -1,0 +1,119 @@
+[
+  {
+    "id": "564809",
+    "name": "Streeckgenoten Salami",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034303437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio oost vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "521907",
+    "name": "Streeckgenoten Pepercervelaat",
+    "price": 3.04,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383832353731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio oost vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421110",
+    "name": "Streeckgenoten Gelderse boterhamworst",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135323235?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio oost vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421116",
+    "name": "Streeckgenoten Veluws gebraad",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373735?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio oost vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421103",
+    "name": "Streeckgenoten Gelderse kookworst",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373835?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio oost vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516630",
+    "name": "Streeckgenoten Biologische rundersalami",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383537393932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio oost vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580698",
+    "name": "Streeckgenoten Biologisch rundersalami venkel",
+    "price": 3.4,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132323735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio oost vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572419",
+    "name": "Streeckgenoten Kipgebraad",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532373235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio oost vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566599",
+    "name": "Streeckgenoten Nootham",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031353536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio oost vleeswaren"
+    ],
+    "isFood": true
+  }
+]

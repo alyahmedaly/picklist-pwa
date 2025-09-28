@@ -1,0 +1,212 @@
+[
+  {
+    "id": "174995",
+    "name": "A.Vogel Dormeasan citroenmelisse nachtrust",
+    "price": 16.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138303634?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526907",
+    "name": "A.Vogel Famosan overgang slaap",
+    "price": 20.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130393538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561553",
+    "name": "A.Vogel Nachtrust 3-in-1",
+    "price": 15.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435323532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207572",
+    "name": "Etos Melatonine 0,1 mg tabletten",
+    "price": 6.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363034313135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483873",
+    "name": "Lucovitaal Melatonine l-tryptofaan tabletten",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363739343536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518642",
+    "name": "Lucovitaal Slapen & fit wakker",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561558",
+    "name": "Shiepz Helpt sneller in slaap",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632323130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561559",
+    "name": "Shiepz Nachtrust 3-1 sterk",
+    "price": 16.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632323131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508299",
+    "name": "Shiepz Nachtrust 3-in-1",
+    "price": 15.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383330313931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508300",
+    "name": "Shiepz Slaapfit 0,29mg melatonine",
+    "price": 15.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239303538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508298",
+    "name": "Shiepz Slaapformule",
+    "price": 15.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383137353731?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476115",
+    "name": "Valdispert Nacht",
+    "price": 16.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331383037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476114",
+    "name": "Valdispert Nacht sterk",
+    "price": 19.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383332343232?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561557",
+    "name": "Valdispert Slaap en nacht advanced",
+    "price": 19.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632323039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566424",
+    "name": "Vitakruid Slaapcomplex tabletten",
+    "price": 39.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Nachtrust"
+    ],
+    "isFood": true
+  }
+]

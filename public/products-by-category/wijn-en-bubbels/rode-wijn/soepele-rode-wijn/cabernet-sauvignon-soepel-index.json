@@ -1,0 +1,80 @@
+[
+  {
+    "id": "549461",
+    "name": "&Then Cabernet sauvignon alcoholvrij",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393331383833?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Cabernet Sauvignon (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127967",
+    "name": "Aliwen Cabernet sauvignon carménère reserva",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333353033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Cabernet Sauvignon (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129651",
+    "name": "Frontera Cabernet sauvignon",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131373936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Cabernet Sauvignon (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160694",
+    "name": "Lindeman's South africa cabernet sauvignon merlot",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303239373430?revLabel=7&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Cabernet Sauvignon (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "118516",
+    "name": "Oveja Negra Cabernet Sauvignon Syrah",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234333639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Cabernet Sauvignon (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160497",
+    "name": "Stormhoek Cabernet sauvignon merlot",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50363434303831?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Cabernet Sauvignon (Soepel)"
+    ],
+    "isFood": true
+  }
+]

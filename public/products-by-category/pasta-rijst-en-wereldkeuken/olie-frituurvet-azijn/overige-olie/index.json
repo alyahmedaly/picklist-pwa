@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Olie, frituurvet, azijn > Overige olie",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Olie, frituurvet, azijn > Overige olie",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kokosolie",
+      "displayName": "Kokosolie",
+      "productCount": 8,
+      "filePath": "kokosolie.jsonl",
+      "indexPath": "kokosolie-index.json",
+      "statsPath": "kokosolie-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 8,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Olie Frituurvet Azijn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Overige Olie",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/olie-frituurvet-azijn"
+  }
+}

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "550408",
+    "name": "Koopmans Zelfrijzend bakmeel",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834353232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "(Zelfrijzend) bakmeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "953",
+    "name": "AH Zelfrijzend bakmeel",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313232363730?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "(Zelfrijzend) bakmeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "63490",
+    "name": "AH Zelfrijzend bakmeel",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363339323538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "(Zelfrijzend) bakmeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583895",
+    "name": "AH Biologisch Amandelmeel",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "(Zelfrijzend) bakmeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583897",
+    "name": "AH Biologisch Amandelmeel",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "(Zelfrijzend) bakmeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409911",
+    "name": "De Cecco Semola di grano duro rimacinata",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "(Zelfrijzend) bakmeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583912",
+    "name": "AH Biologisch Speltmeel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "(Zelfrijzend) bakmeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583903",
+    "name": "AH Biologisch Tarwemeel",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133363039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "(Zelfrijzend) bakmeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "47109",
+    "name": "AH Volkoren tarwemeel",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239303636353139?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "(Zelfrijzend) bakmeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444782",
+    "name": "Molensteen Biologisch volkoren tarwemeel",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363233373933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "(Zelfrijzend) bakmeel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227850",
+    "name": "Smaakt Volkoren boekweitmeel",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032333530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "(Zelfrijzend) bakmeel"
+    ],
+    "isFood": true
+  }
+]

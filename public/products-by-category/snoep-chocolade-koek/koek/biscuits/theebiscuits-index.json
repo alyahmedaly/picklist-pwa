@@ -1,0 +1,197 @@
+[
+  {
+    "id": "549607",
+    "name": "Verkade Nizza kokos melk",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235393635?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168715",
+    "name": "Verkade Nizza kaneel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383436353130?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438888",
+    "name": "Verkade Nizza karamel zeezout",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932303934?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168718",
+    "name": "Verkade Nizza kokos",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565936",
+    "name": "La Mere Poulard Caramel butter biscuits",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035313132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517383",
+    "name": "La Mere Poulard Pure butter big biscuits",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543067",
+    "name": "Verkade San Francisco naturel brosse biscuits",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232393533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168710",
+    "name": "Verkade Maria",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168711",
+    "name": "Verkade San Francisco tarwe",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383436353837?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "138054",
+    "name": "AH Marie biscuits",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533333730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "35191",
+    "name": "AH Tarwe biscuit",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533333830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168712",
+    "name": "Verkade Knappertjes",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139323230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168714",
+    "name": "Verkade San Francisco volkoren",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130353835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46865",
+    "name": "AH Digestive",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533333731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1041",
+    "name": "AH Biscuits volkoren met tarwebloem",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Theebiscuits"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "437577",
+    "name": "Santa Maria Dip mix cheese",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373139383735?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123658",
+    "name": "Honig Basis voor chili con carne",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137353132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140611",
+    "name": "AH Burrito seasoning mix",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303134363136?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449836",
+    "name": "La Morena Jalapeno nacho slices",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733303632?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417519",
+    "name": "Santa Maria Kruidenmix fajita",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417551",
+    "name": "Santa Maria Kruidenmix taco",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131353634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140615",
+    "name": "AH Taco seasoning mix",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437580",
+    "name": "Santa Maria Chili con carne kruidenmix",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331333030?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417520",
+    "name": "Santa Maria Kruidenmix burrito",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331323933?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140613",
+    "name": "AH Fajita seasoning mix",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417522",
+    "name": "Santa Maria Kruidenmix enchilada",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373230313736?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556668",
+    "name": "Honig Basis voor chili con carne",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437373039?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164105",
+    "name": "Knorr Maaltijdmix chili con carne",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935303431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506247",
+    "name": "Santa Maria Fajita seasoning mix no salt or sugar",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373436373330?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "375200",
+    "name": "Knorr Natuurlijk lekker chili con carne",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393930303332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449683",
+    "name": "Santa Maria Mexicaanse chili bonen",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373230313832?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506246",
+    "name": "Santa Maria Taco seasoning mix no salt or sugar",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373436373331?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575491",
+    "name": "Euroma Picadillo by Jonnie Boer",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Mexicaanse kruidenmix"
+    ],
+    "isFood": true
+  }
+]

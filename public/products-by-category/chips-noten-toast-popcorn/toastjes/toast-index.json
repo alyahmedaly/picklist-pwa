@@ -1,0 +1,206 @@
+[
+  {
+    "id": "376063",
+    "name": "Haust Party extra tuinkruiden",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373739363931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376062",
+    "name": "Haust Toast en chips knoflook",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373739363932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508486",
+    "name": "AH Snack cups",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131383838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "375964",
+    "name": "Haust Party extra original",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373739363933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "375968",
+    "name": "Haust Snack cups ovaal",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373739363934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553503",
+    "name": "Van der Meulen Melbatoast bruschetta rondjes",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431383936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553502",
+    "name": "Van der Meulen Melbatoast olijfolie & oregano rondjes",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431383935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162061",
+    "name": "AH Melbatoast tomaat basilicum",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483940",
+    "name": "AH Melba toast naturel",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550204",
+    "name": "Jos Poell Verse toast stokbrood",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130323137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441350",
+    "name": "Van der Meulen Melba toast meergranen",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434333237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441369",
+    "name": "Van der Meulen Melba toast volkoren",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332363239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441352",
+    "name": "Van der Meulen Melbatoast naturel rondjes",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332363534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209799",
+    "name": "Carr's Table water biscuits",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353339393632?revLabel=15&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441348",
+    "name": "Van der Meulen Melba toast naturel",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434333236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441366",
+    "name": "Van der Meulen Melba toast sesam",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434333235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "101169",
+    "name": "AH Biologisch Melba toast met sesamzaadjes",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Toastjes",
+      "Toast"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "507810",
+    "name": "AH Chocolade zonnebloem",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383039363439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482716",
+    "name": "AH Musket flikken puur melk wit",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383835373534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558163",
+    "name": "Kinder Happy moments",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531313833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558165",
+    "name": "Kinder Kalender bueno mini",
+    "price": 8.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932333236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403013",
+    "name": "Lindt Hochfein pralines chocolade",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435323531?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482727",
+    "name": "Bolletje Kruidnoot letters",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363737353832?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade"
+    ],
+    "isFood": true
+  }
+]

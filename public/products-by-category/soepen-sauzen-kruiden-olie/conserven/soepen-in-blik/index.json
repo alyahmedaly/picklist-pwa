@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Conserven > Soepen in blik",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Conserven > Soepen in blik",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "tomatensoep-in-blik",
+      "displayName": "Tomatensoep In Blik",
+      "productCount": 9,
+      "filePath": "tomatensoep-in-blik.jsonl",
+      "indexPath": "tomatensoep-in-blik-index.json",
+      "statsPath": "tomatensoep-in-blik-stats.json",
+      "averageProtein": 1.5,
+      "halalCompliance": 33
+    },
+    {
+      "name": "champignonsoep-in-blik",
+      "displayName": "Champignonsoep In Blik",
+      "productCount": 5,
+      "filePath": "champignonsoep-in-blik.jsonl",
+      "indexPath": "champignonsoep-in-blik-index.json",
+      "statsPath": "champignonsoep-in-blik-stats.json",
+      "averageProtein": 1.4,
+      "halalCompliance": 60
+    },
+    {
+      "name": "kippensoep-in-blik",
+      "displayName": "Kippensoep In Blik",
+      "productCount": 5,
+      "filePath": "kippensoep-in-blik.jsonl",
+      "indexPath": "kippensoep-in-blik-index.json",
+      "statsPath": "kippensoep-in-blik-stats.json",
+      "averageProtein": 2.7,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 19,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 19,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Conserven",
+        "path": "../index.json"
+      },
+      {
+        "name": "Soepen In Blik",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "soepen-sauzen-kruiden-olie/conserven"
+  }
+}

@@ -1,0 +1,457 @@
+[
+  {
+    "id": "111638",
+    "name": "Bounty Reep single",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "54189",
+    "name": "Bounty Repen 5x2-pack",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139353533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367079",
+    "name": "Lion Melkchocolade reep 6-pack",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507757",
+    "name": "Snickers Creamy pindakaas repen",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236353035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191264",
+    "name": "Twix Chocolade reep 5-pack",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330353431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "73322",
+    "name": "Twix Reep single",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234313130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "174437",
+    "name": "Balisto Muesli reep",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334373932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549922",
+    "name": "Reese's Peanut butter cups 8-pack",
+    "price": 3.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393238343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370260",
+    "name": "Twix White repen 5-pack",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330353239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484378",
+    "name": "AH Chocolade repen karamel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373735393936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "172203",
+    "name": "Kinder Bueno",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231303734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "501980",
+    "name": "Kinder Bueno regular",
+    "price": 3.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230393038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474074",
+    "name": "Kitkat Chunky white reep 4-pack",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493552",
+    "name": "Knoppers Coconut bar",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502004",
+    "name": "Smarties Melkchocolade 6-pack",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138333139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507748",
+    "name": "Kinder Bueno",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230766",
+    "name": "Kinder Bueno white",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231303032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "501982",
+    "name": "Kinder Bueno white",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467256",
+    "name": "Knoppers Nut Bar",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534373131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549951",
+    "name": "Knoppers Nutbar dark 5-pack",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534373037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484231",
+    "name": "Knoppers Peanut Bar",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534373134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565668",
+    "name": "Love Raw Cream wafer bar milk choc",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835373231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191262",
+    "name": "Mars Chocolade reep 5-pack",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234313036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "174153",
+    "name": "Mars Reep single",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234313133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135549",
+    "name": "Mars Repen 7-pack",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234313038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502005",
+    "name": "Nuts Melkchocolade snacksize 5-pack",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031333232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484540",
+    "name": "AH Chocolade repen pinda",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373735393432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445405",
+    "name": "Côte d'Or Reep puur met advocaat 4-pack",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353735383439?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474058",
+    "name": "Kitkat Chunky melkchocolade reep 4-pack",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384643",
+    "name": "Kitkat Melkchocolade reep 5-pack",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932333931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191263",
+    "name": "Snickers Chocolade reep 5-pack",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635363433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "176953",
+    "name": "Snickers Reep single",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236343938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135548",
+    "name": "Snickers Repen 7-pack",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238373232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556477",
+    "name": "Kitkat Pure chocolade reep 3-pack",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532291",
+    "name": "Kitkat Vegan chocoladereep 3-pack",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134353439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Candybars",
+      "Candybars multipack"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,137 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "groenteconserven",
+      "displayName": "Groenteconserven",
+      "productCount": 145,
+      "hasSubdirectories": true,
+      "indexPath": "groenteconserven/index.json"
+    },
+    {
+      "name": "sperziebonen-snijbonen-en-peulvruchten",
+      "displayName": "Sperziebonen Snijbonen En Peulvruchten",
+      "productCount": 127,
+      "hasSubdirectories": true,
+      "indexPath": "sperziebonen-snijbonen-en-peulvruchten/index.json"
+    },
+    {
+      "name": "sla-rauwkost-en-kiemgroenten",
+      "displayName": "Sla Rauwkost En Kiemgroenten",
+      "productCount": 44,
+      "hasSubdirectories": false,
+      "indexPath": "sla-rauwkost-en-kiemgroenten/index.json"
+    },
+    {
+      "name": "wortel-pompoen-knollen",
+      "displayName": "Wortel Pompoen Knollen",
+      "productCount": 38,
+      "hasSubdirectories": true,
+      "indexPath": "wortel-pompoen-knollen/index.json"
+    },
+    {
+      "name": "groentemixen",
+      "displayName": "Groentemixen",
+      "productCount": 36,
+      "hasSubdirectories": true,
+      "indexPath": "groentemixen/index.json"
+    },
+    {
+      "name": "kool",
+      "displayName": "Kool",
+      "productCount": 27,
+      "hasSubdirectories": true,
+      "indexPath": "kool/index.json"
+    },
+    {
+      "name": "ui-prei-en-knoflook",
+      "displayName": "Ui Prei En Knoflook",
+      "productCount": 23,
+      "hasSubdirectories": true,
+      "indexPath": "ui-prei-en-knoflook/index.json"
+    },
+    {
+      "name": "komkommer-tomaat-avocado",
+      "displayName": "Komkommer Tomaat Avocado",
+      "productCount": 22,
+      "hasSubdirectories": true,
+      "indexPath": "komkommer-tomaat-avocado/index.json"
+    },
+    {
+      "name": "asperges-bleekselderij-venkel-mais",
+      "displayName": "Asperges Bleekselderij Venkel Mais",
+      "productCount": 19,
+      "hasSubdirectories": true,
+      "indexPath": "asperges-bleekselderij-venkel-mais/index.json"
+    },
+    {
+      "name": "paddenstoelen-en-champignons",
+      "displayName": "Paddenstoelen En Champignons",
+      "productCount": 14,
+      "hasSubdirectories": true,
+      "indexPath": "paddenstoelen-en-champignons/index.json"
+    },
+    {
+      "name": "bloemkool-broccoli-spruitjes",
+      "displayName": "Bloemkool Broccoli Spruitjes",
+      "productCount": 12,
+      "hasSubdirectories": true,
+      "indexPath": "bloemkool-broccoli-spruitjes/index.json"
+    },
+    {
+      "name": "paprika-courgette-aubergine",
+      "displayName": "Paprika Courgette Aubergine",
+      "productCount": 10,
+      "hasSubdirectories": true,
+      "indexPath": "paprika-courgette-aubergine/index.json"
+    },
+    {
+      "name": "groentepasta-rijst-wraps",
+      "displayName": "Groentepasta Rijst Wraps",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "groentepasta-rijst-wraps/index.json"
+    },
+    {
+      "name": "soepgroente-en-pureersoepen",
+      "displayName": "Soepgroente En Pureersoepen",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "soepgroente-en-pureersoepen/index.json"
+    },
+    {
+      "name": "spinazie-andijvie-witlof",
+      "displayName": "Spinazie Andijvie Witlof",
+      "productCount": 5,
+      "hasSubdirectories": true,
+      "indexPath": "spinazie-andijvie-witlof/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 535,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 535,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "aardappel-groente-fruit"
+  }
+}

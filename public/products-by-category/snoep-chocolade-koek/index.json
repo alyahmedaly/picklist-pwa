@@ -1,0 +1,140 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "chocolade",
+      "displayName": "Chocolade",
+      "productCount": 454,
+      "hasSubdirectories": true,
+      "indexPath": "chocolade/index.json"
+    },
+    {
+      "name": "koek",
+      "displayName": "Koek",
+      "productCount": 390,
+      "hasSubdirectories": true,
+      "indexPath": "koek/index.json"
+    },
+    {
+      "name": "snoep",
+      "displayName": "Snoep",
+      "productCount": 279,
+      "hasSubdirectories": true,
+      "indexPath": "snoep/index.json"
+    },
+    {
+      "name": "pepermunt-keelpastilles",
+      "displayName": "Pepermunt Keelpastilles",
+      "productCount": 87,
+      "hasSubdirectories": true,
+      "indexPath": "pepermunt-keelpastilles/index.json"
+    },
+    {
+      "name": "chocoladeletters",
+      "displayName": "Chocoladeletters",
+      "productCount": 82,
+      "hasSubdirectories": false,
+      "indexPath": "chocoladeletters/index.json"
+    },
+    {
+      "name": "trakteren",
+      "displayName": "Trakteren",
+      "productCount": 76,
+      "hasSubdirectories": false,
+      "indexPath": "trakteren/index.json"
+    },
+    {
+      "name": "kauwgom",
+      "displayName": "Kauwgom",
+      "productCount": 69,
+      "hasSubdirectories": true,
+      "indexPath": "kauwgom/index.json"
+    },
+    {
+      "name": "pepernoten-kruidnoten",
+      "displayName": "Pepernoten Kruidnoten",
+      "productCount": 58,
+      "hasSubdirectories": false,
+      "indexPath": "pepernoten-kruidnoten/index.json"
+    },
+    {
+      "name": "drop",
+      "displayName": "Drop",
+      "productCount": 44,
+      "hasSubdirectories": false,
+      "indexPath": "drop/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "sint-snoepgoed",
+      "displayName": "Sint Snoepgoed",
+      "productCount": 36,
+      "filePath": "sint-snoepgoed.jsonl",
+      "indexPath": "sint-snoepgoed-index.json",
+      "statsPath": "sint-snoepgoed-stats.json",
+      "averageProtein": 6.2,
+      "halalCompliance": 11
+    },
+    {
+      "name": "fruitbiscuit-melkbiscuit",
+      "displayName": "Fruitbiscuit Melkbiscuit",
+      "productCount": 35,
+      "filePath": "fruitbiscuit-melkbiscuit.jsonl",
+      "indexPath": "fruitbiscuit-melkbiscuit-index.json",
+      "statsPath": "fruitbiscuit-melkbiscuit-stats.json",
+      "averageProtein": 6.3,
+      "halalCompliance": 46
+    },
+    {
+      "name": "ijs-bitesizes",
+      "displayName": "Ijs Bitesizes",
+      "productCount": 11,
+      "filePath": "ijs-bitesizes.jsonl",
+      "indexPath": "ijs-bitesizes-index.json",
+      "statsPath": "ijs-bitesizes-stats.json",
+      "averageProtein": 3.9,
+      "halalCompliance": 9
+    },
+    {
+      "name": "marsepein",
+      "displayName": "Marsepein",
+      "productCount": 8,
+      "filePath": "marsepein.jsonl",
+      "indexPath": "marsepein-index.json",
+      "statsPath": "marsepein-stats.json",
+      "averageProtein": 5.1,
+      "halalCompliance": 63
+    },
+    {
+      "name": "chocolade",
+      "displayName": "Chocolade",
+      "productCount": 6,
+      "filePath": "chocolade.jsonl",
+      "indexPath": "chocolade-index.json",
+      "statsPath": "chocolade-stats.json",
+      "averageProtein": 6.7,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 1635,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 1635,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

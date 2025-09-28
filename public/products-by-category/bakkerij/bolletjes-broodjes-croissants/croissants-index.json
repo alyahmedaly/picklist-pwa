@@ -1,0 +1,218 @@
+[
+  {
+    "id": "3791",
+    "name": "Danerolles Croissants classic",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934303636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "4172",
+    "name": "Danerolles Croissants extra large",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934313339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555180",
+    "name": "AH Amandel croissant",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037353032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471465",
+    "name": "AH Ham kaas croissants",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230740",
+    "name": "AH Roomboter croissant chocolade praline",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313931343730?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162512",
+    "name": "AH Croissants",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834353932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "134029",
+    "name": "AH Croissantdeeg voor 6 croissants",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438343137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "134030",
+    "name": "AH Super croissants",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303534313636?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367954",
+    "name": "Danerolles Croissants party mini's",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636393638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230710",
+    "name": "AH Ham kaas croissant",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739333031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236184",
+    "name": "AH Mini roomboter croissants",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1628",
+    "name": "AH Roomboter croissants",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836393737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365995",
+    "name": "AH Luxe roomboter croissant",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323432303634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365994",
+    "name": "AH Petit roomboter croissant",
+    "price": 0.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337343232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471466",
+    "name": "AH Roomboter croissants",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131383937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230859",
+    "name": "AH Kaas croissant",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323830353234?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466494",
+    "name": "AH Meerzaden croissant",
+    "price": 0.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353738343635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "530776",
+    "name": "AH Triangel croissant",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Croissants"
+    ],
+    "isFood": true
+  }
+]

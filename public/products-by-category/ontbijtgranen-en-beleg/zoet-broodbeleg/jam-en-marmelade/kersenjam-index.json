@@ -1,0 +1,67 @@
+[
+  {
+    "id": "132397",
+    "name": "AH Extra jam kersen",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383639323039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Kersenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2391",
+    "name": "Bonne Maman Kersen confiture",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639313437?revLabel=7&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Kersenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563622",
+    "name": "Bonne Maman Kersen fijn gezeefd",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303033353434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Kersenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413578",
+    "name": "Bonne Maman Meer fruit minder suiker kersenjam",
+    "price": 3.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393635353539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Kersenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563628",
+    "name": "Hero Fruitspread zero kersen",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531303939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Kersenjam"
+    ],
+    "isFood": true
+  }
+]

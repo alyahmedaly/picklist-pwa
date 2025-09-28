@@ -1,0 +1,106 @@
+[
+  {
+    "id": "50856",
+    "name": "AH Extra lang lekker casino wit half",
+    "price": 0.9,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Wit brood",
+      "Dagvers wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "112336",
+    "name": "AH Extra lang lekker casino wit heel",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Wit brood",
+      "Dagvers wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "36136",
+    "name": "AH Extra lang lekker tijger wit half",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433333831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Wit brood",
+      "Dagvers wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "200973",
+    "name": "AH Extra lang lekker tijger wit heel",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Wit brood",
+      "Dagvers wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "512282",
+    "name": "AH Extra lang lekker tostibrood",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Wit brood",
+      "Dagvers wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582993",
+    "name": "AH Extra lang lekker Zaans wit half",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Wit brood",
+      "Dagvers wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582992",
+    "name": "AH Extra lang lekker Zaans wit heel",
+    "price": 1.7,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032353034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Wit brood",
+      "Dagvers wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582985",
+    "name": "AH Extra lang lekker zaans wit meerzaden",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Wit brood",
+      "Dagvers wit"
+    ],
+    "isFood": true
+  }
+]

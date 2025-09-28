@@ -1,0 +1,268 @@
+[
+  {
+    "id": "203287",
+    "name": "Hak Bonenschotel voor chili con carne",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036333836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212136",
+    "name": "Hak Bonenschotel voor chili con carne",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520710",
+    "name": "Hak Uit de oven zoete aardappel kerrie",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553379",
+    "name": "Hak Mexicanez nachos",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533373838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553381",
+    "name": "Hak Mexicanez taco's",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533373837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553380",
+    "name": "Hak Mexicanez wraps",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459146",
+    "name": "AH Bonenmix met mais",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833393637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "201910",
+    "name": "Hak Bonenschotel Mexicaans",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036333839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212137",
+    "name": "Hak Bonenschotel Mexicaans",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036333838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458916",
+    "name": "Hak Chili sin carne schotel",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130343832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498725",
+    "name": "Hak Tortilla Schotel",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130343837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520750",
+    "name": "Hak Uit de oven gevulde zoete aardapel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235363239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414045",
+    "name": "Hak Bonenmix met mais",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569523",
+    "name": "Hak Bonenmix",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036343133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569524",
+    "name": "Hak Bonenmix",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036343132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414041",
+    "name": "Hak Burritoschotel",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130343834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389175",
+    "name": "Hak Rode & bruine bonenmix",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566502",
+    "name": "Hak Mexicanez nacho's maaltijdpakket",
+    "price": 8.78,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565419",
+    "name": "Hak Mexicanez wraps maaltijdpakket",
+    "price": 8.02,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633343433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Bonenschotel"
+    ],
+    "isFood": true
+  }
+]

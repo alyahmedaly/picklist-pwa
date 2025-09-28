@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Kaas beleg > Oude kaas broodbeleg",
+  "breadcrumbs": "Ontbijtgranen en beleg > Kaas beleg > Oude kaas broodbeleg",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "oude-kaas-plakken",
+      "displayName": "Oude Kaas Plakken",
+      "productCount": 17,
+      "filePath": "oude-kaas-plakken.jsonl",
+      "indexPath": "oude-kaas-plakken-index.json",
+      "statsPath": "oude-kaas-plakken-stats.json",
+      "averageProtein": 26.5,
+      "halalCompliance": 100
+    },
+    {
+      "name": "oude-kaas-stuk",
+      "displayName": "Oude Kaas Stuk",
+      "productCount": 13,
+      "filePath": "oude-kaas-stuk.jsonl",
+      "indexPath": "oude-kaas-stuk-index.json",
+      "statsPath": "oude-kaas-stuk-stats.json",
+      "averageProtein": 27.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 30,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 30,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kaas Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Oude Kaas Broodbeleg",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/kaas-beleg"
+  }
+}

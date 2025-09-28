@@ -1,0 +1,53 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "pasta",
+      "displayName": "Pasta",
+      "productCount": 141,
+      "hasSubdirectories": true,
+      "indexPath": "pasta/index.json"
+    },
+    {
+      "name": "rijst",
+      "displayName": "Rijst",
+      "productCount": 76,
+      "hasSubdirectories": false,
+      "indexPath": "rijst/index.json"
+    },
+    {
+      "name": "noedels-mie",
+      "displayName": "Noedels Mie",
+      "productCount": 57,
+      "hasSubdirectories": false,
+      "indexPath": "noedels-mie/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 274,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 274,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pasta Rijst Noedels",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "pasta-rijst-en-wereldkeuken"
+  }
+}

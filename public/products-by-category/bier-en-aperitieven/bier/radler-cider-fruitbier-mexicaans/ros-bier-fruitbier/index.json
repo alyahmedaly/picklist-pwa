@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Bier en aperitieven > Bier > Radler, cider, fruitbier, Mexicaans > Rosé bier, fruitbier",
+  "breadcrumbs": "Bier en aperitieven > Bier > Radler, cider, fruitbier, Mexicaans > Rosé bier, fruitbier",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kriek-en-fruitbier-met-alcohol",
+      "displayName": "Kriek En Fruitbier Met Alcohol",
+      "productCount": 29,
+      "filePath": "kriek-en-fruitbier-met-alcohol.jsonl",
+      "indexPath": "kriek-en-fruitbier-met-alcohol-index.json",
+      "statsPath": "kriek-en-fruitbier-met-alcohol-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 97
+    },
+    {
+      "name": "ros-bier-met-alcohol",
+      "displayName": "Ros Bier Met Alcohol",
+      "productCount": 5,
+      "filePath": "ros-bier-met-alcohol.jsonl",
+      "indexPath": "ros-bier-met-alcohol-index.json",
+      "statsPath": "ros-bier-met-alcohol-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 34,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 34,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Bier",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Radler Cider Fruitbier Mexicaans",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ros Bier Fruitbier",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "bier-en-aperitieven/bier/radler-cider-fruitbier-mexicaans"
+  }
+}

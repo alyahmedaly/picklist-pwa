@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Komkommer, tomaat, avocado > Avocado",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Komkommer, tomaat, avocado > Avocado",
+  "totalProducts": 7,
+  "halalCompliance": 14,
+  "averageProtein": 1.1,
+  "averagePrice": 4.85,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 4,
+    "withIngredients": 1,
+    "withHalalCheck": 1
+  }
+}

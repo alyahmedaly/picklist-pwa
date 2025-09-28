@@ -1,0 +1,62 @@
+[
+  {
+    "id": "386813",
+    "name": "AH Chipolata mix bel",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Vlees (varken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474380",
+    "name": "AH Oma's gehaktbal met ui en jus",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Vlees (varken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221982",
+    "name": "AH Zwarte pensen bel",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313239333132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Vlees (varken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425633",
+    "name": "AH Varkensribeye naturel",
+    "price": 3.78,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Vlees (varken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221979",
+    "name": "AH Varkensstoofvlees bel",
+    "price": 4.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Vlees (varken)"
+    ],
+    "isFood": true
+  }
+]

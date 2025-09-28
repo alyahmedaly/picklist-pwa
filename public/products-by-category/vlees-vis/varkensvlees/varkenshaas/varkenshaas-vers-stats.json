@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Varkensvlees > Varkenshaas > Varkenshaas (vers)",
+  "breadcrumbs": "Vlees, vis > Varkensvlees > Varkenshaas > Varkenshaas (vers)",
+  "totalProducts": 5,
+  "halalCompliance": 20,
+  "averageProtein": 20.4,
+  "averagePrice": 6,
+  "highProteinProducts": 5,
+  "dataQuality": {
+    "withNutrition": 5,
+    "withIngredients": 3,
+    "withHalalCheck": 3
+  }
+}

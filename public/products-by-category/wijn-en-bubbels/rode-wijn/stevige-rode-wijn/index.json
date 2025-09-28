@@ -1,0 +1,106 @@
+{
+  "categoryPath": "Wijn en bubbels > Rode wijn > Stevige rode wijn",
+  "breadcrumbs": "Wijn en bubbels > Rode wijn > Stevige rode wijn",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "cabernet-sauvignon-stevig",
+      "displayName": "Cabernet Sauvignon Stevig",
+      "productCount": 39,
+      "filePath": "cabernet-sauvignon-stevig.jsonl",
+      "indexPath": "cabernet-sauvignon-stevig-index.json",
+      "statsPath": "cabernet-sauvignon-stevig-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "tempranillo-stevig",
+      "displayName": "Tempranillo Stevig",
+      "productCount": 16,
+      "filePath": "tempranillo-stevig.jsonl",
+      "indexPath": "tempranillo-stevig-index.json",
+      "statsPath": "tempranillo-stevig-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "overige-rode-wijn-stevig",
+      "displayName": "Overige Rode Wijn Stevig",
+      "productCount": 11,
+      "filePath": "overige-rode-wijn-stevig.jsonl",
+      "indexPath": "overige-rode-wijn-stevig-index.json",
+      "statsPath": "overige-rode-wijn-stevig-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "syrahshiraz-stevig",
+      "displayName": "Syrahshiraz Stevig",
+      "productCount": 10,
+      "filePath": "syrahshiraz-stevig.jsonl",
+      "indexPath": "syrahshiraz-stevig-index.json",
+      "statsPath": "syrahshiraz-stevig-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "malbec-stevig",
+      "displayName": "Malbec Stevig",
+      "productCount": 8,
+      "filePath": "malbec-stevig.jsonl",
+      "indexPath": "malbec-stevig-index.json",
+      "statsPath": "malbec-stevig-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "sangiovese-stevig",
+      "displayName": "Sangiovese Stevig",
+      "productCount": 7,
+      "filePath": "sangiovese-stevig.jsonl",
+      "indexPath": "sangiovese-stevig-index.json",
+      "statsPath": "sangiovese-stevig-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "grenache-stevig",
+      "displayName": "Grenache Stevig",
+      "productCount": 6,
+      "filePath": "grenache-stevig.jsonl",
+      "indexPath": "grenache-stevig-index.json",
+      "statsPath": "grenache-stevig-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 97,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 97,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Rode Wijn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Stevige Rode Wijn",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "wijn-en-bubbels/rode-wijn"
+  }
+}

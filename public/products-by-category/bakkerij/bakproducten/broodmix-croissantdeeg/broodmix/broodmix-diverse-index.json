@@ -1,0 +1,142 @@
+[
+  {
+    "id": "580173",
+    "name": "Koopmans Brood uit de pan naanbrood",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931323637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Broodmix, croissantdeeg",
+      "Broodmix",
+      "Broodmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571421",
+    "name": "Koopmans Mix voor kaneelbroodjes",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636333836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Broodmix, croissantdeeg",
+      "Broodmix",
+      "Broodmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196803",
+    "name": "Abdij Broodmix mais",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303331363631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Broodmix, croissantdeeg",
+      "Broodmix",
+      "Broodmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164734",
+    "name": "Abdij Broodmix pompoen",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303335373733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Broodmix, croissantdeeg",
+      "Broodmix",
+      "Broodmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187432",
+    "name": "Abdij Broodmix donker",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303336333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Broodmix, croissantdeeg",
+      "Broodmix",
+      "Broodmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580174",
+    "name": "Koopmans Brood uit de pan Italiaans",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931323634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Broodmix, croissantdeeg",
+      "Broodmix",
+      "Broodmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580175",
+    "name": "Koopmans Brood uit de pan Midden-Oosters",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931323635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Broodmix, croissantdeeg",
+      "Broodmix",
+      "Broodmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234736",
+    "name": "Abdij Speltbroodmix meergranen met gist",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313932383230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Broodmix, croissantdeeg",
+      "Broodmix",
+      "Broodmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520993",
+    "name": "Koopmans Wit brood",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373637373235?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Broodmix, croissantdeeg",
+      "Broodmix",
+      "Broodmix (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505610",
+    "name": "Il Molino Droge gist",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934303336?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Broodmix, croissantdeeg",
+      "Broodmix",
+      "Broodmix (diverse)"
+    ],
+    "isFood": true
+  }
+]

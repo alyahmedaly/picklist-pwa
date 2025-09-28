@@ -1,0 +1,218 @@
+[
+  {
+    "id": "171351",
+    "name": "Iglo Fijngehakte spinazie met boursin",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934383931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409998",
+    "name": "AH Biologisch Bladspinazie à la crème deelblokjes",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323033333033?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "777",
+    "name": "AH Spinazie à la creme",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303438363831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "178124",
+    "name": "AH Spinazie à la creme",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363532343834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162712",
+    "name": "AH Spinazie à la crème",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313738333537?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474803",
+    "name": "Iglo Biologische spinazie à la crème",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533323435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564306",
+    "name": "Iglo Bladspinazie á la crème",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226440",
+    "name": "Iglo Spinazie à la crème",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486429",
+    "name": "Iglo Spinazie à la crème",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303037393732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409997",
+    "name": "AH Biologisch Bladspinazie deelblokjes",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323031353135?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67746",
+    "name": "AH Bladspinazie grof gesneden",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313433313431?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "769",
+    "name": "AH Spinazie",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303435363630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162711",
+    "name": "AH Spinazie",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313937353535?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562394",
+    "name": "Iglo Favorieten pakket",
+    "price": 6.73,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035363634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562393",
+    "name": "Iglo Spinazie a la creme 3-pack",
+    "price": 7.1,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630393635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226439",
+    "name": "Iglo Spinazie fijn gehakt",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130323935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486424",
+    "name": "Iglo Spinazie fijn gehakt",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303037393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500444",
+    "name": "Iglo Spinazie met alpro",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303037393232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Spinazie (diepvries)"
+    ],
+    "isFood": true
+  }
+]

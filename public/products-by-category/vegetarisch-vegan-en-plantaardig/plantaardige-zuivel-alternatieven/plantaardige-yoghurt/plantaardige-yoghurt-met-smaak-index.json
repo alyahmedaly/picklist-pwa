@@ -1,0 +1,314 @@
+[
+  {
+    "id": "486625",
+    "name": "Gü Double chocolate & vanilla cheescakes",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636353631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407960",
+    "name": "AH Terra Plantaardige kokos gurt ongezoet",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556322",
+    "name": "AH Terra Plantaardige kokos gurt stracciatella",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335333034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556299",
+    "name": "AH Terra Kokos gurt ongezoet minder vet",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556300",
+    "name": "AH Terra Plantaardige kokos gurt vanillesmaak",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335333035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575541",
+    "name": "Arla Jörd aardbei Nordic oats",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221013",
+    "name": "Alpro Mild & creamy citroen limoen",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836393735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474612",
+    "name": "Alpro Plantaardig variatie aardbei",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836393639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570911",
+    "name": "Oatly! Oatgurt blueberry",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033333939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498197",
+    "name": "AH Terra Plantaardige soja gurt aardbei",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583284",
+    "name": "Alpro Lemon cheesecake flavour",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130343234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395069",
+    "name": "Alpro Mild & creamy kokosnoot",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237280",
+    "name": "Alpro Plantaardig variatie kers",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837303332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "96640",
+    "name": "Alpro Plantaardig variatie perzik",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837313235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575539",
+    "name": "Arla Jörd vanille Nordic oats",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583322",
+    "name": "Alpro Apple pie flavour",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130343237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196169",
+    "name": "Alpro Mild & creamy vanille",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169919",
+    "name": "Alpro Plantaardig variatie blauwe bosbes",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836393638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177503",
+    "name": "Alpro Plantaardig variatie vanille",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837303138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556344",
+    "name": "Alpro Plantaardige yoghurt Griekse stijl",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570912",
+    "name": "Oatly! Oatgurt vanille",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575476",
+    "name": "Alpro Plantgurt no added sugars mango appel",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575477",
+    "name": "Alpro Plantgurt no added sugars peer vanille",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580356",
+    "name": "AH Terra kokos gurt stracciatella 4-pack",
+    "price": 7.16,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige yoghurt",
+      "Plantaardige yoghurt met smaak"
+    ],
+    "isFood": true
+  }
+]

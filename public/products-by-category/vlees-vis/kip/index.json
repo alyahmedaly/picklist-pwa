@@ -1,0 +1,108 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "kipfilet",
+      "displayName": "Kipfilet",
+      "productCount": 48,
+      "hasSubdirectories": false,
+      "indexPath": "kipfilet/index.json"
+    },
+    {
+      "name": "kip-burger-schnitzel-cordon-bleu",
+      "displayName": "Kip Burger Schnitzel Cordon Bleu",
+      "productCount": 20,
+      "hasSubdirectories": true,
+      "indexPath": "kip-burger-schnitzel-cordon-bleu/index.json"
+    },
+    {
+      "name": "kippenpoten-drumsticks",
+      "displayName": "Kippenpoten Drumsticks",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "kippenpoten-drumsticks/index.json"
+    },
+    {
+      "name": "kipnuggets",
+      "displayName": "Kipnuggets",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "kipnuggets/index.json"
+    },
+    {
+      "name": "kippenvleugels-kluifjes",
+      "displayName": "Kippenvleugels Kluifjes",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "kippenvleugels-kluifjes/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "halal-kip",
+      "displayName": "Halal Kip",
+      "productCount": 18,
+      "filePath": "halal-kip.jsonl",
+      "indexPath": "halal-kip-index.json",
+      "statsPath": "halal-kip-stats.json",
+      "averageProtein": 16.2,
+      "halalCompliance": 94
+    },
+    {
+      "name": "gehakt-kip",
+      "displayName": "Gehakt Kip",
+      "productCount": 7,
+      "filePath": "gehakt-kip.jsonl",
+      "indexPath": "gehakt-kip-index.json",
+      "statsPath": "gehakt-kip-stats.json",
+      "averageProtein": 12,
+      "halalCompliance": 57
+    },
+    {
+      "name": "hele-kip",
+      "displayName": "Hele Kip",
+      "productCount": 5,
+      "filePath": "hele-kip.jsonl",
+      "indexPath": "hele-kip-index.json",
+      "statsPath": "hele-kip-stats.json",
+      "averageProtein": 20,
+      "halalCompliance": 100
+    },
+    {
+      "name": "worsten-gevogelte",
+      "displayName": "Worsten Gevogelte",
+      "productCount": 5,
+      "filePath": "worsten-gevogelte.jsonl",
+      "indexPath": "worsten-gevogelte-index.json",
+      "statsPath": "worsten-gevogelte-stats.json",
+      "averageProtein": 14,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 122,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 122,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kip",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "vlees-vis"
+  }
+}

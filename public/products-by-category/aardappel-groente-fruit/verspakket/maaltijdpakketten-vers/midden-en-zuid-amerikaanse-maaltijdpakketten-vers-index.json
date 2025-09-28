@@ -1,0 +1,197 @@
+[
+  {
+    "id": "530961",
+    "name": "AH Gesneden verspakket gado gado",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237373032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "434655",
+    "name": "AH Mexicaanse burritos verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450710",
+    "name": "AH Verspakket Roti",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169815",
+    "name": "AH Mexicaanse guacamole pakket",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492738",
+    "name": "AH Mexicaanse chili con carne verspakket",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581588",
+    "name": "AH Mexicaanse wraps verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571255",
+    "name": "AH Indiase Tandoori Verspakket",
+    "price": 13.06,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436363937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570339",
+    "name": "AH Mexicaanse Burritos Verspakket",
+    "price": 13.82,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569135",
+    "name": "AH Mexicaanse Chili Con Carne Verspakket",
+    "price": 10.37,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239353832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583747",
+    "name": "AH Mexicaanse Wraps Verspakket",
+    "price": 12.52,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572383",
+    "name": "AH Terra Groentecurry Verspakket",
+    "price": 10.08,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572384",
+    "name": "AH Terra Pasta Pompoen Verspakket",
+    "price": 9.27,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536383035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569136",
+    "name": "AH Vega Chili Con Carne Verspakket",
+    "price": 7.23,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239353830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "552952",
+    "name": "AH Vega Gesneden Gado Gado Verspakket",
+    "price": 9.08,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583752",
+    "name": "AH Vega Mexicaanse Wraps Verspakket",
+    "price": 9.81,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Midden en Zuid Amerikaanse maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  }
+]

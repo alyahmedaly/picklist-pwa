@@ -1,0 +1,795 @@
+[
+  {
+    "id": "238287",
+    "name": "Brand IPA",
+    "price": 1.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730323936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414675",
+    "name": "Brand IPA",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238774",
+    "name": "Brand IPA 6-pack",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931343830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571809",
+    "name": "Gulpener IPA 0,3% 4-pack",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426130",
+    "name": "Texels Vuurbaak speciaalbier",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531353037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437855",
+    "name": "100 Watt Orchestra of angels",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373032303230?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560984",
+    "name": "Arpus Ddh hopchest dipa",
+    "price": 5.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393239333332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560985",
+    "name": "Arpus Ddh hopheart IPA",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393239333333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481576",
+    "name": "Baxbier Tropical pale ale",
+    "price": 2.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337363931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460355",
+    "name": "Brand IPA 0.0",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730333233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481925",
+    "name": "BrewDog Elvis juice IPA",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138363432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569727",
+    "name": "BrewDog Hazy jane guava",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330333635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483472",
+    "name": "BrewDog Hazy jane NEIPA",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138353838?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544924",
+    "name": "BrewDog Hazy jane NEIPA 12-pack",
+    "price": 25.9,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131383339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578892",
+    "name": "BrewDog Mr. president",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936333332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570081",
+    "name": "BrewDog Punk IPA 4-pack",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634373734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229952",
+    "name": "Brouwerij 't IJ IPA",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535313638?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "490636",
+    "name": "Brouwerij Homeland Katzwijm",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515115",
+    "name": "Craft Nation Imperial IPA",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636353830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491761",
+    "name": "de Eeuwige Jeugd Gladjanus",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738353337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "346185",
+    "name": "Duvel Tripel hop citra 4-pack",
+    "price": 9.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363833343431?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578901",
+    "name": "Frontaal Head first",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830363534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514438",
+    "name": "Frontaal Juice punch",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234323638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560972",
+    "name": "Gebrouwen door vrouw Gember goud",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637323038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560987",
+    "name": "Gebrouwen door vrouw Misty mango",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637323037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "361957",
+    "name": "Gulpener Biologische IPA",
+    "price": 1.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437303339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225479",
+    "name": "Gulpener Biologische IPA 6-pack",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437303430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578734",
+    "name": "Jopen Haarlem shuffel spelt IPA",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738383037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451153",
+    "name": "Jopen Heavy cross tripel IPA",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393539363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561573",
+    "name": "Jopen Hypercolour double IPA",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237303338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "385789",
+    "name": "Jopen Life's a beach",
+    "price": 1.87,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631393530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495997",
+    "name": "Jopen Viva el rye",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373336383631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498065",
+    "name": "Kompaan Juicy joker",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438383936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475762",
+    "name": "Kompaan Levensgenieter",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363632373538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "501928",
+    "name": "Kompaan Levensgenieter",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335383637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "215203",
+    "name": "La Chouffe Houblon IPA",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383233393330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419355",
+    "name": "Lowlander IPA",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432383435?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448088",
+    "name": "Lowlander Winter IPA",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331373639?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570487",
+    "name": "Magic Rock Cannonbal",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532343036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234390",
+    "name": "Maximus High hops",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363538353037?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505719",
+    "name": "Moersleutel Crank the juice",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031343833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548530",
+    "name": "Moersleutel Fruit bomb",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031343834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578909",
+    "name": "Oedipus Gaia",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039353239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376055",
+    "name": "Oersoep hopfather fl",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373339343533?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576659",
+    "name": "Pohjala Old world blues",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578906",
+    "name": "Pohjala Virmalised",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830383033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578918",
+    "name": "Rye River Hop drops citra extra pale",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436303338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515128",
+    "name": "To Øl #DIPA",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635363630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578913",
+    "name": "To Øl Autumn hero",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831303230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505675",
+    "name": "To Øl Stereo mono mosaic",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633393936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505720",
+    "name": "To Øl Whirl domination",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236353036?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505957",
+    "name": "Two Chefs Brewing Bon chef",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431303133?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482374",
+    "name": "Two Chefs Brewing Funky falcon",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431303135?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576626",
+    "name": "Uiltje Brewing + BrewDog whoooo let the dog out",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483323",
+    "name": "Uiltje Brewing Bird of prey IPA",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383632313935?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484691",
+    "name": "Uiltje Brewing Bird of prey IPA 12-pack",
+    "price": 29.9,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544922",
+    "name": "Uiltje Brewing Dr. raptor double IPA",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138363436?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578893",
+    "name": "Uiltje Brewing Hats hops warm socks",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136393836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578929",
+    "name": "Uiltje Brewing Have you ever been yellow",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335383733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569719",
+    "name": "Uiltje Brewing Juicy Lucy NEIPA",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234363734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489023",
+    "name": "Van Moll Doerak",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335383639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "IPA",
+      "India Pale Ale"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "398524",
+    "name": "Maggi Kerrie saus",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134333732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Kerriesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237846",
+    "name": "Knorr Kerriesaus",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Kerriesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535162",
+    "name": "AH Mix voor kerriesaus",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Kerriesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126366",
+    "name": "Conimex Kerriesaus",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393937363634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Kerriesauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159512",
+    "name": "Knorr Mix kerriesaus",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933343133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Kerriesauzen"
+    ],
+    "isFood": true
+  }
+]

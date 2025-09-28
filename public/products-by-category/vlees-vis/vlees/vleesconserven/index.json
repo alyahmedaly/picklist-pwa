@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Vlees, vis > Vlees > Vleesconserven",
+  "breadcrumbs": "Vlees, vis > Vlees > Vleesconserven",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "knakworst",
+      "displayName": "Knakworst",
+      "productCount": 31,
+      "filePath": "knakworst.jsonl",
+      "indexPath": "knakworst-index.json",
+      "statsPath": "knakworst-stats.json",
+      "averageProtein": 10.4,
+      "halalCompliance": 19
+    },
+    {
+      "name": "smeerpastei-smac",
+      "displayName": "Smeerpastei Smac",
+      "productCount": 20,
+      "filePath": "smeerpastei-smac.jsonl",
+      "indexPath": "smeerpastei-smac-index.json",
+      "statsPath": "smeerpastei-smac-stats.json",
+      "averageProtein": 10.4,
+      "halalCompliance": 45
+    }
+  ],
+  "totalProducts": 51,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 51,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vlees",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vleesconserven",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/vlees"
+  }
+}

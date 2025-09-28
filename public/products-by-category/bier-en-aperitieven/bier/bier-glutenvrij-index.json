@@ -1,0 +1,86 @@
+[
+  {
+    "id": "402688",
+    "name": "Bavaria Holland glutenfree",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363331303236?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bier glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "402687",
+    "name": "Bavaria Holland glutenfree 3-pack",
+    "price": 4.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335323836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bier glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569736",
+    "name": "Gebrouwen door vrouw GoGo grapefruit",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637323036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bier glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494083",
+    "name": "Grisette Bio blond",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373035313239?revLabel=18&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bier glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "385791",
+    "name": "Jopen Hop zij met ons",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bier glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489425",
+    "name": "Lowlander Cool earth lager",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232343938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bier glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228518",
+    "name": "Mongozo Premium pilsener glutenfree organic",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303133333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Bier glutenvrij"
+    ],
+    "isFood": true
+  }
+]

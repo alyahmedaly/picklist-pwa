@@ -1,0 +1,90 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Sauzen > Snacksauzen, mayonaise > Mayonaise",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Sauzen > Snacksauzen, mayonaise > Mayonaise",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "mayonaise-snacksauzen",
+      "displayName": "Mayonaise Snacksauzen",
+      "productCount": 32,
+      "filePath": "mayonaise-snacksauzen.jsonl",
+      "indexPath": "mayonaise-snacksauzen-index.json",
+      "statsPath": "mayonaise-snacksauzen-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "mayonaise-in-pot",
+      "displayName": "Mayonaise In Pot",
+      "productCount": 24,
+      "filePath": "mayonaise-in-pot.jsonl",
+      "indexPath": "mayonaise-in-pot-index.json",
+      "statsPath": "mayonaise-in-pot-stats.json",
+      "averageProtein": 0.9,
+      "halalCompliance": 96
+    },
+    {
+      "name": "truffel-pesto-mayonaise",
+      "displayName": "Truffel Pesto Mayonaise",
+      "productCount": 13,
+      "filePath": "truffel-pesto-mayonaise.jsonl",
+      "indexPath": "truffel-pesto-mayonaise-index.json",
+      "statsPath": "truffel-pesto-mayonaise-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 92
+    },
+    {
+      "name": "mayonaise-minder-vet",
+      "displayName": "Mayonaise Minder Vet",
+      "productCount": 7,
+      "filePath": "mayonaise-minder-vet.jsonl",
+      "indexPath": "mayonaise-minder-vet-index.json",
+      "statsPath": "mayonaise-minder-vet-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 100
+    },
+    {
+      "name": "yoghurt-mayonaise",
+      "displayName": "Yoghurt Mayonaise",
+      "productCount": 6,
+      "filePath": "yoghurt-mayonaise.jsonl",
+      "indexPath": "yoghurt-mayonaise-index.json",
+      "statsPath": "yoghurt-mayonaise-stats.json",
+      "averageProtein": 0.9,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 82,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 82,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Sauzen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Snacksauzen Mayonaise",
+        "path": "../index.json"
+      },
+      {
+        "name": "Mayonaise",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "soepen-sauzen-kruiden-olie/sauzen/snacksauzen-mayonaise"
+  }
+}

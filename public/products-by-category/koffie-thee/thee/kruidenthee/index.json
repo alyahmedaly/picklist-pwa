@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Koffie, thee > Thee > Kruidenthee",
+  "breadcrumbs": "Koffie, thee > Thee > Kruidenthee",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kruidenthee-eenkops",
+      "displayName": "Kruidenthee Eenkops",
+      "productCount": 64,
+      "filePath": "kruidenthee-eenkops.jsonl",
+      "indexPath": "kruidenthee-eenkops-index.json",
+      "statsPath": "kruidenthee-eenkops-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 98
+    },
+    {
+      "name": "kruidenthee-meerkops",
+      "displayName": "Kruidenthee Meerkops",
+      "productCount": 40,
+      "filePath": "kruidenthee-meerkops.jsonl",
+      "indexPath": "kruidenthee-meerkops-index.json",
+      "statsPath": "kruidenthee-meerkops-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 104,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 104,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Thee",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kruidenthee",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "koffie-thee/thee"
+  }
+}

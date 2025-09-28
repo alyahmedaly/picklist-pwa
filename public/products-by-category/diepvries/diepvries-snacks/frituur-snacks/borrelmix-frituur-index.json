@@ -1,0 +1,93 @@
+[
+  {
+    "id": "401816",
+    "name": "Mora Mini's Fun mix selection",
+    "price": 7.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639353835?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Borrelmix (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220408",
+    "name": "Mora Mix pack",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353834313934?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Borrelmix (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401814",
+    "name": "Mora Mini's mega mix",
+    "price": 6.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353834313732?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Borrelmix (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508117",
+    "name": "Consenza Mini snackmix",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934363439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Borrelmix (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132798",
+    "name": "AH Mini snacks",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838373131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Borrelmix (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474127",
+    "name": "AH Mini snacks",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Borrelmix (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401815",
+    "name": "Mora Mini's fun mix favorites",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363737353230?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Borrelmix (frituur)"
+    ],
+    "isFood": true
+  }
+]

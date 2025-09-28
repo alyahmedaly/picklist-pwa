@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Network Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; text-align: center; }
+        h1 { color: #3b82f6; }
+        .success { color: green; font-size: 24px; }
+    </style>
+</head>
+<body>
+    <h1>🎉 Network Connection Success!</h1>
+    <p class="success">✅ Your iPhone can reach the laptop server!</p>
+    <p>IP: 192.0.0.2</p>
+    <p>Time: <span id="time"></span></p>
+    <script>
+        document.getElementById('time').textContent = new Date().toLocaleString();
+    </script>
+</body>
+</html>

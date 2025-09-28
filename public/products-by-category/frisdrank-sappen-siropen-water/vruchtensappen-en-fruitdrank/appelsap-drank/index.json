@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Vruchtensappen en fruitdrank > Appelsap & drank",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Vruchtensappen en fruitdrank > Appelsap & drank",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "appelsap-drank-ongekoeld",
+      "displayName": "Appelsap Drank Ongekoeld",
+      "productCount": 26,
+      "filePath": "appelsap-drank-ongekoeld.jsonl",
+      "indexPath": "appelsap-drank-ongekoeld-index.json",
+      "statsPath": "appelsap-drank-ongekoeld-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 81
+    }
+  ],
+  "totalProducts": 26,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vruchtensappen En Fruitdrank",
+        "path": "../index.json"
+      },
+      {
+        "name": "Appelsap Drank",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/vruchtensappen-en-fruitdrank"
+  }
+}

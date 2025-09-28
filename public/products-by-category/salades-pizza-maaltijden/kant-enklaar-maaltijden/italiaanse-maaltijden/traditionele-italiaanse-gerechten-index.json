@@ -1,0 +1,67 @@
+[
+  {
+    "id": "455099",
+    "name": "AH Linguini carbonara",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236303634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Italiaanse maaltijden",
+      "Traditionele Italiaanse gerechten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216434",
+    "name": "AH Verse pasta carbonara",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Italiaanse maaltijden",
+      "Traditionele Italiaanse gerechten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578806",
+    "name": "AH Slavink sperziebonen",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035343035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Italiaanse maaltijden",
+      "Traditionele Italiaanse gerechten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403772",
+    "name": "AH Verse risotto funghi",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Italiaanse maaltijden",
+      "Traditionele Italiaanse gerechten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578794",
+    "name": "AH Verse maaltijd pasta kip alfredo",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038333737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Italiaanse maaltijden",
+      "Traditionele Italiaanse gerechten"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "410389",
+    "name": "AH Biologisch Bloemenhoning vloeibaar",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735353835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "133942",
+    "name": "AH Biologisch Crèmehoning",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "55438",
+    "name": "AH Bloemenhoning",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383379",
+    "name": "AH Crèmehoning",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479784",
+    "name": "AH Excellent Honing & Gember",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479786",
+    "name": "AH Excellent Klaverhoning",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393133373033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383378",
+    "name": "AH Heldere bloemenhoning",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479788",
+    "name": "AH Honing",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563730",
+    "name": "AH Honing vloeibaar mild en zoet",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036333236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461687",
+    "name": "Melvita Acacia met bloemenhoning",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139363737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468900",
+    "name": "Melvita Biologische bloemenhoning",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139363738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479373",
+    "name": "Melvita Bloemenhoning",
+    "price": 4.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139363739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461574",
+    "name": "Melvita Europese Bloemenhoning",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132323138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563650",
+    "name": "Melvita Woudhoning",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532224",
+    "name": "Melvita Light mix",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730373931?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450802",
+    "name": "Honinghuis Bloemenhoning",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931393732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563646",
+    "name": "Honinghuis Lindehoning",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931393733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450805",
+    "name": "Honinghuis Streekhoning",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539353335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Honing"
+    ],
+    "isFood": true
+  }
+]

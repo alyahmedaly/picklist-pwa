@@ -1,0 +1,290 @@
+[
+  {
+    "id": "578967",
+    "name": "AH Voor in de oven krokante gehaktrollade",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "411615",
+    "name": "AH Varkens- en rundgehakt bel",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "118764",
+    "name": "AH Biologisch Rundersoepballetjes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436752",
+    "name": "AH Biologisch Rundergehakt",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436753",
+    "name": "AH Biologisch Rundergehakt",
+    "price": 6.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556663",
+    "name": "AH Gemengd gehakt",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561331",
+    "name": "AH Gemengd gehakt",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561333",
+    "name": "AH Gemengd gehakt",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571361",
+    "name": "AH Rundergehakt met toegevoegd rundereiwit",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571362",
+    "name": "AH Rundergehakt met toegevoegd rundereiwit",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3954",
+    "name": "AH Rundergehakt",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "4004",
+    "name": "AH Rundergehakt",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "4011",
+    "name": "AH Rundergehakt",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549766",
+    "name": "AH Rundergehakt",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436750",
+    "name": "AH Biologisch Mager rundergehakt",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "192050",
+    "name": "AH Greenfields Rundergehakt",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506232",
+    "name": "AH Greenfields Rundergehakt",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187592",
+    "name": "AH Mager rundergehakt",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199715",
+    "name": "AH Mager rundergehakt",
+    "price": 3.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578968",
+    "name": "AH Rundershoarma",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491458",
+    "name": "AH Rundergehakt",
+    "price": 0,
+    "image": "NA",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567449",
+    "name": "AH Rundergehakt 4-pack",
+    "price": 15.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236333138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199660",
+    "name": "Weidenaar Rundergehakt gekruid",
+    "price": 6.8,
+    "image": "NA",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582029",
+    "name": "Weidenaar Rundergehaktstaafjes",
+    "price": 5.29,
+    "image": "NA",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Rundergehakt"
+    ],
+    "isFood": true
+  }
+]

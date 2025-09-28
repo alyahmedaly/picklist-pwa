@@ -1,0 +1,212 @@
+[
+  {
+    "id": "501990",
+    "name": "Lindt Excellence honing amandel pure chocolade",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936333039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384653",
+    "name": "Tony's Chocolonely Reep puur amandel zeezout",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523480",
+    "name": "Verkade Hazelnoot & karamel knapperig",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383638333936?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556472",
+    "name": "Lindt Les grandes pure chocolade hazelnoot",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "402622",
+    "name": "Ritter Sport Puur hele hazelnoot",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373336353133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549949",
+    "name": "L'Atelier Pure chocoladereep hazelnoot",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332323639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582803",
+    "name": "Côte d'Or Melkchocolade hazelnoten & rozijnen",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549946",
+    "name": "L'Atelier Pure chocoladereep amandel & bosbes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332323935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193233",
+    "name": "AH Biologisch Reep puur hazelnoot",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373134303836?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459430",
+    "name": "AH Reep puur hazelnoot",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831343437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "30496",
+    "name": "Delicata Reep pure chocolade hazelnoot",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "35395",
+    "name": "Delicata Reep pure chocolade hazelnoot",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393039393930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469394",
+    "name": "Alter Eco Almond dark chocolate vegan",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330333033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502392",
+    "name": "Verkade Extra puur hazelnoot",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933303833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387823",
+    "name": "Côte d'Or Reep puur hele hazelnoot",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138323530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met noten"
+    ],
+    "isFood": true
+  }
+]

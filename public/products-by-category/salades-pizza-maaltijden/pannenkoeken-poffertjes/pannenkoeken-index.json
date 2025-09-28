@@ -1,0 +1,206 @@
+[
+  {
+    "id": "206812",
+    "name": "AH Blini's",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140715",
+    "name": "AH American pancakes naturel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373539393239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570888",
+    "name": "AH Terra Plantaardige pancakes naturel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336313930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383671",
+    "name": "AH Banaan spelt pancakes",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830343637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494115",
+    "name": "AH Glutenvrij American pancakes",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135393136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570885",
+    "name": "Magioni Beetroot banana pancakes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733383337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198686",
+    "name": "AH Pannenkoeken naturel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033383536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570887",
+    "name": "Magioni Carrot cake pancakes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733383338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466754",
+    "name": "AH Mix voor American pancakes naturel",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035313734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570886",
+    "name": "Magioni Pumpkin cinnamon pancakes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733383339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538500",
+    "name": "OaYeah! Pancakes",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938393632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130455",
+    "name": "AH Pannenkoeken naturel",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "142438",
+    "name": "AH Pannenkoeken naturel",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497932",
+    "name": "Jan Pannenkoeken naturel",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933333931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538501",
+    "name": "OaYeah! Pannenkoeken",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466749",
+    "name": "AH Mix voor pannenkoeken spelt",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035313731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466748",
+    "name": "AH Mix voor pannenkoeken volkoren",
+    "price": 0.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035313732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Pannenkoeken"
+    ],
+    "isFood": true
+  }
+]

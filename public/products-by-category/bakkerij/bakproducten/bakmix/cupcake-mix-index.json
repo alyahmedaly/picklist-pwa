@@ -1,0 +1,67 @@
+[
+  {
+    "id": "571416",
+    "name": "Homemade Mix voor unicorn cupcakes",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Bakmix",
+      "Cupcake mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492760",
+    "name": "AH Mix voor cupcakes",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Bakmix",
+      "Cupcake mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173797",
+    "name": "Koopmans Mix voor paddenstoelcakejes",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538383038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Bakmix",
+      "Cupcake mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505661",
+    "name": "Dr. Oetker Cupcakes",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038383330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Bakmix",
+      "Cupcake mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "584614",
+    "name": "Dr. Oetker cupcakes M&M'S Minis pakket",
+    "price": 7.63,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231303130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Bakmix",
+      "Cupcake mix"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Koken, tafelen, vrije tijd > Wonen, slapen > Kaarsen",
+  "breadcrumbs": "Koken, tafelen, vrije tijd > Wonen, slapen > Kaarsen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "geurkaarsen",
+      "displayName": "Geurkaarsen",
+      "productCount": 8,
+      "filePath": "geurkaarsen.jsonl",
+      "indexPath": "geurkaarsen-index.json",
+      "statsPath": "geurkaarsen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 8,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koken Tafelen Vrije Tijd",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Wonen Slapen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kaarsen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "koken-tafelen-vrije-tijd/wonen-slapen"
+  }
+}

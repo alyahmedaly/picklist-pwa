@@ -1,0 +1,109 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "ijs",
+      "displayName": "Ijs",
+      "productCount": 200,
+      "hasSubdirectories": true,
+      "indexPath": "ijs/index.json"
+    },
+    {
+      "name": "diepvries-snacks",
+      "displayName": "Diepvries Snacks",
+      "productCount": 130,
+      "hasSubdirectories": true,
+      "indexPath": "diepvries-snacks/index.json"
+    },
+    {
+      "name": "diepvries-pizza",
+      "displayName": "Diepvries Pizza",
+      "productCount": 89,
+      "hasSubdirectories": false,
+      "indexPath": "diepvries-pizza/index.json"
+    },
+    {
+      "name": "diepvries-aardappelproducten",
+      "displayName": "Diepvries Aardappelproducten",
+      "productCount": 46,
+      "hasSubdirectories": false,
+      "indexPath": "diepvries-aardappelproducten/index.json"
+    },
+    {
+      "name": "diepvries-gebak-brood-bladerdeeg",
+      "displayName": "Diepvries Gebak Brood Bladerdeeg",
+      "productCount": 28,
+      "hasSubdirectories": false,
+      "indexPath": "diepvries-gebak-brood-bladerdeeg/index.json"
+    },
+    {
+      "name": "diepvries-glutenvrij",
+      "displayName": "Diepvries Glutenvrij",
+      "productCount": 8,
+      "hasSubdirectories": false,
+      "indexPath": "diepvries-glutenvrij/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "diepvries-hapjes",
+      "displayName": "Diepvries Hapjes",
+      "productCount": 47,
+      "filePath": "diepvries-hapjes.jsonl",
+      "indexPath": "diepvries-hapjes-index.json",
+      "statsPath": "diepvries-hapjes-stats.json",
+      "averageProtein": 9.2,
+      "halalCompliance": 53
+    },
+    {
+      "name": "premium-vlees",
+      "displayName": "Premium Vlees",
+      "productCount": 20,
+      "filePath": "premium-vlees.jsonl",
+      "indexPath": "premium-vlees-index.json",
+      "statsPath": "premium-vlees-stats.json",
+      "averageProtein": 20.2,
+      "halalCompliance": 80
+    },
+    {
+      "name": "diepvries-halal",
+      "displayName": "Diepvries Halal",
+      "productCount": 11,
+      "filePath": "diepvries-halal.jsonl",
+      "indexPath": "diepvries-halal-index.json",
+      "statsPath": "diepvries-halal-stats.json",
+      "averageProtein": 12.1,
+      "halalCompliance": 73
+    },
+    {
+      "name": "diepvries-babyvoeding",
+      "displayName": "Diepvries Babyvoeding",
+      "productCount": 5,
+      "filePath": "diepvries-babyvoeding.jsonl",
+      "indexPath": "diepvries-babyvoeding-index.json",
+      "statsPath": "diepvries-babyvoeding-stats.json",
+      "averageProtein": 2.9,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 584,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 584,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

@@ -1,0 +1,290 @@
+[
+  {
+    "id": "571953",
+    "name": "AH Grissini genovese",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030353432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556729",
+    "name": "Deli di Paolo Fornaccini olijfolie",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432383835?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483970",
+    "name": "Fratelli Laurieri Scrocchi Grande zeezout",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363735353534?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480506",
+    "name": "AH Borreltoast rozemarijn",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236333438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480505",
+    "name": "AH Borreltoast zeezout",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236333434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553500",
+    "name": "AH Le sfoglie toast met rozemarijn",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430393937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553499",
+    "name": "AH Le sfoglie toast met zeezout",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430393936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556730",
+    "name": "Deli di Paolo Fornaccini tomaat & basilicum",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432393436?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556733",
+    "name": "Deli di Paolo Mini grissini parmezaanse kaas zeezout",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335323338?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441401",
+    "name": "Fratelli Laurieri Scrocchi mix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353738363434?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451095",
+    "name": "Panetteria di Sergio Scrocchi olijf",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332363337?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451092",
+    "name": "Panetteria di Sergio Scrocchi rozemarijn",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331353133?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451097",
+    "name": "Panetteria di Sergio Scrocchi zeezout",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373333333836?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480799",
+    "name": "AH Cheese Bites",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373938323932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571950",
+    "name": "AH Lingue di focaccia olijfolie",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532383831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582861",
+    "name": "Fratelli Laurieri Bruschette met oregano",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131313533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "306507",
+    "name": "AH Picos knoflook",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383030303538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212501",
+    "name": "AH Picos naturel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383039363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553501",
+    "name": "AH Scrocchi olijf",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430323730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505964",
+    "name": "AH Scrocchi oregano",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383030303630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480501",
+    "name": "AH Scrocchi rozemarijn zeezout",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383039363333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458893",
+    "name": "AH Scrocchi truffel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383039363334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230456",
+    "name": "AH Scrocchi zeezout",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383039363335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550203",
+    "name": "Van der Meulen Melbatoast volkoren rondjes",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334393437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Luxe toast"
+    ],
+    "isFood": true
+  }
+]

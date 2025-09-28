@@ -1,0 +1,132 @@
+[
+  {
+    "id": "433694",
+    "name": "Calvé Salademix Italiaanse kruiden",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033393432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Italiaanse keukenkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197880",
+    "name": "Verstegen Kruidenmix Italiaans",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333436?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Italiaanse keukenkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197990",
+    "name": "Verstegen Kruidenmix Italiaans",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Italiaanse keukenkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227388",
+    "name": "A.Vogel Herbamare original zeezout met kruiden",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373536343631?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Italiaanse keukenkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575493",
+    "name": "Euroma Funghi trifolati by Jonnie Boer",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734353936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Italiaanse keukenkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197865",
+    "name": "Euroma Italiaanse kruiden vriesdroog",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353735333839?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Italiaanse keukenkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216628",
+    "name": "Verstegen Italiaanse kruiden",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039373930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Italiaanse keukenkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414961",
+    "name": "Verstegen Italiaanse kruiden",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131343133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Italiaanse keukenkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557223",
+    "name": "Verstegen Italiaanse kruiden",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363938333031?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Italiaanse keukenkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "452190",
+    "name": "Verstegen Pasta rosso kruidenmix",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Italiaanse keuken",
+      "Italiaanse keukenkruiden"
+    ],
+    "isFood": true
+  }
+]

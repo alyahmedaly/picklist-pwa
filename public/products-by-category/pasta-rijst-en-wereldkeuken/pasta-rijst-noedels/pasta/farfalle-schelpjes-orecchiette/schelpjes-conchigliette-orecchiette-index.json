@@ -1,0 +1,100 @@
+[
+  {
+    "id": "62414",
+    "name": "AH Biologisch Schelpjes pasta",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232353639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Farfalle, schelpjes, orecchiette",
+      "Schelpjes, conchigliette, orecchiette"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477905",
+    "name": "Grand' Italia Mini conchiglie",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739373932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Farfalle, schelpjes, orecchiette",
+      "Schelpjes, conchigliette, orecchiette"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2072",
+    "name": "Grand' Italia Pipe rigate tradizionali",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739383331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Farfalle, schelpjes, orecchiette",
+      "Schelpjes, conchigliette, orecchiette"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450859",
+    "name": "Soubry eazy pasta spirelli bel",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303136393837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Farfalle, schelpjes, orecchiette",
+      "Schelpjes, conchigliette, orecchiette"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "368946",
+    "name": "De Cecco Conchiglioni rigati nr 126",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Farfalle, schelpjes, orecchiette",
+      "Schelpjes, conchigliette, orecchiette"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450222",
+    "name": "De Cecco Orecchiette",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Farfalle, schelpjes, orecchiette",
+      "Schelpjes, conchigliette, orecchiette"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575921",
+    "name": "Liguori Conchiglie rigate no48",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738353431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Farfalle, schelpjes, orecchiette",
+      "Schelpjes, conchigliette, orecchiette"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "231967",
+    "name": "Consenza Frikandellen",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836353835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries glutenvrij",
+      "Glutenvrije snacks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237616",
+    "name": "Consenza Bitterballen",
+    "price": 6.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries glutenvrij",
+      "Glutenvrije snacks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231965",
+    "name": "Consenza Rundvleeskroket",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935313033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries glutenvrij",
+      "Glutenvrije snacks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231966",
+    "name": "Consenza Kipnuggets",
+    "price": 6.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934363233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries glutenvrij",
+      "Glutenvrije snacks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231964",
+    "name": "Consenza Kaassoufle",
+    "price": 6.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934363533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries glutenvrij",
+      "Glutenvrije snacks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237613",
+    "name": "Consenza Loempia",
+    "price": 7.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935303934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries glutenvrij",
+      "Glutenvrije snacks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539586",
+    "name": "Iglo Glutenvrije lekkerbekjes gepaneerd",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries glutenvrij",
+      "Glutenvrije snacks (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417053",
+    "name": "Iglo Vissticks glutenvrij",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934313238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries glutenvrij",
+      "Glutenvrije snacks (diepvries)"
+    ],
+    "isFood": true
+  }
+]

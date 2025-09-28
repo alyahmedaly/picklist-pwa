@@ -1,0 +1,122 @@
+[
+  {
+    "id": "560446",
+    "name": "AH Excellent Selectie martinez port lbv",
+    "price": 8.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239393237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Mousserend overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459880",
+    "name": "Freixenet Prosecco DOC BEL",
+    "price": 10.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373834303938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Mousserend overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "69041",
+    "name": "Le Monferrine Asti",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632393334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Mousserend overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417986",
+    "name": "Platino Charmat blue moscato bel",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50353939333832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Mousserend overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "200564",
+    "name": "Pongrácz Rosé",
+    "price": 14.65,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313838363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Mousserend overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "200563",
+    "name": "Pongrácz Sparkling brut",
+    "price": 14.65,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313838343436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Mousserend overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "178184",
+    "name": "Valdivieso Sparkling Brut",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363439353433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Mousserend overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "69035",
+    "name": "Veuve Amiot Brut",
+    "price": 13.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530383238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Mousserend overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "69034",
+    "name": "Veuve Amiot Demi-sec",
+    "price": 13.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373734353530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Mousserend overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437729",
+    "name": "Zonin Prosecco DOC Cuvee 1821",
+    "price": 11.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383635393238?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Mousserend overig"
+    ],
+    "isFood": true
+  }
+]

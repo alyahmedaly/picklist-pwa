@@ -1,0 +1,362 @@
+[
+  {
+    "id": "538734",
+    "name": "LambWeston Grill fries",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489702",
+    "name": "AH Snelle zoete aardappel airfryer friet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363931383937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413161",
+    "name": "Aviko Skinny fries",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536353037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233058",
+    "name": "Aviko Zoete aardappel friet",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536303338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195092",
+    "name": "AH Franse friet",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303037353739?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508115",
+    "name": "LambWeston Burger fries",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931323736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474125",
+    "name": "LambWeston Original fries",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934353037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374986",
+    "name": "LambWeston Ziggy fries",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931333036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457653",
+    "name": "LambWeston Ziggy fries seasoned",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "206698",
+    "name": "AH Ribbel friet",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303232303236?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195094",
+    "name": "AH Vlaamse friet",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303038313531?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538725",
+    "name": "Aviko Grip 'n dip",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536353039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413197",
+    "name": "Aviko Supercrunch airfryer dikke friet",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397800",
+    "name": "Aviko Supercrunch airfryer pommes frites",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169184",
+    "name": "Aviko Supercrunch originals Franse friet",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536333637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508057",
+    "name": "Aviko Zoete aardappel kreukel friet",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536323038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217004",
+    "name": "LambWeston Twister fries",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839303734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "141487",
+    "name": "LambWeston Twister fries seasoned",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031363331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567540",
+    "name": "LambWeston Waffle fries seasoned",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037393836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "190586",
+    "name": "Aviko Supercrunch originals Hollandse friet",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535393131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165278",
+    "name": "Aviko Supercrunch originals kreukel friet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536303435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474126",
+    "name": "LambWeston Rustic fries",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931343938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217006",
+    "name": "AH Krokante friet",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363836383736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217595",
+    "name": "AH Krokante friet",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373039383730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169185",
+    "name": "Aviko Franse frites",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535393936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169186",
+    "name": "Aviko Oma's smulfriet",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536313936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "208268",
+    "name": "Aviko Opa's ovenfriet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536303339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169193",
+    "name": "Aviko Pommes frites",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536303430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169187",
+    "name": "Aviko Pommes Frites",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536303431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "208269",
+    "name": "Aviko Vlaamse friet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536323035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Friet"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "579582",
+    "name": "AH Grillworst sweet chili",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Grillworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579583",
+    "name": "AH Grillworst met Italiaanse kruiden kaas",
+    "price": 2.72,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Grillworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186643",
+    "name": "AH Grillworst",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131343834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Grillworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498023",
+    "name": "AH Grillworst",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Grillworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498024",
+    "name": "AH Kipgrillworst",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Grillworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197444",
+    "name": "AH Kipgrillworst",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239363237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Grillworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578841",
+    "name": "AH Grillworst minder vet",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Grillworst (voorverpakt)"
+    ],
+    "isFood": true
+  }
+]

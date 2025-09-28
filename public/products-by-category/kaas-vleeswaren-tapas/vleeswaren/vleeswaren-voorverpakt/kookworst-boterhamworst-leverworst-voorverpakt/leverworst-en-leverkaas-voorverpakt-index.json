@@ -1,0 +1,352 @@
+[
+  {
+    "id": "33123",
+    "name": "AH Ah saksische leverworst",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435353231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "33046",
+    "name": "AH Duitse theeworst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543186",
+    "name": "AH Leverworst",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837333637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579585",
+    "name": "AH Saksische leverworst",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135383435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186644",
+    "name": "AH Berliner leverworst",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579586",
+    "name": "AH Keulse smeerleverworst",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135383439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186645",
+    "name": "AH Leverkaas",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163548",
+    "name": "AH Saksische leverworst",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576785",
+    "name": "AH Berliner leverworst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932373231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579584",
+    "name": "AH Leverworst",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135383438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378788",
+    "name": "Kips Slagersleverworst",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039363737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579592",
+    "name": "AH Biologisch Leverworst",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134393230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579766",
+    "name": "AH Kalfsleverworst",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132303232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67562",
+    "name": "AH Leverworst",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210987",
+    "name": "AH Leverworst",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "150883",
+    "name": "Kips kl smeerleverworst",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037383232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3051",
+    "name": "Kips Leverworst",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038353137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197301",
+    "name": "Kroon Fijne leverworst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373437373035?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197356",
+    "name": "Kroon Fijne leverworst",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373436393637?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130525",
+    "name": "Kroon Saksische leverworst",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373437303437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188697",
+    "name": "Vocking Leverworst",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363137313232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197287",
+    "name": "Vocking Leverworst",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363137313233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575204",
+    "name": "Kesbeke Leverworst met augurk",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738353138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "33027",
+    "name": "AH Boerenleverworst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566660",
+    "name": "AH Boerenleverworst 3-pack",
+    "price": 5.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Leverworst en leverkaas (voorverpakt)"
+    ],
+    "isFood": true
+  }
+]

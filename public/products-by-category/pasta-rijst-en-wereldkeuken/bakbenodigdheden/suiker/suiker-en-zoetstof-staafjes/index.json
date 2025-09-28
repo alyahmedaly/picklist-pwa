@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Bakbenodigdheden > Suiker > Suiker en zoetstof (staafjes)",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Bakbenodigdheden > Suiker > Suiker en zoetstof (staafjes)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "suikerklontjes-en-staafjes",
+      "displayName": "Suikerklontjes En Staafjes",
+      "productCount": 8,
+      "filePath": "suikerklontjes-en-staafjes.jsonl",
+      "indexPath": "suikerklontjes-en-staafjes-index.json",
+      "statsPath": "suikerklontjes-en-staafjes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 8,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Bakbenodigdheden",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Suiker",
+        "path": "../index.json"
+      },
+      {
+        "name": "Suiker En Zoetstof Staafjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "pasta-rijst-en-wereldkeuken/bakbenodigdheden/suiker"
+  }
+}

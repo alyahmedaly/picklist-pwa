@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Brood > Glutenvrij brood",
+  "breadcrumbs": "Bakkerij > Brood > Glutenvrij brood",
+  "totalProducts": 24,
+  "halalCompliance": 79,
+  "averageProtein": 5.2,
+  "averagePrice": 3.34,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 24,
+    "withIngredients": 24,
+    "withHalalCheck": 24
+  }
+}

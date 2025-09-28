@@ -1,0 +1,206 @@
+[
+  {
+    "id": "548624",
+    "name": "8.6 Extreme strong blond 4-pack",
+    "price": 8.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475729",
+    "name": "8.6 Original blik",
+    "price": 1.93,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339363637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475731",
+    "name": "8.6 Original intense blond beer 4-pack",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138303736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198214",
+    "name": "Alfa Super strong",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830383734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570415",
+    "name": "Baxbier Gateway",
+    "price": 2.47,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337363932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570490",
+    "name": "Brouwerij Maallust Zware jongen tripel",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337373137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570492",
+    "name": "Brouwerij Wilderen Tripel kannunik",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373032313233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369603",
+    "name": "Bush Caractère amber",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393832353535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234401",
+    "name": "De Leckere Blauwe Bijl",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363737353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198217",
+    "name": "Grolsch Krachtig kanon",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332363835?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194903",
+    "name": "Gulpener Gladiator robuust bier",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393239303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570458",
+    "name": "Hooglander Espresso stout",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336343732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "134728",
+    "name": "Kasteelbier Donker",
+    "price": 8.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569788",
+    "name": "Kasteelbier Rubus framboise",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931353437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569789",
+    "name": "Kasteelbier Rubus framboise",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431343533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491771",
+    "name": "Lander bräu Super strong 4-pack",
+    "price": 5.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138303738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578914",
+    "name": "To Øl New moon porter",
+    "price": 4.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830373931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Zwaar bier"
+    ],
+    "isFood": true
+  }
+]

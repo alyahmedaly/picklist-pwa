@@ -1,0 +1,98 @@
+[
+  {
+    "id": "515724",
+    "name": "AH Terra Plantaardige dessert cheesecake bes",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333333736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515833",
+    "name": "AH Terra Plantaardige dessert cheesecake citroen",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333333739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515725",
+    "name": "AH Terra Dessert plantaardige chocolade mousse",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034383038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "510320",
+    "name": "AH Terra Plantaardige dessert tiramisu",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303136353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575533",
+    "name": "Almhof Hoekje choco balls plantaardig",
+    "price": 1.27,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633383438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575534",
+    "name": "Almhof Hoekje choco flakes plantaardig",
+    "price": 1.27,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633383439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185321",
+    "name": "Alpro Dessert dark chocolate",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636353835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159491",
+    "name": "Alpro Dessert vanille",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636353833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige toetjes"
+    ],
+    "isFood": true
+  }
+]

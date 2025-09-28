@@ -1,0 +1,145 @@
+[
+  {
+    "id": "365661",
+    "name": "AH Avocado stukjes",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Diepvries kookgemak",
+      "Groentemix (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "434487",
+    "name": "Iglo Roerbak groente idee italiaans",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383338353131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Diepvries kookgemak",
+      "Groentemix (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468436",
+    "name": "Iglo Roerbak groente idee boerenmix",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383338353130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Diepvries kookgemak",
+      "Groentemix (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "434486",
+    "name": "Iglo Roerbak groente idee hollands",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934393031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Diepvries kookgemak",
+      "Groentemix (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226480",
+    "name": "Bonduelle Gegrilde groenten mix",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936383534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Diepvries kookgemak",
+      "Groentemix (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365662",
+    "name": "AH Gegrilde groenten",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323132353035?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Diepvries kookgemak",
+      "Groentemix (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "453751",
+    "name": "AH Gegrilde groenten",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303238373330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Diepvries kookgemak",
+      "Groentemix (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226362",
+    "name": "Bonduelle Mexico melange",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936383532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Diepvries kookgemak",
+      "Groentemix (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564313",
+    "name": "Bonduelle Bonenmix",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936383133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Diepvries kookgemak",
+      "Groentemix (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579286",
+    "name": "AH Avocado stukjes 2-pack",
+    "price": 4.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032303033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Diepvries kookgemak",
+      "Groentemix (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579287",
+    "name": "AH Gegrilde groenten 2-pack",
+    "price": 4.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032303035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Diepvries kookgemak",
+      "Groentemix (diepvries)"
+    ],
+    "isFood": true
+  }
+]

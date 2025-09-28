@@ -1,0 +1,206 @@
+[
+  {
+    "id": "177031",
+    "name": "Steneker Groningse jongens",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303336323139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177032",
+    "name": "Steneker Groningse jongens",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303430353537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177057",
+    "name": "Steneker Groningse knakkers",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303336323338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561335",
+    "name": "Huls Boeren metworst",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363534323932?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448445",
+    "name": "Huls Boerenjongens kruidnagel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363534323931?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448233",
+    "name": "Huls Boerenjongens naturel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232323231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448254",
+    "name": "Huls Boerenmetworst",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363534323933?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448250",
+    "name": "Huls Groninger metworst",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363537303534?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448252",
+    "name": "Huls Groninger metworst",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363537303535?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177030",
+    "name": "Steneker Friese jongens",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303331383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177033",
+    "name": "Steneker Friese jongens",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303336323231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177056",
+    "name": "Steneker Friese knakkers",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303331383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448494",
+    "name": "Huls Boeren borrelworstjes",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363835313936?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448247",
+    "name": "Huls Drentse kosterworst",
+    "price": 10.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539343630?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448248",
+    "name": "Huls Drentse kosterworst",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363534323834?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468154",
+    "name": "Huls Drentse Kosterworst",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363735353531?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448257",
+    "name": "Huls Gekookte Drentse kosterworst",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363734343939?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - metworst"
+    ],
+    "isFood": true
+  }
+]

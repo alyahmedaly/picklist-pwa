@@ -1,0 +1,80 @@
+[
+  {
+    "id": "571434",
+    "name": "Duca 20 mini loempia's groente",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Mini loempia's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543814",
+    "name": "AH Pittige hapjes",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635373936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Mini loempia's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183227",
+    "name": "AH Mini loempia met kip",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132313238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Mini loempia's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183228",
+    "name": "AH Mini loempia met groente",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323533353039?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Mini loempia's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468142",
+    "name": "Mora Oven & airfryer ham-kip loempia's",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535303438?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Mini loempia's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483987",
+    "name": "Picard Mini loempia met kip groente",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363638383830?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Mini loempia's"
+    ],
+    "isFood": true
+  }
+]

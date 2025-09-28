@@ -1,0 +1,254 @@
+[
+  {
+    "id": "563658",
+    "name": "AH Terra Plantaardige gehaktbal",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563700",
+    "name": "AH Terra Stoofstukjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639393739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580506",
+    "name": "AH Terra Biologische seitan kebab",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131343737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567845",
+    "name": "Redefine Meat Lamb kofta mix",
+    "price": 4.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132353731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493518",
+    "name": "Beyond Meat Hack",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039383432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567842",
+    "name": "Redefine Meat Beef mince",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132353735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577213",
+    "name": "AH Terra Plantaardige kofte",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563882",
+    "name": "Vegetarische Slager Vegan Zweedsche gehacktballetjes",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303032373135?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564795",
+    "name": "AH Terra Plantaardig gehakt",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570479",
+    "name": "Verstegen Kneed & klaar peulgehakt Italiaans",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570454",
+    "name": "Verstegen Kneed & klaar peulgehakt klassiek",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570480",
+    "name": "Verstegen Kneed & klaar peulgehakt pittig",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338343534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564861",
+    "name": "AH Terra Plantaardig rulgehakt Mexicaans",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397381",
+    "name": "Vegetarische Slager Vegan rul gehackt",
+    "price": 3.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839343639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580481",
+    "name": "Vegetarische Slager Vegan rul gehackt XL",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030313939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564790",
+    "name": "AH Terra Plantaardig rulgehakt Italiaans",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564796",
+    "name": "AH Terra Plantaardig rulgehakt",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564798",
+    "name": "AH Terra Plantaardig rulgehakt",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577211",
+    "name": "AH Terra Plantaardige gehaktstaafjes Arabisch",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493528",
+    "name": "Vivera Plantaardig kruimgehakt",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630363834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570154",
+    "name": "Vivera Plantaardig kruimgehakt voordeelpak",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637313136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarisch gehakt"
+    ],
+    "isFood": true
+  }
+]

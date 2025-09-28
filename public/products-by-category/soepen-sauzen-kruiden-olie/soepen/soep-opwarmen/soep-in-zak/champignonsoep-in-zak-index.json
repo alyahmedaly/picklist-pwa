@@ -1,0 +1,86 @@
+[
+  {
+    "id": "545925",
+    "name": "AH Terra Plantaardige romige champignonsoep",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535333432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Champignonsoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400022",
+    "name": "AH Gebonden paddenstoelensoep",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235303131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Champignonsoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400129",
+    "name": "AH Gebonden paddenstoelensoep",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235303134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Champignonsoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193937",
+    "name": "Unox Romige champignonsoep",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Champignonsoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123847",
+    "name": "Unox Romige Paddenstoelensoep",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Champignonsoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570275",
+    "name": "AH Franse bospaddenstoelen soep",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837393637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Champignonsoep in zak"
+    ],
+    "isFood": true
+  }
+]

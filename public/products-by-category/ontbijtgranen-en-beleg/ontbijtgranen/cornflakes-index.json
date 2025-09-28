@@ -1,0 +1,194 @@
+[
+  {
+    "id": "228408",
+    "name": "Peak's Crispy pillows choco & vanillevulling",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932313031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538502",
+    "name": "Kellogg's All-bran fruit 'n fibre",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833393932?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "122595",
+    "name": "Kellogg's Special K pure chocolade",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393635303435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130343",
+    "name": "AH Bran flakes fruit",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337333034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162826",
+    "name": "Kellogg's Cornflakes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393635313230?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470950",
+    "name": "AH Special flakes pure chocolade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475503",
+    "name": "AH Chocosmaak schelpen",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553794",
+    "name": "Kellogg's Special k original",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334353839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471004",
+    "name": "AH Cornflakes",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482482",
+    "name": "Schär Choco balls glutenvrij",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373437313232?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494097",
+    "name": "AH Glutenvrij Cornflakes",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373230393834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471003",
+    "name": "AH Bran flakes volkoren",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138313037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494530",
+    "name": "AH Glutenvrij Vezelrijke bran flakes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373232343137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437373",
+    "name": "AH Biologisch Cornflakes",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363335343131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130341",
+    "name": "AH Special flakes naturel",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337333038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162236",
+    "name": "Weetabix Original",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353837373435?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "(Corn)flakes"
+    ],
+    "isFood": true
+  }
+]

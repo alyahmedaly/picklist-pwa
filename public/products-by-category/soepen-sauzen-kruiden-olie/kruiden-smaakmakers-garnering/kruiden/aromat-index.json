@@ -1,0 +1,67 @@
+[
+  {
+    "id": "186648",
+    "name": "Knorr Aromat met tuinkruiden",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Aromat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186647",
+    "name": "Knorr Aromat",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839313639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Aromat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "37171",
+    "name": "Knorr Aromat navulzakje",
+    "price": 0.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Aromat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "37506",
+    "name": "Knorr Smaakverfijner aromat natriumarm",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934333738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Aromat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126944",
+    "name": "Knorr Aromat met tuinkruiden navulzakje",
+    "price": 0.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Aromat"
+    ],
+    "isFood": true
+  }
+]

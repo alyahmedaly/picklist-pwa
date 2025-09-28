@@ -1,0 +1,93 @@
+[
+  {
+    "id": "462427",
+    "name": "AH Avocado",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393134363439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Komkommer, tomaat, avocado",
+      "Avocado"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129400",
+    "name": "AH Avocado eetrijp",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339323834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Komkommer, tomaat, avocado",
+      "Avocado"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470588",
+    "name": "AH Baby avocado eetrijp",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Komkommer, tomaat, avocado",
+      "Avocado"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "114589",
+    "name": "AH Biologisch Avocado",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338303837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Komkommer, tomaat, avocado",
+      "Avocado"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169797",
+    "name": "AH Avocado",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323436393539?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Komkommer, tomaat, avocado",
+      "Avocado"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567052",
+    "name": "AH Avocado Eetrijp 3-pack",
+    "price": 8.52,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038333638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Komkommer, tomaat, avocado",
+      "Avocado"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563402",
+    "name": "AH Avocado eetrijp 4-pack",
+    "price": 11.36,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393634323932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Komkommer, tomaat, avocado",
+      "Avocado"
+    ],
+    "isFood": true
+  }
+]

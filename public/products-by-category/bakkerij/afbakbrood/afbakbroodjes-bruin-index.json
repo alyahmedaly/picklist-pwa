@@ -1,0 +1,110 @@
+[
+  {
+    "id": "495976",
+    "name": "Schnitzer Bread'n toast rustic",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303139363033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495975",
+    "name": "Schnitzer Baguette grainy",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303139343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458889",
+    "name": "AH Biologisch Pompoen broodjes met desem bereid",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030303037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416990",
+    "name": "AH Italiaanse bollen",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738313634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "115219",
+    "name": "AH Kampioentjes",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931333730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498196",
+    "name": "AH Schnittbroodjes volkoren",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "536151",
+    "name": "AH Eiwitrijke broodjes",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383837313230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232389",
+    "name": "AH Bruine pistolets",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes bruin"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417106",
+    "name": "AH Spelt broodjes met desem bereid",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032303037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes bruin"
+    ],
+    "isFood": true
+  }
+]

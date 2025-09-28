@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Vlees, vis > Varkensvlees > Varkenshaas",
+  "breadcrumbs": "Vlees, vis > Varkensvlees > Varkenshaas",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "varkenshaas-vers",
+      "displayName": "Varkenshaas Vers",
+      "productCount": 5,
+      "filePath": "varkenshaas-vers.jsonl",
+      "indexPath": "varkenshaas-vers-index.json",
+      "statsPath": "varkenshaas-vers-stats.json",
+      "averageProtein": 20.4,
+      "halalCompliance": 20
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Varkensvlees",
+        "path": "../index.json"
+      },
+      {
+        "name": "Varkenshaas",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/varkensvlees"
+  }
+}

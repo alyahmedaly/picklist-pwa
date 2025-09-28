@@ -1,0 +1,84 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "witte-wijn-fris-en-droog",
+      "displayName": "Witte Wijn Fris En Droog",
+      "productCount": 107,
+      "hasSubdirectories": false,
+      "indexPath": "witte-wijn-fris-en-droog/index.json"
+    },
+    {
+      "name": "witte-wijn-vol-en-droog",
+      "displayName": "Witte Wijn Vol En Droog",
+      "productCount": 57,
+      "hasSubdirectories": false,
+      "indexPath": "witte-wijn-vol-en-droog/index.json"
+    },
+    {
+      "name": "witte-wijn-lichtzoet",
+      "displayName": "Witte Wijn Lichtzoet",
+      "productCount": 10,
+      "hasSubdirectories": false,
+      "indexPath": "witte-wijn-lichtzoet/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "overige-witte-wijn",
+      "displayName": "Overige Witte Wijn",
+      "productCount": 13,
+      "filePath": "overige-witte-wijn.jsonl",
+      "indexPath": "overige-witte-wijn-index.json",
+      "statsPath": "overige-witte-wijn-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "alcoholvrije-witte-wijn",
+      "displayName": "Alcoholvrije Witte Wijn",
+      "productCount": 10,
+      "filePath": "alcoholvrije-witte-wijn.jsonl",
+      "indexPath": "alcoholvrije-witte-wijn-index.json",
+      "statsPath": "alcoholvrije-witte-wijn-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 70
+    },
+    {
+      "name": "witte-wijn-klein",
+      "displayName": "Witte Wijn Klein",
+      "productCount": 9,
+      "filePath": "witte-wijn-klein.jsonl",
+      "indexPath": "witte-wijn-klein-index.json",
+      "statsPath": "witte-wijn-klein-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 206,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 206,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../index.json"
+      },
+      {
+        "name": "Witte Wijn",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "wijn-en-bubbels"
+  }
+}

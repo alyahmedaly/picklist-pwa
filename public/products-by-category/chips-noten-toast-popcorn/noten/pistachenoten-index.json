@@ -1,0 +1,98 @@
+[
+  {
+    "id": "559294",
+    "name": "AH Gezouten pistachenoten",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pistachenoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "57744",
+    "name": "AH Pistachenoten gezouten",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236323237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pistachenoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458836",
+    "name": "AH Pistachenoten gezouten",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236333933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pistachenoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467590",
+    "name": "AH Pistachenoten gezouten",
+    "price": 3.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pistachenoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487238",
+    "name": "AH Pistachemix gezouten",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236323938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pistachenoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520117",
+    "name": "AH Ongezouten pistaches",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pistachenoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550318",
+    "name": "AH Pistache ongezouten",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pistachenoten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550319",
+    "name": "AH Pistachemix ongezouten",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pistachenoten"
+    ],
+    "isFood": true
+  }
+]

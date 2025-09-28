@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Bakproducten > Cake bakken > Cakemix",
+  "breadcrumbs": "Bakkerij > Bakproducten > Cake bakken > Cakemix",
+  "totalProducts": 21,
+  "halalCompliance": 52,
+  "averageProtein": 5.9,
+  "averagePrice": 2.2,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 21,
+    "withIngredients": 21,
+    "withHalalCheck": 21
+  }
+}

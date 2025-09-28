@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Koek > Alledaagse koeken",
+  "breadcrumbs": "Snoep, chocolade, koek > Koek > Alledaagse koeken",
+  "totalProducts": 46,
+  "halalCompliance": 63,
+  "averageProtein": 5.4,
+  "averagePrice": 2.15,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 46,
+    "withIngredients": 46,
+    "withHalalCheck": 46
+  }
+}

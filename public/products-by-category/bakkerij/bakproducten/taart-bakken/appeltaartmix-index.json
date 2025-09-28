@@ -1,0 +1,67 @@
+[
+  {
+    "id": "162984",
+    "name": "Koopmans Mix voor appeltaart",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363731393934?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Appeltaartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444412",
+    "name": "Koopmans Mix voor appeltaart met extra deeg",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363731393936?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Appeltaartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466195",
+    "name": "Koopmans Omgekeerde appeltaart mix",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363738303834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Appeltaartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193684",
+    "name": "Koopmans Mix voor appelkruimeltaart",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363731393935?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Appeltaartmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130658",
+    "name": "AH Mix voor appeltaart",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303539353639?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Taart bakken",
+      "Appeltaartmix"
+    ],
+    "isFood": true
+  }
+]

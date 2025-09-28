@@ -1,0 +1,194 @@
+[
+  {
+    "id": "513513",
+    "name": "AH Verse Louisiana pulled pork",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438353138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498731",
+    "name": "AH Verse Indische runderstoof",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567505",
+    "name": "AH Verse paddenstoelen risotto",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581715",
+    "name": "AH Vers stamppot boerenkool",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "546110",
+    "name": "AH Verse curry madras",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570675",
+    "name": "AH Verse hachee rodekool",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562450",
+    "name": "AH Verse nasi kipsaté",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513476",
+    "name": "AH Verse vega pompoenrisotto",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558322",
+    "name": "AH Verse vega mexicaanse wraps",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532873",
+    "name": "AH Verse kip ketjap",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577148",
+    "name": "AH Verse pappardelle zalm",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538568",
+    "name": "AH Verse lasagne melanzane",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570676",
+    "name": "AH Mediterraanse bowl",
+    "price": 6.99,
+    "image": "NA",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486466",
+    "name": "AH Verse lasagne",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567504",
+    "name": "AH Verse pasta pesto kip",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579130",
+    "name": "AH Verse roti kip",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Verse Maaltijden"
+    ],
+    "isFood": true
+  }
+]

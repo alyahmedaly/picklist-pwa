@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Brood > Speltbrood",
+  "breadcrumbs": "Bakkerij > Brood > Speltbrood",
+  "totalProducts": 14,
+  "halalCompliance": 93,
+  "averageProtein": 10.4,
+  "averagePrice": 2.83,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 14,
+    "withIngredients": 14,
+    "withHalalCheck": 14
+  }
+}

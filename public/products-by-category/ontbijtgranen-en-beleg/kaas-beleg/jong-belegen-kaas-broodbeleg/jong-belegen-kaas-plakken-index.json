@@ -1,0 +1,314 @@
+[
+  {
+    "id": "239373",
+    "name": "AH Kaas vd boerderij jong belegen 50+ plak",
+    "price": 4.51,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383237313435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583247",
+    "name": "Maaslander Proteine plakken",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938323333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549779",
+    "name": "Maaslander Jong belegen 50+ plakken",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531303438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572638",
+    "name": "Milner Jong belegen 30+ plakken",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932343131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2601",
+    "name": "AH Goudse jong belegen 48+ plakken",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135393135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "59673",
+    "name": "AH Goudse jong belegen 48+ plakken",
+    "price": 4.21,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331303335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121168",
+    "name": "AH Goudse jong belegen 48+ plakken groot",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104394",
+    "name": "AH Zaanlander Jong belegen 48+ plakken",
+    "price": 3.84,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231343335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557029",
+    "name": "AH Zaanlander Jong belegen 48+ plakken kleintje",
+    "price": 2.47,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439333237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439550",
+    "name": "Beemster Jong belegen 30+ plakken",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335333635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197940",
+    "name": "Beemster Jong belegen 48+ plakken",
+    "price": 5.8,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132313435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409183",
+    "name": "Beemster Jong belegen 48+ plakken",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335333731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419552",
+    "name": "Beemster Jong belegen 48+ plakken voordeel",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335333536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444863",
+    "name": "De Zaanse Hoeve Jong belegen 48+ plakken",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131343833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197227",
+    "name": "De Zaanse Hoeve Jong belegen 48+ plakken voordeelpak",
+    "price": 4.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536323835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409195",
+    "name": "AH Biologisch Jong belegen 30+ plakken",
+    "price": 3.61,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132313337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185784",
+    "name": "AH Biologisch Jong belegen 50+ plakken",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239353831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "136084",
+    "name": "AH Goudse jong belegen 30+ plakken",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557018",
+    "name": "AH Goudse jong belegen 30+ plakken",
+    "price": 4.14,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197208",
+    "name": "De Zaanse Hoeve Jong belegen 30+ plakken",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572635",
+    "name": "Milner Jong belegen 20+ plakken",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932343134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "320085",
+    "name": "AH Zaanlander Jong belegen 35+ plakken",
+    "price": 3.13,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237363937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557032",
+    "name": "AH Zaanlander Jong belegen 35+ plakken kleintje",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238343735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580605",
+    "name": "AH Zaanlander Jong belegen komijn 35+ plakken",
+    "price": 4.13,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Jong belegen kaas broodbeleg",
+      "Jong belegen kaas (plakken)"
+    ],
+    "isFood": true
+  }
+]

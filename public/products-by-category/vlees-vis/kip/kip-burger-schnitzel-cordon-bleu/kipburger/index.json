@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Vlees, vis > Kip > Kip- burger, schnitzel, cordon bleu > Kipburger",
+  "breadcrumbs": "Vlees, vis > Kip > Kip- burger, schnitzel, cordon bleu > Kipburger",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kipburger-vers",
+      "displayName": "Kipburger Vers",
+      "productCount": 9,
+      "filePath": "kipburger-vers.jsonl",
+      "indexPath": "kipburger-vers-index.json",
+      "statsPath": "kipburger-vers-stats.json",
+      "averageProtein": 11.6,
+      "halalCompliance": 67
+    }
+  ],
+  "totalProducts": 9,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Kip",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kip Burger Schnitzel Cordon Bleu",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kipburger",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "vlees-vis/kip/kip-burger-schnitzel-cordon-bleu"
+  }
+}

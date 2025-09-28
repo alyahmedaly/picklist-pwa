@@ -1,0 +1,278 @@
+[
+  {
+    "id": "567270",
+    "name": "AH Biologisch Rooibos citrus",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458829",
+    "name": "AH Biologisch Rooibos puur",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508337",
+    "name": "AH Biologisch Rooibos sinaasappel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567243",
+    "name": "AH Rooibos gember karamel",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381474",
+    "name": "AH Rooibos honing",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508312",
+    "name": "AH Rooibos mango perzik smaak",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381476",
+    "name": "AH Rooibos specerijen",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567279",
+    "name": "AH Rooibos variatie box",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574239",
+    "name": "Pickwick Rooibos super blends focus",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539323438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519107",
+    "name": "Clipper Nighty night organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495593",
+    "name": "Clipper Rooibos & orange organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523354",
+    "name": "Clipper Rooibos cinnamon organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523276",
+    "name": "Clipper Warming rooibos chai organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437363331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "144892",
+    "name": "Lipton Infusie rooibos no caffeine",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "143401",
+    "name": "Pickwick Rooibos citrus no caffeine",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313836?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161501",
+    "name": "Pickwick Rooibos honey no caffeine",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313033?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195854",
+    "name": "Pickwick Rooibos mango & peach",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323139?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "63783",
+    "name": "Pickwick Rooibos original",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430323838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195959",
+    "name": "Pickwick Rooibos original value pack",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313037?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495605",
+    "name": "Pickwick Rooibos variation box no caffeine",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830353237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574245",
+    "name": "Yogi Tea Rooibos",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303138303930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469462",
+    "name": "Zonnatura 100% rooibos kruideninfusie",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373034363338?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565965",
+    "name": "Zonnatura Rooibos & kaneel droom zacht",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231343134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Rooibosthee"
+    ],
+    "isFood": true
+  }
+]

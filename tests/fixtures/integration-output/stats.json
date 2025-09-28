@@ -1,0 +1,218 @@
+{
+  "totalRows": 11,
+  "mergedDuplicates": 0,
+  "excludedColumns": [
+    "PriceSale",
+    "Category6",
+    "Vitamine C",
+    "Kalium/Potassium",
+    "waarvan enkelvoudig onverzadigd",
+    "waarvan meervoudig onverzadigd",
+    "Alcohol",
+    "Calcium",
+    "Vitamine B2 / Riboflavine",
+    "Vitamine B12 / Cyano-Cobalamine",
+    "Fosfor",
+    "Ijzer",
+    "Vitamine A",
+    "Vitamine D",
+    "Vitamine B11 / Foliumzuur",
+    "Jodium",
+    "Vitamine E",
+    "Linolzuur",
+    "Alfa-Linoleenzuur",
+    "Vitamine B3 / Niacine",
+    "Magnesium",
+    "Zink",
+    "Omega 3 Vetzuren",
+    "Vitamine B6 / Pyridoxine",
+    "Vitamine B1 / Thiamine",
+    "Vitamine K",
+    "Vitamine B5 / Pantotheenzuur",
+    "Koper",
+    "Natrium",
+    "waarvan polyolen",
+    "Seleen",
+    "Vitamine H / Biotine",
+    "waarvan toegevoegde suikers",
+    "Omega 6 Vetzuren",
+    "Folaat",
+    "Mangaan",
+    "Chloride",
+    "Sulfaat",
+    "Nitraten",
+    "Bicarbonaat",
+    "Siliciumdioxide (Sio2)",
+    "Ash",
+    "Lactose",
+    "Glucose",
+    "Maltodextrine",
+    "Vitamin D2",
+    "Vitamine B7 / Inositol",
+    "Molybdeen",
+    "Seleen (Organisch)",
+    "Eicosapentaeenzuur",
+    "Docosahexaeenzuur",
+    "waarvan zetmeel",
+    "Cholesterol",
+    "Transvet",
+    "Organic Acids, Total",
+    "Ph, Hydrogen Ion Concentration",
+    "Fluoride",
+    "Carnitine",
+    "Choline",
+    "Taurine",
+    "Nucleotide",
+    "Arachidonzuur",
+    "Wei-Eiwit",
+    "Caseïne",
+    "Palmitinezuur",
+    "Galactose In Voedingsvezel",
+    "Fructose In Voedingsvezel",
+    "Chroom",
+    "Tafelzout Gemengd Met Een Kleine Hoeveelheid Van Verschillende Jodiumbevattende Zouten",
+    "Betaglucanen",
+    "Vitamin A; Calculated By Summation Of The Vitamin A Activities Of Retinol And The Active Carotenoids",
+    "Niacine Equivalent",
+    "Vitamine D3",
+    "Galactooligosaccharides (Gos)",
+    "Vita K-1",
+    "Safranal",
+    "Omega 9 Vetzuren",
+    "Collageen hydrolysaten",
+    "Plantaardige Eiwitten",
+    "Oligomere proanthocyanidinen (OPC)"
+  ],
+  "nullRates": [],
+  "driftCodes": [],
+  "dutchAllergenProducts": 7,
+  "decimalCommaNormalizedCount": 2,
+  "nutritionalTagsComputed": 9,
+  "highProteinProducts": 0,
+  "veganProducts": 6,
+  "glutenFreeProducts": 5,
+  "lactoseFreeProducts": 7,
+  "highFiberProducts": 0,
+  "lowCarbProducts": 4,
+  "netCarbsDistribution": {
+    "very_low": 0,
+    "low": 3,
+    "moderate": 1,
+    "high": 1,
+    "very_high": 3
+  },
+  "additiveAnalysisComputed": 9,
+  "productsWithAdditives": 6,
+  "productsWithPreservatives": 2,
+  "productsWithArtificialColors": 3,
+  "productsWithChildWarnings": 0,
+  "productsWithPKUWarnings": 0,
+  "productsWithAllergenicAdditives": 2,
+  "productsWithAnimalDerivedAdditives": 0,
+  "organicCompatibleProducts": 8,
+  "naturalAdditivesOnlyProducts": 3,
+  "scoringStats": {
+    "totalProducts": 11,
+    "productsWithScores": 8,
+    "scoringCoverage": 72.7,
+    "globalGradeDistribution": {
+      "A": 2,
+      "B": 1,
+      "C": 2,
+      "D": 1,
+      "E": 2
+    },
+    "categoryGradeDistributions": {
+      "Aardappel, groente, fruit": {
+        "A": 0,
+        "B": 1,
+        "C": 0,
+        "D": 1,
+        "E": 0
+      },
+      "Bakkerij": {
+        "A": 0,
+        "B": 1,
+        "C": 0,
+        "D": 1,
+        "E": 0
+      }
+    },
+    "nutriScoreRange": {
+      "min": -1,
+      "max": 23
+    },
+    "healthScoreRange": {
+      "min": 6.3,
+      "max": 87.5
+    }
+  },
+  "personalHealthExtensions": {
+    "halalAnalysisComputed": 9,
+    "halalStatusDistribution": {
+      "halal": 8,
+      "haram": 1,
+      "questionable": 0,
+      "unknown": 0
+    },
+    "halalFlagsDistribution": {
+      "hasAlcohol": 1,
+      "hasPork": 0,
+      "hasAnimalGelatine": 0,
+      "hasNonHalalMeat": 0,
+      "hasDoubtfulAdditives": 0
+    },
+    "halalConfidenceDistribution": {
+      "high": 7,
+      "medium": 2,
+      "low": 0
+    },
+    "proteinOptimizationComputed": 8,
+    "proteinDensityScoreRange": {
+      "min": 8.2,
+      "max": 41.2
+    },
+    "highProteinDensityProducts": 0,
+    "satietyAnalysisComputed": 11,
+    "satietyScoreRange": {
+      "min": 0,
+      "max": 39.1
+    },
+    "highSatietyProducts": 0,
+    "processingPenaltyDistribution": {
+      "minimal": 8,
+      "moderate": 3,
+      "high": 0
+    },
+    "postWorkoutOptimizationComputed": 8,
+    "postWorkoutScoreRange": {
+      "min": 39.78,
+      "max": 100
+    },
+    "fatLossCompatibilityComputed": 8,
+    "fatLossScoreRange": {
+      "min": 49.52,
+      "max": 89.52
+    },
+    "enhancedCalorieEfficiencyComputed": 8,
+    "calorieEfficiencyScoreRange": {
+      "min": 52.5,
+      "max": 73.5
+    },
+    "bodyCompositionContextComputed": 11,
+    "bodyCompositionPhaseDistribution": {
+      "cutting": 0,
+      "bulking": 0,
+      "maintenance": 0,
+      "recomposition": 11
+    },
+    "mealTimingDistribution": {
+      "pre_workout": 0,
+      "post_workout": 0,
+      "general": 11
+    }
+  },
+  "foodProducts": 9,
+  "nonFoodProducts": 2,
+  "totalProducts": 11
+}

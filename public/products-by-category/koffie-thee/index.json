@@ -1,0 +1,40 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "thee",
+      "displayName": "Thee",
+      "productCount": 238,
+      "hasSubdirectories": true,
+      "indexPath": "thee/index.json"
+    },
+    {
+      "name": "koffie",
+      "displayName": "Koffie",
+      "productCount": 203,
+      "hasSubdirectories": true,
+      "indexPath": "koffie/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 441,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 441,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

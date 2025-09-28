@@ -1,0 +1,142 @@
+[
+  {
+    "id": "560529",
+    "name": "De Kleine Keuken Biologische speltkoekjes 8m+",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934383632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Tussendoortjes (baby en kind)",
+      "Snacks (baby en kind)",
+      "Vanaf 8 maanden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515150",
+    "name": "De Kleine Keuken Biologische mini koekjes 8m+",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635373730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Tussendoortjes (baby en kind)",
+      "Snacks (baby en kind)",
+      "Vanaf 8 maanden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473602",
+    "name": "Love my veggies Snoepsterren biet aardbei banaan 8m+",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137313539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Tussendoortjes (baby en kind)",
+      "Snacks (baby en kind)",
+      "Vanaf 8 maanden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481152",
+    "name": "Love my veggies Snoepsterren mango pompoen 8m+",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137313631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Tussendoortjes (baby en kind)",
+      "Snacks (baby en kind)",
+      "Vanaf 8 maanden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482913",
+    "name": "AH Biologisch Luchtige babysnacks wortel puffs 7m+",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136393739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Tussendoortjes (baby en kind)",
+      "Snacks (baby en kind)",
+      "Vanaf 8 maanden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469659",
+    "name": "Organix Veggie groente sticks 7m+",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038393139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Tussendoortjes (baby en kind)",
+      "Snacks (baby en kind)",
+      "Vanaf 8 maanden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482912",
+    "name": "AH Biologisch Luchtige babysnacks tomatenwieltjes 7m+",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136363138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Tussendoortjes (baby en kind)",
+      "Snacks (baby en kind)",
+      "Vanaf 8 maanden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577737",
+    "name": "De Kleine Keuken Tussendoortjes pakket 6 mnd+",
+    "price": 13.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932323931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Tussendoortjes (baby en kind)",
+      "Snacks (baby en kind)",
+      "Vanaf 8 maanden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550911",
+    "name": "Ella's kitchen Maize sticks tomaat basilicum 7m+",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393234353830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Tussendoortjes (baby en kind)",
+      "Snacks (baby en kind)",
+      "Vanaf 8 maanden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538492",
+    "name": "Organix Apple rice cake clouds 7m+",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138383332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Baby en kind",
+      "Babyvoeding",
+      "Tussendoortjes (baby en kind)",
+      "Snacks (baby en kind)",
+      "Vanaf 8 maanden"
+    ],
+    "isFood": true
+  }
+]

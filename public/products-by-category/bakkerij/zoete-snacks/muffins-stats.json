@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Zoete snacks > Muffins",
+  "breadcrumbs": "Bakkerij > Zoete snacks > Muffins",
+  "totalProducts": 7,
+  "halalCompliance": 0,
+  "averageProtein": 5.5,
+  "averagePrice": 2.28,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 7,
+    "withIngredients": 7,
+    "withHalalCheck": 7
+  }
+}

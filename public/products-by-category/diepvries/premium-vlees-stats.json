@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Diepvries > Premium vlees",
+  "breadcrumbs": "Diepvries > Premium vlees",
+  "totalProducts": 20,
+  "halalCompliance": 80,
+  "averageProtein": 20.2,
+  "averagePrice": 25.93,
+  "highProteinProducts": 18,
+  "dataQuality": {
+    "withNutrition": 20,
+    "withIngredients": 20,
+    "withHalalCheck": 20
+  }
+}

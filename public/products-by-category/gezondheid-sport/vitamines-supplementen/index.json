@@ -1,0 +1,46 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "vitamines",
+      "displayName": "Vitamines",
+      "productCount": 86,
+      "hasSubdirectories": true,
+      "indexPath": "vitamines/index.json"
+    },
+    {
+      "name": "supplementen",
+      "displayName": "Supplementen",
+      "productCount": 72,
+      "hasSubdirectories": true,
+      "indexPath": "supplementen/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 158,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 158,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vitamines Supplementen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "gezondheid-sport"
+  }
+}

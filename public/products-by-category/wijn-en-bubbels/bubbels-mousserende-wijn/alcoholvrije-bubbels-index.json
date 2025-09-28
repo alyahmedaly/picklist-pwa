@@ -1,0 +1,86 @@
+[
+  {
+    "id": "583227",
+    "name": "Viverty Sparkling orange spritz",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Alcoholvrije bubbels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560572",
+    "name": "Hola! Cava brut alcoholvrij",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530343430?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Alcoholvrije bubbels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384840",
+    "name": "Faber Sparkling rosé alcoholvrij",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373234353833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Alcoholvrije bubbels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384839",
+    "name": "Faber Sparkling white alcoholvrij",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373234353839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Alcoholvrije bubbels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479065",
+    "name": "Free Feather Sparkling alcoholvrij",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373833333735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Alcoholvrije bubbels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387221",
+    "name": "Galilei Hugo 0%",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545238333936323536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Alcoholvrije bubbels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583600",
+    "name": "Vintea Sparkling jasmin",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231343434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Alcoholvrije bubbels"
+    ],
+    "isFood": true
+  }
+]

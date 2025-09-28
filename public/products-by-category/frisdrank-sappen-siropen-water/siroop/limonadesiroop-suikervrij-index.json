@@ -1,0 +1,290 @@
+[
+  {
+    "id": "568309",
+    "name": "Karvan Cévitam Zero limoen & munt siroop",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500282",
+    "name": "Slimpie Bloedsinaasappel grapefruit siroop 0%",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235333632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568157",
+    "name": "Slimpie Cactus-appel siroop 0% suiker",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733333836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500281",
+    "name": "Slimpie Lemon siroop 0% suiker",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235333631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500279",
+    "name": "Slimpie Sinaasappel siroop 0% suiker",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235333534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561872",
+    "name": "Karvan Cévitam Zero grenadine siroop",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535383734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561873",
+    "name": "Karvan Cévitam Zero watermeloen & aardbei siroop",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535383730?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500280",
+    "name": "Slimpie Aardbei siroop 0% suiker",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235333537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500277",
+    "name": "Slimpie Framboos siroop 0% suiker",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235333535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556561",
+    "name": "Capri-Sun Zero siroop sinaasappel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632373730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556560",
+    "name": "Capri-Sun Zero siroop zomerfruit",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632373636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389513",
+    "name": "Raak Vruchtensiroop aardbeien zero sugar",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536373233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389544",
+    "name": "Raak Vruchtensiroop frambozen zero sugar",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536373237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369371",
+    "name": "Raak Vruchtensiroop multivruchten zero sugar",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536373232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568158",
+    "name": "Raak Vruchtensiroop peren zero sugar",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536373238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556544",
+    "name": "Raak Vruchtensiroop reine claude zero sugar",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536373231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583955",
+    "name": "Teisseire 0% Aardbei Framboos Siroop 3-pack",
+    "price": 10.2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139313536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493639",
+    "name": "Teisseire Zero aardbei framboos siroop",
+    "price": 4.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493634",
+    "name": "Teisseire Zero bosvruchten siroop",
+    "price": 4.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493636",
+    "name": "Teisseire Zero cassis siroop",
+    "price": 4.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138383139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493637",
+    "name": "Teisseire Zero citroen limoen siroop",
+    "price": 4.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138383733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493641",
+    "name": "Teisseire Zero grenadine siroop",
+    "price": 4.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138383834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493635",
+    "name": "Teisseire Zero sinaasappel siroop",
+    "price": 4.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493638",
+    "name": "Teisseire Zero tropical siroop",
+    "price": 4.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikervrij)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "tomaten",
+      "displayName": "Tomaten",
+      "productCount": 15,
+      "hasSubdirectories": false,
+      "indexPath": "tomaten/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "avocado",
+      "displayName": "Avocado",
+      "productCount": 7,
+      "filePath": "avocado.jsonl",
+      "indexPath": "avocado-index.json",
+      "statsPath": "avocado-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 14
+    }
+  ],
+  "totalProducts": 22,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 22,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../index.json"
+      },
+      {
+        "name": "Komkommer Tomaat Avocado",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/groente"
+  }
+}

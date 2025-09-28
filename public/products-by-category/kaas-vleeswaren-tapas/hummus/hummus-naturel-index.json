@@ -1,0 +1,98 @@
+[
+  {
+    "id": "202746",
+    "name": "Maza Hoemoes",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130383831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Hummus",
+      "Hummus (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486453",
+    "name": "Maza Hoemoes XL",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136383532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Hummus",
+      "Hummus (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438961",
+    "name": "AH Terra Plantaardige hummus naturel",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738363031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Hummus",
+      "Hummus (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561000",
+    "name": "AH Terra Plantaardige hummus naturel",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538313037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Hummus",
+      "Hummus (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413077",
+    "name": "Maza Hoemoes less salt",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134393738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Hummus",
+      "Hummus (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561050",
+    "name": "Klilah Hummus classic",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534323131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Hummus",
+      "Hummus (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217309",
+    "name": "AH Terra Plantaardige hummus naturel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134383731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Hummus",
+      "Hummus (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451466",
+    "name": "AH Terra Biologische hummus naturel",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Hummus",
+      "Hummus (naturel)"
+    ],
+    "isFood": true
+  }
+]

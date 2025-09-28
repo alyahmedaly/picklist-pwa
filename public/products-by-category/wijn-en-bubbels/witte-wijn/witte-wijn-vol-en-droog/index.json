@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Wijn en bubbels > Witte wijn > Witte wijn - Vol en droog",
+  "breadcrumbs": "Wijn en bubbels > Witte wijn > Witte wijn - Vol en droog",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "chardonnay-vol-en-droog",
+      "displayName": "Chardonnay Vol En Droog",
+      "productCount": 52,
+      "filePath": "chardonnay-vol-en-droog.jsonl",
+      "indexPath": "chardonnay-vol-en-droog-index.json",
+      "statsPath": "chardonnay-vol-en-droog-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "overige-witte-wijn-vol-en-droog",
+      "displayName": "Overige Witte Wijn Vol En Droog",
+      "productCount": 5,
+      "filePath": "overige-witte-wijn-vol-en-droog.jsonl",
+      "indexPath": "overige-witte-wijn-vol-en-droog-index.json",
+      "statsPath": "overige-witte-wijn-vol-en-droog-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 57,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 57,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Witte Wijn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Witte Wijn Vol En Droog",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "wijn-en-bubbels/witte-wijn"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "categoryPath": "Diepvries > Diepvries gebak, brood, bladerdeeg",
+  "breadcrumbs": "Diepvries > Diepvries gebak, brood, bladerdeeg",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "zelfbakbrood",
+      "displayName": "Zelfbakbrood",
+      "productCount": 16,
+      "filePath": "zelfbakbrood.jsonl",
+      "indexPath": "zelfbakbrood-index.json",
+      "statsPath": "zelfbakbrood-stats.json",
+      "averageProtein": 7.8,
+      "halalCompliance": 56
+    },
+    {
+      "name": "bladerdeeg-diepvries",
+      "displayName": "Bladerdeeg Diepvries",
+      "productCount": 6,
+      "filePath": "bladerdeeg-diepvries.jsonl",
+      "indexPath": "bladerdeeg-diepvries-index.json",
+      "statsPath": "bladerdeeg-diepvries-stats.json",
+      "averageProtein": 6.1,
+      "halalCompliance": 50
+    },
+    {
+      "name": "croissant-diepvries",
+      "displayName": "Croissant Diepvries",
+      "productCount": 6,
+      "filePath": "croissant-diepvries.jsonl",
+      "indexPath": "croissant-diepvries-index.json",
+      "statsPath": "croissant-diepvries-stats.json",
+      "averageProtein": 7.8,
+      "halalCompliance": 67
+    }
+  ],
+  "totalProducts": 28,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 28,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "../index.json"
+      },
+      {
+        "name": "Diepvries Gebak Brood Bladerdeeg",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "diepvries"
+  }
+}

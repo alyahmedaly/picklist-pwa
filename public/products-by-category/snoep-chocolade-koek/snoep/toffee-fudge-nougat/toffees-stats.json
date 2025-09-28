@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Snoep > Toffee, fudge, nougat > Toffees",
+  "breadcrumbs": "Snoep, chocolade, koek > Snoep > Toffee, fudge, nougat > Toffees",
+  "totalProducts": 11,
+  "halalCompliance": 9,
+  "averageProtein": 2.2,
+  "averagePrice": 2.15,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 11,
+    "withIngredients": 11,
+    "withHalalCheck": 11
+  }
+}

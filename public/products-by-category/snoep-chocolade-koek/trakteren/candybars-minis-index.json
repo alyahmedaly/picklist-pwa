@@ -1,0 +1,410 @@
+[
+  {
+    "id": "133397",
+    "name": "Mars Minimix repen uitdeelzak",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836393038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221565",
+    "name": "Bounty Minis repen uitdeelzak",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234313237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484442",
+    "name": "AH Chocolade mini's karamel biscuit",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373735393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575436",
+    "name": "Milka Favourites",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577529",
+    "name": "Reese's White cups",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830383131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221564",
+    "name": "Twix Minis repen uitdeelzak",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484444",
+    "name": "AH Chocolade mini's mix",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373735393530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502003",
+    "name": "Lion Mini melkchocolade uitdeelzak",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484379",
+    "name": "AH Chocolade mini's karamel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373735393937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575437",
+    "name": "Kitkat Wit mini uitdeelzak",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439363630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564254",
+    "name": "Nestlé Mini's uitdeelzak",
+    "price": 4.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497775",
+    "name": "Smarties Mini melkchocolade uitdeelzak",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331363435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484443",
+    "name": "AH Chocolade mini's met melkvulling",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373735393939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462723",
+    "name": "Kinder Bueno mini",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230383937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124148",
+    "name": "Kinder Chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556456",
+    "name": "Kinder Chocolate",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531313536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384641",
+    "name": "Kinder Country",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531313537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384640",
+    "name": "Kinder Maxi",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630363732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "182580",
+    "name": "Kinder Schokobons",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737383137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577528",
+    "name": "Reese's Nutrageous bar",
+    "price": 1.11,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830383037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507722",
+    "name": "Tony's Chocolonely Rainbow mix",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837363233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484539",
+    "name": "AH Chocolade mini's kokos",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373735393537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170836",
+    "name": "AH Chocolade repen melkvulling",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373533343833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451186",
+    "name": "Kinder Surprise",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "172204",
+    "name": "Kinder Surprise ei",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169288",
+    "name": "Kinder Surprise melk chocolade",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039363232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507720",
+    "name": "Kitkat Mini mix uitdeelzak",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138313835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221562",
+    "name": "Mars Minis repen uitdeelzak",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238373233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484380",
+    "name": "AH Chocolade mini's pinda",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373735393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221566",
+    "name": "MilkyWay Minis repen uitdeelzak",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238373234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502001",
+    "name": "Bros Mini melkchocolade uitdeelzak",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831353030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "71729",
+    "name": "Kitkat Chunky mini melkchocolade uitdeelzak",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139333836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497749",
+    "name": "Kitkat Mini melkchocolade uitdeelzak",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030323338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221563",
+    "name": "Snickers Minis repen uitdeelzak",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032303437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Candybars minis"
+    ],
+    "isFood": true
+  }
+]

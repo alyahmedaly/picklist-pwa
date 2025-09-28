@@ -1,0 +1,93 @@
+[
+  {
+    "id": "582606",
+    "name": "AH Biologisch Uiensoep verspakket",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Seizoens maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "510570",
+    "name": "AH Rodekool ovenschotel verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038343232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Seizoens maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582605",
+    "name": "AH Biologisch Traybake pompoen verspakket",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035343037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Seizoens maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "510455",
+    "name": "AH Ovenschotel prei-kerrie verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630383035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Seizoens maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583791",
+    "name": "AH Gesneden Knolselderij Prei Verspakket",
+    "price": 14.37,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Seizoens maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567885",
+    "name": "AH Ovenschotel Prei-Kerrie Verspakket",
+    "price": 12.83,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Seizoens maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568410",
+    "name": "AH Overschotel Rodekool Verspakket",
+    "price": 10.47,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234393331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Seizoens maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  }
+]

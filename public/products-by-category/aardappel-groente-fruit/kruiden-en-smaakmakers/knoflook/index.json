@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Kruiden en smaakmakers > Knoflook",
+  "breadcrumbs": "Aardappel, groente, fruit > Kruiden en smaakmakers > Knoflook",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "knoflookpoeder",
+      "displayName": "Knoflookpoeder",
+      "productCount": 7,
+      "filePath": "knoflookpoeder.jsonl",
+      "indexPath": "knoflookpoeder-index.json",
+      "statsPath": "knoflookpoeder-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 86
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kruiden En Smaakmakers",
+        "path": "../index.json"
+      },
+      {
+        "name": "Knoflook",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/kruiden-en-smaakmakers"
+  }
+}

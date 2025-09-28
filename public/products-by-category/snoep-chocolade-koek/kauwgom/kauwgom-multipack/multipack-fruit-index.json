@@ -1,0 +1,80 @@
+[
+  {
+    "id": "578508",
+    "name": "Bubblicious Cola 3-pack",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635353732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183017",
+    "name": "Mentos Gum Aqua kiss strawberry mandarin",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433383935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "172206",
+    "name": "Bubblicious Strawberry",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637383737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164354",
+    "name": "Bubblicious Strawberry splash kauwgom 4-pack",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637383732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514828",
+    "name": "Stimorol Max splash strawberry lime",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637383635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (fruit)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514833",
+    "name": "Stimorol Wild cherry",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637383637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (fruit)"
+    ],
+    "isFood": true
+  }
+]

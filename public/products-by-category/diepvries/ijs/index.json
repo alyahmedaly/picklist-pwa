@@ -1,0 +1,110 @@
+{
+  "categoryPath": "Diepvries > IJs",
+  "breadcrumbs": "Diepvries > IJs",
+  "subdirectories": [
+    {
+      "name": "schepijs",
+      "displayName": "Schepijs",
+      "productCount": 8,
+      "hasSubdirectories": false,
+      "indexPath": "schepijs/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "roomijs-premium",
+      "displayName": "Roomijs Premium",
+      "productCount": 62,
+      "filePath": "roomijs-premium.jsonl",
+      "indexPath": "roomijs-premium-index.json",
+      "statsPath": "roomijs-premium-stats.json",
+      "averageProtein": 4.1,
+      "halalCompliance": 11
+    },
+    {
+      "name": "room-handijs",
+      "displayName": "Room Handijs",
+      "productCount": 57,
+      "filePath": "room-handijs.jsonl",
+      "indexPath": "room-handijs-index.json",
+      "statsPath": "room-handijs-stats.json",
+      "averageProtein": 3.7,
+      "halalCompliance": 2
+    },
+    {
+      "name": "waterijsjes",
+      "displayName": "Waterijsjes",
+      "productCount": 35,
+      "filePath": "waterijsjes.jsonl",
+      "indexPath": "waterijsjes-index.json",
+      "statsPath": "waterijsjes-stats.json",
+      "averageProtein": 0.4,
+      "halalCompliance": 80
+    },
+    {
+      "name": "plantaardig-ijs",
+      "displayName": "Plantaardig Ijs",
+      "productCount": 16,
+      "filePath": "plantaardig-ijs.jsonl",
+      "indexPath": "plantaardig-ijs-index.json",
+      "statsPath": "plantaardig-ijs-stats.json",
+      "averageProtein": 1.8,
+      "halalCompliance": 31
+    },
+    {
+      "name": "roomijs-hoorntjes",
+      "displayName": "Roomijs Hoorntjes",
+      "productCount": 9,
+      "filePath": "roomijs-hoorntjes.jsonl",
+      "indexPath": "roomijs-hoorntjes-index.json",
+      "statsPath": "roomijs-hoorntjes-stats.json",
+      "averageProtein": 3.4,
+      "halalCompliance": 0
+    },
+    {
+      "name": "roomijs-bekertjes",
+      "displayName": "Roomijs Bekertjes",
+      "productCount": 8,
+      "filePath": "roomijs-bekertjes.jsonl",
+      "indexPath": "roomijs-bekertjes-index.json",
+      "statsPath": "roomijs-bekertjes-stats.json",
+      "averageProtein": 2.1,
+      "halalCompliance": 0
+    },
+    {
+      "name": "ijstaarten",
+      "displayName": "Ijstaarten",
+      "productCount": 5,
+      "filePath": "ijstaarten.jsonl",
+      "indexPath": "ijstaarten-index.json",
+      "statsPath": "ijstaarten-stats.json",
+      "averageProtein": 2.5,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 200,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 200,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ijs",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "diepvries"
+  }
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "523724",
+    "name": "Zespri Kiwi gold",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738373134?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Ananas, mango, kiwi",
+      "Kiwi"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367212",
+    "name": "Zespri kiwi sungold",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735363438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Ananas, mango, kiwi",
+      "Kiwi"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505698",
+    "name": "Zespri Sungold kiwi bio",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235333832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Ananas, mango, kiwi",
+      "Kiwi"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129242",
+    "name": "AH Groene kiwi's",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339353231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Ananas, mango, kiwi",
+      "Kiwi"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231922",
+    "name": "AH Kiwi groen",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313937363739?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Ananas, mango, kiwi",
+      "Kiwi"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230739",
+    "name": "Zespri Kiwi gold",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831333038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Ananas, mango, kiwi",
+      "Kiwi"
+    ],
+    "isFood": true
+  }
+]

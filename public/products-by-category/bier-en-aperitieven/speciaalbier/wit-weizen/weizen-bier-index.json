@@ -1,0 +1,379 @@
+[
+  {
+    "id": "519827",
+    "name": "Hertog Jan Weizener",
+    "price": 1,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131313433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519842",
+    "name": "Hertog Jan Weizener 6-pack",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739313937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "304085",
+    "name": "Texels Goudkoppe speciaalbier",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730333232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548571",
+    "name": "Texels Skuumkoppe speciaalbier",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032333038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238770",
+    "name": "Texels Skuumkoppe speciaalbier",
+    "price": 8.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639373737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540745",
+    "name": "Texels Skuumkoppe speciaalbier 12-pack",
+    "price": 18.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639373730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548572",
+    "name": "Texels Skuumkoppe speciaalbier 6-pack",
+    "price": 9.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238771",
+    "name": "Texels Springtij speciaalbier",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032333039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515198",
+    "name": "Benediktiner Weissbier",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230343533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231286",
+    "name": "Brand Weizen 6-pack",
+    "price": 7.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931343835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578895",
+    "name": "Brouwerij 't IJ IJbräu",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738323331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210499",
+    "name": "Erdinger Weissbier",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432383030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570456",
+    "name": "Erdinger Weissbier",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336343731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569995",
+    "name": "Grolsch Puur weizen speciaalbier",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339353931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569996",
+    "name": "Grolsch Puur weizen speciaalbier 6-pack",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533353437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515171",
+    "name": "Grolsch Weizen beugel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383235343331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207319",
+    "name": "Gulpener Biologisch weizen 6-pack",
+    "price": 8.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839393330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177815",
+    "name": "Hertog Jan Weizener",
+    "price": 0.93,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039333535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "158733",
+    "name": "Hertog Jan Weizener 6-pack",
+    "price": 5.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739313133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576689",
+    "name": "Kees Weiss and shine",
+    "price": 2.62,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "501926",
+    "name": "Kompaan Badgast",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330323132?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "406697",
+    "name": "Kompaan badgast fl",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373630363233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "385744",
+    "name": "Lander bräu Weiss beer",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433383135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "530972",
+    "name": "Lowlander Pumpkin weizen",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739333236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548534",
+    "name": "Palm Weißass",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337313132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238777",
+    "name": "Paulaner Hefe weissbier",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363438323833?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569786",
+    "name": "Vandestreek Witzige weizen",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632303430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "179089",
+    "name": "Weihenstephaner Hefeweissbier",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303539373039?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218359",
+    "name": "Weihenstephaner Vitus",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353734303239?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Wit & Weizen",
+      "Weizen bier"
+    ],
+    "isFood": true
+  }
+]

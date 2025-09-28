@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Paprika, courgette, aubergine > Paprika > Paprika (vers)",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Paprika, courgette, aubergine > Paprika > Paprika (vers)",
+  "totalProducts": 10,
+  "halalCompliance": 30,
+  "averageProtein": 0.5,
+  "averagePrice": 1.82,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 6,
+    "withIngredients": 3,
+    "withHalalCheck": 3
+  }
+}

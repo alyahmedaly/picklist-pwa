@@ -1,0 +1,119 @@
+[
+  {
+    "id": "513427",
+    "name": "AH Licht romige mosterdkaas 45+ plakken",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437343930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gekruide kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188817",
+    "name": "AH Blokkaas komijn 40+ plakken",
+    "price": 2.4,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339333030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gekruide kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195363",
+    "name": "AH Goudse komijn belegen 48+ plakken",
+    "price": 3.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334303030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gekruide kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572636",
+    "name": "Milner Komijn 30+ plakken",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932343035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gekruide kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389961",
+    "name": "AH Biologisch Jong belegen komijn 50+ plakken",
+    "price": 4.48,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gekruide kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513423",
+    "name": "AH Chilikaas 40+ plakken",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437343836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gekruide kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2597",
+    "name": "AH Goudse jong komijn 48+ plakken",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gekruide kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506374",
+    "name": "AH Truffelkaas 50+ plak",
+    "price": 4.41,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339323833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gekruide kaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198048",
+    "name": "AH Zaanlander Jong belegen komijn plakken",
+    "price": 3.82,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gekruide kaas (plakken)"
+    ],
+    "isFood": true
+  }
+]

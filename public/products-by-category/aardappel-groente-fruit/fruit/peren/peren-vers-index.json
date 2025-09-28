@@ -1,0 +1,93 @@
+[
+  {
+    "id": "188474",
+    "name": "AH Biologisch Conference schaal",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236313731313138?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Peren",
+      "Peren (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "115513",
+    "name": "AH Conference",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363332303137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Peren",
+      "Peren (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "96398",
+    "name": "AH Conference schaal",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735353736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Peren",
+      "Peren (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383655",
+    "name": "AH Conference schaal",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383837303030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Peren",
+      "Peren (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "94763",
+    "name": "AH Doyenné du comice",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383335373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Peren",
+      "Peren (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "100265",
+    "name": "AH Doyenné du comice eetrijp",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383930343332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Peren",
+      "Peren (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189904",
+    "name": "AH Gieser wildeman",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030353438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Peren",
+      "Peren (vers)"
+    ],
+    "isFood": true
+  }
+]

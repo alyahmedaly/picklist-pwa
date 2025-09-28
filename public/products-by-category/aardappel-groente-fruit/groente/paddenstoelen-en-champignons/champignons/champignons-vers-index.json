@@ -1,0 +1,198 @@
+[
+  {
+    "id": "101132",
+    "name": "AH Biologisch Kastanjechampignons",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paddenstoelen en champignons",
+      "Champignons",
+      "Champignons (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525262",
+    "name": "AH Biologisch Portobello",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738333739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paddenstoelen en champignons",
+      "Champignons",
+      "Champignons (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441710",
+    "name": "AH Buitenbeentjes Kastanjechampignons",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383831353732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paddenstoelen en champignons",
+      "Champignons",
+      "Champignons (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123186",
+    "name": "AH Gesneden kastanjechampignons",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838363932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paddenstoelen en champignons",
+      "Champignons",
+      "Champignons (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "41203",
+    "name": "AH Kastanjechampignons",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paddenstoelen en champignons",
+      "Champignons",
+      "Champignons (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "394814",
+    "name": "AH Kastanjechampignons",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paddenstoelen en champignons",
+      "Champignons",
+      "Champignons (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378694",
+    "name": "AH Kastanjechampignons gesneden",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paddenstoelen en champignons",
+      "Champignons",
+      "Champignons (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441691",
+    "name": "AH Kleine kastanjechampignons",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738373033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paddenstoelen en champignons",
+      "Champignons",
+      "Champignons (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378693",
+    "name": "AH Champignons gesneden",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paddenstoelen en champignons",
+      "Champignons",
+      "Champignons (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "41113",
+    "name": "AH Gesneden champignons",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838363936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paddenstoelen en champignons",
+      "Champignons",
+      "Champignons (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395963",
+    "name": "AH Paddenstoelenmix met paprika",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032303138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paddenstoelen en champignons",
+      "Champignons",
+      "Champignons (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525270",
+    "name": "AH Witte & kastanje champignons",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paddenstoelen en champignons",
+      "Champignons",
+      "Champignons (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "4169",
+    "name": "AH Witte champignons",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paddenstoelen en champignons",
+      "Champignons",
+      "Champignons (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67842",
+    "name": "AH Witte champignons",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383831353437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paddenstoelen en champignons",
+      "Champignons",
+      "Champignons (vers)"
+    ],
+    "isFood": true
+  }
+]

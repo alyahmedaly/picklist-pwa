@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Bakbenodigdheden > Basismeel, bloem",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Bakbenodigdheden > Basismeel, bloem",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "melen-superfood",
+      "displayName": "Melen Superfood",
+      "productCount": 12,
+      "filePath": "melen-superfood.jsonl",
+      "indexPath": "melen-superfood-index.json",
+      "statsPath": "melen-superfood-stats.json",
+      "averageProtein": 14.4,
+      "halalCompliance": 100
+    },
+    {
+      "name": "zelfrijzend-bakmeel",
+      "displayName": "Zelfrijzend Bakmeel",
+      "productCount": 11,
+      "filePath": "zelfrijzend-bakmeel.jsonl",
+      "indexPath": "zelfrijzend-bakmeel-index.json",
+      "statsPath": "zelfrijzend-bakmeel-stats.json",
+      "averageProtein": 13.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "tarwebloem",
+      "displayName": "Tarwebloem",
+      "productCount": 6,
+      "filePath": "tarwebloem.jsonl",
+      "indexPath": "tarwebloem-index.json",
+      "statsPath": "tarwebloem-stats.json",
+      "averageProtein": 10.4,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 29,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 29,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bakbenodigdheden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Basismeel Bloem",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/bakbenodigdheden"
+  }
+}

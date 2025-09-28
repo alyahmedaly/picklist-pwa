@@ -1,0 +1,39 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "vleesconserven",
+      "displayName": "Vleesconserven",
+      "productCount": 51,
+      "hasSubdirectories": false,
+      "indexPath": "vleesconserven/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 51,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 51,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vlees",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "vlees-vis"
+  }
+}

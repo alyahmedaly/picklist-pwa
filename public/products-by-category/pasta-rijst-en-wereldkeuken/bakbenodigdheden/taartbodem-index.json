@@ -1,0 +1,62 @@
+[
+  {
+    "id": "446940",
+    "name": "Jos Poell Roomboter gebaksbodem",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832323436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Taartbodem"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164730",
+    "name": "Jos Poell Suikerschelpen",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531343637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Taartbodem"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370728",
+    "name": "Kuchenmeister Taartbodem",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373633383130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Taartbodem"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419093",
+    "name": "AH Quiche & taartdeeg",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Taartbodem"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560988",
+    "name": "AH Flammkuchendeeg",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Taartbodem"
+    ],
+    "isFood": true
+  }
+]

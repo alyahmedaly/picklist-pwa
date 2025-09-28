@@ -1,0 +1,288 @@
+[
+  {
+    "id": "202260",
+    "name": "Miras Gekookte wite bonen",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575453",
+    "name": "Boon Witte bonen in piri-piri saus",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636333537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465737",
+    "name": "Miras Gekookte wite bonen Jumbo",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535373636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365958",
+    "name": "AH Biologisch Witte bonen",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030383633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "39203",
+    "name": "Bonduelle Witte bonen in tomatensaus",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536363636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "805",
+    "name": "AH Witte bonen in tomatensaus",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195517",
+    "name": "AH Witte bonen in tomatensaus",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830343733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "101182",
+    "name": "AH Biologisch Witte bonen in tomatensaus",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "796",
+    "name": "AH Witte bonen in tomatensaus",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "39136",
+    "name": "AH Witte bonen in tomatensaus",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195102",
+    "name": "Hak Witte bonen in tomatensaus",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036333837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202196",
+    "name": "Hak Witte bonen in tomatensaus",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203286",
+    "name": "Hak Witte bonen in tomatensaus",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "814",
+    "name": "AH Witte bonen",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383433353438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469880",
+    "name": "AH Biologisch Witte bonen",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363336313833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202197",
+    "name": "Hak Witte bonen",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036333933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202199",
+    "name": "Hak Witte bonen",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198413",
+    "name": "Valle del sole Witte bonen",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363236303430?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159536",
+    "name": "AH Witte bonen",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438353938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569517",
+    "name": "Hak Witte bonen",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036343134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569518",
+    "name": "Hak Witte bonen",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036343038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62593",
+    "name": "Heinz Beanz",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037313532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Witte bonen"
+    ],
+    "isFood": true
+  }
+]

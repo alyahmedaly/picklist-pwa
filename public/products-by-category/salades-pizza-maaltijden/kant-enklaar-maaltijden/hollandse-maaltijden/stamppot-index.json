@@ -1,0 +1,145 @@
+[
+  {
+    "id": "142434",
+    "name": "AH Stamppot hutspot hachee",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838363934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Stamppot"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238918",
+    "name": "AH Verse stamppot andijvie",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Stamppot"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202960",
+    "name": "AH Verse stamppot boerenkool",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Stamppot"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "54284",
+    "name": "AH Stamppot witlof ham",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Stamppot"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210755",
+    "name": "AH Verse stamppot witlof ham kaas",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830343730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Stamppot"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "66084",
+    "name": "AH Hollandse stamppot boerenkool rookworst",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Stamppot"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "52391",
+    "name": "AH Stamppot hutspot met rookworst",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Stamppot"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "97120",
+    "name": "AH Stamppot zuurkool rookworst",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373435383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Stamppot"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "52394",
+    "name": "AH Hollandse stamppot andijvie gehaktbal",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Stamppot"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160926",
+    "name": "AH Stamppot bloemkool-broccoli gehaktbal",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Stamppot"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "120337",
+    "name": "AH Stamppot spinazie gehaktballetjes",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Stamppot"
+    ],
+    "isFood": true
+  }
+]

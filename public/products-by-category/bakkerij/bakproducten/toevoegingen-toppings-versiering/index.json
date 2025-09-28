@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Bakkerij > Bakproducten > Toevoegingen, toppings, versiering",
+  "breadcrumbs": "Bakkerij > Bakproducten > Toevoegingen, toppings, versiering",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "taart-decoratie",
+      "displayName": "Taart Decoratie",
+      "productCount": 28,
+      "filePath": "taart-decoratie.jsonl",
+      "indexPath": "taart-decoratie-index.json",
+      "statsPath": "taart-decoratie-stats.json",
+      "averageProtein": 2.2,
+      "halalCompliance": 21
+    },
+    {
+      "name": "noten-garnering",
+      "displayName": "Noten Garnering",
+      "productCount": 8,
+      "filePath": "noten-garnering.jsonl",
+      "indexPath": "noten-garnering-index.json",
+      "statsPath": "noten-garnering-stats.json",
+      "averageProtein": 16.5,
+      "halalCompliance": 100
+    },
+    {
+      "name": "sauzen-sappen-dips",
+      "displayName": "Sauzen Sappen Dips",
+      "productCount": 7,
+      "filePath": "sauzen-sappen-dips.jsonl",
+      "indexPath": "sauzen-sappen-dips-index.json",
+      "statsPath": "sauzen-sappen-dips-stats.json",
+      "averageProtein": 1.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 43,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 43,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bakproducten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Toevoegingen Toppings Versiering",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bakkerij/bakproducten"
+  }
+}

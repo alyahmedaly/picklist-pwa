@@ -1,0 +1,834 @@
+[
+  {
+    "id": "550972",
+    "name": "Busta Druivensmaak",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931333130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466977",
+    "name": "Fernandes Green punch",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030343933?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412816",
+    "name": "Bundaberg Blood orange",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393238383238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578322",
+    "name": "Bundaberg Passionfruit",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332353832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461130",
+    "name": "Bundaberg Pink Grapefruit",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551155",
+    "name": "Oasis Tropical 6-pack",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518918",
+    "name": "Crystal Clear Raspberry blueberry",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466974",
+    "name": "Fanta Exotic zero sugar",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339393231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554738",
+    "name": "Schweppes Spritz",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537343239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466827",
+    "name": "AH Licht en Sprankelend Citroen Limoen",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466826",
+    "name": "AH Licht en Sprankelend Cranberry Framboos",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466825",
+    "name": "AH Licht en sprankelend perzik",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576019",
+    "name": "Crystal Clear Touch of tea appel vlierbloesem",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634373538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576020",
+    "name": "Crystal Clear Touch of tea perzik jasmijn",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634373730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130865",
+    "name": "Fanta Pomelo zero sugar",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339393238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553866",
+    "name": "Fanta Raspberry zero sugar",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339393632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553865",
+    "name": "Fanta What the fanta zero sugar",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433383236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477063",
+    "name": "Fentimans Raspberry",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189766",
+    "name": "Raak Gazeuse campagne pils",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636313231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "133999",
+    "name": "Raak Gazeuse frambozen",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636303831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549767",
+    "name": "Raak Gazeuse tropical",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636313232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553819",
+    "name": "Sisi Tropical flavour no bubbles zero sugar",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335373239?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135687",
+    "name": "Crystal Clear Appel- en peersmaak",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303133383834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135692",
+    "name": "Crystal Clear Citroen- en passievruchtsmaak",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132333831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135688",
+    "name": "Crystal Clear Cranberry & Limoen",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132333737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "113020",
+    "name": "Crystal Clear Lemon",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303133383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "122032",
+    "name": "Crystal Clear Peach",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132343335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132757",
+    "name": "Crystal Clear Raspberry & blueberry",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132333830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177554",
+    "name": "Crystal Clear Sinaasappel & mandarijn",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132333731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476680",
+    "name": "Crystal Clear Sparkling cherry",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132343433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "128688",
+    "name": "Crystal Clear Sparkling cranberry",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132343337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67752",
+    "name": "Crystal Clear Sparkling lemon",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303133383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "239755",
+    "name": "Crystal Clear Sparkling lemon cactus",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132343336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "137722",
+    "name": "Crystal Clear Sparkling peach",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518882",
+    "name": "Spa Fruit citron",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303037323531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518946",
+    "name": "Spa Fruit citron",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520714",
+    "name": "Spa Fruit mango apricot",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531333231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520765",
+    "name": "Spa Fruit strawberry watermelon",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531393737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523266",
+    "name": "Spa Fruit strawberry watermelon",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531393735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518943",
+    "name": "Spa Fruit cassis blackberry",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730333339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566946",
+    "name": "Spa Fruit cassis blackberry bruisend",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630373635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518858",
+    "name": "Spa Fruit lemon cactus",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531333239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518879",
+    "name": "Spa Fruit lemon cactus",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547663",
+    "name": "Spa Fruit lemon cactus 6-pack",
+    "price": 8.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531333234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568308",
+    "name": "Spa Fruit lime ginger",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638363634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566938",
+    "name": "Spa Fruit mango grapefruit bruisend",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239353531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518909",
+    "name": "Spa Fruit orange",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531333235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518893",
+    "name": "Spa Fruit orange bruisend",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535333037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547662",
+    "name": "Spa Fruit orange bruisend 6-pack",
+    "price": 8.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531333230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566999",
+    "name": "Taksi Jungle fruit geen suiker toegevoegd",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931303533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520712",
+    "name": "Spa Fruit peach pear",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730333637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520740",
+    "name": "Spa Fruit raspberry blackcurrant",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539343432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437934",
+    "name": "Perrier & Juice Aardbei-Kiwi 4x25CL BEL",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531363736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437931",
+    "name": "Perrier & Juice ananas & mango 4-pack bel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236313734363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437932",
+    "name": "Perrier & Juice Perzik-Kers 4x25CL BEL",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236313734363739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416438",
+    "name": "Fanta pink pom 6-pack BEL",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303334373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416437",
+    "name": "Fanta zero pink pomelo BEL",
+    "price": 0.89,
+    "image": "NA",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442551",
+    "name": "Finley Agrumes grenade 6bl BEL",
+    "price": 3.9,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303433303430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568460",
+    "name": "Fritz Spritz organic rhubarb",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939343437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568447",
+    "name": "Nix & Kix Sparkling mango ginger",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339373938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578304",
+    "name": "Spa Fruit Bruisend smaken proefpakket",
+    "price": 7.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578309",
+    "name": "Spa Fruit Orange 4-pack",
+    "price": 8.7,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578306",
+    "name": "Spa Fruit Still smaken proefpakket",
+    "price": 7.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415221",
+    "name": "Wicky Fruit 0% suiker",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136313031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Fris met fruitsmaak",
+      "Frisdrank met fruit (fles)"
+    ],
+    "isFood": true
+  }
+]

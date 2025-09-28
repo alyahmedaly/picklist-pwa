@@ -1,0 +1,366 @@
+[
+  {
+    "id": "514822",
+    "name": "Haribo Soda straws f!zz",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935363234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547740",
+    "name": "Red Band Sour bites appel & citroen",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "276478",
+    "name": "Haribo Pasta frutta f!zz",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393134363331?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541129",
+    "name": "Look-O-Look Zure dracula tanden",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508473",
+    "name": "Trolli Dinorex",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830333830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578455",
+    "name": "Katja Gevulde zure sticks",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930333332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236677",
+    "name": "Katja Zure sticks",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734353535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451860",
+    "name": "Look-O-Look Zure regenboog streken fruitsmaak",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439343437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162013",
+    "name": "Look-O-Look Zure regenboogstreken fruit smaak value",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236678",
+    "name": "Katja Zure matjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486790",
+    "name": "Katja Zure matten aardbei",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363837353831?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492909",
+    "name": "Katja Zurematten fruitsmaken",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373039363730?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508472",
+    "name": "Trolli Sour glowworms",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373236323431?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459143",
+    "name": "AH Zoetzure colaflesjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559236",
+    "name": "AH Zure ringen",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034363438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451868",
+    "name": "Look-O-Look Gevulde zure staafjes aardbei vanille",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451858",
+    "name": "Look-O-Look Zure aardbei streken",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159607",
+    "name": "Look-O-Look Zure streken aardbei smaak value pack",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547752",
+    "name": "Red Band Winegums zuur",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232313935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447984",
+    "name": "Autodrop Bekkentrekkend zure cadillacs",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363236343335?revLabel=35&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524840",
+    "name": "Look-O-Look Zure beertjes fruitsmaken",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234363133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168650",
+    "name": "Haribo Tangfastics",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239363738?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578507",
+    "name": "Autodrop Zot zure total loss",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438303437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429471",
+    "name": "Haribo Happy cherries f!zz",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537343434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547728",
+    "name": "Haribo S'ghetti f!zz",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393133353930?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547734",
+    "name": "Haribo Tongue f!zz",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393134303639?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "73628",
+    "name": "Haribo Zure bommen",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447998",
+    "name": "Haribo Zure bommen",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236323939?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zure gums"
+    ],
+    "isFood": true
+  }
+]

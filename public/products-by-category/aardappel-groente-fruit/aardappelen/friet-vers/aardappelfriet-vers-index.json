@@ -1,0 +1,80 @@
+[
+  {
+    "id": "511966",
+    "name": "Friethoes Echte verse friet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133393330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Friet (vers)",
+      "Aardappelfriet (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572146",
+    "name": "Friethoes Franse friet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637383133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Friet (vers)",
+      "Aardappelfriet (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572145",
+    "name": "Friethoes Verse friet",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133393338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Friet (vers)",
+      "Aardappelfriet (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "139446",
+    "name": "AH Verse franse friet",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033323038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Friet (vers)",
+      "Aardappelfriet (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497403",
+    "name": "AH Verse friet",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038353835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Friet (vers)",
+      "Aardappelfriet (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497404",
+    "name": "AH Verse Vlaamse friet met schil",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038353936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Friet (vers)",
+      "Aardappelfriet (vers)"
+    ],
+    "isFood": true
+  }
+]

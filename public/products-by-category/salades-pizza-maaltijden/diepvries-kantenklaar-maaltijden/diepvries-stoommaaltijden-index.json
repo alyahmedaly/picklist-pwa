@@ -1,0 +1,62 @@
+[
+  {
+    "id": "564310",
+    "name": "Iglo Stoom & klaar groente-idee klassiek",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934393034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Diepvries stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564311",
+    "name": "Iglo Stoom & klaar groente-idee mediterraans",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934383938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Diepvries stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564075",
+    "name": "Iglo Stoom & klaar kip groene groente",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Diepvries stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564076",
+    "name": "Iglo Stoom & klaar verse tagliatelle zalm",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Diepvries stoommaaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564077",
+    "name": "Iglo Stoom & klaar Asian noodles met kip",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131393930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Diepvries kant-en-klaar maaltijden",
+      "Diepvries stoommaaltijden"
+    ],
+    "isFood": true
+  }
+]

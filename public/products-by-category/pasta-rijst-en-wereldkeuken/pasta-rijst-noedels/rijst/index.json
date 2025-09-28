@@ -1,0 +1,96 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Rijst",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Rijst",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "basmatirijst",
+      "displayName": "Basmatirijst",
+      "productCount": 25,
+      "filePath": "basmatirijst.jsonl",
+      "indexPath": "basmatirijst-index.json",
+      "statsPath": "basmatirijst-stats.json",
+      "averageProtein": 6.8,
+      "halalCompliance": 92
+    },
+    {
+      "name": "witte-rijst",
+      "displayName": "Witte Rijst",
+      "productCount": 15,
+      "filePath": "witte-rijst.jsonl",
+      "indexPath": "witte-rijst-index.json",
+      "statsPath": "witte-rijst-stats.json",
+      "averageProtein": 5.8,
+      "halalCompliance": 67
+    },
+    {
+      "name": "pandanrijst",
+      "displayName": "Pandanrijst",
+      "productCount": 14,
+      "filePath": "pandanrijst.jsonl",
+      "indexPath": "pandanrijst-index.json",
+      "statsPath": "pandanrijst-stats.json",
+      "averageProtein": 7.4,
+      "halalCompliance": 100
+    },
+    {
+      "name": "zilvervliesrijst",
+      "displayName": "Zilvervliesrijst",
+      "productCount": 10,
+      "filePath": "zilvervliesrijst.jsonl",
+      "indexPath": "zilvervliesrijst-index.json",
+      "statsPath": "zilvervliesrijst-stats.json",
+      "averageProtein": 6.4,
+      "halalCompliance": 70
+    },
+    {
+      "name": "risottorijst",
+      "displayName": "Risottorijst",
+      "productCount": 6,
+      "filePath": "risottorijst.jsonl",
+      "indexPath": "risottorijst-index.json",
+      "statsPath": "risottorijst-stats.json",
+      "averageProtein": 6.4,
+      "halalCompliance": 83
+    },
+    {
+      "name": "sushirijst-poke-bowl-rijst",
+      "displayName": "Sushirijst Poke Bowl Rijst",
+      "productCount": 6,
+      "filePath": "sushirijst-poke-bowl-rijst.jsonl",
+      "indexPath": "sushirijst-poke-bowl-rijst-index.json",
+      "statsPath": "sushirijst-poke-bowl-rijst-stats.json",
+      "averageProtein": 6.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 76,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 76,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Pasta Rijst Noedels",
+        "path": "../index.json"
+      },
+      {
+        "name": "Rijst",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/pasta-rijst-noedels"
+  }
+}

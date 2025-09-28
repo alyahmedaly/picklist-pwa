@@ -1,0 +1,74 @@
+[
+  {
+    "id": "417056",
+    "name": "Ardo Broccolimix",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536393835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Broccoli (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "453743",
+    "name": "Bonduelle Broccoli rijst",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137383335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Broccoli (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162734",
+    "name": "Bonduelle Broccoliroosjes",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Broccoli (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533328",
+    "name": "AH Biologisch Broccoliroosjes",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383938353132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Broccoli (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121473",
+    "name": "AH Broccoliroosjes",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313937353632?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Broccoli (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226367",
+    "name": "AH Broccoliroosjes",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Diepvries groente",
+      "Broccoli (diepvries)"
+    ],
+    "isFood": true
+  }
+]

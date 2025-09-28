@@ -1,0 +1,197 @@
+[
+  {
+    "id": "63910",
+    "name": "Bavaria Pilsener 12-krat",
+    "price": 8.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139393331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489202",
+    "name": "Brouwers Premium bier krat",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363734393436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2708",
+    "name": "Hertog Jan Natuurzuiver bier krat",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575866",
+    "name": "Peroni Nastro azzurro Italiana krat",
+    "price": 21.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633343733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487408",
+    "name": "Premium Lager Premium lager 0,3lt 24fl",
+    "price": 6.55,
+    "image": "NA",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2722",
+    "name": "Amstel Pilsener bier krat",
+    "price": 17.32,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934303331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491976",
+    "name": "Birra Moretti L'autentica bier krat",
+    "price": 22.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031343234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227163",
+    "name": "Brand Pilsener bier krat",
+    "price": 21.32,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931343633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491769",
+    "name": "Bud Bier krat",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739363834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2724",
+    "name": "Grolsch Premium pilsner beugel krat",
+    "price": 19.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383734363038?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232949",
+    "name": "Grolsch Premium pilsner krat",
+    "price": 19.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383734363237?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210145",
+    "name": "Heineken Premium pilsener krat",
+    "price": 19.32,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734303530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516684",
+    "name": "Heineken Silver krat",
+    "price": 19.98,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732363333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "113050",
+    "name": "Jupiler Belgisch pils krat",
+    "price": 14.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126867",
+    "name": "Warsteiner Pilsener",
+    "price": 17.32,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363732343231?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Pils",
+      "Pils - krat"
+    ],
+    "isFood": true
+  }
+]

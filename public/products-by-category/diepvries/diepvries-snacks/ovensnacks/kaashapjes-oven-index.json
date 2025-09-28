@@ -1,0 +1,145 @@
+[
+  {
+    "id": "232376",
+    "name": "Kwekkeboom Oven kaashapjes",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732363937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaashapjes (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543820",
+    "name": "AH Kaassticks",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437393337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaashapjes (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492755",
+    "name": "Mora Oven & airfryer nacho cheese bites",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363939303731?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaashapjes (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492526",
+    "name": "Mora Oven & airfryer chili cheese bites",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363939303637?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaashapjes (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565959",
+    "name": "Topking Kaastengels oven & airfryer oude kaas",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233393933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaashapjes (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516198",
+    "name": "Mora Oven & airfryer cheese onion bites",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333393530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaashapjes (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516626",
+    "name": "Topking Kaastengels sweet chili oven & airfryer",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaashapjes (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554995",
+    "name": "AH Kaasbites original",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaashapjes (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565956",
+    "name": "Mora Oven & airfryer mozzarella cheese bites",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536363835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaashapjes (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558545",
+    "name": "AH Kaasbites jalapeno",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333323836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaashapjes (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500626",
+    "name": "AH Oven kaaskroket",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533323430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaashapjes (oven)"
+    ],
+    "isFood": true
+  }
+]

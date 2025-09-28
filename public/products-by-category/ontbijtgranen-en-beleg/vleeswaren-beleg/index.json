@@ -1,0 +1,60 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "grillworst",
+      "displayName": "Grillworst",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "grillworst/index.json"
+    },
+    {
+      "name": "filet-americain",
+      "displayName": "Filet Americain",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "filet-americain/index.json"
+    },
+    {
+      "name": "leverworst",
+      "displayName": "Leverworst",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "leverworst/index.json"
+    },
+    {
+      "name": "metworst",
+      "displayName": "Metworst",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "metworst/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 23,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 23,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vleeswaren Beleg",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "ontbijtgranen-en-beleg"
+  }
+}

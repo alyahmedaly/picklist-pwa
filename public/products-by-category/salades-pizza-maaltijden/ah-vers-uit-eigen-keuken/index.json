@@ -1,0 +1,52 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > AH Vers uit eigen keuken",
+  "breadcrumbs": "Salades, pizza, maaltijden > AH Vers uit eigen keuken",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "verse-maaltijden",
+      "displayName": "Verse Maaltijden",
+      "productCount": 16,
+      "filePath": "verse-maaltijden.jsonl",
+      "indexPath": "verse-maaltijden-index.json",
+      "statsPath": "verse-maaltijden-stats.json",
+      "averageProtein": 4.8,
+      "halalCompliance": 19
+    },
+    {
+      "name": "salad-bowls",
+      "displayName": "Salad Bowls",
+      "productCount": 6,
+      "filePath": "salad-bowls.jsonl",
+      "indexPath": "salad-bowls-index.json",
+      "statsPath": "salad-bowls-stats.json",
+      "averageProtein": 6.6,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 22,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 22,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ah Vers Uit Eigen Keuken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "salades-pizza-maaltijden"
+  }
+}

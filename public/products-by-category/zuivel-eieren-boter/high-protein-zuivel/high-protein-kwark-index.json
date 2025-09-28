@@ -1,0 +1,134 @@
+[
+  {
+    "id": "448310",
+    "name": "Lindahls Kvarg stracciatella",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830383231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556313",
+    "name": "HiPRO Protein skyr stijl stracciatella",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556312",
+    "name": "HiPRO Protein skyr stijl vanille",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836343034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474602",
+    "name": "Melkunie Protein aardbei kwark",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537303836?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515804",
+    "name": "Lindahls Kvarg perzik passievrucht",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830383232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395287",
+    "name": "Lindahls Kvarg vanillesmaak",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393831303232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533094",
+    "name": "Lindahls Kvarg witte chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393831303233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550199",
+    "name": "Melkunie Protein salted caramel kwark",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537313035?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457979",
+    "name": "Melkunie Protein vanille kwark",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537303833?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582011",
+    "name": "Melkunie Protein aardbei kwark 3-pack",
+    "price": 7.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582012",
+    "name": "Melkunie Protein vanille kwark 3-pack",
+    "price": 7.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130323739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein kwark"
+    ],
+    "isFood": true
+  }
+]

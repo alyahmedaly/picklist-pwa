@@ -1,0 +1,93 @@
+[
+  {
+    "id": "31474",
+    "name": "AH Salsa Hot",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Dipsaus in pot",
+      "Tomatendip"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "31473",
+    "name": "AH Salsa Mild",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438353239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Dipsaus in pot",
+      "Tomatendip"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582678",
+    "name": "AH Salsa mild dipsaus",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Dipsaus in pot",
+      "Tomatendip"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437576",
+    "name": "Santa Maria Salsa dipsaus medium",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331323937?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Dipsaus in pot",
+      "Tomatendip"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437578",
+    "name": "Santa Maria Taco saus mild",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331323935?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Dipsaus in pot",
+      "Tomatendip"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437575",
+    "name": "Santa Maria Taco saus medium",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373139373031?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Dipsaus in pot",
+      "Tomatendip"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449693",
+    "name": "Santa Maria Salsa garlic medium",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373139363936?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Dipsaus in pot",
+      "Tomatendip"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "506041",
+    "name": "Verkade Hart van chocolade karamel zeezout",
+    "price": 3.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835333131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558166",
+    "name": "Tony's Chocolonely Letterreep melk pepernoot schuimpjes",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838393030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461843",
+    "name": "Tony's Chocolonely Melkchocolade reep karamel zeezout S",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400407",
+    "name": "Tony's Chocolonely Melkchocolade letterreep marsepein S",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838393036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558443",
+    "name": "AH Vegan chocoladeletter hazelnoot",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506700",
+    "name": "Delicata Chocoladeletter melk hazelnoot",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters met smaak"
+    ],
+    "isFood": true
+  }
+]

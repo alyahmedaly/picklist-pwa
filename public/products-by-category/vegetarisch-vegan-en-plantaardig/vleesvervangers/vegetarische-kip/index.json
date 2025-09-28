@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Vegetarisch, vegan en plantaardig > Vleesvervangers > Vegetarische kip",
+  "breadcrumbs": "Vegetarisch, vegan en plantaardig > Vleesvervangers > Vegetarische kip",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "vegetarische-stukjes",
+      "displayName": "Vegetarische Stukjes",
+      "productCount": 15,
+      "filePath": "vegetarische-stukjes.jsonl",
+      "indexPath": "vegetarische-stukjes-index.json",
+      "statsPath": "vegetarische-stukjes-stats.json",
+      "averageProtein": 16.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "vegetarische-kipfilet",
+      "displayName": "Vegetarische Kipfilet",
+      "productCount": 10,
+      "filePath": "vegetarische-kipfilet.jsonl",
+      "indexPath": "vegetarische-kipfilet-index.json",
+      "statsPath": "vegetarische-kipfilet-stats.json",
+      "averageProtein": 15.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 25,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 25,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vegetarisch Vegan En Plantaardig",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vleesvervangers",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vegetarische Kip",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vegetarisch-vegan-en-plantaardig/vleesvervangers"
+  }
+}

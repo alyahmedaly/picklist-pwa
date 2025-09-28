@@ -1,0 +1,123 @@
+[
+  {
+    "id": "582687",
+    "name": "Magnum Bonbon gold caramel billionaire",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "IJs bitesizes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582686",
+    "name": "Magnum Bonbon white chocolate & cookies",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030363633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "IJs bitesizes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582688",
+    "name": "Magnum Bonbon salted caramel & almond",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031313332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "IJs bitesizes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550169",
+    "name": "M&M'S Mini ice cream salted caramel",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532343638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "IJs bitesizes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582689",
+    "name": "Magnum After dinner classic",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031363931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "IJs bitesizes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493728",
+    "name": "Ben & Jerry's Chocolate chip cookie dough chunks",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "IJs bitesizes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515686",
+    "name": "Ben & Jerry's Peaces cookie dough",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138333334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "IJs bitesizes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574311",
+    "name": "Wochi Mochi Cookie dough lemon pie",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830383234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "IJs bitesizes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550170",
+    "name": "M&M'S Mini ice cream peanut",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534313535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "IJs bitesizes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562441",
+    "name": "Wochi Mochi Mochi mochiato choco",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830383331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "IJs bitesizes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515988",
+    "name": "Oppo Brothers Salted caramel balls",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435373832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "IJs bitesizes"
+    ],
+    "isFood": true
+  }
+]

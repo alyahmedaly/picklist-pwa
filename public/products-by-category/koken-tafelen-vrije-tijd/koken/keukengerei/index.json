@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Koken, tafelen, vrije tijd > Koken > Keukengerei",
+  "breadcrumbs": "Koken, tafelen, vrije tijd > Koken > Keukengerei",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "fruitsnijder-citruspers",
+      "displayName": "Fruitsnijder Citruspers",
+      "productCount": 6,
+      "filePath": "fruitsnijder-citruspers.jsonl",
+      "indexPath": "fruitsnijder-citruspers-index.json",
+      "statsPath": "fruitsnijder-citruspers-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 33
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koken Tafelen Vrije Tijd",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Koken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Keukengerei",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "koken-tafelen-vrije-tijd/koken"
+  }
+}

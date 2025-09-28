@@ -1,0 +1,142 @@
+[
+  {
+    "id": "128874",
+    "name": "AH Biologisch Paprika rood",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837393339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paprika, courgette, aubergine",
+      "Paprika",
+      "Paprika (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425999",
+    "name": "AH Biologisch Zoete puntpaprika",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339333033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paprika, courgette, aubergine",
+      "Paprika",
+      "Paprika (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123865",
+    "name": "AH Sweet palermo rode puntpaprika",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383734393736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paprika, courgette, aubergine",
+      "Paprika",
+      "Paprika (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579310",
+    "name": "AH Sweet palermo rode puntpaprika",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paprika, courgette, aubergine",
+      "Paprika",
+      "Paprika (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "41194",
+    "name": "AH Paprika mix",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paprika, courgette, aubergine",
+      "Paprika",
+      "Paprika (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519871",
+    "name": "AH Puntpaprika mix",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paprika, courgette, aubergine",
+      "Paprika",
+      "Paprika (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "368705",
+    "name": "AH Paprika geel",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323536353534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paprika, courgette, aubergine",
+      "Paprika",
+      "Paprika (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "368706",
+    "name": "AH Paprika groen",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323536353332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paprika, courgette, aubergine",
+      "Paprika",
+      "Paprika (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "368707",
+    "name": "AH Paprika oranje",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323536353639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paprika, courgette, aubergine",
+      "Paprika",
+      "Paprika (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "4117",
+    "name": "AH Paprika rood",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303133303732?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Paprika, courgette, aubergine",
+      "Paprika",
+      "Paprika (vers)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "561552",
+    "name": "A.Vogel Focus en concentratie kauwtabletten",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436323139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Stress, rust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476403",
+    "name": "A.Vogel Passiflora rustgevende spray",
+    "price": 14.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363731313131?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Stress, rust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "176072",
+    "name": "A.Vogel Passiflora rustgevende sterk **",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373333343432?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Stress, rust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "59526",
+    "name": "A.Vogel Passiflora rustgevende1* tabletten",
+    "price": 11.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373330343333?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Stress, rust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161076",
+    "name": "Bional Nervovit forte",
+    "price": 13.99,
+    "image": "NA",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Stress, rust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "175045",
+    "name": "Etos Valeriaan druppels",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373638363138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Stress, rust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441572",
+    "name": "Lucovitaal CBD Cannabidiol",
+    "price": 42.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934333735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Stress, rust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429909",
+    "name": "Lucovitaal CBD cannabidiol 10mg capsules",
+    "price": 35.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373730343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Stress, rust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187777",
+    "name": "Lucovitaal Melatonine 5-HTP L-tryptofaan",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333353739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Stress, rust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561564",
+    "name": "Lucovitaal Rust balans",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538313632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Stress, rust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "95323",
+    "name": "Valdispert Rust extra sterk dragees",
+    "price": 16.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636303330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Stress, rust"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227216",
+    "name": "Valdispert Stress moments sterk",
+    "price": 15.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373036323333?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Slaap, rust en ontspanning",
+      "Stress, rust"
+    ],
+    "isFood": true
+  }
+]

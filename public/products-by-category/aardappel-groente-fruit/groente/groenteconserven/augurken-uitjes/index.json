@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Groenteconserven > Augurken, uitjes",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Groenteconserven > Augurken, uitjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "augurken",
+      "displayName": "Augurken",
+      "productCount": 35,
+      "filePath": "augurken.jsonl",
+      "indexPath": "augurken-index.json",
+      "statsPath": "augurken-stats.json",
+      "averageProtein": 0.9,
+      "halalCompliance": 97
+    }
+  ],
+  "totalProducts": 35,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groenteconserven",
+        "path": "../index.json"
+      },
+      {
+        "name": "Augurken Uitjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/groenteconserven"
+  }
+}

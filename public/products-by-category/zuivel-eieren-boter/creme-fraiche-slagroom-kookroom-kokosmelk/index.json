@@ -1,0 +1,72 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Creme fraiche, slagroom, kookroom, kokosmelk",
+  "breadcrumbs": "Zuivel, eieren, boter > Creme fraiche, slagroom, kookroom, kokosmelk",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kokosmelk",
+      "displayName": "Kokosmelk",
+      "productCount": 23,
+      "filePath": "kokosmelk.jsonl",
+      "indexPath": "kokosmelk-index.json",
+      "statsPath": "kokosmelk-stats.json",
+      "averageProtein": 1.6,
+      "halalCompliance": 83
+    },
+    {
+      "name": "slagroom",
+      "displayName": "Slagroom",
+      "productCount": 18,
+      "filePath": "slagroom.jsonl",
+      "indexPath": "slagroom-index.json",
+      "statsPath": "slagroom-stats.json",
+      "averageProtein": 1.7,
+      "halalCompliance": 44
+    },
+    {
+      "name": "creme-fraiche",
+      "displayName": "Creme Fraiche",
+      "productCount": 14,
+      "filePath": "creme-fraiche.jsonl",
+      "indexPath": "creme-fraiche-index.json",
+      "statsPath": "creme-fraiche-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 43
+    },
+    {
+      "name": "kookroom",
+      "displayName": "Kookroom",
+      "productCount": 12,
+      "filePath": "kookroom.jsonl",
+      "indexPath": "kookroom-index.json",
+      "statsPath": "kookroom-stats.json",
+      "averageProtein": 2.4,
+      "halalCompliance": 67
+    }
+  ],
+  "totalProducts": 67,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 67,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../index.json"
+      },
+      {
+        "name": "Creme Fraiche Slagroom Kookroom Kokosmelk",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "zuivel-eieren-boter"
+  }
+}

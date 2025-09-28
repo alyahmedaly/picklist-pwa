@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Drogisterij > Haarverzorging > Shampoo",
+  "breadcrumbs": "Drogisterij > Haarverzorging > Shampoo",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "shampoo-alle-haartypes",
+      "displayName": "Shampoo Alle Haartypes",
+      "productCount": 7,
+      "filePath": "shampoo-alle-haartypes.jsonl",
+      "indexPath": "shampoo-alle-haartypes-index.json",
+      "statsPath": "shampoo-alle-haartypes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 71
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Drogisterij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Haarverzorging",
+        "path": "../index.json"
+      },
+      {
+        "name": "Shampoo",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "drogisterij/haarverzorging"
+  }
+}

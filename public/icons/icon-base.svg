@@ -1,0 +1,21 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" rx="64" fill="#3b82f6"/>
+
+  <!-- Main icon - stylized "P" for Picklist -->
+  <g transform="translate(128, 96)">
+    <!-- Letter P shape -->
+    <rect x="0" y="0" width="48" height="320" fill="white" rx="8"/>
+    <rect x="0" y="0" width="176" height="48" fill="white" rx="8"/>
+    <rect x="0" y="136" width="136" height="48" fill="white" rx="8"/>
+    <rect x="128" y="48" width="48" height="136" fill="white" rx="8"/>
+  </g>
+
+  <!-- Nutrition symbol - small dots representing data points -->
+  <g transform="translate(320, 160)">
+    <circle cx="0" cy="0" r="12" fill="white" opacity="0.8"/>
+    <circle cx="0" cy="40" r="12" fill="white" opacity="0.6"/>
+    <circle cx="0" cy="80" r="12" fill="white" opacity="0.4"/>
+    <circle cx="0" cy="120" r="12" fill="white" opacity="0.2"/>
+  </g>
+</svg>

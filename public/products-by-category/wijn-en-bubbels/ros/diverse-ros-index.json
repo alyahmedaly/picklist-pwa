@@ -1,0 +1,134 @@
+[
+  {
+    "id": "69350",
+    "name": "Casal Mendes Rosé",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Diverse rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459929",
+    "name": "Freixenet Italian rosé bel",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373834303934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Diverse rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370191",
+    "name": "just Rosé",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738383437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Diverse rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459896",
+    "name": "Listel Rosé",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393831333530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Diverse rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458952",
+    "name": "Miraval Studio",
+    "price": 14.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232393739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Diverse rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481645",
+    "name": "Patri Solitaria Rosato",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363634343838?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Diverse rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436401",
+    "name": "Pink Flamingo Rosé",
+    "price": 9.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373234333439?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Diverse rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568390",
+    "name": "Privat Cava rosé brut nature",
+    "price": 13.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631363031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Diverse rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517669",
+    "name": "Riporta Rosata",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631383533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Diverse rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456031",
+    "name": "Santa Julia Rose",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237313130363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Diverse rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442487",
+    "name": "Torres Viña Sol Rosé",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333353239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Diverse rosé"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "id": "199157",
+    "name": "Kesbeke Zoet-zure augurken blokjes",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373336393835?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199154",
+    "name": "Kesbeke Zoet-zure augurken plakjes",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373337303034?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168788",
+    "name": "AH Augurken plakjes zoetzuur",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363336383432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62824",
+    "name": "AH Augurken schijven zoetzuur",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363430383632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "917",
+    "name": "AH Augurken klein zoetzuur",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533393332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "57076",
+    "name": "AH Augurken partysticks pittig",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338383530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "914",
+    "name": "AH Augurken partysticks zoetzuur",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363336363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62820",
+    "name": "AH Cocktail augurken zoetzuur",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533393330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "37734",
+    "name": "AH Augurken groot zoetzuur",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338373837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "910",
+    "name": "AH Augurken zoetzuur",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "120873",
+    "name": "AH Cocktail augurken zuur",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533393337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "53860",
+    "name": "AH Augurken zuur",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338373935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468589",
+    "name": "Kesbeke Mini augurkjes zuur",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373431313739?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199241",
+    "name": "Kesbeke Amsterdamse augurken blokjes",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373336393934?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216290",
+    "name": "Kesbeke Amsterdamse augurkjes zoetzuur",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373336393931?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508391",
+    "name": "Kesbeke Amsterdamse dwarsliggers zoet zuur",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383038313533?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199240",
+    "name": "Kesbeke Amsterdamse mini augurken",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373239393535?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220498",
+    "name": "Kesbeke Augurken strips",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373337303230?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "382051",
+    "name": "Kesbeke Hamburger plakjes zoet zuur",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373239393536?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579084",
+    "name": "AH Augurken plakjes zoetzuur 2-pack",
+    "price": 3.21,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030343035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216293",
+    "name": "Kühne Ambachtelijke slices",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733383138?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199122",
+    "name": "Kühne Augurken",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331353832?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199121",
+    "name": "Kühne Augurken zoetzuur",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332373733?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199173",
+    "name": "Kühne Cocktail cornichons zoetzuur",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733383135?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374225",
+    "name": "Kühne Cocktailsalade zoetzuur",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373436343036?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183202",
+    "name": "Kühne Gurken viertel zoetzuur",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137393738?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213927",
+    "name": "Kühne Gurken viertel zoetzuur",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363731393830?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216294",
+    "name": "Kühne Gurkentopf zoetzuur",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639383537?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "139010",
+    "name": "Kühne Kleine augurken met fijne kruiden",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536383131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216297",
+    "name": "Kühne Kleine augurken zoet",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136383934?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199117",
+    "name": "Kühne Paprikareepjes",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332383432?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199119",
+    "name": "Kühne Rauwkost zoetzuur",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332363233?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163625",
+    "name": "Kühne Wortel zoetzuur",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331363734?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199164",
+    "name": "Kühne Zoete augurkjes met honing",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536373936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213925",
+    "name": "Maille Cornichons extra fins",
+    "price": 3.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373631353134?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Augurken, uitjes",
+      "Augurken"
+    ],
+    "isFood": true
+  }
+]

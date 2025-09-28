@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Pizza > Verse Pizza",
+  "breadcrumbs": "Salades, pizza, maaltijden > Pizza > Verse Pizza",
+  "totalProducts": 15,
+  "halalCompliance": 67,
+  "averageProtein": 9.8,
+  "averagePrice": 6.44,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 15,
+    "withIngredients": 15,
+    "withHalalCheck": 15
+  }
+}

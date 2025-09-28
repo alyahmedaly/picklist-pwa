@@ -1,0 +1,62 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Chocolademelk",
+  "breadcrumbs": "Zuivel, eieren, boter > Chocolademelk",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "chocolademelk-pakken",
+      "displayName": "Chocolademelk Pakken",
+      "productCount": 19,
+      "filePath": "chocolademelk-pakken.jsonl",
+      "indexPath": "chocolademelk-pakken-index.json",
+      "statsPath": "chocolademelk-pakken-stats.json",
+      "averageProtein": 2.4,
+      "halalCompliance": 74
+    },
+    {
+      "name": "chocolademelk-drinkpakjes",
+      "displayName": "Chocolademelk Drinkpakjes",
+      "productCount": 11,
+      "filePath": "chocolademelk-drinkpakjes.jsonl",
+      "indexPath": "chocolademelk-drinkpakjes-index.json",
+      "statsPath": "chocolademelk-drinkpakjes-stats.json",
+      "averageProtein": 3.2,
+      "halalCompliance": 91
+    },
+    {
+      "name": "instant-chocolademelk",
+      "displayName": "Instant Chocolademelk",
+      "productCount": 6,
+      "filePath": "instant-chocolademelk.jsonl",
+      "indexPath": "instant-chocolademelk-index.json",
+      "statsPath": "instant-chocolademelk-stats.json",
+      "averageProtein": 5.4,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 36,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 36,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../index.json"
+      },
+      {
+        "name": "Chocolademelk",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "zuivel-eieren-boter"
+  }
+}

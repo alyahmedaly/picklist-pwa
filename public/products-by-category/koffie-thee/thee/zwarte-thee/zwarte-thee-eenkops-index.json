@@ -1,0 +1,457 @@
+[
+  {
+    "id": "381414",
+    "name": "AH Seizoensthee herfst",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508313",
+    "name": "AH Seizoensthee kaneel & peer",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381413",
+    "name": "AH Seizoensthee winter",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567267",
+    "name": "AH Zwarte thee citroen",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393931363738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "106529",
+    "name": "AH Zwarte thee earl grey",
+    "price": 0.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "106528",
+    "name": "AH Zwarte thee Engelse melange 1 kop",
+    "price": 0.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381377",
+    "name": "AH Zwarte thee Engelse melange 1 kop",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373830353137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567240",
+    "name": "AH Zwarte thee variatie box",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196083",
+    "name": "Twinings English breakfast",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936373738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191016",
+    "name": "Twinings Lady grey",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936383030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191015",
+    "name": "Twinings Original earl grey",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233899",
+    "name": "Celestial Seasonings India spice",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303037383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508285",
+    "name": "Clipper Earl grey orange organic tea",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532343636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469353",
+    "name": "Clipper Earl grey organic tea",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476660",
+    "name": "Lipton Earl grey black tea",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933363134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476556",
+    "name": "Lipton English breakfast",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933353733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195953",
+    "name": "Lipton Orange arancia",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "184982",
+    "name": "Lipton Russian earl grey black tea lemon",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214573",
+    "name": "Lipton Yellow label",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214574",
+    "name": "Lipton Yellow label",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738313035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578768",
+    "name": "Lipton Yellow label",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574345",
+    "name": "LocalTea Speculaas chai",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170221",
+    "name": "Pickwick Dutch",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313832?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3713",
+    "name": "Pickwick Original Ceylon 1 kop",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430333034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3704",
+    "name": "Pickwick Original earl grey 1 kop",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430323639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3708",
+    "name": "Pickwick Original English 1 kop",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430323638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186751",
+    "name": "Pickwick Original English 1 kop value pack",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313130?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191267",
+    "name": "Pickwick Spices autumn storm",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932303737?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229539",
+    "name": "Pickwick Spices caramel vanilla",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313233?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "190201",
+    "name": "Pickwick Spices caramelised pear",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933303335?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "65776",
+    "name": "Pickwick Spices lovely liquorice",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313432?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "143435",
+    "name": "Pickwick Spices Turkish apple",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323233?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "190200",
+    "name": "Pickwick Spices warm cinnamon",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323536?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574236",
+    "name": "Pickwick Spices warming chai",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630333639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46529",
+    "name": "Pickwick Spices winterglow spices & orange",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430323636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Zwarte thee",
+      "Zwarte thee eenkops"
+    ],
+    "isFood": true
+  }
+]

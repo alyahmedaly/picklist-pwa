@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Ontbijtgranen > Havermout en pap > Havermout",
+  "breadcrumbs": "Ontbijtgranen en beleg > Ontbijtgranen > Havermout en pap > Havermout",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "havermout-regular",
+      "displayName": "Havermout Regular",
+      "productCount": 21,
+      "filePath": "havermout-regular.jsonl",
+      "indexPath": "havermout-regular-index.json",
+      "statsPath": "havermout-regular-stats.json",
+      "averageProtein": 12.9,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 21,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Ontbijtgranen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Havermout En Pap",
+        "path": "../index.json"
+      },
+      {
+        "name": "Havermout",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "ontbijtgranen-en-beleg/ontbijtgranen/havermout-en-pap"
+  }
+}

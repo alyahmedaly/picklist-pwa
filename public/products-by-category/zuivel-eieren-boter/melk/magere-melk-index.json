@@ -1,0 +1,62 @@
+[
+  {
+    "id": "127224",
+    "name": "AH Biologisch Magere melk",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431393135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Magere melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450536",
+    "name": "AH Houdbare magere melk",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034353935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Magere melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1516",
+    "name": "AH Magere melk",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Magere melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469258",
+    "name": "Campina Langlekker magere melk 0% vet",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733303933?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Magere melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580318",
+    "name": "Campina houdbare magere melk 1L 3-pack",
+    "price": 5.1,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Magere melk"
+    ],
+    "isFood": true
+  }
+]

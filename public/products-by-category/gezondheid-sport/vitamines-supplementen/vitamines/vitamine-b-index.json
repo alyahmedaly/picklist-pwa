@@ -1,0 +1,80 @@
+[
+  {
+    "id": "206488",
+    "name": "Care Vitamine B12",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834353838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Vitamines",
+      "Vitamine B"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "59280",
+    "name": "Davitamon B-complex forte + biergist dragees",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363538323631?revLabel=18&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Vitamines",
+      "Vitamine B"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470988",
+    "name": "Etos Vitamine B Complex 50Mg",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373638363234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Vitamines",
+      "Vitamine B"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459242",
+    "name": "Lucovitaal Vitamine b complex forte tabletten",
+    "price": 18.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Vitamines",
+      "Vitamine B"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374893",
+    "name": "Lucovitaal Vitamine B12 1000mcg kauwtabletjes",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393637313637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Vitamines",
+      "Vitamine B"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526900",
+    "name": "Vitakruid B12 combi 6000 met folaat en p-5-p",
+    "price": 34.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383838343237?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Vitamines",
+      "Vitamine B"
+    ],
+    "isFood": true
+  }
+]

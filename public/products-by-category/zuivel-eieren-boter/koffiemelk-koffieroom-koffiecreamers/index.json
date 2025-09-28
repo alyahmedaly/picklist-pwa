@@ -1,0 +1,62 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Koffiemelk, koffieroom, koffiecreamers",
+  "breadcrumbs": "Zuivel, eieren, boter > Koffiemelk, koffieroom, koffiecreamers",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "koffiemelk",
+      "displayName": "Koffiemelk",
+      "productCount": 28,
+      "filePath": "koffiemelk.jsonl",
+      "indexPath": "koffiemelk-index.json",
+      "statsPath": "koffiemelk-stats.json",
+      "averageProtein": 6.3,
+      "halalCompliance": 86
+    },
+    {
+      "name": "koffiecreamer",
+      "displayName": "Koffiecreamer",
+      "productCount": 6,
+      "filePath": "koffiecreamer.jsonl",
+      "indexPath": "koffiecreamer-index.json",
+      "statsPath": "koffiecreamer-stats.json",
+      "averageProtein": 1.8,
+      "halalCompliance": 0
+    },
+    {
+      "name": "cappuccino-melk",
+      "displayName": "Cappuccino Melk",
+      "productCount": 5,
+      "filePath": "cappuccino-melk.jsonl",
+      "indexPath": "cappuccino-melk-index.json",
+      "statsPath": "cappuccino-melk-stats.json",
+      "averageProtein": 3.1,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 39,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 39,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../index.json"
+      },
+      {
+        "name": "Koffiemelk Koffieroom Koffiecreamers",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "zuivel-eieren-boter"
+  }
+}

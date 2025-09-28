@@ -1,0 +1,223 @@
+[
+  {
+    "id": "517276",
+    "name": "AH Cake met citroensmaak witte chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383632323337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196419",
+    "name": "AH Boerencake",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635373834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509389",
+    "name": "AH Cake gesneden",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635373835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "128834",
+    "name": "AH Roomboter marmercake",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635373833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517282",
+    "name": "AH Choco cake met witte chocolade stukjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383632323333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "65699",
+    "name": "AH Roomboter cake",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635373938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509388",
+    "name": "AH Roomboter cake plakje",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570728",
+    "name": "Milka Tender",
+    "price": 2.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135393539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173850",
+    "name": "AH Cakerol met aardbeien en crèmevulling",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429808",
+    "name": "AH Marmercake",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131393937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517262",
+    "name": "AH Carrot cake met wortel en walnoten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383538313830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376167",
+    "name": "Bonne Maman La madeleine",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323431333732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517344",
+    "name": "AH Banaan walnootcake met pure chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533303134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196427",
+    "name": "AH Roomboter boterkoek",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535373932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509294",
+    "name": "LU Zachte cake naturel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334393435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484019",
+    "name": "AH Indische cake",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383531383434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211351",
+    "name": "LU Lulu beertje chocolade",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238353530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Cake",
+      "Cakes"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Sperziebonen, snijbonen en peulvruchten",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Sperziebonen, snijbonen en peulvruchten",
+  "subdirectories": [
+    {
+      "name": "sperziebonen",
+      "displayName": "Sperziebonen",
+      "productCount": 16,
+      "hasSubdirectories": false,
+      "indexPath": "sperziebonen/index.json"
+    },
+    {
+      "name": "doperwten",
+      "displayName": "Doperwten",
+      "productCount": 11,
+      "hasSubdirectories": false,
+      "indexPath": "doperwten/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "kikkererwten",
+      "displayName": "Kikkererwten",
+      "productCount": 25,
+      "filePath": "kikkererwten.jsonl",
+      "indexPath": "kikkererwten-index.json",
+      "statsPath": "kikkererwten-stats.json",
+      "averageProtein": 8.6,
+      "halalCompliance": 100
+    },
+    {
+      "name": "witte-bonen",
+      "displayName": "Witte Bonen",
+      "productCount": 22,
+      "filePath": "witte-bonen.jsonl",
+      "indexPath": "witte-bonen-index.json",
+      "statsPath": "witte-bonen-stats.json",
+      "averageProtein": 7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "kidney-bonen",
+      "displayName": "Kidney Bonen",
+      "productCount": 21,
+      "filePath": "kidney-bonen.jsonl",
+      "indexPath": "kidney-bonen-index.json",
+      "statsPath": "kidney-bonen-stats.json",
+      "averageProtein": 8.7,
+      "halalCompliance": 95
+    },
+    {
+      "name": "bruine-bonen",
+      "displayName": "Bruine Bonen",
+      "productCount": 17,
+      "filePath": "bruine-bonen.jsonl",
+      "indexPath": "bruine-bonen-index.json",
+      "statsPath": "bruine-bonen-stats.json",
+      "averageProtein": 8.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "zwarte-bonen",
+      "displayName": "Zwarte Bonen",
+      "productCount": 15,
+      "filePath": "zwarte-bonen.jsonl",
+      "indexPath": "zwarte-bonen-index.json",
+      "statsPath": "zwarte-bonen-stats.json",
+      "averageProtein": 11,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 127,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 127,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../index.json"
+      },
+      {
+        "name": "Sperziebonen Snijbonen En Peulvruchten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/groente"
+  }
+}

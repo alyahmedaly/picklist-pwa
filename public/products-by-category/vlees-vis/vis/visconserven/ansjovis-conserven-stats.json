@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Vis > Visconserven > Ansjovis (conserven)",
+  "breadcrumbs": "Vlees, vis > Vis > Visconserven > Ansjovis (conserven)",
+  "totalProducts": 10,
+  "halalCompliance": 100,
+  "averageProtein": 24.1,
+  "averagePrice": 3.14,
+  "highProteinProducts": 10,
+  "dataQuality": {
+    "withNutrition": 10,
+    "withIngredients": 10,
+    "withHalalCheck": 10
+  }
+}

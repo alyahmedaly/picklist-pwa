@@ -1,0 +1,96 @@
+{
+  "categoryPath": "Wijn en bubbels > Witte wijn > Witte wijn - Fris en droog",
+  "breadcrumbs": "Wijn en bubbels > Witte wijn > Witte wijn - Fris en droog",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "sauvignon-blanc-fris-en-droog",
+      "displayName": "Sauvignon Blanc Fris En Droog",
+      "productCount": 41,
+      "filePath": "sauvignon-blanc-fris-en-droog.jsonl",
+      "indexPath": "sauvignon-blanc-fris-en-droog-index.json",
+      "statsPath": "sauvignon-blanc-fris-en-droog-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "overige-witte-wijn-fris-en-droog",
+      "displayName": "Overige Witte Wijn Fris En Droog",
+      "productCount": 18,
+      "filePath": "overige-witte-wijn-fris-en-droog.jsonl",
+      "indexPath": "overige-witte-wijn-fris-en-droog-index.json",
+      "statsPath": "overige-witte-wijn-fris-en-droog-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "chardonnay-fris-en-droog",
+      "displayName": "Chardonnay Fris En Droog",
+      "productCount": 17,
+      "filePath": "chardonnay-fris-en-droog.jsonl",
+      "indexPath": "chardonnay-fris-en-droog-index.json",
+      "statsPath": "chardonnay-fris-en-droog-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 94
+    },
+    {
+      "name": "pinot-grigio-fris-en-droog",
+      "displayName": "Pinot Grigio Fris En Droog",
+      "productCount": 17,
+      "filePath": "pinot-grigio-fris-en-droog.jsonl",
+      "indexPath": "pinot-grigio-fris-en-droog-index.json",
+      "statsPath": "pinot-grigio-fris-en-droog-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 94
+    },
+    {
+      "name": "verdejo-fris-en-droog",
+      "displayName": "Verdejo Fris En Droog",
+      "productCount": 9,
+      "filePath": "verdejo-fris-en-droog.jsonl",
+      "indexPath": "verdejo-fris-en-droog-index.json",
+      "statsPath": "verdejo-fris-en-droog-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "vermentino-fris-en-droog",
+      "displayName": "Vermentino Fris En Droog",
+      "productCount": 5,
+      "filePath": "vermentino-fris-en-droog.jsonl",
+      "indexPath": "vermentino-fris-en-droog-index.json",
+      "statsPath": "vermentino-fris-en-droog-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 107,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 107,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Witte Wijn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Witte Wijn Fris En Droog",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "wijn-en-bubbels/witte-wijn"
+  }
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "474808",
+    "name": "Iglo Green cuisine veggie sticks",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373134313837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vega(n) Snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564870",
+    "name": "AH Terra Plantaardige mini frikandel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vega(n) Snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493519",
+    "name": "Vegetarische Slager Vegan kipleckere nuggets",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934303131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vega(n) Snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533206",
+    "name": "Vivera Plantaardige spicy drumsticks",
+    "price": 3.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939393132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vega(n) Snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564889",
+    "name": "AH Terra Plantaardige kipnuggets",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vega(n) Snacks"
+    ],
+    "isFood": true
+  }
+]

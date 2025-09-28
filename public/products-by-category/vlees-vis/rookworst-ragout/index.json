@@ -1,0 +1,52 @@
+{
+  "categoryPath": "Vlees, vis > Rookworst, ragout",
+  "breadcrumbs": "Vlees, vis > Rookworst, ragout",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "rookworst",
+      "displayName": "Rookworst",
+      "productCount": 31,
+      "filePath": "rookworst.jsonl",
+      "indexPath": "rookworst-index.json",
+      "statsPath": "rookworst-stats.json",
+      "averageProtein": 14.1,
+      "halalCompliance": 32
+    },
+    {
+      "name": "ragout",
+      "displayName": "Ragout",
+      "productCount": 11,
+      "filePath": "ragout.jsonl",
+      "indexPath": "ragout-index.json",
+      "statsPath": "ragout-stats.json",
+      "averageProtein": 6.3,
+      "halalCompliance": 73
+    }
+  ],
+  "totalProducts": 42,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 42,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Rookworst Ragout",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "vlees-vis"
+  }
+}

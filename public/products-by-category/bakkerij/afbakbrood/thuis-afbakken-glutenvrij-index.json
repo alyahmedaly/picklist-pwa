@@ -1,0 +1,158 @@
+[
+  {
+    "id": "237617",
+    "name": "Consenza Bladerdeeg",
+    "price": 6.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuis afbakken glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550449",
+    "name": "AH Glutenvrij Italiaanse bol",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuis afbakken glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217601",
+    "name": "Schär Kaiserbroodjes",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373434373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuis afbakken glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455946",
+    "name": "Schär Baguette glutenvrij",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373436393539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuis afbakken glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199619",
+    "name": "Schär Ciabatta glutenvrij",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393635383139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuis afbakken glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228419",
+    "name": "Schär Ciabatta rustica glutenvrij",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373339383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuis afbakken glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516683",
+    "name": "Schär Kaiser brötchen glutenvrij",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535363137?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuis afbakken glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228424",
+    "name": "Schär Mini baguette glutenvrij",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373239343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuis afbakken glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482628",
+    "name": "BFree Pita broodjes glutenvrij",
+    "price": 6.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231313739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuis afbakken glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567834",
+    "name": "Schnitzer Bio baguette classic glutenvrij",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131313736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuis afbakken glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507127",
+    "name": "Schnitzer Panini active oat",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303139343632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuis afbakken glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408042",
+    "name": "Schär Meergranenbroodjes glutenvrij",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636313130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuis afbakken glutenvrij"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579007",
+    "name": "AH Glutenvrij Italiaanse bol 2-pack",
+    "price": 5.68,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938343730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuis afbakken glutenvrij"
+    ],
+    "isFood": true
+  }
+]

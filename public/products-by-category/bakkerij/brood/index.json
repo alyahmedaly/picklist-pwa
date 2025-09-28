@@ -1,0 +1,124 @@
+{
+  "categoryPath": "Bakkerij > Brood",
+  "breadcrumbs": "Bakkerij > Brood",
+  "subdirectories": [
+    {
+      "name": "wit-brood",
+      "displayName": "Wit Brood",
+      "productCount": 47,
+      "hasSubdirectories": false,
+      "indexPath": "wit-brood/index.json"
+    },
+    {
+      "name": "volkoren-brood",
+      "displayName": "Volkoren Brood",
+      "productCount": 45,
+      "hasSubdirectories": false,
+      "indexPath": "volkoren-brood/index.json"
+    },
+    {
+      "name": "bruin-brood",
+      "displayName": "Bruin Brood",
+      "productCount": 31,
+      "hasSubdirectories": false,
+      "indexPath": "bruin-brood/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "glutenvrij-brood",
+      "displayName": "Glutenvrij Brood",
+      "productCount": 24,
+      "filePath": "glutenvrij-brood.jsonl",
+      "indexPath": "glutenvrij-brood-index.json",
+      "statsPath": "glutenvrij-brood-stats.json",
+      "averageProtein": 5.2,
+      "halalCompliance": 79
+    },
+    {
+      "name": "brood-en-crackers-koolhydraatarm",
+      "displayName": "Brood En Crackers Koolhydraatarm",
+      "productCount": 14,
+      "filePath": "brood-en-crackers-koolhydraatarm.jsonl",
+      "indexPath": "brood-en-crackers-koolhydraatarm-index.json",
+      "statsPath": "brood-en-crackers-koolhydraatarm-stats.json",
+      "averageProtein": 28.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "speltbrood",
+      "displayName": "Speltbrood",
+      "productCount": 14,
+      "filePath": "speltbrood.jsonl",
+      "indexPath": "speltbrood-index.json",
+      "statsPath": "speltbrood-stats.json",
+      "averageProtein": 10.4,
+      "halalCompliance": 93
+    },
+    {
+      "name": "meergranen-brood",
+      "displayName": "Meergranen Brood",
+      "productCount": 12,
+      "filePath": "meergranen-brood.jsonl",
+      "indexPath": "meergranen-brood-index.json",
+      "statsPath": "meergranen-brood-stats.json",
+      "averageProtein": 11.8,
+      "halalCompliance": 100
+    },
+    {
+      "name": "koolhydraatarm-brood",
+      "displayName": "Koolhydraatarm Brood",
+      "productCount": 6,
+      "filePath": "koolhydraatarm-brood.jsonl",
+      "indexPath": "koolhydraatarm-brood-index.json",
+      "statsPath": "koolhydraatarm-brood-stats.json",
+      "averageProtein": 14,
+      "halalCompliance": 67
+    },
+    {
+      "name": "maisbrood",
+      "displayName": "Maisbrood",
+      "productCount": 5,
+      "filePath": "maisbrood.jsonl",
+      "indexPath": "maisbrood-index.json",
+      "statsPath": "maisbrood-stats.json",
+      "averageProtein": 9.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "roggebrood",
+      "displayName": "Roggebrood",
+      "productCount": 5,
+      "filePath": "roggebrood.jsonl",
+      "indexPath": "roggebrood-index.json",
+      "statsPath": "roggebrood-stats.json",
+      "averageProtein": 6.7,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 203,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 203,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../index.json"
+      },
+      {
+        "name": "Brood",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "bakkerij"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "hamburgers",
+      "displayName": "Hamburgers",
+      "productCount": 26,
+      "hasSubdirectories": false,
+      "indexPath": "hamburgers/index.json"
+    },
+    {
+      "name": "biefstuk-entrecote",
+      "displayName": "Biefstuk Entrecote",
+      "productCount": 17,
+      "hasSubdirectories": true,
+      "indexPath": "biefstuk-entrecote/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "rundergehakt",
+      "displayName": "Rundergehakt",
+      "productCount": 24,
+      "filePath": "rundergehakt.jsonl",
+      "indexPath": "rundergehakt-index.json",
+      "statsPath": "rundergehakt-stats.json",
+      "averageProtein": 16.2,
+      "halalCompliance": 75
+    },
+    {
+      "name": "stoofvlees",
+      "displayName": "Stoofvlees",
+      "productCount": 10,
+      "filePath": "stoofvlees.jsonl",
+      "indexPath": "stoofvlees-index.json",
+      "statsPath": "stoofvlees-stats.json",
+      "averageProtein": 19,
+      "halalCompliance": 90
+    },
+    {
+      "name": "worst-rundvlees",
+      "displayName": "Worst Rundvlees",
+      "productCount": 10,
+      "filePath": "worst-rundvlees.jsonl",
+      "indexPath": "worst-rundvlees-index.json",
+      "statsPath": "worst-rundvlees-stats.json",
+      "averageProtein": 14.3,
+      "halalCompliance": 70
+    },
+    {
+      "name": "tartaar",
+      "displayName": "Tartaar",
+      "productCount": 7,
+      "filePath": "tartaar.jsonl",
+      "indexPath": "tartaar-index.json",
+      "statsPath": "tartaar-stats.json",
+      "averageProtein": 19.9,
+      "halalCompliance": 100
+    },
+    {
+      "name": "soepvlees-rund",
+      "displayName": "Soepvlees Rund",
+      "productCount": 6,
+      "filePath": "soepvlees-rund.jsonl",
+      "indexPath": "soepvlees-rund-index.json",
+      "statsPath": "soepvlees-rund-stats.json",
+      "averageProtein": 16.4,
+      "halalCompliance": 100
+    },
+    {
+      "name": "gehaktbal-rundvlees",
+      "displayName": "Gehaktbal Rundvlees",
+      "productCount": 5,
+      "filePath": "gehaktbal-rundvlees.jsonl",
+      "indexPath": "gehaktbal-rundvlees-index.json",
+      "statsPath": "gehaktbal-rundvlees-stats.json",
+      "averageProtein": 10.8,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 105,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 105,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Rundvlees",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "vlees-vis"
+  }
+}

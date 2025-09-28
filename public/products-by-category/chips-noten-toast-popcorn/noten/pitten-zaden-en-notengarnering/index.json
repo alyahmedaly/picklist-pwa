@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Chips, noten, toast, popcorn > Noten > Pitten, zaden en notengarnering",
+  "breadcrumbs": "Chips, noten, toast, popcorn > Noten > Pitten, zaden en notengarnering",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "zaden-diverse",
+      "displayName": "Zaden Diverse",
+      "productCount": 8,
+      "filePath": "zaden-diverse.jsonl",
+      "indexPath": "zaden-diverse-index.json",
+      "statsPath": "zaden-diverse-stats.json",
+      "averageProtein": 28.5,
+      "halalCompliance": 100
+    },
+    {
+      "name": "pijnboompitten",
+      "displayName": "Pijnboompitten",
+      "productCount": 5,
+      "filePath": "pijnboompitten.jsonl",
+      "indexPath": "pijnboompitten-index.json",
+      "statsPath": "pijnboompitten-stats.json",
+      "averageProtein": 19,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 13,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 13,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Chips Noten Toast Popcorn",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Noten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pitten Zaden En Notengarnering",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "chips-noten-toast-popcorn/noten"
+  }
+}

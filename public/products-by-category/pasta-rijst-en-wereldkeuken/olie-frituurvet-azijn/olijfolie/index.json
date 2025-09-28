@@ -1,0 +1,43 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "olijfolie-extra-vierge",
+      "displayName": "Olijfolie Extra Vierge",
+      "productCount": 30,
+      "hasSubdirectories": false,
+      "indexPath": "olijfolie-extra-vierge/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 30,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 30,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Olie Frituurvet Azijn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Olijfolie",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/olie-frituurvet-azijn"
+  }
+}

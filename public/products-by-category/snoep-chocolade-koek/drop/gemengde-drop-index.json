@@ -1,0 +1,314 @@
+[
+  {
+    "id": "559142",
+    "name": "Italiano Dropstaafjes mix",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393238313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559143",
+    "name": "Italiano Fijne dropselectie",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334393438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227191",
+    "name": "Haribo Gekleurde dropmix",
+    "price": 5.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383032363435?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547741",
+    "name": "Klene Mix zoete & Engelse drop",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338353732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578497",
+    "name": "Venco Dropmix fruitig voordeel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547764",
+    "name": "Venco Tikkels drop & fruit",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559133",
+    "name": "Klene Engelse drop",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547761",
+    "name": "Venco Droptoppers salmiak & mint",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547744",
+    "name": "Venco Droptoppers salmiak & mint voordeelpak",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547763",
+    "name": "Venco Droptoppers zoet & fruitig",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439412",
+    "name": "Napoleon Drop fruit duo",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132323534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578498",
+    "name": "Venco Dropmix gemengd voordeel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547760",
+    "name": "Venco Droptoppers lekker & stevig",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502453",
+    "name": "Venco Kleurendrop",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138383335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502452",
+    "name": "Venco Zwartwitjes",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231343230?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578496",
+    "name": "Venco Dropmix zacht & zoet voordeel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502038",
+    "name": "AH Dropmix zoet",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502037",
+    "name": "AH Gemengde drop zoet en zout",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547765",
+    "name": "Venco Tikkels drop & dropmint",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502482",
+    "name": "AH Dropmix salmiak",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373537323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498329",
+    "name": "AH Gesuikerde dropmix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578494",
+    "name": "Venco Droptoppers keelmix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547762",
+    "name": "Venco Droptoppers krakend & zacht",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547777",
+    "name": "Klene Mix zoute & salmiak drop",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338353638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547747",
+    "name": "Klene Zakgeld zoet & zout",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338353733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559246",
+    "name": "Katja Trouwe rakkers",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Gemengde drop"
+    ],
+    "isFood": true
+  }
+]

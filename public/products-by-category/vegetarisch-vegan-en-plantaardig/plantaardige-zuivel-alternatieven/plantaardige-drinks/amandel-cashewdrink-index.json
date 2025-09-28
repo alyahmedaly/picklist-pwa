@@ -1,0 +1,223 @@
+[
+  {
+    "id": "538249",
+    "name": "Chocomel Plantaardig",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230393134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548467",
+    "name": "Rude Health Barista amandel",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637323136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450971",
+    "name": "Starbucks Almond based plantaardige ijskoffie",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631373831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236573",
+    "name": "Alpro Amandeldrink zonder suikers gekoeld",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330323539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570847",
+    "name": "Alpro Barista amandel",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630323333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236920",
+    "name": "AH Terra Plantaardige amandeldrink naturel",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209777",
+    "name": "Alpro Amandeldrink original",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837303234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565766",
+    "name": "AH Terra Plantaardige amandeldrink ongezoet",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484127",
+    "name": "AH Terra Plantaardige barista amandel",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238353232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415707",
+    "name": "AH Terra Plantaardige amandeldrink ongezoet",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232323737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220748",
+    "name": "Alpro Amandeldrink geroosterd zonder suikers",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233363038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519786",
+    "name": "Natrue Almond drink 0% sugars",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730373835?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580203",
+    "name": "MamasChai Authentic masala chai drink",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031363634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412173",
+    "name": "Zonnatura Amandeldrink ongezoet",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353439313338?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580745",
+    "name": "Alpro  Barista amandel 4-pack",
+    "price": 8.07,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038303838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580746",
+    "name": "Alpro Amandeldrink original 4-pack",
+    "price": 11.36,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038303839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564600",
+    "name": "Alpro Amandeldrink zonder suikers 4-pack",
+    "price": 11.74,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393735383136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Amandel, cashewdrink"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "categoryPath": "Huisdier > Katten",
+  "breadcrumbs": "Huisdier > Katten",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kattensnacks",
+      "displayName": "Kattensnacks",
+      "productCount": 50,
+      "filePath": "kattensnacks.jsonl",
+      "indexPath": "kattensnacks-index.json",
+      "statsPath": "kattensnacks-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 50,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Huisdier",
+        "path": "../index.json"
+      },
+      {
+        "name": "Katten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "huisdier"
+  }
+}

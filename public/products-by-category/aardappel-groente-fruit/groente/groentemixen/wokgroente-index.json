@@ -1,0 +1,145 @@
+[
+  {
+    "id": "525249",
+    "name": "AH Luxe wok Japans",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Wokgroente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185768",
+    "name": "AH Luxe wok Japans champignons peultjes",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Wokgroente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67663",
+    "name": "AH Wokgroente Thais",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933333034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Wokgroente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435435",
+    "name": "AH Wokgroente Thais grootverpakking",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Wokgroente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168093",
+    "name": "AH Wokgroente Thais kleinverpakking",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Wokgroente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476740",
+    "name": "AH Luxe wok Cambodjaans peulen paprika",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Wokgroente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "155587",
+    "name": "AH Luxe wok Chinees sugersnaps paksoi",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935363538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Wokgroente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378687",
+    "name": "AH Luxe wok Japans sojabonen wortel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Wokgroente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "41069",
+    "name": "AH Wokgroente Chinees",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933333035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Wokgroente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187844",
+    "name": "AH Wokgroente Chinees grootverpakking",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Wokgroente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67690",
+    "name": "AH Wokgroente Chinees kleinverpakking",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934373539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Wokgroente"
+    ],
+    "isFood": true
+  }
+]

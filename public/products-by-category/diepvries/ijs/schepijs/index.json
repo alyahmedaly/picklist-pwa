@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Diepvries > IJs > Schepijs",
+  "breadcrumbs": "Diepvries > IJs > Schepijs",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "sorbet-en-yoghurtijs",
+      "displayName": "Sorbet En Yoghurtijs",
+      "productCount": 8,
+      "filePath": "sorbet-en-yoghurtijs.jsonl",
+      "indexPath": "sorbet-en-yoghurtijs-index.json",
+      "statsPath": "sorbet-en-yoghurtijs-stats.json",
+      "averageProtein": 1.3,
+      "halalCompliance": 50
+    }
+  ],
+  "totalProducts": 8,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Ijs",
+        "path": "../index.json"
+      },
+      {
+        "name": "Schepijs",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "diepvries/ijs"
+  }
+}

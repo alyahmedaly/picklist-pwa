@@ -1,0 +1,74 @@
+[
+  {
+    "id": "561870",
+    "name": "Koopmans Aardappelzetmeel helder bindend",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531303133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Bindmiddel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195380",
+    "name": "Koopmans Allesbinder",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639303335?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Bindmiddel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498433",
+    "name": "Koopmans Maizena",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373631373339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Bindmiddel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227679",
+    "name": "Smaakt Arrowroot poeder",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933383639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Bindmiddel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507908",
+    "name": "Smaakt Vegan eivervanger",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032333535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Bindmiddel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233263",
+    "name": "Duryea Maizena",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035343239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Bindmiddel"
+    ],
+    "isFood": true
+  }
+]

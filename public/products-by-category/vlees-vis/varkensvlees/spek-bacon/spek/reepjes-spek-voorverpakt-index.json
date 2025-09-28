@@ -1,0 +1,128 @@
+[
+  {
+    "id": "401047",
+    "name": "AH Drooggezouten spekreepjes",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spek & bacon",
+      "Spek",
+      "Reepjes spek (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221032",
+    "name": "Meester & Zn. Gerookte spekreepjes",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313439323632?revLabel=8&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spek & bacon",
+      "Spek",
+      "Reepjes spek (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130258",
+    "name": "AH Uitgebakken spekreepjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spek & bacon",
+      "Spek",
+      "Reepjes spek (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130257",
+    "name": "AH Biologisch Spekreepjes gerookt",
+    "price": 3.74,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931333731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spek & bacon",
+      "Spek",
+      "Reepjes spek (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130250",
+    "name": "AH Spekreepjes gerookt",
+    "price": 3.44,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931333733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spek & bacon",
+      "Spek",
+      "Reepjes spek (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415677",
+    "name": "Dindesse Spekreepjes",
+    "price": 3.49,
+    "image": "NA",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spek & bacon",
+      "Spek",
+      "Reepjes spek (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567400",
+    "name": "AH Biologisch Gerookte spekreepjes 3-pack",
+    "price": 10.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236333330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spek & bacon",
+      "Spek",
+      "Reepjes spek (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566664",
+    "name": "AH Gerookte spekreepjes 2-pack",
+    "price": 6.88,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235343131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spek & bacon",
+      "Spek",
+      "Reepjes spek (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568573",
+    "name": "Meester & Zn. Gerookte spekreepjes 2-pack",
+    "price": 6.06,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spek & bacon",
+      "Spek",
+      "Reepjes spek (voorverpakt)"
+    ],
+    "isFood": true
+  }
+]

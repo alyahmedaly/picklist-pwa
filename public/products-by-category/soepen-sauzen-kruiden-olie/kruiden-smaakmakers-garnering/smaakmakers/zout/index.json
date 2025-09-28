@@ -1,0 +1,58 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "zout-naturel",
+      "displayName": "Zout Naturel",
+      "productCount": 20,
+      "hasSubdirectories": false,
+      "indexPath": "zout-naturel/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "zout-kruiden",
+      "displayName": "Zout Kruiden",
+      "productCount": 9,
+      "filePath": "zout-kruiden.jsonl",
+      "indexPath": "zout-kruiden-index.json",
+      "statsPath": "zout-kruiden-stats.json",
+      "averageProtein": 2.5,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 29,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 29,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Kruiden Smaakmakers Garnering",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Smaakmakers",
+        "path": "../index.json"
+      },
+      {
+        "name": "Zout",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "soepen-sauzen-kruiden-olie/kruiden-smaakmakers-garnering/smaakmakers"
+  }
+}

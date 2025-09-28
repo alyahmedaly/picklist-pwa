@@ -1,0 +1,62 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Snoepgroente",
+  "breadcrumbs": "Aardappel, groente, fruit > Snoepgroente",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "snoepgroente-mix",
+      "displayName": "Snoepgroente Mix",
+      "productCount": 8,
+      "filePath": "snoepgroente-mix.jsonl",
+      "indexPath": "snoepgroente-mix-index.json",
+      "statsPath": "snoepgroente-mix-stats.json",
+      "averageProtein": 0.9,
+      "halalCompliance": 100
+    },
+    {
+      "name": "snoeptomaatjes",
+      "displayName": "Snoeptomaatjes",
+      "productCount": 8,
+      "filePath": "snoeptomaatjes.jsonl",
+      "indexPath": "snoeptomaatjes-index.json",
+      "statsPath": "snoeptomaatjes-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 63
+    },
+    {
+      "name": "paprika-snoepgroente",
+      "displayName": "Paprika Snoepgroente",
+      "productCount": 6,
+      "filePath": "paprika-snoepgroente.jsonl",
+      "indexPath": "paprika-snoepgroente-index.json",
+      "statsPath": "paprika-snoepgroente-stats.json",
+      "averageProtein": 0.7,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 22,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 22,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Snoepgroente",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "aardappel-groente-fruit"
+  }
+}

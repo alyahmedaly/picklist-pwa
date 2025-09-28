@@ -1,0 +1,450 @@
+[
+  {
+    "id": "516636",
+    "name": "Oliehoorn Mayonaise",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631323237?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "534870",
+    "name": "Oliehoorn Zeedijk mayonaise",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551446",
+    "name": "Van Wijngaarden's Knoflook mayonaise",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383830323337?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535156",
+    "name": "Red Phoenix Sriracha mayo",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485640",
+    "name": "Van Wijngaarden's Zaanse kerrie mayonaise",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363736363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580692",
+    "name": "Mayoneur Sweet chili sesame mayo",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130383237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571931",
+    "name": "Remia Mayonaise naar Vlaams recept",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338363134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551448",
+    "name": "Van Wijngaarden's Piccalilly mayonaise",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393234343138?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485639",
+    "name": "Van Wijngaarden's Zaanse pittige mayonaise",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363736363435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535182",
+    "name": "Red Phoenix Geroosterde sesam mayo",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132343936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551445",
+    "name": "Van Wijngaarden's Mosterd mayonaise",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383830313439?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551447",
+    "name": "Van Wijngaarden's Pesto mayonaise",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393234343139?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576207",
+    "name": "Jean Bâton Mayonnaise spicy sriracha",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735343232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166519",
+    "name": "Remia Mayonaise",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636303535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "239736",
+    "name": "Hellmann's Real mayonaise",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303030303339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420245",
+    "name": "Hellmann's Real mayonaise",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535171",
+    "name": "Red Phoenix Pindasaus met ketjap",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131333333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485641",
+    "name": "Van Wijngaarden's Zaanse mayonaise",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363736363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519391",
+    "name": "Van Wijngaarden's Zaanse mayonaise",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636363830?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571942",
+    "name": "Hellmann's Vegan mayo",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436363339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553375",
+    "name": "La Morena Mayo met jalapeno",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336383433?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535138",
+    "name": "Red Phoenix Wasabi mayo",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494500",
+    "name": "Mayoneur Wasabi mayo",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638323531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485638",
+    "name": "Van Wijngaarden's Zaanse Metchup",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239303337363732?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475114",
+    "name": "Van Wijngaarden's Zaanse Veganaise",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363531373930?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199243",
+    "name": "Calvé Mayonaise",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331363237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567258",
+    "name": "Calvé Mayonaise",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519412",
+    "name": "Gouda's Glorie Mayo saus fris & romig",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434333038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571945",
+    "name": "Mayoneur Cucumber ginger mayo",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534393332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581519",
+    "name": "Callowfit Mayo style",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036393239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571941",
+    "name": "Hellmann's Chili saus",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336333037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516642",
+    "name": "Hellmann's Real mayonaise",
+    "price": 4.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934303833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Mayonaise (snacksauzen)"
+    ],
+    "isFood": true
+  }
+]

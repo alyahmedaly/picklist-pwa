@@ -1,0 +1,770 @@
+[
+  {
+    "id": "579859",
+    "name": "Tony's Chocolonely Letterreep melk spijs speculaas",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838393035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506701",
+    "name": "Delicata Chocoladeletter melk karamel zeezout",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579862",
+    "name": "Tony's Chocolonely Reep melkchocolade pepernoot",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838393032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461909",
+    "name": "Tony's Chocolonely Melkchocolade letterreep pepernoot S",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558008",
+    "name": "AH Duo chocoladeletter melk wit",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393735333436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446429",
+    "name": "AH Chocoladeletter melk",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383637333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505764",
+    "name": "Verkade Chocoladeletter melk",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373736393630?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505766",
+    "name": "Verkade Letter melk",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630363933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580554",
+    "name": "AH Duo chocoladeletter puur wit",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736323631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506040",
+    "name": "Verkade Hart van chocolade romige melk",
+    "price": 3.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839313434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461808",
+    "name": "AH Chocoladeletter melk-hazelnoot",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733323431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558442",
+    "name": "AH Vegan letter melk",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400356",
+    "name": "Tony's Chocolonely Melkchocolade letterreep A",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400410",
+    "name": "Tony's Chocolonely Melkchocolade letterreep B",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400411",
+    "name": "Tony's Chocolonely Melkchocolade letterreep C",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837363831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400413",
+    "name": "Tony's Chocolonely Melkchocolade letterreep D",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400414",
+    "name": "Tony's Chocolonely Melkchocolade letterreep E",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400415",
+    "name": "Tony's Chocolonely Melkchocolade letterreep F",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837363933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400416",
+    "name": "Tony's Chocolonely Melkchocolade letterreep G",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837363838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400417",
+    "name": "Tony's Chocolonely Melkchocolade letterreep H",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400418",
+    "name": "Tony's Chocolonely Melkchocolade letterreep I",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837363931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400419",
+    "name": "Tony's Chocolonely Melkchocolade letterreep J",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400420",
+    "name": "Tony's Chocolonely Melkchocolade letterreep K",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400421",
+    "name": "Tony's Chocolonely Melkchocolade letterreep L",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400423",
+    "name": "Tony's Chocolonely Melkchocolade letterreep N",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400427",
+    "name": "Tony's Chocolonely Melkchocolade letterreep Q",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400428",
+    "name": "Tony's Chocolonely Melkchocolade letterreep R",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400431",
+    "name": "Tony's Chocolonely Melkchocolade letterreep U",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400432",
+    "name": "Tony's Chocolonely Melkchocolade letterreep V",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400435",
+    "name": "Tony's Chocolonely Melkchocolade letterreep W",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400436",
+    "name": "Tony's Chocolonely Melkchocolade letterreep X",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400437",
+    "name": "Tony's Chocolonely Melkchocolade letterreep Y",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400439",
+    "name": "Tony's Chocolonely Melkchocolade letterreep Z",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400422",
+    "name": "Tony's Chocolonely Melkchocoladeletter reep M",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400425",
+    "name": "Tony's Chocolonely Melkchocoladeletter reep P",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400403",
+    "name": "Tony's Chocolonely Melkchocoladeletter reep S",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838393034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525071",
+    "name": "Delicata Chocoladeletter melk",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733323136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525303",
+    "name": "Delicata Chocoladeletter melk A",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525304",
+    "name": "Delicata Chocoladeletter melk B",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525305",
+    "name": "Delicata Chocoladeletter melk C",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525306",
+    "name": "Delicata Chocoladeletter melk D",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525307",
+    "name": "Delicata Chocoladeletter melk E",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525308",
+    "name": "Delicata Chocoladeletter melk F",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525309",
+    "name": "Delicata Chocoladeletter melk G",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525310",
+    "name": "Delicata Chocoladeletter melk H",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525311",
+    "name": "Delicata Chocoladeletter melk I",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525312",
+    "name": "Delicata Chocoladeletter melk J",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525313",
+    "name": "Delicata Chocoladeletter melk K",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525314",
+    "name": "Delicata Chocoladeletter melk L",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525315",
+    "name": "Delicata Chocoladeletter melk M",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525316",
+    "name": "Delicata Chocoladeletter melk N",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525403",
+    "name": "Delicata Chocoladeletter melk O",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525318",
+    "name": "Delicata Chocoladeletter melk P",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525404",
+    "name": "Delicata Chocoladeletter melk Q",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525319",
+    "name": "Delicata Chocoladeletter melk R",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525320",
+    "name": "Delicata Chocoladeletter melk S",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525322",
+    "name": "Delicata Chocoladeletter melk T",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525405",
+    "name": "Delicata Chocoladeletter melk U",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525406",
+    "name": "Delicata Chocoladeletter melk V",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525323",
+    "name": "Delicata Chocoladeletter melk W",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525407",
+    "name": "Delicata Chocoladeletter melk X",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525408",
+    "name": "Delicata Chocoladeletter melk Y",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525317",
+    "name": "Delicata Chocoladeletter melk Z",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525333",
+    "name": "Tony's Chocolonely Melk hazelnoot letterreep S",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838393031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters melk"
+    ],
+    "isFood": true
+  }
+]

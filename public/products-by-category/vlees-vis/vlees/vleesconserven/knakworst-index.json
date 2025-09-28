@@ -1,0 +1,405 @@
+[
+  {
+    "id": "171484",
+    "name": "AH Knakworst",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363336383638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437292",
+    "name": "AH Hotdogs naturel",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363337363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514220",
+    "name": "Limco Frankfurter knakworst",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383431393735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426471",
+    "name": "Egetürk Pinar sosis rundvleesworsten",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46714",
+    "name": "AH Duitse bockworst",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303234353235?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "33277",
+    "name": "AH Duitse knakworst",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303234353031?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "411075",
+    "name": "Zwan Hot dog worstjes bel",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373238343134?revLabel=45&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561398",
+    "name": "Wikinger Hotdogs",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "66067",
+    "name": "AH Kip knakworst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332383132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374146",
+    "name": "Unox Party knaks",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738333631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374144",
+    "name": "Unox Knaks",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738333434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195632",
+    "name": "Unox Bockworsten",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393936383435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "30134",
+    "name": "AH Runder knakworst",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "100843",
+    "name": "AH American hotdogs",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332383334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1539",
+    "name": "AH Varkens knakworst",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332383134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374145",
+    "name": "Unox Magere knaks",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738333433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374147",
+    "name": "Unox Magere party knaks",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835313532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "411074",
+    "name": "Zwan 12 Worstjes in tomatensaus bel",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839313234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "30133",
+    "name": "AH Frankfurters",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332383333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454705",
+    "name": "Unox Vegetarische knaks",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335383537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442052",
+    "name": "AH Magere knakworst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332383133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577751",
+    "name": "AH American hotdogs 4-pack",
+    "price": 12.2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578167",
+    "name": "AH Duitse knakworst 3-pack",
+    "price": 7.1,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578158",
+    "name": "AH Frankfurters 4-pack",
+    "price": 11.36,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577749",
+    "name": "AH Kip knakworst 6-pack",
+    "price": 11.34,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177102",
+    "name": "Unox Frankfurters",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123816",
+    "name": "Unox Hotdogs",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210999",
+    "name": "Unox Kip knaks",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839323737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519599",
+    "name": "Unox Kip party knaks",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393937303138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210998",
+    "name": "Unox Pittige knaks",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "411079",
+    "name": "Zwan Frank worstjes mosterd bel",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393930333131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vlees",
+      "Vleesconserven",
+      "Knakworst"
+    ],
+    "isFood": true
+  }
+]

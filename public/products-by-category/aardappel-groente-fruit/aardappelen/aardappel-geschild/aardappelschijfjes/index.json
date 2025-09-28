@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Aardappelen > Aardappel - geschild > Aardappelschijfjes",
+  "breadcrumbs": "Aardappel, groente, fruit > Aardappelen > Aardappel - geschild > Aardappelschijfjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "aardappelschijfjes-vers",
+      "displayName": "Aardappelschijfjes Vers",
+      "productCount": 6,
+      "filePath": "aardappelschijfjes-vers.jsonl",
+      "indexPath": "aardappelschijfjes-vers-index.json",
+      "statsPath": "aardappelschijfjes-vers-stats.json",
+      "averageProtein": 1.8,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Aardappelen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Aardappel Geschild",
+        "path": "../index.json"
+      },
+      {
+        "name": "Aardappelschijfjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/aardappelen/aardappel-geschild"
+  }
+}

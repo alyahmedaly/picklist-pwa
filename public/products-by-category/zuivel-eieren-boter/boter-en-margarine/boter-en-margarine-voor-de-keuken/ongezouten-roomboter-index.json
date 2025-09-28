@@ -1,0 +1,223 @@
+[
+  {
+    "id": "514805",
+    "name": "Blue Band Heerlijk romig",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "58082",
+    "name": "AH Biologisch Roomboter ongezouten",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536333037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1531",
+    "name": "AH Roomboter ongezouten",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193236",
+    "name": "AH Roomboter ongezouten",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "48307",
+    "name": "Campina Botergoud ongezouten grasboter",
+    "price": 4.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "60374",
+    "name": "Campina Botergoud ongezouten roomboter",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337373830?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465868",
+    "name": "Campina Botergoud ongezouten roomboter",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438373034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439543",
+    "name": "Campina Botergoud roomboter ongezouten voordeel",
+    "price": 6.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337373837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514748",
+    "name": "De Zaanse Hoeve Ongezouten roomboter",
+    "price": 4.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383338333734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429615",
+    "name": "De Zaanse Hoeve Roomboter ongezouten",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363237373934?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366065",
+    "name": "Echte Boter Pakje ongezouten",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231373639?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429627",
+    "name": "Kerrygold Pure Ierse boter ongezouten",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383335303434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429632",
+    "name": "Le Gall Gekarnde boter ongezouten",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393139323831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168125",
+    "name": "Pol van den Bogaert Brabantsche roomboter",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383237313130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567982",
+    "name": "AH Biologisch Roomboter ongezouten 3-pack",
+    "price": 9.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234333035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578701",
+    "name": "AH Roomboter ongezouten 3-pack",
+    "price": 9.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938343433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548039",
+    "name": "Lurpak Roomboter ongezouten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334393231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Ongezouten roomboter"
+    ],
+    "isFood": true
+  }
+]

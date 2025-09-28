@@ -1,0 +1,77 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "basismeel-bloem",
+      "displayName": "Basismeel Bloem",
+      "productCount": 29,
+      "hasSubdirectories": false,
+      "indexPath": "basismeel-bloem/index.json"
+    },
+    {
+      "name": "suiker",
+      "displayName": "Suiker",
+      "productCount": 15,
+      "hasSubdirectories": true,
+      "indexPath": "suiker/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "bindmiddel",
+      "displayName": "Bindmiddel",
+      "productCount": 6,
+      "filePath": "bindmiddel.jsonl",
+      "indexPath": "bindmiddel-index.json",
+      "statsPath": "bindmiddel-stats.json",
+      "averageProtein": 5.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "bakpoeder",
+      "displayName": "Bakpoeder",
+      "productCount": 5,
+      "filePath": "bakpoeder.jsonl",
+      "indexPath": "bakpoeder-index.json",
+      "statsPath": "bakpoeder-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "taartbodem",
+      "displayName": "Taartbodem",
+      "productCount": 5,
+      "filePath": "taartbodem.jsonl",
+      "indexPath": "taartbodem-index.json",
+      "statsPath": "taartbodem-stats.json",
+      "averageProtein": 6.6,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 60,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 60,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Bakbenodigdheden",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "pasta-rijst-en-wereldkeuken"
+  }
+}

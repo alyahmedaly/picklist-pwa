@@ -1,0 +1,62 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Fruit, noten, haver, mueslirepen",
+  "breadcrumbs": "Ontbijtgranen en beleg > Fruit, noten, haver, mueslirepen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "mueslirepen-havermoutrepen",
+      "displayName": "Mueslirepen Havermoutrepen",
+      "productCount": 52,
+      "filePath": "mueslirepen-havermoutrepen.jsonl",
+      "indexPath": "mueslirepen-havermoutrepen-index.json",
+      "statsPath": "mueslirepen-havermoutrepen-stats.json",
+      "averageProtein": 10.6,
+      "halalCompliance": 12
+    },
+    {
+      "name": "notenrepen",
+      "displayName": "Notenrepen",
+      "productCount": 28,
+      "filePath": "notenrepen.jsonl",
+      "indexPath": "notenrepen-index.json",
+      "statsPath": "notenrepen-stats.json",
+      "averageProtein": 12,
+      "halalCompliance": 50
+    },
+    {
+      "name": "fruitrepen",
+      "displayName": "Fruitrepen",
+      "productCount": 13,
+      "filePath": "fruitrepen.jsonl",
+      "indexPath": "fruitrepen-index.json",
+      "statsPath": "fruitrepen-stats.json",
+      "averageProtein": 6.1,
+      "halalCompliance": 85
+    }
+  ],
+  "totalProducts": 93,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 93,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Fruit Noten Haver Mueslirepen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "ontbijtgranen-en-beleg"
+  }
+}

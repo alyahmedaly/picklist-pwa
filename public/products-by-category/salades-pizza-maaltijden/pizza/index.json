@@ -1,0 +1,50 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Pizza",
+  "breadcrumbs": "Salades, pizza, maaltijden > Pizza",
+  "subdirectories": [
+    {
+      "name": "pizzabodems",
+      "displayName": "Pizzabodems",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "pizzabodems/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "verse-pizza",
+      "displayName": "Verse Pizza",
+      "productCount": 15,
+      "filePath": "verse-pizza.jsonl",
+      "indexPath": "verse-pizza-index.json",
+      "statsPath": "verse-pizza-stats.json",
+      "averageProtein": 9.8,
+      "halalCompliance": 67
+    }
+  ],
+  "totalProducts": 20,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 20,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pizza",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "salades-pizza-maaltijden"
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "502389",
+    "name": "AH Biologisch Snoepgroente tomaat",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433393539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoeptomaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465601",
+    "name": "AH Snoepgroente tomaat",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433393635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoeptomaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471641",
+    "name": "AH Snoepgroente tomaat",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836323437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoeptomaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "490796",
+    "name": "AH Snoepgroente tomaat",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoeptomaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491167",
+    "name": "AH Snoepgroente tomatenmix",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433393636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoeptomaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570961",
+    "name": "AH Snoepgroente kleurrijke mix",
+    "price": 5.27,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433373137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoeptomaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570960",
+    "name": "AH Snoepgroente multimix",
+    "price": 5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoeptomaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571012",
+    "name": "AH Snoepgroente special mix",
+    "price": 5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433373139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoeptomaatjes"
+    ],
+    "isFood": true
+  }
+]

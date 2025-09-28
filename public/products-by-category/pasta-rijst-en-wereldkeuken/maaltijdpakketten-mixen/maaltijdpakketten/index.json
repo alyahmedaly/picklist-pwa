@@ -1,0 +1,76 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Maaltijdpakketten, mixen > Maaltijdpakketten",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Maaltijdpakketten, mixen > Maaltijdpakketten",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "italiaans-maaltijdpakket",
+      "displayName": "Italiaans Maaltijdpakket",
+      "productCount": 18,
+      "filePath": "italiaans-maaltijdpakket.jsonl",
+      "indexPath": "italiaans-maaltijdpakket-index.json",
+      "statsPath": "italiaans-maaltijdpakket-stats.json",
+      "averageProtein": 6,
+      "halalCompliance": 94
+    },
+    {
+      "name": "indiaas-maaltijdpakket",
+      "displayName": "Indiaas Maaltijdpakket",
+      "productCount": 8,
+      "filePath": "indiaas-maaltijdpakket.jsonl",
+      "indexPath": "indiaas-maaltijdpakket-index.json",
+      "statsPath": "indiaas-maaltijdpakket-stats.json",
+      "averageProtein": 7.8,
+      "halalCompliance": 100
+    },
+    {
+      "name": "thais-maaltijdpakket",
+      "displayName": "Thais Maaltijdpakket",
+      "productCount": 8,
+      "filePath": "thais-maaltijdpakket.jsonl",
+      "indexPath": "thais-maaltijdpakket-index.json",
+      "statsPath": "thais-maaltijdpakket-stats.json",
+      "averageProtein": 4.5,
+      "halalCompliance": 100
+    },
+    {
+      "name": "chinees-maaltijdpakket",
+      "displayName": "Chinees Maaltijdpakket",
+      "productCount": 5,
+      "filePath": "chinees-maaltijdpakket.jsonl",
+      "indexPath": "chinees-maaltijdpakket-index.json",
+      "statsPath": "chinees-maaltijdpakket-stats.json",
+      "averageProtein": 9.9,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 39,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 39,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Maaltijdpakketten Mixen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Maaltijdpakketten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/maaltijdpakketten-mixen"
+  }
+}

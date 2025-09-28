@@ -1,0 +1,43 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "broodmix",
+      "displayName": "Broodmix",
+      "productCount": 10,
+      "hasSubdirectories": false,
+      "indexPath": "broodmix/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 10,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 10,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bakproducten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Broodmix Croissantdeeg",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bakkerij/bakproducten"
+  }
+}

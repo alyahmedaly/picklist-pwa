@@ -1,0 +1,43 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "snacks-baby-en-kind",
+      "displayName": "Snacks Baby En Kind",
+      "productCount": 42,
+      "hasSubdirectories": false,
+      "indexPath": "snacks-baby-en-kind/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 42,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 42,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Baby En Kind",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Babyvoeding",
+        "path": "../index.json"
+      },
+      {
+        "name": "Tussendoortjes Baby En Kind",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "baby-en-kind/babyvoeding"
+  }
+}

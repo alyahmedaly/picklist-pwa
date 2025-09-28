@@ -1,0 +1,110 @@
+[
+  {
+    "id": "539535",
+    "name": "AH Terra Plantaardige plakken fenegriek",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733393937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor beleg"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509552",
+    "name": "AH Terra Plantaardige plakken mild",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232313332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor beleg"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509555",
+    "name": "AH Terra Plantaardige plakken komijn",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor beleg"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539540",
+    "name": "Violife Original plakken",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831393433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor beleg"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569956",
+    "name": "Kips Plantaardige roomkaas tuinkruiden",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330383337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor beleg"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569957",
+    "name": "Kips Plantaardige roomkaas mango & gember",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330363235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor beleg"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560654",
+    "name": "Wildwestland Staphorster fromance cumin",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530313936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor beleg"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577359",
+    "name": "Violife Creamy block",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor beleg"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553897",
+    "name": "Philadelphia Plantaardig",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136323235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor beleg"
+    ],
+    "isFood": true
+  }
+]

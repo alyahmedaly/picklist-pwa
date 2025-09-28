@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Groentemixen > Soepgroente",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Groentemixen > Soepgroente",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "soepgroente-vers",
+      "displayName": "Soepgroente Vers",
+      "productCount": 5,
+      "filePath": "soepgroente-vers.jsonl",
+      "indexPath": "soepgroente-vers-index.json",
+      "statsPath": "soepgroente-vers-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groentemixen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Soepgroente",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/groentemixen"
+  }
+}

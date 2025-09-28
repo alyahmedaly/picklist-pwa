@@ -1,0 +1,128 @@
+[
+  {
+    "id": "580732",
+    "name": "Starbucks Dolce gusto pumpkin spice latte capsules",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130333433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577803",
+    "name": "Australian Dolce gusto lungo",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455911",
+    "name": "Caffé Gondoliere Dolce gusto lungo",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331373337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167791",
+    "name": "Nescafé Dolce Gusto Espresso intenso capsules",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839313932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196019",
+    "name": "Nescafé Dolce Gusto Grande capsules",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387547",
+    "name": "Nescafé Dolce Gusto Grande capsules",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132303431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476548",
+    "name": "Nescafé Dolce Gusto Lungo capsules",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132303430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476551",
+    "name": "Nescafé Dolce Gusto Lungo capsules",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831353035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (regular)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457818",
+    "name": "Starbucks Dolce gusto house blend capsules",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130333336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Dolce Gusto compatible",
+      "Dolce Gusto compatible (regular)"
+    ],
+    "isFood": true
+  }
+]

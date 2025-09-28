@@ -1,0 +1,86 @@
+[
+  {
+    "id": "543592",
+    "name": "AH Biologisch Farfalle",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Farfalle, schelpjes, orecchiette",
+      "Farfalle"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62025",
+    "name": "AH Farfalle",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034363234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Farfalle, schelpjes, orecchiette",
+      "Farfalle"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2064",
+    "name": "Grand' Italia Farfalle tradizionali",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739393131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Farfalle, schelpjes, orecchiette",
+      "Farfalle"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575914",
+    "name": "Bertolli Pasta farfalle no 157",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835393231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Farfalle, schelpjes, orecchiette",
+      "Farfalle"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210484",
+    "name": "De Cecco Farfalle nr93",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Farfalle, schelpjes, orecchiette",
+      "Farfalle"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437645",
+    "name": "AH Rode linzen penne",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232363233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Farfalle, schelpjes, orecchiette",
+      "Farfalle"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "60060",
+    "name": "AH Biologisch Creme fraiche",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936373032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Creme fraiche"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3868",
+    "name": "AH Creme fraiche 30% vet",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Creme fraiche"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46745",
+    "name": "AH Creme fraiche 30% vet",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936373030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Creme fraiche"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438102",
+    "name": "Arla Lactofree creme fraiche",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353933303839?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Creme fraiche"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195849",
+    "name": "De Zaanse Hoeve Creme fraiche",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Creme fraiche"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67781",
+    "name": "AH Creme fraiche light 15% vet",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Creme fraiche"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577719",
+    "name": "AH Biologisch Creme fraiche 3-pack",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Creme fraiche"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566827",
+    "name": "AH Creme Fraiche 3-pack",
+    "price": 4.13,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038333830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Creme fraiche"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568571",
+    "name": "AH Creme fraiche 30% vet 2-pack",
+    "price": 3.21,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Creme fraiche"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577722",
+    "name": "AH Creme fraiche 30% vet 3-pack",
+    "price": 3.91,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Creme fraiche"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577821",
+    "name": "AH Creme fraiche 30% vet 3-pack",
+    "price": 4.56,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931333537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Creme fraiche"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577726",
+    "name": "AH Creme fraiche light 15% vet 3-pack",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Creme fraiche"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566899",
+    "name": "AH Creme Fraiche Light 3-pack",
+    "price": 3.96,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Creme fraiche"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566755",
+    "name": "De Zaanse Hoeve Creme Fraiche 3-pack",
+    "price": 2.82,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038333139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Creme fraiche, slagroom, kookroom, kokosmelk",
+      "Creme fraiche"
+    ],
+    "isFood": true
+  }
+]

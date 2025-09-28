@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Kip > Kipfilet > Kipfilet - stuk",
+  "breadcrumbs": "Vlees, vis > Kip > Kipfilet > Kipfilet - stuk",
+  "totalProducts": 25,
+  "halalCompliance": 80,
+  "averageProtein": 20.7,
+  "averagePrice": 5.93,
+  "highProteinProducts": 23,
+  "dataQuality": {
+    "withNutrition": 23,
+    "withIngredients": 20,
+    "withHalalCheck": 20
+  }
+}

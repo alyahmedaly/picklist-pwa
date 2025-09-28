@@ -1,0 +1,386 @@
+[
+  {
+    "id": "467584",
+    "name": "AH Choco pinda's zoet",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "63564",
+    "name": "AH Chocolade pinda's melk",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236313833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217663",
+    "name": "AH Kruidige pinda, mais en pitten gezouten",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559271",
+    "name": "AH Pindarotsjes melk",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935323232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559282",
+    "name": "AH Chocolade pinda's melk extra groot",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535333434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196723",
+    "name": "Duyvis Oven baked peanuts honey salt",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383830?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "139742",
+    "name": "Duyvis Oven roasted pinda's original",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467585",
+    "name": "AH Dry roast pinda's gezouten",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731383935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517287",
+    "name": "AH Zoete suikerpinda's",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393039393635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467587",
+    "name": "AH Suikerpinda's",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165103",
+    "name": "Duyvis Pinda's teriyaki gemarineerd",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467586",
+    "name": "AH Katjang pedis gezouten",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731383936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "111105",
+    "name": "AH Pinda's in dop",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323337303135?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559251",
+    "name": "AH Gesuikerde pinda's",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533393331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559256",
+    "name": "AH Gezouten katjang pedis",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533393237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559281",
+    "name": "AH Gezouten katjang pedis extra groot",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535333733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140746",
+    "name": "AH Katjang pedis gezouten",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559253",
+    "name": "AH Gezouten pinda's",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "51727",
+    "name": "AH Pinda's extra groot gezouten",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213948",
+    "name": "AH Pinda's gezouten",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173422",
+    "name": "Duyvis Peanuts salted",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173423",
+    "name": "Duyvis Peanuts salted",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467589",
+    "name": "AH Pinda's gezouten",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467592",
+    "name": "AH Pinda's gezouten",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559254",
+    "name": "AH Ongezouten pinda's",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533393431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67606",
+    "name": "AH Pinda's extra groot ongezouten",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236323431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467588",
+    "name": "AH Pinda's ongezouten",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559289",
+    "name": "AH Cranberry & pinda mix",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436303933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "510463",
+    "name": "AH Doppinda's",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582889",
+    "name": "AH Pinda's ongezouten",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566125",
+    "name": "BioToday Doppinda's",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839313930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167135",
+    "name": "Duyvis Pinda's ongezouten",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Pinda's"
+    ],
+    "isFood": true
+  }
+]

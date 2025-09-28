@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Bakkerij > Brood > Wit brood",
+  "breadcrumbs": "Bakkerij > Brood > Wit brood",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "liefde-en-passiebrood-wit",
+      "displayName": "Liefde En Passiebrood Wit",
+      "productCount": 22,
+      "filePath": "liefde-en-passiebrood-wit.jsonl",
+      "indexPath": "liefde-en-passiebrood-wit-index.json",
+      "statsPath": "liefde-en-passiebrood-wit-stats.json",
+      "averageProtein": 8.5,
+      "halalCompliance": 86
+    },
+    {
+      "name": "bakkersbrood-wit",
+      "displayName": "Bakkersbrood Wit",
+      "productCount": 17,
+      "filePath": "bakkersbrood-wit.jsonl",
+      "indexPath": "bakkersbrood-wit-index.json",
+      "statsPath": "bakkersbrood-wit-stats.json",
+      "averageProtein": 9.3,
+      "halalCompliance": 76
+    },
+    {
+      "name": "dagvers-wit",
+      "displayName": "Dagvers Wit",
+      "productCount": 8,
+      "filePath": "dagvers-wit.jsonl",
+      "indexPath": "dagvers-wit-index.json",
+      "statsPath": "dagvers-wit-stats.json",
+      "averageProtein": 9,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 47,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 47,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Brood",
+        "path": "../index.json"
+      },
+      {
+        "name": "Wit Brood",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bakkerij/brood"
+  }
+}

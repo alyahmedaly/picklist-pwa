@@ -1,0 +1,386 @@
+[
+  {
+    "id": "571401",
+    "name": "Bonne Maman Pindapasta romig en zacht",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034383234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "65232",
+    "name": "AH Biologisch Smeuïge pindakaas met stukjes pinda",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191777",
+    "name": "AH Smeuïge pindakaas met honing",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383930343132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507907",
+    "name": "BioToday Peanutbutter crunchy bio",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832333631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571402",
+    "name": "Bonne Maman Pindapasta romig en zacht stukjes pinda",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537383932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198105",
+    "name": "Skippy Creamy peanut butter",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363732303632?revLabel=9&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563648",
+    "name": "AH Creamy pindakaas American style",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1589",
+    "name": "AH Smeuïge pindakaas",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383930343039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123432",
+    "name": "AH Smeuïge pindakaas",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037323136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563948",
+    "name": "Natù Pindakaas",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038383038?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198104",
+    "name": "Skippy Super chunk peanut butter",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363732313637?revLabel=43&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563649",
+    "name": "AH Crunchy pindakaas American style stukjes",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461685",
+    "name": "AH Pindakaas naturel",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839393133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461686",
+    "name": "AH Pindakaas met stukjes pinda",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1581",
+    "name": "AH Smeuïge pindakaas met stukjes pinda",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303830343730?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123431",
+    "name": "AH Smeuïge pindakaas stukjes noot",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303736393030?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429174",
+    "name": "Calvé Extra crunchy pindakaas",
+    "price": 6.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303030303336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220740",
+    "name": "Calvé Pindakaas met stukjes pinda",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838353430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "379003",
+    "name": "Calvé Pindakaas met stukjes pinda",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3579",
+    "name": "Calvé Pindakaas pot",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932303631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "220739",
+    "name": "Calvé Pindakaas pot",
+    "price": 4.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838383838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232946",
+    "name": "Calvé Pindakaas pot",
+    "price": 6.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838353434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "32847",
+    "name": "Calvé Pindakaas stukjes pinda",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468896",
+    "name": "Whole earth Crunchy peanut butter",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393238393939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450826",
+    "name": "Whole earth Dark roasted crunchy peanut butter",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393238393938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129311",
+    "name": "Calvé Creamy pindakaas",
+    "price": 6.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563653",
+    "name": "Flower Farm Pindakaas zonder palmolie",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830393131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "115535",
+    "name": "Flower Farm Pindakaas zonder palmolie met stukjes",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636333937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532223",
+    "name": "Whole earth Drizzler golden roasted peanut butter",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433363534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "150888",
+    "name": "Calvé Pindakaas light",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031313337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474398",
+    "name": "Calvé 100% Naturel pindakaas",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730313235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474399",
+    "name": "Calvé 100% stukjes pinda pindakaas",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733313031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Vegetarische pindakaas"
+    ],
+    "isFood": true
+  }
+]

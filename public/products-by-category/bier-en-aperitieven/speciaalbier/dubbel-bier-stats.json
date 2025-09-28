@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bier en aperitieven > Speciaalbier > Dubbel bier",
+  "breadcrumbs": "Bier en aperitieven > Speciaalbier > Dubbel bier",
+  "totalProducts": 26,
+  "halalCompliance": 100,
+  "averageProtein": 0.1,
+  "averagePrice": 4.55,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 7,
+    "withIngredients": 26,
+    "withHalalCheck": 26
+  }
+}

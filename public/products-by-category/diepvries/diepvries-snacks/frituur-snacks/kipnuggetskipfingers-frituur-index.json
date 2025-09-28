@@ -1,0 +1,93 @@
+[
+  {
+    "id": "189411",
+    "name": "Mora Mini's kipfingers",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353536323138?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Kipnuggets/kipfingers (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130035",
+    "name": "Mora Mini's kipnuggets",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353536303630?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Kipnuggets/kipfingers (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539780",
+    "name": "Duca Karaage crispy chicken bites",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839363439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Kipnuggets/kipfingers (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "113407",
+    "name": "AH Kipnuggets",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538333831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Kipnuggets/kipfingers (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539781",
+    "name": "Duca Kipnuggets de luxe",
+    "price": 3.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Kipnuggets/kipfingers (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367768",
+    "name": "AH Kipkrokant",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538333836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Kipnuggets/kipfingers (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539782",
+    "name": "Duca Chicken popcorn nuggets",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Frituur snacks",
+      "Kipnuggets/kipfingers (frituur)"
+    ],
+    "isFood": true
+  }
+]

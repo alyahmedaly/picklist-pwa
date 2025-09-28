@@ -1,0 +1,100 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Melk",
+  "breadcrumbs": "Zuivel, eieren, boter > Melk",
+  "subdirectories": [
+    {
+      "name": "houdbare-melk",
+      "displayName": "Houdbare Melk",
+      "productCount": 17,
+      "hasSubdirectories": false,
+      "indexPath": "houdbare-melk/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "halfvolle-melk",
+      "displayName": "Halfvolle Melk",
+      "productCount": 28,
+      "filePath": "halfvolle-melk.jsonl",
+      "indexPath": "halfvolle-melk-index.json",
+      "statsPath": "halfvolle-melk-stats.json",
+      "averageProtein": 2.3,
+      "halalCompliance": 54
+    },
+    {
+      "name": "volle-melk",
+      "displayName": "Volle Melk",
+      "productCount": 17,
+      "filePath": "volle-melk.jsonl",
+      "indexPath": "volle-melk-index.json",
+      "statsPath": "volle-melk-stats.json",
+      "averageProtein": 2.9,
+      "halalCompliance": 82
+    },
+    {
+      "name": "karnemelk",
+      "displayName": "Karnemelk",
+      "productCount": 12,
+      "filePath": "karnemelk.jsonl",
+      "indexPath": "karnemelk-index.json",
+      "statsPath": "karnemelk-stats.json",
+      "averageProtein": 3,
+      "halalCompliance": 83
+    },
+    {
+      "name": "lactosevrije-melk",
+      "displayName": "Lactosevrije Melk",
+      "productCount": 8,
+      "filePath": "lactosevrije-melk.jsonl",
+      "indexPath": "lactosevrije-melk-index.json",
+      "statsPath": "lactosevrije-melk-stats.json",
+      "averageProtein": 3.4,
+      "halalCompliance": 100
+    },
+    {
+      "name": "kefir",
+      "displayName": "Kefir",
+      "productCount": 6,
+      "filePath": "kefir.jsonl",
+      "indexPath": "kefir-index.json",
+      "statsPath": "kefir-stats.json",
+      "averageProtein": 3.4,
+      "halalCompliance": 100
+    },
+    {
+      "name": "magere-melk",
+      "displayName": "Magere Melk",
+      "productCount": 5,
+      "filePath": "magere-melk.jsonl",
+      "indexPath": "magere-melk-index.json",
+      "statsPath": "magere-melk-stats.json",
+      "averageProtein": 2.9,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 93,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 93,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../index.json"
+      },
+      {
+        "name": "Melk",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "zuivel-eieren-boter"
+  }
+}

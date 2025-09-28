@@ -1,0 +1,62 @@
+[
+  {
+    "id": "474069",
+    "name": "Lonka Soft nougat caramel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363839303139?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Nougat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474070",
+    "name": "Lonka Soft nougat pinda's & melkchocolade",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Nougat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474071",
+    "name": "Lonka Soft nougat pinda's & pure chocolade",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Nougat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563896",
+    "name": "Delicata Reep nougat pinda amandel",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Nougat"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474068",
+    "name": "Lonka Soft nougat pinda's & fruit",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393135383536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Nougat"
+    ],
+    "isFood": true
+  }
+]

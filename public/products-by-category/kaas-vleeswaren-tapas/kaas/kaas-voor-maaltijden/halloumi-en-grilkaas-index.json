@@ -1,0 +1,67 @@
+[
+  {
+    "id": "223416",
+    "name": "Dodoni Halloumi",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835373337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Halloumi en grilkaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494277",
+    "name": "Dodoni Halloumi burgers",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373339363635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Halloumi en grilkaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513442",
+    "name": "Dodoni Halloumi chili 43+",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533343333?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Halloumi en grilkaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558279",
+    "name": "Old Amsterdam Tasty grill original",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Halloumi en grilkaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575816",
+    "name": "AH Grillkaas voor grillen of bakken",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630383139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Halloumi en grilkaas"
+    ],
+    "isFood": true
+  }
+]

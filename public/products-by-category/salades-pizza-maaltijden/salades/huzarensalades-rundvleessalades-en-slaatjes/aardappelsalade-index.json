@@ -1,0 +1,67 @@
+[
+  {
+    "id": "893",
+    "name": "AH Aardappel salade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738343237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Aardappelsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "390016",
+    "name": "AH Aardappel salade",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383832393736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Aardappelsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "390009",
+    "name": "AH Aardappel vrije-uitloop ei",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933333535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Aardappelsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579359",
+    "name": "AH Aardappel salade 2-pack",
+    "price": 3.78,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032303030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Aardappelsalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579360",
+    "name": "AH Aardappel vrije-uitloop ei 2-pack",
+    "price": 5.11,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Aardappelsalade"
+    ],
+    "isFood": true
+  }
+]

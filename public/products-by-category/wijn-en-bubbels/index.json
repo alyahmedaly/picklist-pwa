@@ -1,0 +1,86 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "rode-wijn",
+      "displayName": "Rode Wijn",
+      "productCount": 215,
+      "hasSubdirectories": true,
+      "indexPath": "rode-wijn/index.json"
+    },
+    {
+      "name": "witte-wijn",
+      "displayName": "Witte Wijn",
+      "productCount": 206,
+      "hasSubdirectories": true,
+      "indexPath": "witte-wijn/index.json"
+    },
+    {
+      "name": "mixdranken-en-likorettes",
+      "displayName": "Mixdranken En Likorettes",
+      "productCount": 101,
+      "hasSubdirectories": true,
+      "indexPath": "mixdranken-en-likorettes/index.json"
+    },
+    {
+      "name": "ros",
+      "displayName": "Ros",
+      "productCount": 69,
+      "hasSubdirectories": false,
+      "indexPath": "ros/index.json"
+    },
+    {
+      "name": "bubbels-mousserende-wijn",
+      "displayName": "Bubbels Mousserende Wijn",
+      "productCount": 58,
+      "hasSubdirectories": true,
+      "indexPath": "bubbels-mousserende-wijn/index.json"
+    },
+    {
+      "name": "port-sherry-en-vermouth",
+      "displayName": "Port Sherry En Vermouth",
+      "productCount": 30,
+      "hasSubdirectories": true,
+      "indexPath": "port-sherry-en-vermouth/index.json"
+    },
+    {
+      "name": "alcoholvrije-wijn-bubbels",
+      "displayName": "Alcoholvrije Wijn Bubbels",
+      "productCount": 14,
+      "hasSubdirectories": false,
+      "indexPath": "alcoholvrije-wijn-bubbels/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "wijntaps",
+      "displayName": "Wijntaps",
+      "productCount": 21,
+      "filePath": "wijntaps.jsonl",
+      "indexPath": "wijntaps-index.json",
+      "statsPath": "wijntaps-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 714,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 714,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

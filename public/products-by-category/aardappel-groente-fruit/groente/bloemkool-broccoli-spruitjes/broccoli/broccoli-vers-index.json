@@ -1,0 +1,72 @@
+[
+  {
+    "id": "192851",
+    "name": "AH Bimi",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234363834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Bloemkool, broccoli, spruitjes",
+      "Broccoli",
+      "Broccoli (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466127",
+    "name": "AH Biologisch Broccoli",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353433343635?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Bloemkool, broccoli, spruitjes",
+      "Broccoli",
+      "Broccoli (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395954",
+    "name": "AH Broccoliroosjes",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383831353635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Bloemkool, broccoli, spruitjes",
+      "Broccoli",
+      "Broccoli (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "4177",
+    "name": "AH Broccoli",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303333353032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Bloemkool, broccoli, spruitjes",
+      "Broccoli",
+      "Broccoli (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210154",
+    "name": "AH Broccoli",
+    "price": 2.48,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303133303830?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Bloemkool, broccoli, spruitjes",
+      "Broccoli",
+      "Broccoli (vers)"
+    ],
+    "isFood": true
+  }
+]

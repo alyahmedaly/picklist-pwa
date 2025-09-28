@@ -1,0 +1,275 @@
+[
+  {
+    "id": "183171",
+    "name": "AH Pepercervelaat",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567260",
+    "name": "AH Excellent Salami Italiani alla cacciatora",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335363339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567275",
+    "name": "AH Excellent Salami met truffel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567272",
+    "name": "AH Excellent Salami met venkelzaad",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130303436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567266",
+    "name": "AH Excellent Salami pikant",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335363333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130793",
+    "name": "AH Ah cervelaat gvp",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543386",
+    "name": "AH Cervelaat",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570399",
+    "name": "AH Excellent Hongaarse salami",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239363239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572413",
+    "name": "AH Excellent Salami met venkel",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132221",
+    "name": "AH Goudsalami",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543385",
+    "name": "AH Salami",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132363038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560667",
+    "name": "AH Cervelaat",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738373031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570398",
+    "name": "AH Excellent Salami met zomertruffel",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239363233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454579",
+    "name": "AH Flinterdunne goudsalami",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132363132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400699",
+    "name": "AH Pizza salami",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560665",
+    "name": "AH Salami",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738363939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186634",
+    "name": "AH Wijncervelaat",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559023",
+    "name": "AH Cervelaat kleintje",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533323539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563344",
+    "name": "AH Nduja",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566663",
+    "name": "AH Cervelaat grootverpakking 3-pack",
+    "price": 8.52,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039343037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567368",
+    "name": "AH Salami 2-pack",
+    "price": 3.4,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130373635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Salami en cervelaat (voorverpakt)"
+    ],
+    "isFood": true
+  }
+]

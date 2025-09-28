@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Koffie, thee > Thee > Zwarte thee",
+  "breadcrumbs": "Koffie, thee > Thee > Zwarte thee",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "zwarte-thee-eenkops",
+      "displayName": "Zwarte Thee Eenkops",
+      "productCount": 35,
+      "filePath": "zwarte-thee-eenkops.jsonl",
+      "indexPath": "zwarte-thee-eenkops-index.json",
+      "statsPath": "zwarte-thee-eenkops-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "zwarte-thee-meerkops",
+      "displayName": "Zwarte Thee Meerkops",
+      "productCount": 7,
+      "filePath": "zwarte-thee-meerkops.jsonl",
+      "indexPath": "zwarte-thee-meerkops-index.json",
+      "statsPath": "zwarte-thee-meerkops-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 42,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 42,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Thee",
+        "path": "../index.json"
+      },
+      {
+        "name": "Zwarte Thee",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "koffie-thee/thee"
+  }
+}

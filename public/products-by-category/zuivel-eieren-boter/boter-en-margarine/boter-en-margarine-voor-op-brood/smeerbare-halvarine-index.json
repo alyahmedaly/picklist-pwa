@@ -1,0 +1,93 @@
+[
+  {
+    "id": "476342",
+    "name": "Campina Botergoud halfvolle roomboter",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393637313738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare halvarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532241",
+    "name": "Gouda's Glorie Zonnepond",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare halvarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532240",
+    "name": "Gouda's Glorie Halvarine",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393733343436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare halvarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67880",
+    "name": "Becel Proactiv original cholesterolverlagend",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare halvarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "206500",
+    "name": "Becel Proactiv original cholesterolverlagend",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034303832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare halvarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "552788",
+    "name": "Blue Band Halvarine palmolievrij",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334333639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare halvarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3826",
+    "name": "Blue Band Halvarine palmolievrij voordeelpak",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035313632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor op brood",
+      "Smeerbare halvarine"
+    ],
+    "isFood": true
+  }
+]

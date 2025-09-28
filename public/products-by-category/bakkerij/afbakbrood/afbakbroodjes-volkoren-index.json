@@ -1,0 +1,62 @@
+[
+  {
+    "id": "495863",
+    "name": "Schnitzer Panini grainy",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303139363038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495947",
+    "name": "Schnitzer Panini royal",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303139373631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478433",
+    "name": "AH Volkoren bollen",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735363637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458887",
+    "name": "AH Biologisch Volkoren broodjes met desem bereid",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383832393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523488",
+    "name": "AH Liefde & Passie Desem volkoren pompoen",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383837313134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes volkoren"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,98 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "fruitconserven",
+      "displayName": "Fruitconserven",
+      "productCount": 56,
+      "hasSubdirectories": true,
+      "indexPath": "fruitconserven/index.json"
+    },
+    {
+      "name": "gedroogd-fruit",
+      "displayName": "Gedroogd Fruit",
+      "productCount": 34,
+      "hasSubdirectories": true,
+      "indexPath": "gedroogd-fruit/index.json"
+    },
+    {
+      "name": "appels",
+      "displayName": "Appels",
+      "productCount": 30,
+      "hasSubdirectories": false,
+      "indexPath": "appels/index.json"
+    },
+    {
+      "name": "peren",
+      "displayName": "Peren",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "peren/index.json"
+    },
+    {
+      "name": "ananas-mango-kiwi",
+      "displayName": "Ananas Mango Kiwi",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "ananas-mango-kiwi/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "fruitsalade-mix",
+      "displayName": "Fruitsalade Mix",
+      "productCount": 17,
+      "filePath": "fruitsalade-mix.jsonl",
+      "indexPath": "fruitsalade-mix-index.json",
+      "statsPath": "fruitsalade-mix-stats.json",
+      "averageProtein": 0.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "bananen",
+      "displayName": "Bananen",
+      "productCount": 16,
+      "filePath": "bananen.jsonl",
+      "indexPath": "bananen-index.json",
+      "statsPath": "bananen-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 13
+    },
+    {
+      "name": "fruitboxen-en-pakketten",
+      "displayName": "Fruitboxen En Pakketten",
+      "productCount": 5,
+      "filePath": "fruitboxen-en-pakketten.jsonl",
+      "indexPath": "fruitboxen-en-pakketten-index.json",
+      "statsPath": "fruitboxen-en-pakketten-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 171,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 171,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Fruit",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "aardappel-groente-fruit"
+  }
+}

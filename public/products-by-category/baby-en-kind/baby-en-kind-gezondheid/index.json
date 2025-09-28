@@ -1,0 +1,50 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "kindervitamines",
+      "displayName": "Kindervitamines",
+      "productCount": 19,
+      "hasSubdirectories": false,
+      "indexPath": "kindervitamines/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "neusverkoudheid-baby-en-kind",
+      "displayName": "Neusverkoudheid Baby En Kind",
+      "productCount": 5,
+      "filePath": "neusverkoudheid-baby-en-kind.jsonl",
+      "indexPath": "neusverkoudheid-baby-en-kind-index.json",
+      "statsPath": "neusverkoudheid-baby-en-kind-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 24,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 24,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Baby En Kind",
+        "path": "../index.json"
+      },
+      {
+        "name": "Baby En Kind Gezondheid",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "baby-en-kind"
+  }
+}

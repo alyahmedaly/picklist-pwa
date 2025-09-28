@@ -1,0 +1,74 @@
+[
+  {
+    "id": "517477",
+    "name": "AH Roomboter gevulde koeken",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439363037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Gevulde koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517414",
+    "name": "AH Roomboter gevulde koeken mini",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Gevulde koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517311",
+    "name": "AH Roomboter kano's",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383437363436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Gevulde koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517350",
+    "name": "AH Roomboter vulkoeken met banketspijs",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438353931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Gevulde koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196294",
+    "name": "AH Appelkoeken",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632313839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Gevulde koeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "521031",
+    "name": "AH Amandelspijs",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383439343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Gevulde koeken"
+    ],
+    "isFood": true
+  }
+]

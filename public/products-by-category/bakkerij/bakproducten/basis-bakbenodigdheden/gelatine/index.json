@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Bakkerij > Bakproducten > Basis bakbenodigdheden > Gelatine",
+  "breadcrumbs": "Bakkerij > Bakproducten > Basis bakbenodigdheden > Gelatine",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "gelatine-poeder",
+      "displayName": "Gelatine Poeder",
+      "productCount": 5,
+      "filePath": "gelatine-poeder.jsonl",
+      "indexPath": "gelatine-poeder-index.json",
+      "statsPath": "gelatine-poeder-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Bakproducten",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Basis Bakbenodigdheden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Gelatine",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "bakkerij/bakproducten/basis-bakbenodigdheden"
+  }
+}

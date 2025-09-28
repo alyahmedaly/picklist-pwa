@@ -1,0 +1,182 @@
+[
+  {
+    "id": "571932",
+    "name": "Remia Mama Asia Korean BBQ",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431353135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493131",
+    "name": "Heinz Burger Sauce",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933343837?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492933",
+    "name": "Heinz Spicy burger sauce",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933343838?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567369",
+    "name": "Callowfit Smoky BBQ saus",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223437",
+    "name": "Remia Sweet dalton smokey bbq honey",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532303436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194768",
+    "name": "Yildriz Amerikaanse barbecue saus",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935333233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223436",
+    "name": "Remia Black Jack smokey bbq",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532303435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170515",
+    "name": "Calvé Schaschlik saus",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932303335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429267",
+    "name": "Remia Barbecue tafelsaus",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239323534383433?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580694",
+    "name": "Verstegen Smokey BBQ saus zonder toegevoegd suiker",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531373334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494428",
+    "name": "Remia Zero Jack smokey BBQ",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532303332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558531",
+    "name": "AH Smokey bbq saus zero",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433333837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429242",
+    "name": "Calvé BBQ saus",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194153",
+    "name": "Calvé Honey BBQ saus",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532343533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475807",
+    "name": "Sweet Baby Ray's Original barbecuesaus",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530343839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "BBQ sauzen"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,85 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "bonen-peulvruchten-conserven",
+      "displayName": "Bonen Peulvruchten Conserven",
+      "productCount": 64,
+      "hasSubdirectories": true,
+      "indexPath": "bonen-peulvruchten-conserven/index.json"
+    },
+    {
+      "name": "augurken-uitjes",
+      "displayName": "Augurken Uitjes",
+      "productCount": 35,
+      "hasSubdirectories": false,
+      "indexPath": "augurken-uitjes/index.json"
+    },
+    {
+      "name": "groentemix-conserven",
+      "displayName": "Groentemix Conserven",
+      "productCount": 21,
+      "hasSubdirectories": false,
+      "indexPath": "groentemix-conserven/index.json"
+    },
+    {
+      "name": "tomaten-paprika-pepers-conserven",
+      "displayName": "Tomaten Paprika Pepers Conserven",
+      "productCount": 9,
+      "hasSubdirectories": false,
+      "indexPath": "tomaten-paprika-pepers-conserven/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "turkse-groente-conserven",
+      "displayName": "Turkse Groente Conserven",
+      "productCount": 11,
+      "filePath": "turkse-groente-conserven.jsonl",
+      "indexPath": "turkse-groente-conserven-index.json",
+      "statsPath": "turkse-groente-conserven-stats.json",
+      "averageProtein": 2.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "kappertjes",
+      "displayName": "Kappertjes",
+      "productCount": 5,
+      "filePath": "kappertjes.jsonl",
+      "indexPath": "kappertjes-index.json",
+      "statsPath": "kappertjes-stats.json",
+      "averageProtein": 2.4,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 145,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 145,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../index.json"
+      },
+      {
+        "name": "Groenteconserven",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/groente"
+  }
+}

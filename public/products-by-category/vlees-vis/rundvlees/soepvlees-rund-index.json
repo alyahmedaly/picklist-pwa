@@ -1,0 +1,74 @@
+[
+  {
+    "id": "238946",
+    "name": "AH Rundersoepballetjes",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Soepvlees (rund)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166839",
+    "name": "AH Mergpijp",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Soepvlees (rund)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "40707",
+    "name": "AH Soeppakket",
+    "price": 6.28,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Soepvlees (rund)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238950",
+    "name": "AH Rundersoepvlees",
+    "price": 5.41,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Soepvlees (rund)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561327",
+    "name": "AH Soepvlees aan een stuk",
+    "price": 5.81,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034323232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Soepvlees (rund)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3929",
+    "name": "AH Schenkel met been",
+    "price": 3.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Soepvlees (rund)"
+    ],
+    "isFood": true
+  }
+]

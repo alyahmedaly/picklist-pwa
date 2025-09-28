@@ -1,0 +1,80 @@
+[
+  {
+    "id": "161652",
+    "name": "Lotus Biscoff Speculoos pasta creamy",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035353337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Speculoospasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195783",
+    "name": "Lotus Biscoff Speculoos pasta creamy",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035353736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Speculoospasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365760",
+    "name": "Lotus Biscoff Speculoos pasta crunchy",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131313339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Speculoospasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "371130",
+    "name": "Lotus Biscoff Speculoos pasta crunchy",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035353438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Speculoospasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548234",
+    "name": "AH Speculoos crunchy pasta",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Speculoospasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448346",
+    "name": "AH Speculoospasta",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Speculoospasta"
+    ],
+    "isFood": true
+  }
+]

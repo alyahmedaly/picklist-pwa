@@ -1,0 +1,145 @@
+[
+  {
+    "id": "511753",
+    "name": "AH Kipblokjes",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - blokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531982",
+    "name": "AH Scharrel kipgyros bel",
+    "price": 6,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - blokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531845",
+    "name": "AH Scharrel kipfiletblokjes saté",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - blokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531850",
+    "name": "AH Scharrel kipfiletblokjes Thais",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - blokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451141",
+    "name": "AH Scharrel kipfiletblokjes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - blokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "219828",
+    "name": "AH Biologisch Kipfiletblokjes",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - blokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531827",
+    "name": "AH Scharrel kipfilet roerbakstukjes",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - blokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531828",
+    "name": "AH Scharrel kipfilet roerbakstukjes",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - blokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531835",
+    "name": "AH Scharrel kipfiletblokjes",
+    "price": 7.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - blokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533080",
+    "name": "AH Scharrel kipfiletblokjes",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - blokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531829",
+    "name": "AH Scharrel kipfiletblokjes van de haas",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - blokjes"
+    ],
+    "isFood": true
+  }
+]

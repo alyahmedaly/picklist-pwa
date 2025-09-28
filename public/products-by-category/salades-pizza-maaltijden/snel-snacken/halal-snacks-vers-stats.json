@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Snel snacken > Halal snacks (vers)",
+  "breadcrumbs": "Salades, pizza, maaltijden > Snel snacken > Halal snacks (vers)",
+  "totalProducts": 11,
+  "halalCompliance": 64,
+  "averageProtein": 8.4,
+  "averagePrice": 3.67,
+  "highProteinProducts": 2,
+  "dataQuality": {
+    "withNutrition": 9,
+    "withIngredients": 11,
+    "withHalalCheck": 11
+  }
+}

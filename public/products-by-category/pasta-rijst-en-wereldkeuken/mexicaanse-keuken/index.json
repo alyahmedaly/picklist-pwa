@@ -1,0 +1,90 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Mexicaanse keuken",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Mexicaanse keuken",
+  "subdirectories": [
+    {
+      "name": "dipsaus-in-pot",
+      "displayName": "Dipsaus In Pot",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "dipsaus-in-pot/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "tortilla-wrap-burrito",
+      "displayName": "Tortilla Wrap Burrito",
+      "productCount": 28,
+      "filePath": "tortilla-wrap-burrito.jsonl",
+      "indexPath": "tortilla-wrap-burrito-index.json",
+      "statsPath": "tortilla-wrap-burrito-stats.json",
+      "averageProtein": 8.5,
+      "halalCompliance": 14
+    },
+    {
+      "name": "mexicaanse-kruidenmix",
+      "displayName": "Mexicaanse Kruidenmix",
+      "productCount": 18,
+      "filePath": "mexicaanse-kruidenmix.jsonl",
+      "indexPath": "mexicaanse-kruidenmix-index.json",
+      "statsPath": "mexicaanse-kruidenmix-stats.json",
+      "averageProtein": 9.4,
+      "halalCompliance": 100
+    },
+    {
+      "name": "mexicaanse-sauzen",
+      "displayName": "Mexicaanse Sauzen",
+      "productCount": 14,
+      "filePath": "mexicaanse-sauzen.jsonl",
+      "indexPath": "mexicaanse-sauzen-index.json",
+      "statsPath": "mexicaanse-sauzen-stats.json",
+      "averageProtein": 1.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "groente-wraps",
+      "displayName": "Groente Wraps",
+      "productCount": 8,
+      "filePath": "groente-wraps.jsonl",
+      "indexPath": "groente-wraps-index.json",
+      "statsPath": "groente-wraps-stats.json",
+      "averageProtein": 7.9,
+      "halalCompliance": 38
+    },
+    {
+      "name": "mexicaans-maaltijdpakket",
+      "displayName": "Mexicaans Maaltijdpakket",
+      "productCount": 8,
+      "filePath": "mexicaans-maaltijdpakket.jsonl",
+      "indexPath": "mexicaans-maaltijdpakket-index.json",
+      "statsPath": "mexicaans-maaltijdpakket-stats.json",
+      "averageProtein": 6.8,
+      "halalCompliance": 50
+    }
+  ],
+  "totalProducts": 83,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 83,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Mexicaanse Keuken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "pasta-rijst-en-wereldkeuken"
+  }
+}

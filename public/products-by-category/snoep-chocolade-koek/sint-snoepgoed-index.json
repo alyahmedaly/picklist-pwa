@@ -1,0 +1,398 @@
+[
+  {
+    "id": "558173",
+    "name": "AH Game controller chocolade",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "182814",
+    "name": "AH Chocoladefiguurtje wit paard/ paddestoel",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035393131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577889",
+    "name": "AH Chocoladefiguurtjes eekhoorn/stoomboot",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035393134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579873",
+    "name": "Chocolade nagellak",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033313238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525291",
+    "name": "AH Chocoladefiguurtje cadeautjes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461709",
+    "name": "AH Chocoladefiguurtjes",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035393138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187609",
+    "name": "AH Chocoladefiguurtjes egel/Sinterklaas",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577886",
+    "name": "AH Confetti Speculoosjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838373432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505549",
+    "name": "AH Silo musket lettertjes",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735363833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482633",
+    "name": "Hamlet Sint figuur",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363630323733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532258",
+    "name": "Hamlet Sint figuur",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373736313137?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461605",
+    "name": "Biljetten",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353734333330?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461606",
+    "name": "Gouden chocolade munten",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353734333331?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203254",
+    "name": "Kinder Schokobons melk",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434353238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482634",
+    "name": "Ravelli Lolly sint figuur",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638373032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579861",
+    "name": "Tony's Chocolonely Aftelkalender",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838393934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579864",
+    "name": "Verkade Schoenreepje wit met speculaas",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835323834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558161",
+    "name": "Kinder Chocolade winter",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530393639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558162",
+    "name": "Kinder Figuur winter",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531313830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491861",
+    "name": "Kinder Figuurtjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136333033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471629",
+    "name": "Kinder Schokobons wit",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535393439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558168",
+    "name": "Kinder Surprise hart",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932313036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582527",
+    "name": "Lindt Tree adventkalender",
+    "price": 15.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538383034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579865",
+    "name": "Verkade Schoenreepje melk",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835323839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506293",
+    "name": "AH Aftelkalender bel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461604",
+    "name": "Grote munten",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353734333239?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62990",
+    "name": "Kinder Surprise",
+    "price": 5.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579863",
+    "name": "Verkade Hart van chocolade melk speculaas",
+    "price": 3.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738393039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580509",
+    "name": "AH Winterhamster",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400424",
+    "name": "Tony's Chocolonely Melkchocolade letterreep O",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400429",
+    "name": "Tony's Chocolonely Melkchocolade letterreep T",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461817",
+    "name": "AH Kikkers & muizen",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936373231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525289",
+    "name": "AH Mini chocolade letters",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738313539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505868",
+    "name": "AH Sint schuimpjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738313338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124199",
+    "name": "AH Taai taai",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738313038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579860",
+    "name": "AH Schoenpoen",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Sint snoepgoed"
+    ],
+    "isFood": true
+  }
+]

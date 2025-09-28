@@ -1,0 +1,119 @@
+[
+  {
+    "id": "170612",
+    "name": "AH Bladerdeeg hapjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536333036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Borrelmix (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383542",
+    "name": "Kwekkeboom Borrelmix hapjes",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737333737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Borrelmix (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459524",
+    "name": "Mora Oven & airfryer hapjes mix",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535303139?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Borrelmix (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383539",
+    "name": "Kwekkeboom Oven en airfryer bamihapjes",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Borrelmix (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420338",
+    "name": "AH Oven partymix",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738343935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Borrelmix (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486321",
+    "name": "Mora Vegetarische mini mix",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363931303939?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Borrelmix (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569081",
+    "name": "AH Oven & airfryer kipbites mini",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236303638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Borrelmix (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576374",
+    "name": "AH Hapjes pakket",
+    "price": 9.97,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Borrelmix (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576398",
+    "name": "AH Ovensnacks pakket",
+    "price": 9.47,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Borrelmix (oven)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "579858",
+    "name": "Dr. Oetker Ristorante piadina diavola",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934343638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizzabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159592",
+    "name": "Dr. Oetker Bistro baguette hawaii",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535323039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizzabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "146489",
+    "name": "Dr. Oetker Bistro baguette salami",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535323130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizzabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "732",
+    "name": "AH Pizzabroodjes salami",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363336303733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizzabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579857",
+    "name": "Dr. Oetker Ristorante piadina quattro formaggi",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934343639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizzabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159591",
+    "name": "Dr. Oetker Bistro baguette champignons",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383630393832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizzabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226358",
+    "name": "Dr. Oetker Bistro baguette bolognaise",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535323132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizzabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579855",
+    "name": "Dr. Oetker La mia familia 4-cheese",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231373431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizzabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579856",
+    "name": "Dr. Oetker La mia familia creamy tomato pepper",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231373531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizzabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445251",
+    "name": "AH Pizzabroodjes vegetarisch",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363430333133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries pizza",
+      "Pizzabroodjes"
+    ],
+    "isFood": true
+  }
+]

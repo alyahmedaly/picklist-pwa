@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Ui, prei en knoflook > Ui",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Ui, prei en knoflook > Ui",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "ui-vers",
+      "displayName": "Ui Vers",
+      "productCount": 11,
+      "filePath": "ui-vers.jsonl",
+      "indexPath": "ui-vers-index.json",
+      "statsPath": "ui-vers-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 27
+    },
+    {
+      "name": "voorgesneden-uien",
+      "displayName": "Voorgesneden Uien",
+      "productCount": 7,
+      "filePath": "voorgesneden-uien.jsonl",
+      "indexPath": "voorgesneden-uien-index.json",
+      "statsPath": "voorgesneden-uien-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 86
+    }
+  ],
+  "totalProducts": 18,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 18,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Ui Prei En Knoflook",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ui",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/ui-prei-en-knoflook"
+  }
+}

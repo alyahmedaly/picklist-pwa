@@ -1,0 +1,110 @@
+[
+  {
+    "id": "229284",
+    "name": "Peijnenburg Ontbijtkoek gember ongesneden",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638343535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - ongesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217847",
+    "name": "AH Ontbijtkoek naturel ongesneden",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - ongesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415057",
+    "name": "Bakkerskoek Oude wijven",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393637313639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - ongesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229285",
+    "name": "Peijnenburg Ontbijtkoek rozijnen ongesneden",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638343638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - ongesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563575",
+    "name": "Peijnenburg Ontbijkoek noten ongesneden",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638343536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - ongesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563723",
+    "name": "Peijnenburg Onbijtkoek naturel ongesneden",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - ongesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229282",
+    "name": "Peijnenburg Ontbijtkoek parelkandij ongesneden",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638343539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - ongesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3761",
+    "name": "Wieger Ketellapper Ware wieger kruidkoek",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136333531?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - ongesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563573",
+    "name": "Peijnenburg Ontbijtkoek honing karamel ongesneden",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638343630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - ongesneden"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Kant- en-klaar maaltijden > Italiaanse maaltijden",
+  "breadcrumbs": "Salades, pizza, maaltijden > Kant- en-klaar maaltijden > Italiaanse maaltijden",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "lasagne-maaltijden",
+      "displayName": "Lasagne Maaltijden",
+      "productCount": 5,
+      "filePath": "lasagne-maaltijden.jsonl",
+      "indexPath": "lasagne-maaltijden-index.json",
+      "statsPath": "lasagne-maaltijden-stats.json",
+      "averageProtein": 5.8,
+      "halalCompliance": 60
+    },
+    {
+      "name": "traditionele-italiaanse-gerechten",
+      "displayName": "Traditionele Italiaanse Gerechten",
+      "productCount": 5,
+      "filePath": "traditionele-italiaanse-gerechten.jsonl",
+      "indexPath": "traditionele-italiaanse-gerechten-index.json",
+      "statsPath": "traditionele-italiaanse-gerechten-stats.json",
+      "averageProtein": 5.3,
+      "halalCompliance": 40
+    }
+  ],
+  "totalProducts": 10,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 10,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kant Enklaar Maaltijden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Italiaanse Maaltijden",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "salades-pizza-maaltijden/kant-enklaar-maaltijden"
+  }
+}

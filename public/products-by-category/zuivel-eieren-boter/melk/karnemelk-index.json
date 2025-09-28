@@ -1,0 +1,146 @@
+[
+  {
+    "id": "469257",
+    "name": "Campina Langlekker karnemelk",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230363130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Karnemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1503",
+    "name": "De Zaanse Hoeve Karnemelk",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536333038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Karnemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "61008",
+    "name": "AH Biologisch Karnemelk",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Karnemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389034",
+    "name": "AH Biologisch Karnemelk",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Karnemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "96644",
+    "name": "AH Karnemelk",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Karnemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210993",
+    "name": "AH Karnemelk",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Karnemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440454",
+    "name": "AH Karnemelk",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Karnemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168926",
+    "name": "Arla Biologisch karnemelk",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393331383931?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Karnemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "208279",
+    "name": "Campina Karnemelk",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337373436?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Karnemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448511",
+    "name": "De Zaanse Hoeve Karnemelk",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Karnemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233759",
+    "name": "Den Eelder Boeren karnemelk",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393739373038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Karnemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578331",
+    "name": "Campina lang houdbare karnemelk 4-pack",
+    "price": 7.52,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Karnemelk"
+    ],
+    "isFood": true
+  }
+]

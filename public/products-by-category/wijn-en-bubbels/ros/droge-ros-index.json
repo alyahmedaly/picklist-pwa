@@ -1,0 +1,542 @@
+[
+  {
+    "id": "401918",
+    "name": "AH Fris & droge Franse huiswijn rosé",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038393831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222340",
+    "name": "AH Pinotage rosé",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393234323731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551205",
+    "name": "Ulisse Rosé",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186147",
+    "name": "AH Biologisch Rosé",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930393737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574294",
+    "name": "So fab Rosé",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570708",
+    "name": "BE Bio Grenache rosé",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479064",
+    "name": "Cuvée Tapie Rosé",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230393432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121507",
+    "name": "Los Molinos Rosé",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830363737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517849",
+    "name": "19 Crimes Revolutionary rosé",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570744",
+    "name": "Adobe Rosé reserva organic",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830323134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99160",
+    "name": "Château La Gordonne Rosé bio",
+    "price": 9.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570710",
+    "name": "Hey you Rosé",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570707",
+    "name": "LYV Rosé",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365286",
+    "name": "Mesta Rosé organic wine",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570706",
+    "name": "Wijntje Rosé bio",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733333937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481778",
+    "name": "Canaletto Rosé",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363731323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517845",
+    "name": "Claire Patelin Rosé",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234363731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551070",
+    "name": "Cono Sur Bicicleta rosé",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636383931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570703",
+    "name": "Coral de Peñascal Ethical rosé organic wine",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736323131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518465",
+    "name": "Côtes de Provence Beach rose",
+    "price": 9.98,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517847",
+    "name": "Côtes de Provence Rosé",
+    "price": 7.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538303631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517843",
+    "name": "Cuvée Benedikt Cotes du rhone",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535343435?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "153914",
+    "name": "Domaine de Saint Ser Rosé biodynamic wine",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938333231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159218",
+    "name": "Fat bastard Rosé",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313431343835?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516208",
+    "name": "Gr Vin Stellenbosch Rosé",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500436",
+    "name": "Grain d'Azur Provence rosé",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383437393732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458972",
+    "name": "La Cuvée Jolie Terre de providence rosé",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "131073",
+    "name": "La Palma Rosé",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130383537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "58533",
+    "name": "La Tulipe Rosé",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "411745",
+    "name": "Le bijou De sophie valrose coteaux béziers rosé",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393134373532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496147",
+    "name": "Le bijou Le chic pays d'oc rosé wijntap",
+    "price": 10.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "128671",
+    "name": "Lindeman's Bin 35 rosé",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170801",
+    "name": "Lindeman's South africa rosé",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303439333730?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99153",
+    "name": "Listel Rosé",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494463",
+    "name": "Mastri Vernacoli Pinot grigio rosato",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373736353739?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509365",
+    "name": "Recit de Provence Rosé",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383336343737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228280",
+    "name": "Saint Louis De provence rosé",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121086",
+    "name": "Saint roche Rosé organic wine",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313433303037?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396207",
+    "name": "Settesoli Pinot grigio blush rosé",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736323039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "192811",
+    "name": "Slurp! Rosé",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830343137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160504",
+    "name": "Stormhoek Cape rosé",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383332363635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99197",
+    "name": "Undurraga Rosé",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365523",
+    "name": "Viñas del Vero Luces rosado",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545238303135343036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121646",
+    "name": "Welmoed Rosé",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127146",
+    "name": "Wild Pig Syrah rosé",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033353735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rosé",
+      "Droge rosé"
+    ],
+    "isFood": true
+  }
+]

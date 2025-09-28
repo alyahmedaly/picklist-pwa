@@ -1,0 +1,80 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Frisdrank > Cola > Cola flessen",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Frisdrank > Cola > Cola flessen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "cola-regular-flessen",
+      "displayName": "Cola Regular Flessen",
+      "productCount": 15,
+      "filePath": "cola-regular-flessen.jsonl",
+      "indexPath": "cola-regular-flessen-index.json",
+      "statsPath": "cola-regular-flessen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 80
+    },
+    {
+      "name": "cola-smaakvarianten-flessen",
+      "displayName": "Cola Smaakvarianten Flessen",
+      "productCount": 12,
+      "filePath": "cola-smaakvarianten-flessen.jsonl",
+      "indexPath": "cola-smaakvarianten-flessen-index.json",
+      "statsPath": "cola-smaakvarianten-flessen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "cola-light-suikervrije-flessen",
+      "displayName": "Cola Light Suikervrije Flessen",
+      "productCount": 10,
+      "filePath": "cola-light-suikervrije-flessen.jsonl",
+      "indexPath": "cola-light-suikervrije-flessen-index.json",
+      "statsPath": "cola-light-suikervrije-flessen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 70
+    },
+    {
+      "name": "cola-cafenevrij-flessen",
+      "displayName": "Cola Cafenevrij Flessen",
+      "productCount": 7,
+      "filePath": "cola-cafenevrij-flessen.jsonl",
+      "indexPath": "cola-cafenevrij-flessen-index.json",
+      "statsPath": "cola-cafenevrij-flessen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 86
+    }
+  ],
+  "totalProducts": 44,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 44,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Frisdrank",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Cola",
+        "path": "../index.json"
+      },
+      {
+        "name": "Cola Flessen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "frisdrank-sappen-siropen-water/frisdrank/cola"
+  }
+}

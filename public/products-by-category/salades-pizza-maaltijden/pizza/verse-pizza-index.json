@@ -1,0 +1,182 @@
+[
+  {
+    "id": "487010",
+    "name": "AH Verse pizza salami piccante",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435155",
+    "name": "AH Pizza mozzarella pesto",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434353038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487006",
+    "name": "AH Verse pizza bianca",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531333432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576034",
+    "name": "AH Verse pizza bianca online only",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576032",
+    "name": "AH Verse pizza mozzarella pesto online only",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231214",
+    "name": "AH Pizza shoarma",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132373139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508283",
+    "name": "AH Verse pizza cheese onion",
+    "price": 6.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475855",
+    "name": "AH Verse pizza meatlovers",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434343839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442179",
+    "name": "AH Verse pizza tonno",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434343836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "192738",
+    "name": "AH Pizza prosciutto",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434343935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576031",
+    "name": "AH Verse pizza salami online only",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442589",
+    "name": "AH Verse pizza salami pesto",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434353133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576033",
+    "name": "AH Verse pizza margherita online only",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487009",
+    "name": "AH Verse pizza BBQ chicken",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434353034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557057",
+    "name": "AH Verse pizza bolognese",
+    "price": 6.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338343438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pizza",
+      "Verse Pizza"
+    ],
+    "isFood": true
+  }
+]

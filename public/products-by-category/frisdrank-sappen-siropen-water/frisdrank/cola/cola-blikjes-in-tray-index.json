@@ -1,0 +1,132 @@
+[
+  {
+    "id": "516936",
+    "name": "Coca-Cola Original taste tray",
+    "price": 20.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336303831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola (blikjes in tray)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "73179",
+    "name": "Pepsi Cola 24-pack",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola (blikjes in tray)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567963",
+    "name": "Coca-Cola Regular 2-tray pakket",
+    "price": 38.74,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola (blikjes in tray)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576063",
+    "name": "Coca-Cola Regular 3-tray pakket",
+    "price": 55.05,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836323134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola (blikjes in tray)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576060",
+    "name": "Coca-Cola Zero Sugar 2-tray pakket",
+    "price": 38.74,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735363039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola (blikjes in tray)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567962",
+    "name": "Coca-Cola Zero Sugar 3-tray pakket",
+    "price": 55.05,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234333333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola (blikjes in tray)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516934",
+    "name": "Coca-Cola Zero sugar tray",
+    "price": 20.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337333132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola (blikjes in tray)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582022",
+    "name": "Pepsi Cola Zero 3x 24-pack",
+    "price": 40.47,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038303939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola (blikjes in tray)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183174",
+    "name": "Pepsi Zero cola 24-pack",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola (blikjes in tray)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566585",
+    "name": "Pepsi Zero lemon 24-pack",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola (blikjes in tray)"
+    ],
+    "isFood": true
+  }
+]

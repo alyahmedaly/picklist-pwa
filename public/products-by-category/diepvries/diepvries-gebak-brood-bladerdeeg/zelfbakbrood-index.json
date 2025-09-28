@@ -1,0 +1,194 @@
+[
+  {
+    "id": "564101",
+    "name": "Danerolles Chocolate chunck cookie dough",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736303130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471551",
+    "name": "AH Diepvries kaasbroodjes",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564102",
+    "name": "Danerolles Oat cinnamon cookie dough",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575440",
+    "name": "MIMO Cookie dough brownie chocolate chip",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575439",
+    "name": "MIMO Cookie dough classic chocolate chip",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637323736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470756",
+    "name": "AH Diepvries worstenbroodjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373631303237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575445",
+    "name": "MIMO Cookie dough oatmeal raisin",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534393231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556842",
+    "name": "Mr. BigMouth Multiseed buns",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333333630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556841",
+    "name": "Mr. BigMouth Brioche buns",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333333638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475815",
+    "name": "AH Petit stokbrood wit",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475816",
+    "name": "AH Petit stokbrood meerzaden",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576875",
+    "name": "Picard Petit pains Italienne",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933333939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437103",
+    "name": "AH Liefde & Passie Stokbrood wit l&p",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437099",
+    "name": "AH Liefde & Passie Stokbrood meergranen",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475818",
+    "name": "AH Liefde & Passie Stokbrood spelt",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519065",
+    "name": "AH Liefde & Passie Volkoren stokbrood",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries gebak, brood, bladerdeeg",
+      "Zelfbakbrood"
+    ],
+    "isFood": true
+  }
+]

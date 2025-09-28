@@ -1,0 +1,434 @@
+[
+  {
+    "id": "490714",
+    "name": "Desperados Virgin 0.0",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032303330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523802",
+    "name": "Hoegaarden 0,0% 6-pack",
+    "price": 7.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489159",
+    "name": "Brouwers Radler 0.0%",
+    "price": 0.44,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548612",
+    "name": "Bavaria 0.0 IPA 6-pack",
+    "price": 6.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138303735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "34667",
+    "name": "Bavaria 0.0% Bier",
+    "price": 0.82,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230714",
+    "name": "Bavaria 0.0% Bier",
+    "price": 0.74,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363938303635?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "49843",
+    "name": "Bavaria 0.0% Bier 6-pack",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138303639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132334",
+    "name": "Bavaria 0.0% Bier 6-pack",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138303830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548611",
+    "name": "Bavaria IPA 0.0%",
+    "price": 1.07,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489160",
+    "name": "Brouwers Alcoholvrij bier 0.0%",
+    "price": 0.42,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232353733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489166",
+    "name": "Brouwers Alcoholvrij bier 0.0% 6-pack",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237373033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471354",
+    "name": "Hertog Jan 0.0 Alcoholvrij bier 6-pack",
+    "price": 4.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739303732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471356",
+    "name": "Hertog Jan 0.0 Alcoholvrij bier 6-pack",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739313230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571805",
+    "name": "Peroni Nastro azzurro Italiaans 0.0% 6-pack",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136393734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571804",
+    "name": "Peroni Nastro azzurro Italiaans bier 0.0%",
+    "price": 1,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482993",
+    "name": "Warsteiner Alkoholfrei",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236363133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408935",
+    "name": "Warsteiner Alkoholfrei pilsener",
+    "price": 0.84,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373437313338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524310",
+    "name": "Warsteiner Herb alkoholfrei 6-pack",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383832353637?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516651",
+    "name": "Amstel Pilsener 0.0 bier 6-pack",
+    "price": 5.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931373039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "434105",
+    "name": "Amstel rad frisbl 0",
+    "price": 0.92,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363438323238?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523955",
+    "name": "Birra Moretti Zero",
+    "price": 1.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524307",
+    "name": "Birra Moretti Zero alcoholvrij bier",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523956",
+    "name": "Birra Moretti Zero alcoholvrij bier 6-pack",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931383133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524308",
+    "name": "Birra Moretti Zero alcoholvrij bier 6-pack",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931383338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421181",
+    "name": "Grolsch 0.0% Alcoholvrij bier",
+    "price": 0.84,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432353836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "242843",
+    "name": "Grolsch Alcoholvrij bier 0.0%",
+    "price": 0.82,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439353531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409170",
+    "name": "Grolsch Alcoholvrij bier 0.0% 6-pack",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383235343232?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421182",
+    "name": "Grolsch Pilser alcoholvrij bier 0.0 6-pack",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489165",
+    "name": "Grolsch Premium pilsner alcoholvrij bier krat",
+    "price": 18.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438373235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475976",
+    "name": "Heineken Premium pilsener 0.0",
+    "price": 0.8,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734303534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409165",
+    "name": "Heineken Premium pilsener 0.0 6-pack",
+    "price": 5.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734303638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "434128",
+    "name": "Heineken Premium pilsener 0.0 draaidop 12-pack",
+    "price": 9.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409164",
+    "name": "Heineken Premium pilsener 0.0 draaidop 6-pack",
+    "price": 5.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734303633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475977",
+    "name": "Heineken Premium pilsener 0.0 krat",
+    "price": 19.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734303434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "434107",
+    "name": "Heineken Premium pilsener 0.0% draaidop",
+    "price": 0.81,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237313035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571813",
+    "name": "Texels Skuumkoppe 0.0 speciaalbier 6-pack",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733323638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Alcoholvrij bier 0.0"
+    ],
+    "isFood": true
+  }
+]

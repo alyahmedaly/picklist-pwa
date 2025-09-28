@@ -1,0 +1,72 @@
+[
+  {
+    "id": "476711",
+    "name": "AH Cola no sugar",
+    "price": 0.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola light & suikervrij",
+      "Cola light & suikervrije flesjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442503",
+    "name": "Coca-Cola zero raspberry 6x0.25L BEL",
+    "price": 3.9,
+    "image": "NA",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola light & suikervrij",
+      "Cola light & suikervrije flesjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "179081",
+    "name": "Coca-Cola Zero sugar",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131313831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola light & suikervrij",
+      "Cola light & suikervrije flesjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568459",
+    "name": "Fritz Kola superzero",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola light & suikervrij",
+      "Cola light & suikervrije flesjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "201949",
+    "name": "Pepsi Zero cola",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola light & suikervrij",
+      "Cola light & suikervrije flesjes"
+    ],
+    "isFood": true
+  }
+]

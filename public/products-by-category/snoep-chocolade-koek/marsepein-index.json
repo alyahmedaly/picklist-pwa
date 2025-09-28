@@ -1,0 +1,90 @@
+[
+  {
+    "id": "482721",
+    "name": "AH Marsepein fruit",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735363632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Marsepein"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558375",
+    "name": "AH Marsepein Engelse drop mix",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Marsepein"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558389",
+    "name": "AH Romige borstplaat",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Marsepein"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578195",
+    "name": "Smiklz Marsepein staaf",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Marsepein"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165244",
+    "name": "Schluckwerder Marsepeinen aardappeltjes groot",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313234303535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Marsepein"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "51164",
+    "name": "Schluckwerder Marsepeinen aardappeltjes klein",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313735343435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Marsepein"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "51162",
+    "name": "Schluckwerder Marsepeinstaaf",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313735323639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Marsepein"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "51163",
+    "name": "Schluckwerder Marsepeinstaaf groot",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313735323536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Marsepein"
+    ],
+    "isFood": true
+  }
+]

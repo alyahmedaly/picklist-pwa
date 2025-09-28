@@ -1,0 +1,86 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > High Protein Zuivel > High Protein Tussendoortjes",
+  "breadcrumbs": "Zuivel, eieren, boter > High Protein Zuivel > High Protein Tussendoortjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "high-protein-drinks",
+      "displayName": "High Protein Drinks",
+      "productCount": 40,
+      "filePath": "high-protein-drinks.jsonl",
+      "indexPath": "high-protein-drinks-index.json",
+      "statsPath": "high-protein-drinks-stats.json",
+      "averageProtein": 5.3,
+      "halalCompliance": 60
+    },
+    {
+      "name": "high-protein-kwark-tussendoortjes",
+      "displayName": "High Protein Kwark Tussendoortjes",
+      "productCount": 14,
+      "filePath": "high-protein-kwark-tussendoortjes.jsonl",
+      "indexPath": "high-protein-kwark-tussendoortjes-index.json",
+      "statsPath": "high-protein-kwark-tussendoortjes-stats.json",
+      "averageProtein": 9.3,
+      "halalCompliance": 71
+    },
+    {
+      "name": "high-protein-pudding-tussendoortjes",
+      "displayName": "High Protein Pudding Tussendoortjes",
+      "productCount": 14,
+      "filePath": "high-protein-pudding-tussendoortjes.jsonl",
+      "indexPath": "high-protein-pudding-tussendoortjes-index.json",
+      "statsPath": "high-protein-pudding-tussendoortjes-stats.json",
+      "averageProtein": 8.6,
+      "halalCompliance": 86
+    },
+    {
+      "name": "high-protein-yoghurt-tussendoortjes",
+      "displayName": "High Protein Yoghurt Tussendoortjes",
+      "productCount": 7,
+      "filePath": "high-protein-yoghurt-tussendoortjes.jsonl",
+      "indexPath": "high-protein-yoghurt-tussendoortjes-index.json",
+      "statsPath": "high-protein-yoghurt-tussendoortjes-stats.json",
+      "averageProtein": 6.4,
+      "halalCompliance": 57
+    },
+    {
+      "name": "high-protein-mousses",
+      "displayName": "High Protein Mousses",
+      "productCount": 5,
+      "filePath": "high-protein-mousses.jsonl",
+      "indexPath": "high-protein-mousses-index.json",
+      "statsPath": "high-protein-mousses-stats.json",
+      "averageProtein": 10,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 80,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 80,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../../index.json"
+      },
+      {
+        "name": "High Protein Zuivel",
+        "path": "../index.json"
+      },
+      {
+        "name": "High Protein Tussendoortjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "zuivel-eieren-boter/high-protein-zuivel"
+  }
+}

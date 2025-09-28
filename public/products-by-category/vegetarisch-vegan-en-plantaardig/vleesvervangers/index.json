@@ -1,0 +1,87 @@
+{
+  "categoryPath": "Vegetarisch, vegan en plantaardig > Vleesvervangers",
+  "breadcrumbs": "Vegetarisch, vegan en plantaardig > Vleesvervangers",
+  "subdirectories": [
+    {
+      "name": "falafel-vega-balletjes",
+      "displayName": "Falafel Vega Balletjes",
+      "productCount": 26,
+      "hasSubdirectories": false,
+      "indexPath": "falafel-vega-balletjes/index.json"
+    },
+    {
+      "name": "vegetarische-kip",
+      "displayName": "Vegetarische Kip",
+      "productCount": 25,
+      "hasSubdirectories": false,
+      "indexPath": "vegetarische-kip/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "vegetarische-burgers",
+      "displayName": "Vegetarische Burgers",
+      "productCount": 27,
+      "filePath": "vegetarische-burgers.jsonl",
+      "indexPath": "vegetarische-burgers-index.json",
+      "statsPath": "vegetarische-burgers-stats.json",
+      "averageProtein": 10.8,
+      "halalCompliance": 89
+    },
+    {
+      "name": "vegetarisch-gehakt",
+      "displayName": "Vegetarisch Gehakt",
+      "productCount": 21,
+      "filePath": "vegetarisch-gehakt.jsonl",
+      "indexPath": "vegetarisch-gehakt-index.json",
+      "statsPath": "vegetarisch-gehakt-stats.json",
+      "averageProtein": 17.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "vegetarische-schnitzel",
+      "displayName": "Vegetarische Schnitzel",
+      "productCount": 19,
+      "filePath": "vegetarische-schnitzel.jsonl",
+      "indexPath": "vegetarische-schnitzel-index.json",
+      "statsPath": "vegetarische-schnitzel-stats.json",
+      "averageProtein": 10.9,
+      "halalCompliance": 100
+    },
+    {
+      "name": "vegetarische-shoarma-gyros",
+      "displayName": "Vegetarische Shoarma Gyros",
+      "productCount": 12,
+      "filePath": "vegetarische-shoarma-gyros.jsonl",
+      "indexPath": "vegetarische-shoarma-gyros-index.json",
+      "statsPath": "vegetarische-shoarma-gyros-stats.json",
+      "averageProtein": 17.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 130,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 130,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vegetarisch Vegan En Plantaardig",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vleesvervangers",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "vegetarisch-vegan-en-plantaardig"
+  }
+}

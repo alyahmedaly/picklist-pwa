@@ -1,0 +1,314 @@
+[
+  {
+    "id": "543406",
+    "name": "AH Rauwe ham",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136373437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462642",
+    "name": "AH Bauernschinken",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543346",
+    "name": "AH Schouderham",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462641",
+    "name": "AH Coburger schinken",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838373230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543391",
+    "name": "AH Gegrilde beenham",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337333030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543184",
+    "name": "AH Slagersachterham",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454461",
+    "name": "AH Prosciutto di parma",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543167",
+    "name": "AH Yorkham",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137343434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442057",
+    "name": "AH Flinterdunne rauwe ham",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132224",
+    "name": "AH Achterham",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543345",
+    "name": "AH Achterham",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037393531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132234",
+    "name": "AH Flinterdunne achterham",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400693",
+    "name": "AH Witlofham",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400690",
+    "name": "AH Tostiham",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578840",
+    "name": "AH Boterhamworst minder vet",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389078",
+    "name": "AH Plak schouderham",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188733",
+    "name": "AH Schouderham",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578845",
+    "name": "AH Achterham minder zout",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567338",
+    "name": "AH Achterham 2-pack",
+    "price": 3.4,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130373335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566657",
+    "name": "AH Achterham 3-pack",
+    "price": 8.41,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567337",
+    "name": "AH Flinterdunne achterham 2-pack",
+    "price": 3.7,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566659",
+    "name": "AH Schouderham 3-pack",
+    "price": 6.53,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039333939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566653",
+    "name": "AH Tostiham 3-pack",
+    "price": 5.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039333839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568344",
+    "name": "AH Witlofham 2-pack",
+    "price": 3.78,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Ham (voorverpakt)"
+    ],
+    "isFood": true
+  }
+]

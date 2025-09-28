@@ -1,0 +1,146 @@
+[
+  {
+    "id": "572086",
+    "name": "AH Luchtige boter gegrilde paprika",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes groente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571952",
+    "name": "AH Krokante rode biet jalepeño",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes groente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580081",
+    "name": "AH Paddestoelen kroketjes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes groente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571951",
+    "name": "AH Krokante zoete aardappel truffel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes groente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571998",
+    "name": "AH Krokante pastinaak peper",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632363134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes groente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531821",
+    "name": "AH Gevulde eitjes kerrie",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes groente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572071",
+    "name": "AH Gevulde eitjes tomaat",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638313931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes groente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540546",
+    "name": "AH Zeewier sesam",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes groente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217314",
+    "name": "AH Gemarineerde tomaatjes",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes groente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572072",
+    "name": "AH Terra Plantaardige gyoza's kip",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes groente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519240",
+    "name": "AH Spaanse tortilla",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738363830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes groente"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579228",
+    "name": "AH Gemarineerde tomaatjes 2-pack",
+    "price": 4.73,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes groente"
+    ],
+    "isFood": true
+  }
+]

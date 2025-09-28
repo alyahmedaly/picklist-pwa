@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Sauzen > Snacksauzen, mayonaise > Knoflooksaus, aioli",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Sauzen > Snacksauzen, mayonaise > Knoflooksaus, aioli",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "knoflooksaus",
+      "displayName": "Knoflooksaus",
+      "productCount": 20,
+      "filePath": "knoflooksaus.jsonl",
+      "indexPath": "knoflooksaus-index.json",
+      "statsPath": "knoflooksaus-stats.json",
+      "averageProtein": 0.8,
+      "halalCompliance": 95
+    }
+  ],
+  "totalProducts": 20,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Sauzen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Snacksauzen Mayonaise",
+        "path": "../index.json"
+      },
+      {
+        "name": "Knoflooksaus Aioli",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "soepen-sauzen-kruiden-olie/sauzen/snacksauzen-mayonaise"
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "578944",
+    "name": "AH Snoepgroente bleekselderij",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034383137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoepgroente mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578938",
+    "name": "AH Snoepgroente komkommer wortel radijs",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030353735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoepgroente mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578953",
+    "name": "AH Snoepgroente paprika bleekselderij",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoepgroente mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578952",
+    "name": "AH Snoepgroente radijs wortel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134393130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoepgroente mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454872",
+    "name": "AH Snoepgroente wortel komkommer paprika",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835373332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoepgroente mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578951",
+    "name": "AH Snoepgroente paprika wortel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034383139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoepgroente mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520805",
+    "name": "AH Snoepgroente tomatenmix",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430323036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoepgroente mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578950",
+    "name": "AH Snoepgroente wortel bleekselderij",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034383135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Snoepgroente mix"
+    ],
+    "isFood": true
+  }
+]

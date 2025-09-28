@@ -1,0 +1,68 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "frikandel",
+      "displayName": "Frikandel",
+      "productCount": 11,
+      "hasSubdirectories": false,
+      "indexPath": "frikandel/index.json"
+    },
+    {
+      "name": "kroket",
+      "displayName": "Kroket",
+      "productCount": 8,
+      "hasSubdirectories": false,
+      "indexPath": "kroket/index.json"
+    },
+    {
+      "name": "sate-diepvries",
+      "displayName": "Sate Diepvries",
+      "productCount": 8,
+      "hasSubdirectories": false,
+      "indexPath": "sate-diepvries/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "loempia",
+      "displayName": "Loempia",
+      "productCount": 8,
+      "filePath": "loempia.jsonl",
+      "indexPath": "loempia-index.json",
+      "statsPath": "loempia-stats.json",
+      "averageProtein": 6.4,
+      "halalCompliance": 50
+    }
+  ],
+  "totalProducts": 35,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 35,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Diepvries Snacks",
+        "path": "../index.json"
+      },
+      {
+        "name": "Maaltijdsnacks",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "diepvries/diepvries-snacks"
+  }
+}

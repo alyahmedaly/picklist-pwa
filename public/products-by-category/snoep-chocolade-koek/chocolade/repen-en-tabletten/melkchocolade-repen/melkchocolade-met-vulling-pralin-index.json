@@ -1,0 +1,156 @@
+[
+  {
+    "id": "160473",
+    "name": "Milka Chocoladereep karamel",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393136333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196319",
+    "name": "Lindt Creation crème brûlée melkchocolade",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569844",
+    "name": "Milka Chocoladereep alpenmelk créme",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337373133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474500",
+    "name": "Côte d'Or Bonbonbloc melk chocolade karamel",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138323337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203255",
+    "name": "Kinder Chocolade",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569843",
+    "name": "Milka Chocoladereep créme hazelnoot",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337373134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417354",
+    "name": "Tony's Chocolonely Reep donkere melk pretzel",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556475",
+    "name": "Côte d'Or Bonbonbloc vanille & crispy cacao",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338323838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417432",
+    "name": "Milka Mmmax chocoladereep melk noisette",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393136333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159497",
+    "name": "Côte d'Or Bonbonbloc melk praline hazelnoot",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353735383533?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159494",
+    "name": "Côte d'Or Bonbonbloc praliné melk",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353735383933?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Melkchocolade repen",
+      "Melkchocolade met vulling, praliné"
+    ],
+    "isFood": true
+  }
+]

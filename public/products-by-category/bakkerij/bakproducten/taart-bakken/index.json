@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Bakkerij > Bakproducten > Taart bakken",
+  "breadcrumbs": "Bakkerij > Bakproducten > Taart bakken",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "taartmix",
+      "displayName": "Taartmix",
+      "productCount": 16,
+      "filePath": "taartmix.jsonl",
+      "indexPath": "taartmix-index.json",
+      "statsPath": "taartmix-stats.json",
+      "averageProtein": 5.8,
+      "halalCompliance": 31
+    },
+    {
+      "name": "appeltaartmix",
+      "displayName": "Appeltaartmix",
+      "productCount": 5,
+      "filePath": "appeltaartmix.jsonl",
+      "indexPath": "appeltaartmix-index.json",
+      "statsPath": "appeltaartmix-stats.json",
+      "averageProtein": 2.7,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 21,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 21,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bakproducten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Taart Bakken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bakkerij/bakproducten"
+  }
+}

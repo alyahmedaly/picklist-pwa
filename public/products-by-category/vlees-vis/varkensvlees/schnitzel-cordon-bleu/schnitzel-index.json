@@ -1,0 +1,158 @@
+[
+  {
+    "id": "187581",
+    "name": "AH Varkensgehakt schnitzel sate",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838323837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Schnitzel, cordon bleu",
+      "Schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495643",
+    "name": "AH Ah gehaktschnitzel hongaa",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Schnitzel, cordon bleu",
+      "Schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "418167",
+    "name": "AH Boerengehakt schnitzel",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Schnitzel, cordon bleu",
+      "Schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466028",
+    "name": "Tillman's XXL varkensschnitzel",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332313633?revLabel=32&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Schnitzel, cordon bleu",
+      "Schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571288",
+    "name": "AH Schnitzel krokant met cornflakes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135383437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Schnitzel, cordon bleu",
+      "Schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187605",
+    "name": "AH Schnitzel Hongaarse stijl",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Schnitzel, cordon bleu",
+      "Schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187604",
+    "name": "AH Gepaneerde schnitzel 2 stuks",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Schnitzel, cordon bleu",
+      "Schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367366",
+    "name": "AH Wiener filetschnitzel",
+    "price": 3.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Schnitzel, cordon bleu",
+      "Schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "119764",
+    "name": "AH Varkensschnitzel",
+    "price": 3.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Schnitzel, cordon bleu",
+      "Schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578161",
+    "name": "AH Gepaneerde schnitzel 4-pack",
+    "price": 13.26,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Schnitzel, cordon bleu",
+      "Schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578166",
+    "name": "AH Schnitzel Hongaarse stijl 3-pack",
+    "price": 11.37,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Schnitzel, cordon bleu",
+      "Schnitzel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "361618",
+    "name": "Weidenaar Schnitzel gepaneerd",
+    "price": 4.25,
+    "image": "NA",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Schnitzel, cordon bleu",
+      "Schnitzel"
+    ],
+    "isFood": true
+  }
+]

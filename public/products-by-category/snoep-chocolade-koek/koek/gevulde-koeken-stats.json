@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Koek > Gevulde koeken",
+  "breadcrumbs": "Snoep, chocolade, koek > Koek > Gevulde koeken",
+  "totalProducts": 6,
+  "halalCompliance": 50,
+  "averageProtein": 5.8,
+  "averagePrice": 2.16,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 6,
+    "withIngredients": 6,
+    "withHalalCheck": 6
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "496890",
+    "name": "Lipton Ice tea sparkling",
+    "price": 0.9,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839323434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurhoudend",
+      "Ice tea koolzuurhoudend (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496901",
+    "name": "Lipton Ice tea sparkling 4-pack",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838393336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurhoudend",
+      "Ice tea koolzuurhoudend (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569109",
+    "name": "Lipton Ice tea sparkling zero sugar",
+    "price": 0.9,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838393539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurhoudend",
+      "Ice tea koolzuurhoudend (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569110",
+    "name": "Lipton Ice tea sparkling zero sugar 4-pack",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839323538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurhoudend",
+      "Ice tea koolzuurhoudend (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568359",
+    "name": "Hi-Five Ice tea black tea ginger",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230303137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurhoudend",
+      "Ice tea koolzuurhoudend (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568358",
+    "name": "Hi-Five Ice tea green tea yuzu",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurhoudend",
+      "Ice tea koolzuurhoudend (blikjes)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578628",
+    "name": "Lipton sparkling 12-pack",
+    "price": 9.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936343235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Ice tea",
+      "Ice tea koolzuurhoudend",
+      "Ice tea koolzuurhoudend (blikjes)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "197858",
+    "name": "Verstegen Kruidenmix voor kip pikant",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Kipkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99914",
+    "name": "Verstegen Kruidenmix voor kip",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Kipkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197836",
+    "name": "Verstegen Kruidenmix voor kip",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333637?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Kipkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198193",
+    "name": "Verstegen Kruidenmix voor kip met paprika",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533393637?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Kipkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "134159",
+    "name": "Verstegen Kruidenmix voor kip",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534323938?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Kipkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198186",
+    "name": "Verstegen Kruidenmix voor kip tandoori",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534323935?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Kipkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570461",
+    "name": "Verstegen Mix voor kip pikant",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434353130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Kipkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425868",
+    "name": "Santa Maria Seasoning mix for chicken taco",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373333313338?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Kipkruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "452184",
+    "name": "Verstegen Kip wrap kruidenmix",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Kipkruiden"
+    ],
+    "isFood": true
+  }
+]

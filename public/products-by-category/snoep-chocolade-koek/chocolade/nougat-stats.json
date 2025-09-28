@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Chocolade > Nougat",
+  "breadcrumbs": "Snoep, chocolade, koek > Chocolade > Nougat",
+  "totalProducts": 5,
+  "halalCompliance": 20,
+  "averageProtein": 5.8,
+  "averagePrice": 2.57,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 5,
+    "withIngredients": 5,
+    "withHalalCheck": 5
+  }
+}

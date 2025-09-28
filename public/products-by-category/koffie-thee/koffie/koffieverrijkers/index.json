@@ -1,0 +1,54 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "koffiefilters-suiker",
+      "displayName": "Koffiefilters Suiker",
+      "productCount": 11,
+      "hasSubdirectories": true,
+      "indexPath": "koffiefilters-suiker/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "koffiesiroop",
+      "displayName": "Koffiesiroop",
+      "productCount": 6,
+      "filePath": "koffiesiroop.jsonl",
+      "indexPath": "koffiesiroop-index.json",
+      "statsPath": "koffiesiroop-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 17,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 17,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Koffie",
+        "path": "../index.json"
+      },
+      {
+        "name": "Koffieverrijkers",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "koffie-thee/koffie"
+  }
+}

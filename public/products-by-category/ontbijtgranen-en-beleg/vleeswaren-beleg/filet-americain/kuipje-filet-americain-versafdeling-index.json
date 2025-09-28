@@ -1,0 +1,80 @@
+[
+  {
+    "id": "497860",
+    "name": "AH Filet americain met peper",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Filet americain",
+      "Kuipje filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442123",
+    "name": "AH Filet americain naturel",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Filet americain",
+      "Kuipje filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409878",
+    "name": "AH Préparé peper",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353635303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Filet americain",
+      "Kuipje filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442125",
+    "name": "AH Filet americain mager",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Filet americain",
+      "Kuipje filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497882",
+    "name": "AH Filet americain met ui",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Filet americain",
+      "Kuipje filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409877",
+    "name": "AH Prepare mager bel",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323832383736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Filet americain",
+      "Kuipje filet americain (versafdeling)"
+    ],
+    "isFood": true
+  }
+]

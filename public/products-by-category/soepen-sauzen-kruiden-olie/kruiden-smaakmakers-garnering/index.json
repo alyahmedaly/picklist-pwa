@@ -1,0 +1,46 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "kruiden",
+      "displayName": "Kruiden",
+      "productCount": 160,
+      "hasSubdirectories": true,
+      "indexPath": "kruiden/index.json"
+    },
+    {
+      "name": "smaakmakers",
+      "displayName": "Smaakmakers",
+      "productCount": 29,
+      "hasSubdirectories": true,
+      "indexPath": "smaakmakers/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 189,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 189,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kruiden Smaakmakers Garnering",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "soepen-sauzen-kruiden-olie"
+  }
+}

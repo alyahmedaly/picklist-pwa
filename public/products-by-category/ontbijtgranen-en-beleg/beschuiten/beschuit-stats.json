@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Beschuiten > Beschuit",
+  "breadcrumbs": "Ontbijtgranen en beleg > Beschuiten > Beschuit",
+  "totalProducts": 12,
+  "halalCompliance": 42,
+  "averageProtein": 16.4,
+  "averagePrice": 1.78,
+  "highProteinProducts": 10,
+  "dataQuality": {
+    "withNutrition": 12,
+    "withIngredients": 12,
+    "withHalalCheck": 12
+  }
+}

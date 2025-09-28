@@ -1,0 +1,366 @@
+[
+  {
+    "id": "467164",
+    "name": "AH Peppermint gum suikervrij",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353736303731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467172",
+    "name": "AH Fresh mint gum suikervrij",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353736303830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467167",
+    "name": "AH Sweetmint gum suikervrij",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353736303735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159603",
+    "name": "Mentos Gum Breeze mint",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "119776",
+    "name": "Mentos Gum Pure fresh wintergreen",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451855",
+    "name": "Mentos Gum White cool mint",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451853",
+    "name": "Mentos Gum White green mint",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230745",
+    "name": "Mentos Gum White sweet mint",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451850",
+    "name": "Mentos Gum White sweet mint",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565944",
+    "name": "Mentos Gum White sweet mint value pack",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035373734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167626",
+    "name": "Mentos Gum Pure fresh black mint",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230753",
+    "name": "Mentos Gum Pure fresh freshmint",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435373831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565942",
+    "name": "Mentos Gum Pure fresh freshmint",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035373537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "137994",
+    "name": "Mentos Gum Pure fresh freshmint sugarfree",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336363231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451845",
+    "name": "Mentos Gum Pure fresh frost strong peppermint",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502456",
+    "name": "Sportlife Frozn deepmint sugar free gums",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438383736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383102",
+    "name": "AH Filled fresh mint gum suikervrij",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323335383334?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467171",
+    "name": "AH Filled peppermint kauwgom suikervrij",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353736303738?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467163",
+    "name": "AH Intense mintgum suikervrij",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353736303739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467165",
+    "name": "AH Spearmint gum suikervrij",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353736303732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159602",
+    "name": "Mentos Gum Mighty mint",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502454",
+    "name": "Sportlife Extramint sugar free gums",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438383832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540297",
+    "name": "Sportlife Extramint sugar free gums",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438383638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565940",
+    "name": "Sportlife Peppermint sugar free gums",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438383734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502476",
+    "name": "Sportlife Smashmint sugar free gums",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438383830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540296",
+    "name": "Sportlife Smashmint sugar free gums",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480722",
+    "name": "XyliFresh Peppermint gum sugarfree",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393139343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578434",
+    "name": "Stimorol Spearmint",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931353230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom in pot",
+      "Pot (mint)"
+    ],
+    "isFood": true
+  }
+]

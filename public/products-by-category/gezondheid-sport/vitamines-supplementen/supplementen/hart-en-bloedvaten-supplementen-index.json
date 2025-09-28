@@ -1,0 +1,184 @@
+[
+  {
+    "id": "113144",
+    "name": "Bional Visolie omega-3 100% natuurzuiver",
+    "price": 19.99,
+    "image": "NA",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Hart en bloedvaten supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447715",
+    "name": "Care Omega 3 visolie 2000 mg 18/12",
+    "price": 6.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Hart en bloedvaten supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400098",
+    "name": "Davitamon Actifit 50+ omega-3 visolie capsules",
+    "price": 33.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135393635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Hart en bloedvaten supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400099",
+    "name": "Davitamon Actifit 65+ omega-3 visolie capsules",
+    "price": 33.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135393736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Hart en bloedvaten supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400096",
+    "name": "Davitamon Compleet omega-3 visolie capsules",
+    "price": 27.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333353139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Hart en bloedvaten supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410929",
+    "name": "Etos Rode gistrijst 333mg",
+    "price": 13.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132383539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Hart en bloedvaten supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410930",
+    "name": "Etos Visolie omega 3",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Hart en bloedvaten supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410938",
+    "name": "Etos Visolie Omega 3 2000mg",
+    "price": 12.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233323831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Hart en bloedvaten supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421217",
+    "name": "Lucovitaal Omega 3 puur koudwater visolie capsules",
+    "price": 26.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332353834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Hart en bloedvaten supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551197",
+    "name": "Lucovitaal Omega-3 375mg dha & epa capsules",
+    "price": 22.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Hart en bloedvaten supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374891",
+    "name": "Lucovitaal Rode gist rijst 3mg",
+    "price": 10.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373430303530?revLabel=8&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Hart en bloedvaten supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409958",
+    "name": "Lucovitaal Rode gist rijst capsules",
+    "price": 37.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Hart en bloedvaten supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401108",
+    "name": "Lucovitaal Visolie & Q10 rode gist rijst capsules",
+    "price": 22.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333383834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Hart en bloedvaten supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446286",
+    "name": "Lucovitaal Visolie omega3 capsules",
+    "price": 15.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373230323230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Hart en bloedvaten supplementen"
+    ],
+    "isFood": true
+  }
+]

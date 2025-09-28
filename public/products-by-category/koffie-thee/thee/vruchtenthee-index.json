@@ -1,0 +1,242 @@
+[
+  {
+    "id": "381407",
+    "name": "AH Zwarte thee aardbei",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381410",
+    "name": "AH Zwarte thee bosvruchten",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381411",
+    "name": "AH Zwarte thee sinaasappel",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550317",
+    "name": "Pickwick Super blends relax",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334383334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550310",
+    "name": "Clipper Mango & citrus organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455901",
+    "name": "Clipper Orange & lemon organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455900",
+    "name": "Clipper Orange & turmeric organic infusion",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436393631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "143405",
+    "name": "Lipton Forest fruits black tea",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "143404",
+    "name": "Lipton Lemon black tea",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476907",
+    "name": "Lipton Peach & mango black tea",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196011",
+    "name": "Lipton Rosehip infusion",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196704",
+    "name": "Pickwick Tea with fruit forest fruit",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430323939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196705",
+    "name": "Pickwick Tea with fruit lemon",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733343634?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197514",
+    "name": "Pickwick Tea with fruit mango",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323531?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196706",
+    "name": "Pickwick Tea with fruit strawberry",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323238?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171148",
+    "name": "Pickwick Tea with fruit variatiebox orange",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225679",
+    "name": "Pickwick Tea with fruit variatiebox red",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733333838?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196043",
+    "name": "Pickwick Tea with fruit variaton box green",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733343236?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420293",
+    "name": "Pickwick Variation box fruit infusion with herbs",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323230?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516299",
+    "name": "Pickwick Variation box fruit infusion with herbs",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383534393531?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Thee",
+      "Vruchtenthee"
+    ],
+    "isFood": true
+  }
+]

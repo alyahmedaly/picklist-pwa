@@ -1,0 +1,145 @@
+[
+  {
+    "id": "123723",
+    "name": "AH Biologisch Elstar schaal",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031313838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Schaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "184957",
+    "name": "AH Biologisch Royal gala schaal",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031313931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Schaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124256",
+    "name": "AH Biologisch Santana schaal",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031313932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Schaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444756",
+    "name": "AH Elstar schaal",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031373033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Schaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "117193",
+    "name": "AH Fuji schaal",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031373034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Schaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456588",
+    "name": "AH Gala schaal",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Schaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195431",
+    "name": "AH Granny Smith schaal",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031373031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Schaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129364",
+    "name": "Jazz Appels schaal",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353936353632?revLabel=8&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Schaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170798",
+    "name": "Kanzi schaal",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135323237?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Schaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "117190",
+    "name": "Pink Lady Appels schaal",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353935393435?revLabel=10&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Schaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "472497",
+    "name": "Pink Lady Pinkids schaal",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363433333435?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Schaal"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "105869",
+    "name": "Maggi Jus naturel",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134353731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Jus",
+      "Jus naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199163",
+    "name": "Maggi Jus naturel voordeel",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332303739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Jus",
+      "Jus naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130640",
+    "name": "Maggi Jus naturel doseerbaar",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353335373034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Jus",
+      "Jus naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567257",
+    "name": "Maggi Jus naturel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330363137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Jus",
+      "Jus naturel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467673",
+    "name": "AH Krachtige naturel jus",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353930313336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Jus",
+      "Jus naturel"
+    ],
+    "isFood": true
+  }
+]

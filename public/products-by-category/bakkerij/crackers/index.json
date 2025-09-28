@@ -1,0 +1,62 @@
+{
+  "categoryPath": "Bakkerij > Crackers",
+  "breadcrumbs": "Bakkerij > Crackers",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "ontbijtcrackers",
+      "displayName": "Ontbijtcrackers",
+      "productCount": 47,
+      "filePath": "ontbijtcrackers.jsonl",
+      "indexPath": "ontbijtcrackers-index.json",
+      "statsPath": "ontbijtcrackers-stats.json",
+      "averageProtein": 13.9,
+      "halalCompliance": 89
+    },
+    {
+      "name": "toastcrackers",
+      "displayName": "Toastcrackers",
+      "productCount": 40,
+      "filePath": "toastcrackers.jsonl",
+      "indexPath": "toastcrackers-index.json",
+      "statsPath": "toastcrackers-stats.json",
+      "averageProtein": 10.7,
+      "halalCompliance": 75
+    },
+    {
+      "name": "knackebrod",
+      "displayName": "Knackebrod",
+      "productCount": 30,
+      "filePath": "knackebrod.jsonl",
+      "indexPath": "knackebrod-index.json",
+      "statsPath": "knackebrod-stats.json",
+      "averageProtein": 11.8,
+      "halalCompliance": 87
+    }
+  ],
+  "totalProducts": 117,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 117,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../index.json"
+      },
+      {
+        "name": "Crackers",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "bakkerij"
+  }
+}

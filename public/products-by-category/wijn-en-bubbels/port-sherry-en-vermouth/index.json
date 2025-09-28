@@ -1,0 +1,57 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "port",
+      "displayName": "Port",
+      "productCount": 20,
+      "hasSubdirectories": true,
+      "indexPath": "port/index.json"
+    },
+    {
+      "name": "sherry",
+      "displayName": "Sherry",
+      "productCount": 5,
+      "hasSubdirectories": true,
+      "indexPath": "sherry/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "vermouth",
+      "displayName": "Vermouth",
+      "productCount": 5,
+      "filePath": "vermouth.jsonl",
+      "indexPath": "vermouth-index.json",
+      "statsPath": "vermouth-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 30,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 30,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../index.json"
+      },
+      {
+        "name": "Port Sherry En Vermouth",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "wijn-en-bubbels"
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "436936",
+    "name": "Faszination Hugo",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_434d5037343734373834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Lichtzoete bubbels",
+      "Hugo, wijncocktail (Lichtzoet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446335",
+    "name": "Faszination Hugo rosé",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236313939393737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Lichtzoete bubbels",
+      "Hugo, wijncocktail (Lichtzoet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212130",
+    "name": "Galilei Bellini frizzante peach",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545238333936323533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Lichtzoete bubbels",
+      "Hugo, wijncocktail (Lichtzoet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403094",
+    "name": "Galilei Frizzante mango",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323637353436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Lichtzoete bubbels",
+      "Hugo, wijncocktail (Lichtzoet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387223",
+    "name": "Galilei Frizzante watermelon",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323435333933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Lichtzoete bubbels",
+      "Hugo, wijncocktail (Lichtzoet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217382",
+    "name": "Galilei Hugo",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363037363936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Lichtzoete bubbels",
+      "Hugo, wijncocktail (Lichtzoet)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "224858",
+    "name": "Galilei Hugo rosé",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545238333936323534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Lichtzoete bubbels",
+      "Hugo, wijncocktail (Lichtzoet)"
+    ],
+    "isFood": true
+  }
+]

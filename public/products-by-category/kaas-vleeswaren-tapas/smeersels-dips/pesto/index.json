@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Smeersels & dips > Pesto",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Smeersels & dips > Pesto",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "pesto-in-pot",
+      "displayName": "Pesto In Pot",
+      "productCount": 31,
+      "filePath": "pesto-in-pot.jsonl",
+      "indexPath": "pesto-in-pot-index.json",
+      "statsPath": "pesto-in-pot-stats.json",
+      "averageProtein": 3.9,
+      "halalCompliance": 84
+    },
+    {
+      "name": "pesto-vers",
+      "displayName": "Pesto Vers",
+      "productCount": 7,
+      "filePath": "pesto-vers.jsonl",
+      "indexPath": "pesto-vers-index.json",
+      "statsPath": "pesto-vers-stats.json",
+      "averageProtein": 6.2,
+      "halalCompliance": 71
+    }
+  ],
+  "totalProducts": 38,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 38,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Smeersels Dips",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pesto",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "kaas-vleeswaren-tapas/smeersels-dips"
+  }
+}

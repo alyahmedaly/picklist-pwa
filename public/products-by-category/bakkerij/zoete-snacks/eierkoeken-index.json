@@ -1,0 +1,110 @@
+[
+  {
+    "id": "238141",
+    "name": "Bolletje Brosse eierkoek melk",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237363537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Eierkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571977",
+    "name": "Maître Mathis Eierkoeken glutenvrij",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539303632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Eierkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "201054",
+    "name": "AH Brabantse eierkoeken rozijn",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Eierkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "128919",
+    "name": "AH Brabantse eierkoeken",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834353633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Eierkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "201559",
+    "name": "AH Mini eierkoeken",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383837353837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Eierkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473738",
+    "name": "AH Eierkoeken",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Eierkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388641",
+    "name": "AH Spelt eierkoeken",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383837363038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Eierkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578706",
+    "name": "AH Eierkoeken volkoren",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832313131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Eierkoeken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577472",
+    "name": "AH Vezelrijke eierkoeken",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Zoete snacks",
+      "Eierkoeken"
+    ],
+    "isFood": true
+  }
+]

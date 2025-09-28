@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Chocolade > Candybars",
+  "breadcrumbs": "Snoep, chocolade, koek > Chocolade > Candybars",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "candybars-multipack",
+      "displayName": "Candybars Multipack",
+      "productCount": 35,
+      "filePath": "candybars-multipack.jsonl",
+      "indexPath": "candybars-multipack-index.json",
+      "statsPath": "candybars-multipack-stats.json",
+      "averageProtein": 6.6,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 35,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Chocolade",
+        "path": "../index.json"
+      },
+      {
+        "name": "Candybars",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "snoep-chocolade-koek/chocolade"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Drogisterij > Lichaamsverzorging > Deodorant > Deodorant vrouwen",
+  "breadcrumbs": "Drogisterij > Lichaamsverzorging > Deodorant > Deodorant vrouwen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "deospray-vrouwen",
+      "displayName": "Deospray Vrouwen",
+      "productCount": 16,
+      "filePath": "deospray-vrouwen.jsonl",
+      "indexPath": "deospray-vrouwen-index.json",
+      "statsPath": "deospray-vrouwen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 16,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Drogisterij",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Lichaamsverzorging",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Deodorant",
+        "path": "../index.json"
+      },
+      {
+        "name": "Deodorant Vrouwen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "drogisterij/lichaamsverzorging/deodorant"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Pasta > Farfalle, schelpjes, orecchiette",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Pasta > Farfalle, schelpjes, orecchiette",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "schelpjes-conchigliette-orecchiette",
+      "displayName": "Schelpjes Conchigliette Orecchiette",
+      "productCount": 7,
+      "filePath": "schelpjes-conchigliette-orecchiette.jsonl",
+      "indexPath": "schelpjes-conchigliette-orecchiette-index.json",
+      "statsPath": "schelpjes-conchigliette-orecchiette-stats.json",
+      "averageProtein": 13,
+      "halalCompliance": 100
+    },
+    {
+      "name": "farfalle",
+      "displayName": "Farfalle",
+      "productCount": 6,
+      "filePath": "farfalle.jsonl",
+      "indexPath": "farfalle-index.json",
+      "statsPath": "farfalle-stats.json",
+      "averageProtein": 15.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 13,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 13,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Pasta Rijst Noedels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Pasta",
+        "path": "../index.json"
+      },
+      {
+        "name": "Farfalle Schelpjes Orecchiette",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "pasta-rijst-en-wereldkeuken/pasta-rijst-noedels/pasta"
+  }
+}

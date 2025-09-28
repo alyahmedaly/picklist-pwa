@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Kaas > Kaas voor maaltijden > Feta, geitenkaas, witte kaas",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Kaas > Kaas voor maaltijden > Feta, geitenkaas, witte kaas",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "feta",
+      "displayName": "Feta",
+      "productCount": 8,
+      "filePath": "feta.jsonl",
+      "indexPath": "feta-index.json",
+      "statsPath": "feta-stats.json",
+      "averageProtein": 14.7,
+      "halalCompliance": 88
+    },
+    {
+      "name": "witte-kaas",
+      "displayName": "Witte Kaas",
+      "productCount": 6,
+      "filePath": "witte-kaas.jsonl",
+      "indexPath": "witte-kaas-index.json",
+      "statsPath": "witte-kaas-stats.json",
+      "averageProtein": 15.7,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 14,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 14,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Kaas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kaas Voor Maaltijden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Feta Geitenkaas Witte Kaas",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "kaas-vleeswaren-tapas/kaas/kaas-voor-maaltijden"
+  }
+}

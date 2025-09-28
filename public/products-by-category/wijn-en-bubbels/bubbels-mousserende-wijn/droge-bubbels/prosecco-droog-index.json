@@ -1,0 +1,80 @@
+[
+  {
+    "id": "222388",
+    "name": "Solatio Vino frizzante prosecco doc",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Prosecco (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409251",
+    "name": "Solatio Prosecco spumante extra dry",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830343434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Prosecco (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195124",
+    "name": "Terra viva Bio prosecco doc",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933333233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Prosecco (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "368337",
+    "name": "Martini Prosecco doc",
+    "price": 7.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353432343434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Prosecco (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173528",
+    "name": "Masottina Prosecco",
+    "price": 11.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239363833?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Prosecco (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370595",
+    "name": "Villa Rosa Prosecco",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373732393035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Prosecco (Droog)"
+    ],
+    "isFood": true
+  }
+]

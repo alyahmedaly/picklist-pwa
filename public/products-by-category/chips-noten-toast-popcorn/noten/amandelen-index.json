@@ -1,0 +1,146 @@
+[
+  {
+    "id": "168432",
+    "name": "Duyvis Oven roasted amandelen",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Amandelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426106",
+    "name": "AH Amandelen gezouten",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530313939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Amandelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "375962",
+    "name": "AH Amandelen met rooksmaak gezouten",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733313633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Amandelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447829",
+    "name": "AH Amandelen met rooksmaak gezouten",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236323430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Amandelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559296",
+    "name": "AH Amandelen met rooksmaak gezouten",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438353434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Amandelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559269",
+    "name": "AH Amandelen met vlies ongebrand",
+    "price": 7.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932383530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Amandelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403607",
+    "name": "AH Amandelen ongebrand",
+    "price": 6.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383039363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Amandelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517258",
+    "name": "AH Amandelen ongebrand",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383839353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Amandelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "111138",
+    "name": "AH Amandelen ongezouten",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331303135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Amandelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469391",
+    "name": "AH Biologisch Geblancheerde amandelen",
+    "price": 6.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363334303235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Amandelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559295",
+    "name": "AH Geroosterde amandelen ongezouten",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438353433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Amandelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447633",
+    "name": "AH Ongebrande amandelen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236333533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Amandelen"
+    ],
+    "isFood": true
+  }
+]

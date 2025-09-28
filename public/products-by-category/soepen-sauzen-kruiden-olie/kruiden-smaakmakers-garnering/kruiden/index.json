@@ -1,0 +1,124 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Kruiden, smaakmakers, garnering > Kruiden",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Kruiden, smaakmakers, garnering > Kruiden",
+  "subdirectories": [
+    {
+      "name": "gedroogde-kruiden",
+      "displayName": "Gedroogde Kruiden",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "gedroogde-kruiden/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "maaltijd-kruidenmixen",
+      "displayName": "Maaltijd Kruidenmixen",
+      "productCount": 58,
+      "filePath": "maaltijd-kruidenmixen.jsonl",
+      "indexPath": "maaltijd-kruidenmixen-index.json",
+      "statsPath": "maaltijd-kruidenmixen-stats.json",
+      "averageProtein": 7.3,
+      "halalCompliance": 98
+    },
+    {
+      "name": "vleeskruiden",
+      "displayName": "Vleeskruiden",
+      "productCount": 56,
+      "filePath": "vleeskruiden.jsonl",
+      "indexPath": "vleeskruiden-index.json",
+      "statsPath": "vleeskruiden-stats.json",
+      "averageProtein": 6.5,
+      "halalCompliance": 95
+    },
+    {
+      "name": "groente-kruiden",
+      "displayName": "Groente Kruiden",
+      "productCount": 9,
+      "filePath": "groente-kruiden.jsonl",
+      "indexPath": "groente-kruiden-index.json",
+      "statsPath": "groente-kruiden-stats.json",
+      "averageProtein": 3.8,
+      "halalCompliance": 89
+    },
+    {
+      "name": "kipkruiden",
+      "displayName": "Kipkruiden",
+      "productCount": 9,
+      "filePath": "kipkruiden.jsonl",
+      "indexPath": "kipkruiden-index.json",
+      "statsPath": "kipkruiden-stats.json",
+      "averageProtein": 7.5,
+      "halalCompliance": 100
+    },
+    {
+      "name": "viskruiden",
+      "displayName": "Viskruiden",
+      "productCount": 7,
+      "filePath": "viskruiden.jsonl",
+      "indexPath": "viskruiden-index.json",
+      "statsPath": "viskruiden-stats.json",
+      "averageProtein": 8.6,
+      "halalCompliance": 100
+    },
+    {
+      "name": "paprikapoeder",
+      "displayName": "Paprikapoeder",
+      "productCount": 6,
+      "filePath": "paprikapoeder.jsonl",
+      "indexPath": "paprikapoeder-index.json",
+      "statsPath": "paprikapoeder-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 83
+    },
+    {
+      "name": "aardappelkruiden",
+      "displayName": "Aardappelkruiden",
+      "productCount": 5,
+      "filePath": "aardappelkruiden.jsonl",
+      "indexPath": "aardappelkruiden-index.json",
+      "statsPath": "aardappelkruiden-stats.json",
+      "averageProtein": 8.5,
+      "halalCompliance": 100
+    },
+    {
+      "name": "aromat",
+      "displayName": "Aromat",
+      "productCount": 5,
+      "filePath": "aromat.jsonl",
+      "indexPath": "aromat-index.json",
+      "statsPath": "aromat-stats.json",
+      "averageProtein": 12.4,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 160,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 160,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kruiden Smaakmakers Garnering",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kruiden",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "soepen-sauzen-kruiden-olie/kruiden-smaakmakers-garnering"
+  }
+}

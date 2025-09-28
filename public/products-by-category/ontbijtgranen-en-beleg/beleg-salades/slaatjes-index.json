@@ -1,0 +1,182 @@
+[
+  {
+    "id": "161793",
+    "name": "Westland Ei slaatje",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520281",
+    "name": "Westland Ei slaatje voordeelverpakking",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583591",
+    "name": "Westland Kip slaatje",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134373631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538379",
+    "name": "Westland Huzaren slaatje",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333333432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161792",
+    "name": "Westland Zalm slaatje",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334313831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570139",
+    "name": "Westland Zalm slaatje voordeelverpakking",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333353934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "155651",
+    "name": "AH Rundvleesslaatje",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383335363335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "155647",
+    "name": "AH Russisch-eislaatje",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303338383133?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161791",
+    "name": "Westland Rundvlees slaatje",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164341",
+    "name": "Westland Rundvlees slaatje voordeelverpakking",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631333635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161789",
+    "name": "AH Rundvleesslaatje",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363736393135?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "390015",
+    "name": "AH Rundvleesslaatje",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834353831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583590",
+    "name": "Westland Hollandse stoofvlees salade",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "390014",
+    "name": "AH Huzarenslaatje",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834363132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583589",
+    "name": "Westland Hollandse hutspot salade",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Slaatjes"
+    ],
+    "isFood": true
+  }
+]

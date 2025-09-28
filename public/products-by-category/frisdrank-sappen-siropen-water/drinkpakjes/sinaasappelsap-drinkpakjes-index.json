@@ -1,0 +1,62 @@
+[
+  {
+    "id": "160133",
+    "name": "AH Sinaasappelsap 6-pack",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033373233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Sinaasappelsap drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196035",
+    "name": "Taksi Sinaasappel 10-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239333937?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Sinaasappelsap drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "542737",
+    "name": "Appelsientje volle smaak 6-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033343634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Sinaasappelsap drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203342",
+    "name": "Capri-Sun Orange 10-pack",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393035353730?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Sinaasappelsap drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230793",
+    "name": "Capri-Sun Orange drink pouch 0,2l",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339333830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Sinaasappelsap drinkpakjes"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Vleeswaren beleg > Grillworst",
+  "breadcrumbs": "Ontbijtgranen en beleg > Vleeswaren beleg > Grillworst",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "plakken-grillworst-versafdeling",
+      "displayName": "Plakken Grillworst Versafdeling",
+      "productCount": 7,
+      "filePath": "plakken-grillworst-versafdeling.jsonl",
+      "indexPath": "plakken-grillworst-versafdeling-index.json",
+      "statsPath": "plakken-grillworst-versafdeling-stats.json",
+      "averageProtein": 12.6,
+      "halalCompliance": 14
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vleeswaren Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Grillworst",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/vleeswaren-beleg"
+  }
+}

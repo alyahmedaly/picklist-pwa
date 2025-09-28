@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Bakkerij > Brood > Bruin brood",
+  "breadcrumbs": "Bakkerij > Brood > Bruin brood",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "bakkersbrood-bruin",
+      "displayName": "Bakkersbrood Bruin",
+      "productCount": 12,
+      "filePath": "bakkersbrood-bruin.jsonl",
+      "indexPath": "bakkersbrood-bruin-index.json",
+      "statsPath": "bakkersbrood-bruin-stats.json",
+      "averageProtein": 11.3,
+      "halalCompliance": 92
+    },
+    {
+      "name": "liefde-en-passiebrood-bruin",
+      "displayName": "Liefde En Passiebrood Bruin",
+      "productCount": 10,
+      "filePath": "liefde-en-passiebrood-bruin.jsonl",
+      "indexPath": "liefde-en-passiebrood-bruin-index.json",
+      "statsPath": "liefde-en-passiebrood-bruin-stats.json",
+      "averageProtein": 9.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "dagvers-bruin",
+      "displayName": "Dagvers Bruin",
+      "productCount": 9,
+      "filePath": "dagvers-bruin.jsonl",
+      "indexPath": "dagvers-bruin-index.json",
+      "statsPath": "dagvers-bruin-stats.json",
+      "averageProtein": 10.4,
+      "halalCompliance": 56
+    }
+  ],
+  "totalProducts": 31,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 31,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Brood",
+        "path": "../index.json"
+      },
+      {
+        "name": "Bruin Brood",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bakkerij/brood"
+  }
+}

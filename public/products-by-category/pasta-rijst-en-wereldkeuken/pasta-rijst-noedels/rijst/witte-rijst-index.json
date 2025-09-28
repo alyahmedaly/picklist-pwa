@@ -1,0 +1,197 @@
+[
+  {
+    "id": "134780",
+    "name": "AH 1 minuutje witte rijst",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "948",
+    "name": "AH Witte snelkook rijst",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393039393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "144308",
+    "name": "Lassie Tover rijst panklaar",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211930",
+    "name": "Lassie Toverrijst minuutje",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481909",
+    "name": "Unirice Parboiled rijst",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373035393730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481910",
+    "name": "Unirice Parboiled rijst",
+    "price": 10.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373035393239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526018",
+    "name": "AH Biologisch Witte rijst",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933393431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421641",
+    "name": "AH Witte rijst",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131393332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525287",
+    "name": "AH Witte snelkook rijst",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033313139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168106",
+    "name": "Lassie Toverrijst extra vezels",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932363835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553560",
+    "name": "Lassie Tover mix met vezel verrijkte korrels",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731313939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458986",
+    "name": "Lassie Tover zilver rijst",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639303033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3509",
+    "name": "Lassie Toverrijst",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730313337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412500",
+    "name": "Lassie Toverrijst builtje",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639393339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484982",
+    "name": "Lassie Toverrijst voordeelpak",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730393930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Witte rijst"
+    ],
+    "isFood": true
+  }
+]

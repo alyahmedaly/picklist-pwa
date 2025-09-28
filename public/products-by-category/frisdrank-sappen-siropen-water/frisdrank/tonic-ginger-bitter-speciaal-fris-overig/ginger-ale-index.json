@@ -1,0 +1,93 @@
+[
+  {
+    "id": "163236",
+    "name": "Royal Club Ginger ale",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036303930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189781",
+    "name": "Royal Club Ginger ale",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036303935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437912",
+    "name": "Finley Ginger Ale NRGB 4pack Bel",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4b525436303032363435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494293",
+    "name": "Royal Club Ginger ale",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232323131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496969",
+    "name": "Royal Club Ginger ale 0% 4-pack",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036323037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457839",
+    "name": "Royal Club Ginger ale 0% suiker",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036313030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger Ale"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496904",
+    "name": "Royal Club Ginger beer 0%",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373334353432?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger Ale"
+    ],
+    "isFood": true
+  }
+]

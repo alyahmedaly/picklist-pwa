@@ -1,0 +1,78 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "fris-met-fruitsmaak",
+      "displayName": "Fris Met Fruitsmaak",
+      "productCount": 118,
+      "hasSubdirectories": false,
+      "indexPath": "fris-met-fruitsmaak/index.json"
+    },
+    {
+      "name": "cola",
+      "displayName": "Cola",
+      "productCount": 115,
+      "hasSubdirectories": true,
+      "indexPath": "cola/index.json"
+    },
+    {
+      "name": "tonic-ginger-bitter-speciaal-fris-overig",
+      "displayName": "Tonic Ginger Bitter Speciaal Fris Overig",
+      "productCount": 107,
+      "hasSubdirectories": false,
+      "indexPath": "tonic-ginger-bitter-speciaal-fris-overig/index.json"
+    },
+    {
+      "name": "lemon-lime",
+      "displayName": "Lemon Lime",
+      "productCount": 37,
+      "hasSubdirectories": false,
+      "indexPath": "lemon-lime/index.json"
+    },
+    {
+      "name": "sinas",
+      "displayName": "Sinas",
+      "productCount": 31,
+      "hasSubdirectories": false,
+      "indexPath": "sinas/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "cassis",
+      "displayName": "Cassis",
+      "productCount": 21,
+      "filePath": "cassis.jsonl",
+      "indexPath": "cassis-index.json",
+      "statsPath": "cassis-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 90
+    }
+  ],
+  "totalProducts": 429,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 429,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../index.json"
+      },
+      {
+        "name": "Frisdrank",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "frisdrank-sappen-siropen-water"
+  }
+}

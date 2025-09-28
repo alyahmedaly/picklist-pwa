@@ -1,0 +1,67 @@
+[
+  {
+    "id": "440464",
+    "name": "AH Gekleurde hagel",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Vruchtenhagel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "111389",
+    "name": "De Ruijter Bosvruchtenhagel",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Vruchtenhagel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519393",
+    "name": "Leentjes Anijs pret",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735373234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Vruchtenhagel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "119017",
+    "name": "De Ruijter Vruchten hagel",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Vruchtenhagel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "32937",
+    "name": "De Ruijter Anijshagel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037333739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Strooisels",
+      "Vruchtenhagel"
+    ],
+    "isFood": true
+  }
+]

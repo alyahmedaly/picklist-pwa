@@ -1,0 +1,84 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "stevige-rode-wijn",
+      "displayName": "Stevige Rode Wijn",
+      "productCount": 97,
+      "hasSubdirectories": false,
+      "indexPath": "stevige-rode-wijn/index.json"
+    },
+    {
+      "name": "soepele-rode-wijn",
+      "displayName": "Soepele Rode Wijn",
+      "productCount": 62,
+      "hasSubdirectories": false,
+      "indexPath": "soepele-rode-wijn/index.json"
+    },
+    {
+      "name": "fruitige-rode-wijn",
+      "displayName": "Fruitige Rode Wijn",
+      "productCount": 28,
+      "hasSubdirectories": false,
+      "indexPath": "fruitige-rode-wijn/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "rode-wijn-klein",
+      "displayName": "Rode Wijn Klein",
+      "productCount": 14,
+      "filePath": "rode-wijn-klein.jsonl",
+      "indexPath": "rode-wijn-klein-index.json",
+      "statsPath": "rode-wijn-klein-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 93
+    },
+    {
+      "name": "overige-rode-wijn",
+      "displayName": "Overige Rode Wijn",
+      "productCount": 8,
+      "filePath": "overige-rode-wijn.jsonl",
+      "indexPath": "overige-rode-wijn-index.json",
+      "statsPath": "overige-rode-wijn-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "alcoholvrije-rode-wijn",
+      "displayName": "Alcoholvrije Rode Wijn",
+      "productCount": 6,
+      "filePath": "alcoholvrije-rode-wijn.jsonl",
+      "indexPath": "alcoholvrije-rode-wijn-index.json",
+      "statsPath": "alcoholvrije-rode-wijn-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 50
+    }
+  ],
+  "totalProducts": 215,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 215,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../index.json"
+      },
+      {
+        "name": "Rode Wijn",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "wijn-en-bubbels"
+  }
+}

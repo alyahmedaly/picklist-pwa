@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Pizza > Pizzabodems",
+  "breadcrumbs": "Salades, pizza, maaltijden > Pizza > Pizzabodems",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "pizzabodem-mix",
+      "displayName": "Pizzabodem Mix",
+      "productCount": 5,
+      "filePath": "pizzabodem-mix.jsonl",
+      "indexPath": "pizzabodem-mix-index.json",
+      "statsPath": "pizzabodem-mix-stats.json",
+      "averageProtein": 9.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Pizza",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pizzabodems",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "salades-pizza-maaltijden/pizza"
+  }
+}

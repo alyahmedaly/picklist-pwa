@@ -1,0 +1,119 @@
+[
+  {
+    "id": "514532",
+    "name": "AH Mok everyday 200ml",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383639393339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Tafelen",
+      "Serviesgoed, bestek",
+      "Mok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514538",
+    "name": "AH Mok reactive grijs 200ml",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383639393336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Tafelen",
+      "Serviesgoed, bestek",
+      "Mok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514539",
+    "name": "AH Mok reactive groen 200ml",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383639393131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Tafelen",
+      "Serviesgoed, bestek",
+      "Mok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558339",
+    "name": "AH Reactive 2.0 espressomok beige 80ml",
+    "price": 1,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Tafelen",
+      "Serviesgoed, bestek",
+      "Mok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558340",
+    "name": "AH Reactive 2.0 espressomok blauw 80ml",
+    "price": 1,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Tafelen",
+      "Serviesgoed, bestek",
+      "Mok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558341",
+    "name": "AH Reactive 2.0 espressomok roze 80ml",
+    "price": 1,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Tafelen",
+      "Serviesgoed, bestek",
+      "Mok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558336",
+    "name": "AH Reactive 2.0 mok beige 200ml",
+    "price": 1,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Tafelen",
+      "Serviesgoed, bestek",
+      "Mok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558337",
+    "name": "AH Reactive 2.0 mok blauw 200ml",
+    "price": 1,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Tafelen",
+      "Serviesgoed, bestek",
+      "Mok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558338",
+    "name": "AH Reactive 2.0 mok roze 200ml",
+    "price": 1,
+    "image": "NA",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Tafelen",
+      "Serviesgoed, bestek",
+      "Mok"
+    ],
+    "isFood": true
+  }
+]

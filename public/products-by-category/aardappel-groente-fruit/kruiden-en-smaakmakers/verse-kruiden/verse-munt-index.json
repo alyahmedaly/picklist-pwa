@@ -1,0 +1,67 @@
+[
+  {
+    "id": "577884",
+    "name": "AH Biologisch Munt plantje",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Verse kruiden",
+      "Verse munt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238969",
+    "name": "AH Munt",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Verse kruiden",
+      "Verse munt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207061",
+    "name": "AH Munt grootverpakking",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Verse kruiden",
+      "Verse munt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197310",
+    "name": "AH Biologisch Munt pot",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303432303733?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Verse kruiden",
+      "Verse munt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523130",
+    "name": "AH Munt en limoen pakket",
+    "price": 3.14,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739353438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Verse kruiden",
+      "Verse munt"
+    ],
+    "isFood": true
+  }
+]

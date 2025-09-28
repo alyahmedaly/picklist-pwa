@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Wijn en bubbels > Rode wijn > Fruitige rode wijn",
+  "breadcrumbs": "Wijn en bubbels > Rode wijn > Fruitige rode wijn",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "overige-rode-wijn-fruitig",
+      "displayName": "Overige Rode Wijn Fruitig",
+      "productCount": 20,
+      "filePath": "overige-rode-wijn-fruitig.jsonl",
+      "indexPath": "overige-rode-wijn-fruitig-index.json",
+      "statsPath": "overige-rode-wijn-fruitig-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 85
+    },
+    {
+      "name": "pinot-noir-fruitig",
+      "displayName": "Pinot Noir Fruitig",
+      "productCount": 8,
+      "filePath": "pinot-noir-fruitig.jsonl",
+      "indexPath": "pinot-noir-fruitig-index.json",
+      "statsPath": "pinot-noir-fruitig-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 63
+    }
+  ],
+  "totalProducts": 28,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 28,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Rode Wijn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Fruitige Rode Wijn",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "wijn-en-bubbels/rode-wijn"
+  }
+}

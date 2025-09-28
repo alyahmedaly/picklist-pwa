@@ -1,0 +1,170 @@
+[
+  {
+    "id": "130875",
+    "name": "Coca-Cola Cherry",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola smaakvarianten flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568366",
+    "name": "Coca-Cola Cherry",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530353835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola smaakvarianten flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229606",
+    "name": "Coca-Cola Vanilla",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola smaakvarianten flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568365",
+    "name": "Coca-Cola Vanilla",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530353834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola smaakvarianten flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518889",
+    "name": "Coca-Cola Cherry zero sugar",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630363233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola smaakvarianten flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568375",
+    "name": "Coca-Cola Cherry zero sugar",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530353730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola smaakvarianten flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518875",
+    "name": "Coca-Cola Vanilla zero sugar",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030363135?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola smaakvarianten flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568374",
+    "name": "Coca-Cola Vanilla zero sugar",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439363637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola smaakvarianten flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415757",
+    "name": "Coca-Cola Zero sugar cherry",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030363133?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola smaakvarianten flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413728",
+    "name": "Pepsi Max cool lemon bel",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933333239?revLabel=56&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola smaakvarianten flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436109",
+    "name": "Pepsi Zero cherry",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola smaakvarianten flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129320",
+    "name": "Pepsi Zero cola lemon",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534323036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola smaakvarianten flessen"
+    ],
+    "isFood": true
+  }
+]

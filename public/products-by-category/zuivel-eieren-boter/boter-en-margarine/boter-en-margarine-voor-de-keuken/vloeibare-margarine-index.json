@@ -1,0 +1,197 @@
+[
+  {
+    "id": "214658",
+    "name": "Croma Bakken en braden",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234323830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214660",
+    "name": "Croma Bakken en braden voordeelfles",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236303934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401385",
+    "name": "Remia Bakken & braden",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353338353932?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465865",
+    "name": "Remia Bakken & Braden",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535313034?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401386",
+    "name": "Remia Bakken & braden met 20% olijfolie",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353338353933?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466150",
+    "name": "Flower Farm Bakken zonder palmolie",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373539393037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214649",
+    "name": "Becel Vlees en jus bakboter vloeibaar",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536313837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558297",
+    "name": "AH Terra Plantaardig vloeibaar olijf roerbakken",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214651",
+    "name": "Becel Original bakboter vloeibaar",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214652",
+    "name": "Becel Bakboter vloeibaar met olijfolie",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138373534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214654",
+    "name": "Becel Original bakboter vloeibaar voordeelfles",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214657",
+    "name": "Bertolli Vloeibaar",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363834323132?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214655",
+    "name": "Blue Band Iedere dag vloeibaar",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738353232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214674",
+    "name": "Blue Band Iedere dag vloeibaar voordeelfles",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738353230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214659",
+    "name": "Croma Mild met olijfolie",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238373037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Boter en margarine voor de keuken",
+      "Vloeibare margarine"
+    ],
+    "isFood": true
+  }
+]

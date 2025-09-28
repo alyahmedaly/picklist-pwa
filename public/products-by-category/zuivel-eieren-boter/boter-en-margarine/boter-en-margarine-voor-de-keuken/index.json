@@ -1,0 +1,76 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Boter en margarine > Boter en margarine voor de keuken",
+  "breadcrumbs": "Zuivel, eieren, boter > Boter en margarine > Boter en margarine voor de keuken",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "ongezouten-roomboter",
+      "displayName": "Ongezouten Roomboter",
+      "productCount": 17,
+      "filePath": "ongezouten-roomboter.jsonl",
+      "indexPath": "ongezouten-roomboter-index.json",
+      "statsPath": "ongezouten-roomboter-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 82
+    },
+    {
+      "name": "vloeibare-margarine",
+      "displayName": "Vloeibare Margarine",
+      "productCount": 15,
+      "filePath": "vloeibare-margarine.jsonl",
+      "indexPath": "vloeibare-margarine-index.json",
+      "statsPath": "vloeibare-margarine-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 0
+    },
+    {
+      "name": "bak-en-braadboter-vast",
+      "displayName": "Bak En Braadboter Vast",
+      "productCount": 13,
+      "filePath": "bak-en-braadboter-vast.jsonl",
+      "indexPath": "bak-en-braadboter-vast-index.json",
+      "statsPath": "bak-en-braadboter-vast-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 31
+    },
+    {
+      "name": "gezouten-roomboter",
+      "displayName": "Gezouten Roomboter",
+      "productCount": 12,
+      "filePath": "gezouten-roomboter.jsonl",
+      "indexPath": "gezouten-roomboter-index.json",
+      "statsPath": "gezouten-roomboter-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 57,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 57,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Boter En Margarine",
+        "path": "../index.json"
+      },
+      {
+        "name": "Boter En Margarine Voor De Keuken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "zuivel-eieren-boter/boter-en-margarine"
+  }
+}

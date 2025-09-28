@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Oosterse keuken > Chinees",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Oosterse keuken > Chinees",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "chinese-woksaus",
+      "displayName": "Chinese Woksaus",
+      "productCount": 9,
+      "filePath": "chinese-woksaus.jsonl",
+      "indexPath": "chinese-woksaus-index.json",
+      "statsPath": "chinese-woksaus-stats.json",
+      "averageProtein": 2.2,
+      "halalCompliance": 78
+    },
+    {
+      "name": "chinese-chilisaus",
+      "displayName": "Chinese Chilisaus",
+      "productCount": 7,
+      "filePath": "chinese-chilisaus.jsonl",
+      "indexPath": "chinese-chilisaus-index.json",
+      "statsPath": "chinese-chilisaus-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 16,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 16,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Oosterse Keuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Chinees",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/oosterse-keuken"
+  }
+}

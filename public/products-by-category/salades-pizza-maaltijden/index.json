@@ -1,0 +1,120 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "kant-enklaar-maaltijden",
+      "displayName": "Kant Enklaar Maaltijden",
+      "productCount": 84,
+      "hasSubdirectories": true,
+      "indexPath": "kant-enklaar-maaltijden/index.json"
+    },
+    {
+      "name": "salades",
+      "displayName": "Salades",
+      "productCount": 83,
+      "hasSubdirectories": true,
+      "indexPath": "salades/index.json"
+    },
+    {
+      "name": "snel-snacken",
+      "displayName": "Snel Snacken",
+      "productCount": 60,
+      "hasSubdirectories": true,
+      "indexPath": "snel-snacken/index.json"
+    },
+    {
+      "name": "pannenkoeken-poffertjes",
+      "displayName": "Pannenkoeken Poffertjes",
+      "productCount": 38,
+      "hasSubdirectories": true,
+      "indexPath": "pannenkoeken-poffertjes/index.json"
+    },
+    {
+      "name": "verse-pasta-en-pastasaus",
+      "displayName": "Verse Pasta En Pastasaus",
+      "productCount": 32,
+      "hasSubdirectories": false,
+      "indexPath": "verse-pasta-en-pastasaus/index.json"
+    },
+    {
+      "name": "diepvries-kantenklaar-maaltijden",
+      "displayName": "Diepvries Kantenklaar Maaltijden",
+      "productCount": 29,
+      "hasSubdirectories": false,
+      "indexPath": "diepvries-kantenklaar-maaltijden/index.json"
+    },
+    {
+      "name": "ah-vers-uit-eigen-keuken",
+      "displayName": "Ah Vers Uit Eigen Keuken",
+      "productCount": 22,
+      "hasSubdirectories": false,
+      "indexPath": "ah-vers-uit-eigen-keuken/index.json"
+    },
+    {
+      "name": "pizza",
+      "displayName": "Pizza",
+      "productCount": 20,
+      "hasSubdirectories": true,
+      "indexPath": "pizza/index.json"
+    },
+    {
+      "name": "hartige-taart-quiches",
+      "displayName": "Hartige Taart Quiches",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "hartige-taart-quiches/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "verse-soepen",
+      "displayName": "Verse Soepen",
+      "productCount": 16,
+      "filePath": "verse-soepen.jsonl",
+      "indexPath": "verse-soepen-index.json",
+      "statsPath": "verse-soepen-stats.json",
+      "averageProtein": 1.8,
+      "halalCompliance": 88
+    },
+    {
+      "name": "belegde-broodjes",
+      "displayName": "Belegde Broodjes",
+      "productCount": 7,
+      "filePath": "belegde-broodjes.jsonl",
+      "indexPath": "belegde-broodjes-index.json",
+      "statsPath": "belegde-broodjes-stats.json",
+      "averageProtein": 10.5,
+      "halalCompliance": 29
+    },
+    {
+      "name": "verse-sushi",
+      "displayName": "Verse Sushi",
+      "productCount": 6,
+      "filePath": "verse-sushi.jsonl",
+      "indexPath": "verse-sushi-index.json",
+      "statsPath": "verse-sushi-stats.json",
+      "averageProtein": 4.5,
+      "halalCompliance": 17
+    }
+  ],
+  "totalProducts": 404,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 404,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

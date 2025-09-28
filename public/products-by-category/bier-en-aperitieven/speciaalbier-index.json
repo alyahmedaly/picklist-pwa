@@ -1,0 +1,167 @@
+[
+  {
+    "id": "442499",
+    "name": "Texels Dubbel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639373633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389271",
+    "name": "Texels Skiller wit speciaalbier",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031343331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569734",
+    "name": "Texels Skuumkoppe speciaalbier",
+    "price": 1.87,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730323635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569735",
+    "name": "Texels Skuumkoppe speciaalbier 4-pack",
+    "price": 7.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830343236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "481762",
+    "name": "Baxbier Kon minder citra pale ale",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535323137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540131",
+    "name": "Bird Brewery Kerstmus",
+    "price": 7.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466772",
+    "name": "Brothers in Law Hopfenweisse",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373633353131?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566634",
+    "name": "Brouwerij Wilderen Cuvee clarisse rum liquor infused",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303033373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "428244",
+    "name": "Davo Bieren Weizenbock",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383637323439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416518",
+    "name": "Gooische bierbrouwer Wit",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638303931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "501922",
+    "name": "Kompaan Handlanger",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835323139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570488",
+    "name": "Omer. Roodbruin Flemish sour ale",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239393530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482821",
+    "name": "Poesiat & Kater Little smulling",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383637323532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482822",
+    "name": "Poesiat & Kater Smuling",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383637323531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468422",
+    "name": "Vet & Lazy Dubbel wit zomerfit",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383931303737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier"
+    ],
+    "isFood": true
+  }
+]

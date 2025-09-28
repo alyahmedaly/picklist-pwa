@@ -1,0 +1,290 @@
+[
+  {
+    "id": "494272",
+    "name": "AH Hot krokantjes mix",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393736363933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559234",
+    "name": "AH Pikantjes licht pittig",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "536973",
+    "name": "AH Hot krokantjes",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559226",
+    "name": "AH Mediteraanse stijl krokantjes mild",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468155",
+    "name": "AH Pikante rijstzoutjes",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353838383533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559224",
+    "name": "AH Zeewier rijstzoutjes mild",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559227",
+    "name": "AH Paprika krokantjes mild",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559230",
+    "name": "AH Saté bollen mild",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559217",
+    "name": "AH Hot krokantjes licht pittig",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559223",
+    "name": "AH Japanse blaadjes gezouten",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559221",
+    "name": "AH Sumo mix mild",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467573",
+    "name": "AH Paprika rijstzoutjes gezouten",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559249",
+    "name": "AH Rijstrondjes rode pesto smaak",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494268",
+    "name": "AH Borrel krokantjes",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559229",
+    "name": "AH Japanse bollenmix mild",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129535",
+    "name": "AH Partymix",
+    "price": 3.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536373438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559219",
+    "name": "AH Rijstzoutjes met sesam mild",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538587",
+    "name": "AH Sweet chili rijstcrackers",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448356",
+    "name": "AH Knapperige rijstzoutjes",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67675",
+    "name": "AH Yamato mix",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538586",
+    "name": "AH Zeewier rijstcrackers",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468279",
+    "name": "AH Japanse mix",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383930393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448360",
+    "name": "AH Rijst rondjes zeezout",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467432",
+    "name": "BioToday Minirolls rijst-chia",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136333933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Rijstzoutjes"
+    ],
+    "isFood": true
+  }
+]

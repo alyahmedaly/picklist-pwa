@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Sla, rauwkost en kiemgroenten",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Sla, rauwkost en kiemgroenten",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "sla",
+      "displayName": "Sla",
+      "productCount": 32,
+      "filePath": "sla.jsonl",
+      "indexPath": "sla-index.json",
+      "statsPath": "sla-stats.json",
+      "averageProtein": 1.7,
+      "halalCompliance": 81
+    },
+    {
+      "name": "rauwkost",
+      "displayName": "Rauwkost",
+      "productCount": 12,
+      "filePath": "rauwkost.jsonl",
+      "indexPath": "rauwkost-index.json",
+      "statsPath": "rauwkost-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 44,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 44,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../index.json"
+      },
+      {
+        "name": "Sla Rauwkost En Kiemgroenten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/groente"
+  }
+}

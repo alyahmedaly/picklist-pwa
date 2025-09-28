@@ -1,0 +1,91 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "krokante-muesli",
+      "displayName": "Krokante Muesli",
+      "productCount": 96,
+      "hasSubdirectories": true,
+      "indexPath": "krokante-muesli/index.json"
+    },
+    {
+      "name": "havermout-en-pap",
+      "displayName": "Havermout En Pap",
+      "productCount": 27,
+      "hasSubdirectories": true,
+      "indexPath": "havermout-en-pap/index.json"
+    },
+    {
+      "name": "ontbijtverrijkers-toppings",
+      "displayName": "Ontbijtverrijkers Toppings",
+      "productCount": 22,
+      "hasSubdirectories": false,
+      "indexPath": "ontbijtverrijkers-toppings/index.json"
+    },
+    {
+      "name": "granola",
+      "displayName": "Granola",
+      "productCount": 19,
+      "hasSubdirectories": false,
+      "indexPath": "granola/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "cornflakes",
+      "displayName": "Cornflakes",
+      "productCount": 16,
+      "filePath": "cornflakes.jsonl",
+      "indexPath": "cornflakes-index.json",
+      "statsPath": "cornflakes-stats.json",
+      "averageProtein": 8.7,
+      "halalCompliance": 69
+    },
+    {
+      "name": "graanvlokken-gepoft",
+      "displayName": "Graanvlokken Gepoft",
+      "productCount": 15,
+      "filePath": "graanvlokken-gepoft.jsonl",
+      "indexPath": "graanvlokken-gepoft-index.json",
+      "statsPath": "graanvlokken-gepoft-stats.json",
+      "averageProtein": 11.5,
+      "halalCompliance": 93
+    },
+    {
+      "name": "kinder-ontbijtgranen",
+      "displayName": "Kinder Ontbijtgranen",
+      "productCount": 9,
+      "filePath": "kinder-ontbijtgranen.jsonl",
+      "indexPath": "kinder-ontbijtgranen-index.json",
+      "statsPath": "kinder-ontbijtgranen-stats.json",
+      "averageProtein": 7.2,
+      "halalCompliance": 67
+    }
+  ],
+  "totalProducts": 204,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 204,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ontbijtgranen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "ontbijtgranen-en-beleg"
+  }
+}

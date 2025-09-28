@@ -1,0 +1,48 @@
+{
+  "categoryPath": "Gezondheid, sport > Zelfzorg > Verkoudheid, hoesten > Neus > Neusspray",
+  "breadcrumbs": "Gezondheid, sport > Zelfzorg > Verkoudheid, hoesten > Neus > Neusspray",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "neusspray-volwassenen",
+      "displayName": "Neusspray Volwassenen",
+      "productCount": 5,
+      "filePath": "neusspray-volwassenen.jsonl",
+      "indexPath": "neusspray-volwassenen-index.json",
+      "statsPath": "neusspray-volwassenen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../../../../index.json"
+      },
+      {
+        "name": "Zelfzorg",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Verkoudheid Hoesten",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Neus",
+        "path": "../index.json"
+      },
+      {
+        "name": "Neusspray",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 5,
+    "parentPath": "gezondheid-sport/zelfzorg/verkoudheid-hoesten/neus"
+  }
+}

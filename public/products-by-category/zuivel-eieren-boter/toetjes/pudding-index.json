@@ -1,0 +1,134 @@
+[
+  {
+    "id": "67815",
+    "name": "Mona Dame blanche pudding met chocoladesaus",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531363538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Pudding"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474626",
+    "name": "Almhof Choco met echte slagroom wit-vanille",
+    "price": 1.04,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039303436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Pudding"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3859",
+    "name": "Mona Chipolatapudding met tropisch fruit",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932373331?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Pudding"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187531",
+    "name": "Mona Toetje van de maand",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232313436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Pudding"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474625",
+    "name": "Almhof Choco met echte slagroom original",
+    "price": 1.04,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039303431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Pudding"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193673",
+    "name": "Mona Pudding vanille met aardbeiensaus duo",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531363631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Pudding"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212537",
+    "name": "Mona Vanillepudding met aardbeiensaus",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Pudding"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3858",
+    "name": "Mona Griesmeelpudding met rode bessensaus",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Pudding"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193675",
+    "name": "Mona Pudding griesmeel rode bessensaus duo",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933303430?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Pudding"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533100",
+    "name": "HiPRO Pudding choco bel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233373531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Pudding"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533105",
+    "name": "HiPRO Pudding vanille bel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233373436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Pudding"
+    ],
+    "isFood": true
+  }
+]

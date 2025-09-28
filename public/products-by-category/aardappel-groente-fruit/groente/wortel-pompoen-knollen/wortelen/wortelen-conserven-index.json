@@ -1,0 +1,100 @@
+[
+  {
+    "id": "101165",
+    "name": "AH Biologisch Wortelen",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Wortelen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "39144",
+    "name": "AH Wortelen",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434343935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Wortelen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "806",
+    "name": "AH Wortelen",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434343934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Wortelen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161398",
+    "name": "AH Wortelen",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434353034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Wortelen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202208",
+    "name": "Hak Worteltjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Wortelen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207508",
+    "name": "Hak Worteltjes",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Wortelen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "190835",
+    "name": "Bonduelle Worteltjes extra fijn",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537313438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Wortelen (conserven)"
+    ],
+    "isFood": true
+  }
+]

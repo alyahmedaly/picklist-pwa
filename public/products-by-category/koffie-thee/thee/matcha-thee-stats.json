@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Koffie, thee > Thee > Matcha thee",
+  "breadcrumbs": "Koffie, thee > Thee > Matcha thee",
+  "totalProducts": 6,
+  "halalCompliance": 100,
+  "averageProtein": 12.8,
+  "averagePrice": 7.91,
+  "highProteinProducts": 2,
+  "dataQuality": {
+    "withNutrition": 5,
+    "withIngredients": 6,
+    "withHalalCheck": 6
+  }
+}

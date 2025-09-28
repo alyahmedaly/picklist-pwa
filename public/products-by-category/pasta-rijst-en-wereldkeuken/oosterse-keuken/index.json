@@ -1,0 +1,95 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "indonesisch",
+      "displayName": "Indonesisch",
+      "productCount": 130,
+      "hasSubdirectories": false,
+      "indexPath": "indonesisch/index.json"
+    },
+    {
+      "name": "oosterse-sauzen",
+      "displayName": "Oosterse Sauzen",
+      "productCount": 34,
+      "hasSubdirectories": false,
+      "indexPath": "oosterse-sauzen/index.json"
+    },
+    {
+      "name": "japans",
+      "displayName": "Japans",
+      "productCount": 27,
+      "hasSubdirectories": false,
+      "indexPath": "japans/index.json"
+    },
+    {
+      "name": "chinees",
+      "displayName": "Chinees",
+      "productCount": 16,
+      "hasSubdirectories": false,
+      "indexPath": "chinees/index.json"
+    },
+    {
+      "name": "thais",
+      "displayName": "Thais",
+      "productCount": 11,
+      "hasSubdirectories": false,
+      "indexPath": "thais/index.json"
+    },
+    {
+      "name": "indiaas",
+      "displayName": "Indiaas",
+      "productCount": 9,
+      "hasSubdirectories": false,
+      "indexPath": "indiaas/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "koreaans",
+      "displayName": "Koreaans",
+      "productCount": 17,
+      "filePath": "koreaans.jsonl",
+      "indexPath": "koreaans-index.json",
+      "statsPath": "koreaans-stats.json",
+      "averageProtein": 3,
+      "halalCompliance": 65
+    },
+    {
+      "name": "oosterse-soep",
+      "displayName": "Oosterse Soep",
+      "productCount": 17,
+      "filePath": "oosterse-soep.jsonl",
+      "indexPath": "oosterse-soep-index.json",
+      "statsPath": "oosterse-soep-stats.json",
+      "averageProtein": 3.1,
+      "halalCompliance": 47
+    }
+  ],
+  "totalProducts": 261,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 261,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Oosterse Keuken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "pasta-rijst-en-wereldkeuken"
+  }
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "514580",
+    "name": "AH Appelboor",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731343736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Koken",
+      "Keukengerei",
+      "Fruitsnijder, citruspers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576636",
+    "name": "AH Appelboor en Granny Smith appels pakket",
+    "price": 5.98,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738353735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Koken",
+      "Keukengerei",
+      "Fruitsnijder, citruspers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576630",
+    "name": "AH Appelboor en Jazz Appels pakket",
+    "price": 6.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738353933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Koken",
+      "Keukengerei",
+      "Fruitsnijder, citruspers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576634",
+    "name": "AH Appelboor en Pink Lady appels pakket",
+    "price": 6.48,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738353736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Koken",
+      "Keukengerei",
+      "Fruitsnijder, citruspers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413903",
+    "name": "AH appelpartjessnijder",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383439333738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Koken",
+      "Keukengerei",
+      "Fruitsnijder, citruspers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514629",
+    "name": "AH Citruspers",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383639393236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Koken",
+      "Keukengerei",
+      "Fruitsnijder, citruspers"
+    ],
+    "isFood": true
+  }
+]

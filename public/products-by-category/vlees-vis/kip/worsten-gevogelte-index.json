@@ -1,0 +1,62 @@
+[
+  {
+    "id": "534796",
+    "name": "Aladin Knakworsten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933313132?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Worsten (gevogelte)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415711",
+    "name": "AH Gevogelteworst met groenten BEL",
+    "price": 1.49,
+    "image": "NA",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Worsten (gevogelte)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531852",
+    "name": "AH Scharrel kipbraadworst",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Worsten (gevogelte)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531981",
+    "name": "AH Scharrel kipchipolata bel",
+    "price": 4.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Worsten (gevogelte)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531874",
+    "name": "AH Scharrel kipchipolata gekruid",
+    "price": 4,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Worsten (gevogelte)"
+    ],
+    "isFood": true
+  }
+]

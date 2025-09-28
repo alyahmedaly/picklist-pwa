@@ -1,0 +1,134 @@
+[
+  {
+    "id": "507690",
+    "name": "AH Bakkersstokbrood kaas-ui",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031313935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuisbakkers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523682",
+    "name": "AH Ciabatta's mix",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383834353738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuisbakkers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507688",
+    "name": "AH Bakkersstokbrood tijger",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031323034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuisbakkers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507689",
+    "name": "AH Bakkersstokbrood waldkorn",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031323035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuisbakkers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523489",
+    "name": "AH Liefde & Passie Desem krent rogge",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739363833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuisbakkers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578275",
+    "name": "AH Liefde & Passie San Francisco",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033323337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuisbakkers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578273",
+    "name": "AH Liefde & Passie Spelt",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033323339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuisbakkers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523487",
+    "name": "AH Liefde & Passie Spelt broodjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383837353839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuisbakkers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523486",
+    "name": "AH Liefde & Passie Brunch broodjes",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383837353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuisbakkers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578276",
+    "name": "AH Liefde & Passie Emmer",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033323338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuisbakkers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578274",
+    "name": "AH Liefde & Passie Spelt boekweit",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Thuisbakkers"
+    ],
+    "isFood": true
+  }
+]

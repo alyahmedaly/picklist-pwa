@@ -1,0 +1,93 @@
+[
+  {
+    "id": "571929",
+    "name": "Remia Mama Asia Korean mayo",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431353130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Vleessauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571933",
+    "name": "Remia Mama Asia teriyaki sauce",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431353037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Vleessauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567330",
+    "name": "Maggi Frisse roomsaus citroen & peper",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330353833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Vleessauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567256",
+    "name": "Maggi Hollandaise saus",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134353831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Vleessauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159530",
+    "name": "Knorr Mix stroganoff saus",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838383434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Vleessauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444106",
+    "name": "AH Stroganoffsaus",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393133373332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Vleessauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583724",
+    "name": "Remia Mama Asia Korean sauzen pakket",
+    "price": 4.3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230383938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Vleessauzen"
+    ],
+    "isFood": true
+  }
+]

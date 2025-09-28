@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Zoet broodbeleg > Strooisels",
+  "breadcrumbs": "Ontbijtgranen en beleg > Zoet broodbeleg > Strooisels",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "hagelslag",
+      "displayName": "Hagelslag",
+      "productCount": 37,
+      "filePath": "hagelslag.jsonl",
+      "indexPath": "hagelslag-index.json",
+      "statsPath": "hagelslag-stats.json",
+      "averageProtein": 5.5,
+      "halalCompliance": 5
+    },
+    {
+      "name": "vruchtenhagel",
+      "displayName": "Vruchtenhagel",
+      "productCount": 5,
+      "filePath": "vruchtenhagel.jsonl",
+      "indexPath": "vruchtenhagel-index.json",
+      "statsPath": "vruchtenhagel-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 42,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 42,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Zoet Broodbeleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Strooisels",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/zoet-broodbeleg"
+  }
+}

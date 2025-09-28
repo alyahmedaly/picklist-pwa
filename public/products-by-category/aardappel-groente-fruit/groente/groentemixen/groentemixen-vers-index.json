@@ -1,0 +1,67 @@
+[
+  {
+    "id": "494448",
+    "name": "AH Macaroni spaghetti groente",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934323332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Groentemixen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578965",
+    "name": "AH Oven & airfryer groente bloemkool wortel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032353030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Groentemixen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "117618",
+    "name": "AH Broccoli, wortel, bloemkool",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738313137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Groentemixen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494450",
+    "name": "AH Bami groente",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933333232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Groentemixen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494451",
+    "name": "AH Nasi bami groente kleinverpakking",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934373435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groentemixen",
+      "Groentemixen (vers)"
+    ],
+    "isFood": true
+  }
+]

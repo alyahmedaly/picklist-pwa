@@ -1,0 +1,746 @@
+[
+  {
+    "id": "451293",
+    "name": "Lotus Biscoff Speculoos roomijs melkchocolade",
+    "price": 4.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232393932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550153",
+    "name": "Lotus Biscoff Speculoos roomijs melkchocolade ijs mini",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540604",
+    "name": "Wochi Mochi IJs kokos ananas",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031313438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408103",
+    "name": "Ben & Jerry's Salted caramel brownie",
+    "price": 8.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408121",
+    "name": "Magnum Almond",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237373431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493731",
+    "name": "Magnum Double gold caramel billionaire",
+    "price": 6.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931353834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451441",
+    "name": "Magnum Double salted caramel",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134343931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451163",
+    "name": "Magnum White chocolate & cookies",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239383530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500596",
+    "name": "Ben & Jerry's Caramel brownie party",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550142",
+    "name": "Ben & Jerry's Choco-lotta cheesecake",
+    "price": 7.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408093",
+    "name": "Magnum Classic",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571958",
+    "name": "Magnum Euphoria pink lemonade",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335353935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550165",
+    "name": "Magnum Ijs double starchaser",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031343531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "98975",
+    "name": "Ben & Jerry's Caramel chew chew",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62150",
+    "name": "Ben & Jerry's Chunky monkey",
+    "price": 7.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "398838",
+    "name": "Ben & Jerry's Cookie dough s'wich up",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034363733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515800",
+    "name": "Ben & Jerry's Cookie vermont-ster",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034363735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550141",
+    "name": "Ben & Jerry's Dulce de-lish",
+    "price": 7.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038333637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571959",
+    "name": "Ben & Jerry's Marshmallow & s'more",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538376",
+    "name": "Ben & Jerry's Tony's chocolonely love a-fair",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515658",
+    "name": "Häagen-Dazs Caramel attraction",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036383737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451290",
+    "name": "Häagen-Dazs Salted caramel",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032313839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550156",
+    "name": "Magnum Double sunlover",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393930303135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540605",
+    "name": "Wochi Mochi IJa limoen framboos",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031313336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "192708",
+    "name": "Ben & Jerry's Karamel sutra",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034363734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571960",
+    "name": "Ben & Jerry's Spectacu-love",
+    "price": 7.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383241",
+    "name": "Ben & Jerry's Vanilla pecan blondie",
+    "price": 6.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034363732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571970",
+    "name": "Ben & Jerry's Vanilla pecan brittle",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474132",
+    "name": "Häagen-Dazs Salted caramel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437323733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451122",
+    "name": "Häagen-Dazs Strawberry cheesecake ijs",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437323732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "98976",
+    "name": "Ben & Jerry's Cookie dough",
+    "price": 6.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034363731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515695",
+    "name": "Ben & Jerry's Half baked",
+    "price": 7.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034363639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "120016",
+    "name": "Ben & Jerry's Strawberry cheesecake",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515701",
+    "name": "Ben & Jerry's Strawberry cheesecake",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474496",
+    "name": "Häagen-Dazs Macadamia nut brittle",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537383731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451296",
+    "name": "Häagen-Dazs Macadamia nut brittle ijs",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437323731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173086",
+    "name": "Ben & Jerry's Chocolate fudge brownie",
+    "price": 7.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034363737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515697",
+    "name": "Ben & Jerry's Chocolate fudge brownie",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230343635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474460",
+    "name": "Hertog Ijssalon mini koffie royaal",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637383739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561355",
+    "name": "Ben & Jerry's Sunny honey home",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033313434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550168",
+    "name": "Häagen-Dazs Macaron double chocolate ganache",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437323636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574302",
+    "name": "Häagen-Dazs Macaron vanilla & blueberry",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635323833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574314",
+    "name": "Oppo Brothers Dipped banana & caramel",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631393730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451291",
+    "name": "Häagen-Dazs Belgian chocolate ijs",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437323639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550149",
+    "name": "Häagen-Dazs Macaron strawberry & raspberry",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437323637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493718",
+    "name": "Snickers Ijs beker",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632373338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474131",
+    "name": "Häagen-Dazs Cookies & cream pint",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303037323334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506779",
+    "name": "Häagen-Dazs Vanilla ijs",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437323638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506781",
+    "name": "Hertog Ijssalon citroentaart meringue",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515482",
+    "name": "Bounty Ijs beker",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235373737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494031",
+    "name": "Halotop Gooey brownie",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431353633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550173",
+    "name": "Ben & Jerry's Chocolate cookie dough",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574313",
+    "name": "Oppo Brothers Dipped strawberries & raspberries",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035303937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550174",
+    "name": "Ben & Jerry's Vanilla brownie",
+    "price": 7.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538375",
+    "name": "Oppo Brothers Chocolate chip cookie dough",
+    "price": 6.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035313036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494235",
+    "name": "Oppo Brothers Gooey chocolate brownie",
+    "price": 6.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035303837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574301",
+    "name": "Jude's Blood orange sorbet",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638373630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550144",
+    "name": "Oppo Strawberry cheesecake",
+    "price": 6.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237333637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "521839",
+    "name": "Lohilo Proteïne ijs strawberry white",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550162",
+    "name": "Lohilo Proteïne ijs cookie dough",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550155",
+    "name": "Lohilo Proteïne ijs chocolate brownie",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "521841",
+    "name": "Lohilo Proteïne ijs salted caramel",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs premium"
+    ],
+    "isFood": true
+  }
+]

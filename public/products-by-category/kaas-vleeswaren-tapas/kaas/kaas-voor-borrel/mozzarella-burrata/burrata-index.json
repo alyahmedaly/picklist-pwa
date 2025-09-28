@@ -1,0 +1,128 @@
+[
+  {
+    "id": "492765",
+    "name": "Zanetti Burrata truffel",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373036313533?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Burrata"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238951",
+    "name": "Zanetti Burrata",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323033393536?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Burrata"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540350",
+    "name": "Zanetti Stracciatella di burrata",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038303233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Burrata"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560692",
+    "name": "AH Burrata 50+",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536373730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Burrata"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575897",
+    "name": "AH Mini burratine",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Burrata"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577129",
+    "name": "Zanetti Burrata pesto",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932373732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Burrata"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462714",
+    "name": "Galbani Burrata",
+    "price": 2.84,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Burrata"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516376",
+    "name": "Zanetti Burrata bio",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383637393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Burrata"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437504",
+    "name": "Tre Stelle Burrata con latte di bufala",
+    "price": 3.95,
+    "image": "https://static.ah.nl/dam/product/AHI_434d5039323934343836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Mozzarella, burrata",
+      "Burrata"
+    ],
+    "isFood": true
+  }
+]

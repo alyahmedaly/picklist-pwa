@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Snoep > Harde snoep > Zoete drop (hard)",
+  "breadcrumbs": "Snoep, chocolade, koek > Snoep > Harde snoep > Zoete drop (hard)",
+  "totalProducts": 13,
+  "halalCompliance": 8,
+  "averageProtein": 8.4,
+  "averagePrice": 2.49,
+  "highProteinProducts": 1,
+  "dataQuality": {
+    "withNutrition": 13,
+    "withIngredients": 13,
+    "withHalalCheck": 13
+  }
+}

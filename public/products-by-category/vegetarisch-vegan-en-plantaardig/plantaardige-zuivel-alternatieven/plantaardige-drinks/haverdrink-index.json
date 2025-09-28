@@ -1,0 +1,587 @@
+[
+  {
+    "id": "502985",
+    "name": "Oatly! Haverdrank vanille",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580285",
+    "name": "Oatly! Barista edition oat drink",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036313234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412158",
+    "name": "Oatly! Haver barista edition",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489128",
+    "name": "Oatly! Haver barista edition",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037303035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520092",
+    "name": "Oatly! Haver barista edition",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475227",
+    "name": "Oatly! Haverdrank vol",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033333739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548463",
+    "name": "Oatly! Haverdrank vol",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484128",
+    "name": "AH Terra Plantaardige barista haver",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238353137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570842",
+    "name": "AH Terra Plantaardige barista haver",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237373235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580284",
+    "name": "Oatly! Barista edition lighter taste",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383458",
+    "name": "Oatly! Haverdrank orange mango",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232383131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519784",
+    "name": "Friesche Vlag Barista haver",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433373738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570853",
+    "name": "Oatly! Bio barista haver",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031303837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475225",
+    "name": "Oatly! Haverdrank halfvol",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036393437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548464",
+    "name": "Oatly! Haverdrank halfvol calcium",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036393932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548465",
+    "name": "Oatly! Haverdrank no sugar",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570906",
+    "name": "AH Terra Plantaardig alternatief voor volle melk",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580261",
+    "name": "AH Terra Volle drink",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570843",
+    "name": "Elovena Barista",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331393435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580260",
+    "name": "Natrue Barista flavoured pumpkin spice oat",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519785",
+    "name": "Natrue Barista oat drink",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730373837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548468",
+    "name": "Rude Health Barista haver",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548469",
+    "name": "Alpro This is not m*lk drink halfvol",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837323530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580262",
+    "name": "AH Terra Halfvolle drink",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570905",
+    "name": "AH Terra Plantaardig alternatief halfvolle melk",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461862",
+    "name": "Alpro Barista haver",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230373633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538253",
+    "name": "Alpro Barista haver",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630333536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447631",
+    "name": "Alpro Haverdrink zonder suikers",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570851",
+    "name": "Arla Jörd haver barista",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570844",
+    "name": "Elovena Haver drink naturel",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331393436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475226",
+    "name": "Oatly! Haverdrank halfvol bio",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462463",
+    "name": "AH Terra Plantaardige haverdrink ongezoet",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575538",
+    "name": "Arla Jörd haverdrink naturel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575537",
+    "name": "Arla Jörd haverdrink vanillesmaak",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738343535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570852",
+    "name": "Arla Jord nordic haverdrink naturel",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230353136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401934",
+    "name": "Oatly! Haverdrank bio",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451200",
+    "name": "AH Terra Plantaardige haverdrink ongezoet",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135363237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568426",
+    "name": "AH Haverdrink ongezoet 3-pack",
+    "price": 4.7,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577857",
+    "name": "AH Terra Plantaardige haverdrink ongezoet 4-pack",
+    "price": 5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555350",
+    "name": "Alpro Barista haver 4-pack",
+    "price": 7.17,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830383038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581564",
+    "name": "Alpro Haverdrink zonder suikers 4-pack",
+    "price": 10.6,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038303930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569537",
+    "name": "Oatly! barista 1 liter 5-pack",
+    "price": 13,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335373939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569541",
+    "name": "Oatly! Bio 5-pack",
+    "price": 12.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335383033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569539",
+    "name": "Oatly! halfvol 1 liter 5-pack",
+    "price": 11.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335383031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569538",
+    "name": "Oatly! vol 1 liter 5-pack",
+    "price": 12.1,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335383030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige drinks",
+      "Haverdrink"
+    ],
+    "isFood": true
+  }
+]

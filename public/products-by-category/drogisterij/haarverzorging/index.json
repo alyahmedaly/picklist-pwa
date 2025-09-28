@@ -1,0 +1,39 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "shampoo",
+      "displayName": "Shampoo",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "shampoo/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 7,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 7,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Drogisterij",
+        "path": "../index.json"
+      },
+      {
+        "name": "Haarverzorging",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "drogisterij"
+  }
+}

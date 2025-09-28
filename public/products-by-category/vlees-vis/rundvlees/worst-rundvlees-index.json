@@ -1,0 +1,122 @@
+[
+  {
+    "id": "397576",
+    "name": "AH Runderrookworst gegaard",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Worst (rundvlees)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571363",
+    "name": "AH Runderchipolata met rundereiwit",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Worst (rundvlees)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187586",
+    "name": "AH Chipolata worstjes 8 stuks",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Worst (rundvlees)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187588",
+    "name": "AH Runderbraadworst",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Worst (rundvlees)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193020",
+    "name": "AH Runderbraadworst",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Worst (rundvlees)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436759",
+    "name": "AH Biologisch Runderchipolata",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Worst (rundvlees)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199661",
+    "name": "Weidenaar Braadworst grof",
+    "price": 5.33,
+    "image": "NA",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Worst (rundvlees)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436751",
+    "name": "AH Biologisch Runderbraadworst",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Worst (rundvlees)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579118",
+    "name": "AH Excellent Black angus chipolataworstjes",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131353038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Worst (rundvlees)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579119",
+    "name": "AH Excellent Varkens chipolataworstjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131353037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Worst (rundvlees)"
+    ],
+    "isFood": true
+  }
+]

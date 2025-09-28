@@ -1,0 +1,86 @@
+[
+  {
+    "id": "429573",
+    "name": "AH Terra Plantaardig biologisch vloeibaar basis",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor de keuken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "56349",
+    "name": "AH Terra Plantaardige margarine",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor de keuken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429566",
+    "name": "AH Terra Plantaardig vloeibaar basis",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor de keuken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429563",
+    "name": "AH Terra Plantaardig vloeibaar balans",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor de keuken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572055",
+    "name": "Flower Farm Opgroeien zonder palmolie",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor de keuken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568210",
+    "name": "AH Terra  Plantaardige margarine 4-pack",
+    "price": 3.76,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234333230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor de keuken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578998",
+    "name": "AH Terra Plantaardig vloeibaar balans 2-pack",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938373033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Boter en margarine",
+      "Plantaardige boter en margarine voor de keuken"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "454528",
+    "name": "AH Bitter lemon",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838373438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Bitter Lemon"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140126",
+    "name": "Royal Club Bitter lemon",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036303934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Bitter Lemon"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196141",
+    "name": "Royal Club Bitter lemon",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036303931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Bitter Lemon"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496896",
+    "name": "Royal Club Bitter lemon 0%",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373334353935?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Bitter Lemon"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140127",
+    "name": "Royal Club Bitter lemon 0% suiker",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036303937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Bitter Lemon"
+    ],
+    "isFood": true
+  }
+]

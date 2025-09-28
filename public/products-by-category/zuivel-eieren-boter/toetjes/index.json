@@ -1,0 +1,80 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Toetjes",
+  "breadcrumbs": "Zuivel, eieren, boter > Toetjes",
+  "subdirectories": [
+    {
+      "name": "roomijs",
+      "displayName": "Roomijs",
+      "productCount": 29,
+      "hasSubdirectories": false,
+      "indexPath": "roomijs/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "luxe-toetjes",
+      "displayName": "Luxe Toetjes",
+      "productCount": 35,
+      "filePath": "luxe-toetjes.jsonl",
+      "indexPath": "luxe-toetjes-index.json",
+      "statsPath": "luxe-toetjes-stats.json",
+      "averageProtein": 3.6,
+      "halalCompliance": 11
+    },
+    {
+      "name": "chocolademousse",
+      "displayName": "Chocolademousse",
+      "productCount": 12,
+      "filePath": "chocolademousse.jsonl",
+      "indexPath": "chocolademousse-index.json",
+      "statsPath": "chocolademousse-stats.json",
+      "averageProtein": 4.2,
+      "halalCompliance": 0
+    },
+    {
+      "name": "pudding",
+      "displayName": "Pudding",
+      "productCount": 11,
+      "filePath": "pudding.jsonl",
+      "indexPath": "pudding-index.json",
+      "statsPath": "pudding-stats.json",
+      "averageProtein": 4.7,
+      "halalCompliance": 36
+    },
+    {
+      "name": "kindertoetjes",
+      "displayName": "Kindertoetjes",
+      "productCount": 9,
+      "filePath": "kindertoetjes.jsonl",
+      "indexPath": "kindertoetjes-index.json",
+      "statsPath": "kindertoetjes-stats.json",
+      "averageProtein": 5.9,
+      "halalCompliance": 56
+    }
+  ],
+  "totalProducts": 96,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 96,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../index.json"
+      },
+      {
+        "name": "Toetjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "zuivel-eieren-boter"
+  }
+}

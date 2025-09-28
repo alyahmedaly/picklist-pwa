@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Tussendoortjes > Warm tussendoor > Soep (tussendoor)",
+  "breadcrumbs": "Tussendoortjes > Warm tussendoor > Soep (tussendoor)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kopsoep",
+      "displayName": "Kopsoep",
+      "productCount": 42,
+      "filePath": "kopsoep.jsonl",
+      "indexPath": "kopsoep-index.json",
+      "statsPath": "kopsoep-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 76
+    }
+  ],
+  "totalProducts": 42,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Tussendoortjes",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Warm Tussendoor",
+        "path": "../index.json"
+      },
+      {
+        "name": "Soep Tussendoor",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "tussendoortjes/warm-tussendoor"
+  }
+}

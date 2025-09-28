@@ -1,0 +1,93 @@
+[
+  {
+    "id": "437064",
+    "name": "AH Fricandeau",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037323831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Rosbief en fricandeau (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437065",
+    "name": "AH Greenfields Rosbief peper",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037323538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Rosbief en fricandeau (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483969",
+    "name": "AH Greenfields Rosbief peper kleinverpakking",
+    "price": 1.98,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038353733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Rosbief en fricandeau (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "281000",
+    "name": "AH Biologisch Rosbief",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037323432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Rosbief en fricandeau (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417233",
+    "name": "AH Greenfields Rosbief",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Rosbief en fricandeau (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568387",
+    "name": "AH Greenfields Rosbief",
+    "price": 3.18,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Rosbief en fricandeau (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449009",
+    "name": "AH Greenfields Rosbief kleinverpakking",
+    "price": 1.98,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335373730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Rosbief en fricandeau (versafdeling)"
+    ],
+    "isFood": true
+  }
+]

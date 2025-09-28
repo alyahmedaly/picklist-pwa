@@ -1,0 +1,93 @@
+[
+  {
+    "id": "407579",
+    "name": "Hero Tova karamel dessertsaus",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838323437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Sauzen, sappen, dips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369544",
+    "name": "Hero Tova aardbeien dessertsaus",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038393136?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Sauzen, sappen, dips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "257216",
+    "name": "Hero Tova chocolade dessertsaus",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Sauzen, sappen, dips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505613",
+    "name": "More Agave Biologische agave siroop",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934303332?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Sauzen, sappen, dips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517259",
+    "name": "Dr. Oetker Mix voor banketbakkersroom",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533303834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Sauzen, sappen, dips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444036",
+    "name": "Hero Betuwe bessen sap rode bes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038393234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Sauzen, sappen, dips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444039",
+    "name": "Hero Betuwe bessen sap zwarte bes en bosbes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038393233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bakproducten",
+      "Toevoegingen, toppings, versiering",
+      "Sauzen, sappen, dips"
+    ],
+    "isFood": true
+  }
+]

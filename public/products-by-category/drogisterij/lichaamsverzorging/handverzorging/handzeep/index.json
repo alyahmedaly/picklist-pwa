@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Drogisterij > Lichaamsverzorging > Handverzorging > Handzeep",
+  "breadcrumbs": "Drogisterij > Lichaamsverzorging > Handverzorging > Handzeep",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "vloeibare-zeep",
+      "displayName": "Vloeibare Zeep",
+      "productCount": 8,
+      "filePath": "vloeibare-zeep.jsonl",
+      "indexPath": "vloeibare-zeep-index.json",
+      "statsPath": "vloeibare-zeep-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 8,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Drogisterij",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Lichaamsverzorging",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Handverzorging",
+        "path": "../index.json"
+      },
+      {
+        "name": "Handzeep",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "drogisterij/lichaamsverzorging/handverzorging"
+  }
+}

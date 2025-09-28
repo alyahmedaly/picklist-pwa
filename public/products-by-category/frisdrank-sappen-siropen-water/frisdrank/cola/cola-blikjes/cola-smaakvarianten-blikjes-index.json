@@ -1,0 +1,156 @@
+[
+  {
+    "id": "476730",
+    "name": "Coca-Cola Cherry",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539323638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola smaakvarianten blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476736",
+    "name": "Coca-Cola Cherry 4-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539323630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola smaakvarianten blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476731",
+    "name": "Coca-Cola Vanilla",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola smaakvarianten blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476735",
+    "name": "Coca-Cola Vanilla 4-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630363139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola smaakvarianten blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436642",
+    "name": "Coca-Cola Zero sugar cherry",
+    "price": 0.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539323535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola smaakvarianten blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476690",
+    "name": "Coca-Cola Zero sugar cherry 4-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539323536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola smaakvarianten blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436641",
+    "name": "Coca-Cola Zero sugar lemon",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630363336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola smaakvarianten blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579591",
+    "name": "Coca-Cola Zero sugar limited edition oreo",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038313132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola smaakvarianten blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554741",
+    "name": "Pepsi Zero cherry",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola smaakvarianten blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554742",
+    "name": "Pepsi Zero cherry 4-pack",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola smaakvarianten blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470647",
+    "name": "Pepsi Zero lemon",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola smaakvarianten blikjes"
+    ],
+    "isFood": true
+  }
+]

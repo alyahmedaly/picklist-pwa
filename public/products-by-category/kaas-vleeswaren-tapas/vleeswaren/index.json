@@ -1,0 +1,64 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "vleeswaren-voorverpakt",
+      "displayName": "Vleeswaren Voorverpakt",
+      "productCount": 157,
+      "hasSubdirectories": true,
+      "indexPath": "vleeswaren-voorverpakt/index.json"
+    },
+    {
+      "name": "streeckgenoten-vleeswaren",
+      "displayName": "Streeckgenoten Vleeswaren",
+      "productCount": 112,
+      "hasSubdirectories": false,
+      "indexPath": "streeckgenoten-vleeswaren/index.json"
+    },
+    {
+      "name": "vleeswaren-vers",
+      "displayName": "Vleeswaren Vers",
+      "productCount": 106,
+      "hasSubdirectories": false,
+      "indexPath": "vleeswaren-vers/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "carpaccio-versafdeling",
+      "displayName": "Carpaccio Versafdeling",
+      "productCount": 5,
+      "filePath": "carpaccio-versafdeling.jsonl",
+      "indexPath": "carpaccio-versafdeling-index.json",
+      "statsPath": "carpaccio-versafdeling-stats.json",
+      "averageProtein": 14.2,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 380,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 380,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vleeswaren",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "kaas-vleeswaren-tapas"
+  }
+}

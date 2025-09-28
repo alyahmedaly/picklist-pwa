@@ -1,0 +1,626 @@
+[
+  {
+    "id": "566868",
+    "name": "Hero B'tween mueslireep gezouten karamel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831363330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167428",
+    "name": "Hero B'tween mueslireep melkchocolade",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167430",
+    "name": "Hero B'tween mueslireep kokos & chocolade",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733323435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548154",
+    "name": "Trek Protein havermout repen peanut butter",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387826",
+    "name": "Hero B'tween mueslireep pindakaas",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939393439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576495",
+    "name": "Liga Repen muesli krenten",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136313838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576496",
+    "name": "Liga Repen muesli melkchocolade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136313837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407156",
+    "name": "Trek Protein havermout repen cocoa",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934333835?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478857",
+    "name": "Trek Protein havermout repen salted caramel",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934333832?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570769",
+    "name": "Sultana Havermoutsticks chocolade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339383930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570876",
+    "name": "Sultana Havermoutsticks naturel met golden syrup",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339383938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492666",
+    "name": "Trek Protein havermout repen choc raspberry",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373936323435?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407212",
+    "name": "Trek Protein havermout repen cocoa coconut",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431333338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548153",
+    "name": "Trek Protein havermout repen smooth lemon",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431333336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518748",
+    "name": "Hero B'tween protein noten & karamel",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407186",
+    "name": "AH Mueslireep yoghurt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383538313536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571986",
+    "name": "Madegood Mornings soft baked oat bars blueberry",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438363037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571985",
+    "name": "Madegood Mornings soft baked oat bars chocolate",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581456",
+    "name": "Nairn's Belgian chocolate chunk crunchy oat bars",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533323434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581457",
+    "name": "Nairn's Raisin apple & cinnamon crunchy oat bars",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533303835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518723",
+    "name": "Hero B'tween protein pinda's & chocolade",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576355",
+    "name": "Nature Valley Crunchy chocolate chip",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933373036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539808",
+    "name": "Nature Valley Crunchy Canadian maple syrup",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934363536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407164",
+    "name": "Nature Valley Crunchy haver en pure chocolade koek",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393633363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478858",
+    "name": "Nature Valley Crunchy variety pack",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233313532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168513",
+    "name": "Zonnatura Crunch sesam repen",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211955",
+    "name": "AH Mueslireep chocolade",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383538313537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576345",
+    "name": "Hero B'tween mueslireep zero pinda chocolade",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570883",
+    "name": "Sultana Mueslireep rood fruit & hazelnoot",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303432363733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457707",
+    "name": "Trek Protein notenrepen chocolate sea salt",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934333833?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516543",
+    "name": "AH Haverreep chocolade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535373930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576340",
+    "name": "Clif Bar Chocolate macadamia nut",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570884",
+    "name": "Sultana Mueslireep chocolade & hazelnoot",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303432363739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516542",
+    "name": "AH Haverreep cranberry",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516544",
+    "name": "AH Haverreep naturel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535373839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407177",
+    "name": "AH Mueslireep naturel",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539809",
+    "name": "Bolletje Goed bezig graanrepen choco-hazelnoot",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383931353038?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518742",
+    "name": "Hero B'tween mueslireep zero melkchocolade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031343836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457696",
+    "name": "Hero B'tween mueslireep zero witte chocolade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039393735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457693",
+    "name": "Bolletje Goed bezig graanrepen cranberry",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539323535?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576339",
+    "name": "Clif Bar Chocolate chip",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330393330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509355",
+    "name": "AH Mueslireep rood fruit zero",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383538313630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505208",
+    "name": "AH Mueslireep chocolade zero",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383538313632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576723",
+    "name": "BitesWeLove Chewy chocolate oat bars",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839343332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457694",
+    "name": "Bolletje Goed bezig havermoutrepen naturel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363931393634?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388059",
+    "name": "Bolletje Goed bezig havermoutrepen rood fruit",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363236303335?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576466",
+    "name": "Holie Crunchy bar protein peanut",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835383339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576467",
+    "name": "Holie Crunchy bar protein peanut cacao",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835383439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576468",
+    "name": "Holie Crunchy bar amandel speculaas",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835383432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576465",
+    "name": "Holie Crunchy bar nuts & seeds",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835383436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576697",
+    "name": "BitesWeLove Chewy cinnamon roll oat bars",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839343333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579077",
+    "name": "BitesWeLove Bites tussendoor repen voordeelpakket",
+    "price": 6.82,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Fruit, noten, haver, mueslirepen",
+      "Mueslirepen, havermoutrepen"
+    ],
+    "isFood": true
+  }
+]

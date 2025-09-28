@@ -1,0 +1,86 @@
+[
+  {
+    "id": "462708",
+    "name": "AH Witte kaas grote plak",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437323138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Feta, geitenkaas, witte kaas",
+      "Witte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478230",
+    "name": "Apetina White cheese 50% less fat",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393136363738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Feta, geitenkaas, witte kaas",
+      "Witte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "122566",
+    "name": "Apetina White cheese in brine 50% less fat",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932383237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Feta, geitenkaas, witte kaas",
+      "Witte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583244",
+    "name": "Lindahls Proteine + salad cheese",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137333431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Feta, geitenkaas, witte kaas",
+      "Witte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "36874",
+    "name": "Apetina Classic olie",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393136373331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Feta, geitenkaas, witte kaas",
+      "Witte kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "47131",
+    "name": "Apetina White cheese",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393136363737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor maaltijden",
+      "Feta, geitenkaas, witte kaas",
+      "Witte kaas"
+    ],
+    "isFood": true
+  }
+]

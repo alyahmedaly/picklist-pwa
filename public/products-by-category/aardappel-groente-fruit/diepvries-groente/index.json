@@ -1,0 +1,80 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Diepvries groente",
+  "breadcrumbs": "Aardappel, groente, fruit > Diepvries groente",
+  "subdirectories": [
+    {
+      "name": "diepvries-kookgemak",
+      "displayName": "Diepvries Kookgemak",
+      "productCount": 11,
+      "hasSubdirectories": false,
+      "indexPath": "diepvries-kookgemak/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "spinazie-diepvries",
+      "displayName": "Spinazie Diepvries",
+      "productCount": 18,
+      "filePath": "spinazie-diepvries.jsonl",
+      "indexPath": "spinazie-diepvries-index.json",
+      "statsPath": "spinazie-diepvries-stats.json",
+      "averageProtein": 2.4,
+      "halalCompliance": 67
+    },
+    {
+      "name": "bloemkool-diepvries",
+      "displayName": "Bloemkool Diepvries",
+      "productCount": 6,
+      "filePath": "bloemkool-diepvries.jsonl",
+      "indexPath": "bloemkool-diepvries-index.json",
+      "statsPath": "bloemkool-diepvries-stats.json",
+      "averageProtein": 1.5,
+      "halalCompliance": 50
+    },
+    {
+      "name": "broccoli-diepvries",
+      "displayName": "Broccoli Diepvries",
+      "productCount": 6,
+      "filePath": "broccoli-diepvries.jsonl",
+      "indexPath": "broccoli-diepvries-index.json",
+      "statsPath": "broccoli-diepvries-stats.json",
+      "averageProtein": 2.5,
+      "halalCompliance": 100
+    },
+    {
+      "name": "sperziebonen-diepvries",
+      "displayName": "Sperziebonen Diepvries",
+      "productCount": 5,
+      "filePath": "sperziebonen-diepvries.jsonl",
+      "indexPath": "sperziebonen-diepvries-index.json",
+      "statsPath": "sperziebonen-diepvries-stats.json",
+      "averageProtein": 2.1,
+      "halalCompliance": 40
+    }
+  ],
+  "totalProducts": 46,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 46,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Diepvries Groente",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "aardappel-groente-fruit"
+  }
+}

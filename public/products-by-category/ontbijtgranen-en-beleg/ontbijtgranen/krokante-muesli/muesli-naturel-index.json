@@ -1,0 +1,223 @@
+[
+  {
+    "id": "569831",
+    "name": "Kellogg's Tresor cookies & cream",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560772",
+    "name": "Kellogg's Extra original bel",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630373137?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467188",
+    "name": "Eat Natural Muesli glutenvrij",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238353836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569819",
+    "name": "AH Honing ringen",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577538",
+    "name": "Holie Crunchy muesli low carb seeds",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461448",
+    "name": "TastyBasics Crunchy granola naturel",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831353439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554007",
+    "name": "Jordans Crunchy naturel granola",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554008",
+    "name": "Jordans Crunchy naturel granola",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639353837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569824",
+    "name": "Jordans Muesli de luxe",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "443276",
+    "name": "AH Glutenvrij Muesli",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373232343037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494098",
+    "name": "AH Glutenvrij Vezelrijke haverpops",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373231303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451890",
+    "name": "Smaakt Speltmuesli extra",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036313039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569802",
+    "name": "Zonnatura Krokante muesli naturel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539333737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197615",
+    "name": "Zonnatura Muesli rijkgevuld",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516890",
+    "name": "Zonnatura Muesli bessen en zaden proteïne",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935313634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438127",
+    "name": "AH Volkoren muesli naturel",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332373033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438131",
+    "name": "AH Biologisch Muesli volkoren",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli (naturel)"
+    ],
+    "isFood": true
+  }
+]

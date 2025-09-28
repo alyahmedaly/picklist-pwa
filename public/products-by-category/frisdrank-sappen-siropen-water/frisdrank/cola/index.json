@@ -1,0 +1,75 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "cola-blikjes",
+      "displayName": "Cola Blikjes",
+      "productCount": 50,
+      "hasSubdirectories": false,
+      "indexPath": "cola-blikjes/index.json"
+    },
+    {
+      "name": "cola-flessen",
+      "displayName": "Cola Flessen",
+      "productCount": 44,
+      "hasSubdirectories": false,
+      "indexPath": "cola-flessen/index.json"
+    },
+    {
+      "name": "cola-flesjes",
+      "displayName": "Cola Flesjes",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "cola-flesjes/index.json"
+    },
+    {
+      "name": "cola-light-suikervrij",
+      "displayName": "Cola Light Suikervrij",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "cola-light-suikervrij/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "cola-blikjes-in-tray",
+      "displayName": "Cola Blikjes In Tray",
+      "productCount": 10,
+      "filePath": "cola-blikjes-in-tray.jsonl",
+      "indexPath": "cola-blikjes-in-tray-index.json",
+      "statsPath": "cola-blikjes-in-tray-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 50
+    }
+  ],
+  "totalProducts": 115,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 115,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Frisdrank",
+        "path": "../index.json"
+      },
+      {
+        "name": "Cola",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/frisdrank"
+  }
+}

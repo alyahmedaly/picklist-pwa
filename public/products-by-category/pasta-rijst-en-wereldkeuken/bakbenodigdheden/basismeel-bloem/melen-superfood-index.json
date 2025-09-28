@@ -1,0 +1,158 @@
+[
+  {
+    "id": "467434",
+    "name": "Smaakt Hazelnootmeel",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139363933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "Melen (superfood)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225015",
+    "name": "Smaakt Amandelmeel",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139373034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "Melen (superfood)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225017",
+    "name": "Smaakt Rijstmeel biologisch",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139363939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "Melen (superfood)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583564",
+    "name": "AH Biologisch Speltbloem",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "Melen (superfood)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583900",
+    "name": "AH Biologisch Havermeel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "Melen (superfood)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583853",
+    "name": "AH Biologisch Haverzemelen",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "Melen (superfood)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227985",
+    "name": "Smaakt Volkoren havermeel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032303835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "Melen (superfood)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227860",
+    "name": "Smaakt Volkoren speltmeel",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032363636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "Melen (superfood)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475246",
+    "name": "AH Biologisch Volkoren speltvlokken",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373332323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "Melen (superfood)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467621",
+    "name": "Smaakt Gerst gepareld",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "Melen (superfood)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467252",
+    "name": "Smaakt Gierst",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136333238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "Melen (superfood)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227999",
+    "name": "Smaakt Kikkererwtenmeel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136343634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Bakbenodigdheden",
+      "Basismeel, bloem",
+      "Melen (superfood)"
+    ],
+    "isFood": true
+  }
+]

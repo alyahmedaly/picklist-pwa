@@ -1,0 +1,548 @@
+[
+  {
+    "id": "504929",
+    "name": "Indo mie Noodles kip smaak",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383737363533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388317",
+    "name": "Unox Cup-a-soup champignon ham",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393939343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388427",
+    "name": "Unox Cup-a-soup koninginnensoep",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473144",
+    "name": "Amino Barszcs czerwony",
+    "price": 1.09,
+    "image": "NA",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "368109",
+    "name": "Amino Pomidorowa",
+    "price": 1.09,
+    "image": "NA",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388335",
+    "name": "Unox Cup-a-soup champignon crème",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388308",
+    "name": "Unox Cup-a-soup Chinese kip",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839363031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388305",
+    "name": "Unox Cup-a-soup mosterd",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035343237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223113",
+    "name": "Royco Minute soup crunchy Asperges BEL",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303137323631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223115",
+    "name": "Royco Minute soup crunchy Pompoens BEL",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303137323638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388322",
+    "name": "Unox Cup-a-soup Indiase kerrie",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393937333138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388319",
+    "name": "Unox Cup-a-soup prei créme",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393939343139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388339",
+    "name": "Unox Cup-a-soup rundvlees",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393939363532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223117",
+    "name": "Royco Minute soup classic Kip BEL",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303137323937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388306",
+    "name": "Unox Cup-a-soup Chinese tomaat",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839343331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388338",
+    "name": "Unox Cup-a-soup groente",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388337",
+    "name": "Unox Cup-a-soup kip",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383639383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388342",
+    "name": "Unox Cup-a-soup kip",
+    "price": 4.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835343837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123582",
+    "name": "AH Kopsoep champignon",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363439373734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123576",
+    "name": "AH Kopsoep kip",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363439373732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447331",
+    "name": "Maggi Opkikker drinkbouillon rundvlees",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373230303637?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388301",
+    "name": "Unox Cup-a-soup asperge",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393937333536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388336",
+    "name": "Unox Cup-a-soup tomaat",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932323332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388311",
+    "name": "Unox Cup-a-soup tomaten créme",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393939383934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447329",
+    "name": "Maggi Opkikker drinkbouillon kip",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383030303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447330",
+    "name": "Maggi Opkikker drinkbouillon pikante kip",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630303232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447333",
+    "name": "Maggi Opkikker drinkbouillon tuinkruiden",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134353238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223225",
+    "name": "Royco Minute soup curry BEL",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303137323639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223224",
+    "name": "Royco Minute soup tomatensupreme BEL",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303137323634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191904",
+    "name": "Saitaku Miso soup",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632343931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447736",
+    "name": "Unox Cup-a-soup champignon creme",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388331",
+    "name": "Unox Cup-a-soup Franse ui",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839363033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388341",
+    "name": "Unox Cup-a-soup tomaat",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123579",
+    "name": "AH Kopsoep chinese tomaat",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363439373731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123583",
+    "name": "AH Kopsoep tomaat",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363439373730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388324",
+    "name": "Unox Cup-a-soup Hongaarse goulash",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393939343231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67600",
+    "name": "Knorr Drinkbouillon kip",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124107",
+    "name": "Knorr Drinkbouillon tomaat",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104063",
+    "name": "Knorr Drinkbouillon tuinkruiden",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457581",
+    "name": "Knorr Rundvlees bouillonblokjes voordeelpak",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934303138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388333",
+    "name": "Unox Cup-a-soup chinese tomaat",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935333434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388315",
+    "name": "Unox Cup-a-soup pittige tomaat",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Soep (tussendoor)",
+      "Kopsoep"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" },
+    { "path": "./packages/core" },
+    { "path": "./packages/parser" },
+    { "path": "./packages/output" },
+    { "path": "./packages/types" },
+    { "path": "./packages/filter" },
+    { "path": "./packages/pipline" }
+  ]
+}

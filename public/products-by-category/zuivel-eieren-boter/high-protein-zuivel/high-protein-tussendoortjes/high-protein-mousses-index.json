@@ -1,0 +1,67 @@
+[
+  {
+    "id": "556321",
+    "name": "AH Protein mousse karamelsmaak",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein Tussendoortjes",
+      "High Protein Mousses"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575531",
+    "name": "AH Protein mousse aardbei smaak",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein Tussendoortjes",
+      "High Protein Mousses"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556294",
+    "name": "AH Protein mousse chocoladesmaak",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339323736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein Tussendoortjes",
+      "High Protein Mousses"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515846",
+    "name": "HiPRO Protein mousse dark chocolate",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832333931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein Tussendoortjes",
+      "High Protein Mousses"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515866",
+    "name": "HiPRO Protein mousse salted caramel",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836333735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein Tussendoortjes",
+      "High Protein Mousses"
+    ],
+    "isFood": true
+  }
+]

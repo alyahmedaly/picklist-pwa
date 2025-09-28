@@ -1,0 +1,54 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "sauzen",
+      "displayName": "Sauzen",
+      "productCount": 396,
+      "hasSubdirectories": true,
+      "indexPath": "sauzen/index.json"
+    },
+    {
+      "name": "kruiden-smaakmakers-garnering",
+      "displayName": "Kruiden Smaakmakers Garnering",
+      "productCount": 189,
+      "hasSubdirectories": true,
+      "indexPath": "kruiden-smaakmakers-garnering/index.json"
+    },
+    {
+      "name": "soepen",
+      "displayName": "Soepen",
+      "productCount": 94,
+      "hasSubdirectories": true,
+      "indexPath": "soepen/index.json"
+    },
+    {
+      "name": "conserven",
+      "displayName": "Conserven",
+      "productCount": 19,
+      "hasSubdirectories": true,
+      "indexPath": "conserven/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 698,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 698,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

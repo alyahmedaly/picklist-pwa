@@ -1,0 +1,519 @@
+[
+  {
+    "id": "550280",
+    "name": "Johma 100% plantaardige kaas-mosterdsalade",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238363235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577291",
+    "name": "Johma 100% plantaardig gevulde eitje salade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031313335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470020",
+    "name": "BioToday Champignon paté",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136333734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569953",
+    "name": "AH Terra Party dip prei en kruiden",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238353238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515256",
+    "name": "Johma 100% plantaardige kip-sambasalade",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232383735?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569952",
+    "name": "AH Terra Plantaardige spread kruiden",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569951",
+    "name": "AH Terra Plantaardige spread naturel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577292",
+    "name": "AH Terra Plantaardig mosterd agave spread",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031323236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515257",
+    "name": "Johma 100% plantaardige kip-kerriesalade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232373735?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577296",
+    "name": "AH Terra Plantaardig Mediteraanse paprika spread",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031323235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515264",
+    "name": "AH Terra Plantaardige salade kipkerrie",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560999",
+    "name": "AH Terra Plantaardige salade gevuld eitje",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537343136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561008",
+    "name": "AH Terra Thaise curry spread",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541518",
+    "name": "Zonnatura Smooth spread avocado",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393130343232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541519",
+    "name": "Zonnatura Smooth spread mango-curry",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393130343233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561009",
+    "name": "AH Terra Indische pinda spread",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933393234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561007",
+    "name": "AH Terra Tandoori curry spread",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536373630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218617",
+    "name": "Maza Muhammara",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230393333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577295",
+    "name": "AH Terra Plantaardige Thaise pinda kokos spread",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497594",
+    "name": "AH Terra Plantaardige salade alternatief voor ei",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738373033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497593",
+    "name": "AH Terra Plantaardige salade farmer",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738373030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417476",
+    "name": "AH Terra Zoete aardappel spread madras",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738363632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "545626",
+    "name": "Neni Baba Ganoush",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133393237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560991",
+    "name": "AH Terra Groente spread pompoen wortel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577294",
+    "name": "AH Terra Plantaardige Indiaase madras spread",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932373134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515265",
+    "name": "AH Terra Plantaardige salade kipsaté",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572082",
+    "name": "AH Terra Zoete aardappel spread madras",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569961",
+    "name": "Oma's Groentespread pompoen curry",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133393331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412544",
+    "name": "Zonnatura Groentespread spicy tomaat",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353439303232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417481",
+    "name": "AH Terra Muhammara",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036363331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365840",
+    "name": "Zonnatura Groentespread paprika",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353439303930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461523",
+    "name": "Zonnatura Groentespread spinazie",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363938383334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "522402",
+    "name": "AH Terra Groente spread gegrilde paprika",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577293",
+    "name": "AH Terra Plantaardige groentespread doperwten",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832313230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577365",
+    "name": "Maza Biologische baba ganoush",
+    "price": 3.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136383730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569960",
+    "name": "Oma's Groentespread tomaat basilicum",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339393735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561001",
+    "name": "AH Terra Avocado spread",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "522401",
+    "name": "AH Terra Groente spread komkommer tomaat",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561006",
+    "name": "AH Terra Knoflook & kruiden spread",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577364",
+    "name": "Maza Biologische hoemoes jalapeño",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136383639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446058",
+    "name": "Mister kitchen's Veggie spread & dip kerrie appel",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373631353231?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429178",
+    "name": "Mister kitchen's Veggie spread & dip tomaat courgette",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363839303632?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577366",
+    "name": "Maza Biologische hoemoes kalamata olijven",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563729",
+    "name": "Mister kitchen's Veggie spread & dip hummus spicy",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036383830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429348",
+    "name": "Mister kitchen's Veggie spread & dip chili paprika",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363933323436?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563728",
+    "name": "Mister kitchen's Veggie spread & dip hummus original",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036383739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561002",
+    "name": "AH Terra Smashed avocado",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige spreads"
+    ],
+    "isFood": true
+  }
+]

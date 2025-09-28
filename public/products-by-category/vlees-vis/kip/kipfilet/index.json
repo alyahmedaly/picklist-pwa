@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Vlees, vis > Kip > Kipfilet",
+  "breadcrumbs": "Vlees, vis > Kip > Kipfilet",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kipfilet-stuk",
+      "displayName": "Kipfilet Stuk",
+      "productCount": 25,
+      "filePath": "kipfilet-stuk.jsonl",
+      "indexPath": "kipfilet-stuk-index.json",
+      "statsPath": "kipfilet-stuk-stats.json",
+      "averageProtein": 20.7,
+      "halalCompliance": 80
+    },
+    {
+      "name": "kipfilet-reepjes",
+      "displayName": "Kipfilet Reepjes",
+      "productCount": 12,
+      "filePath": "kipfilet-reepjes.jsonl",
+      "indexPath": "kipfilet-reepjes-index.json",
+      "statsPath": "kipfilet-reepjes-stats.json",
+      "averageProtein": 19.3,
+      "halalCompliance": 92
+    },
+    {
+      "name": "kipfilet-blokjes",
+      "displayName": "Kipfilet Blokjes",
+      "productCount": 11,
+      "filePath": "kipfilet-blokjes.jsonl",
+      "indexPath": "kipfilet-blokjes-index.json",
+      "statsPath": "kipfilet-blokjes-stats.json",
+      "averageProtein": 22.3,
+      "halalCompliance": 91
+    }
+  ],
+  "totalProducts": 48,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 48,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kip",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kipfilet",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/kip"
+  }
+}

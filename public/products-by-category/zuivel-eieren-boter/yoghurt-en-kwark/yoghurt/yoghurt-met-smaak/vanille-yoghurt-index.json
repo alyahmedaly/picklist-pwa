@@ -1,0 +1,156 @@
+[
+  {
+    "id": "130174",
+    "name": "AH Halfvolle yoghurt vanille 1,5%",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335303531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt met smaak",
+      "Vanille yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123",
+    "name": "Campina Halfvolle yoghurt vanillesmaak",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134373236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt met smaak",
+      "Vanille yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177474",
+    "name": "De Zaanse Hoeve Halfvolle yoghurt vanillesmaak",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035333731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt met smaak",
+      "Vanille yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550133",
+    "name": "Zuivelhoeve Boer'n yoghurt aardbei",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235363630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt met smaak",
+      "Vanille yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567554",
+    "name": "Zuivelhoeve Boer'n yoghurt vanille",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303037383232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt met smaak",
+      "Vanille yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167913",
+    "name": "Arla Biologisch vanille yoghurt halfvol",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393331383838?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt met smaak",
+      "Vanille yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550134",
+    "name": "Zuivelhoeve Boer'n yoghurt bosvruchten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235363539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt met smaak",
+      "Vanille yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "235011",
+    "name": "Pur Natur Biologisch yoghurt vanille",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303230383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt met smaak",
+      "Vanille yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233529",
+    "name": "Den Eelder Boeren vanille yoghurt",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393739373231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt met smaak",
+      "Vanille yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455649",
+    "name": "AH Biologisch Halfvolle yoghurt vanille 1,5%",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383734303832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt met smaak",
+      "Vanille yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568249",
+    "name": "De Zaanse Hoeve Halfvolle yoghurt vanillesmaak 3-pack",
+    "price": 4.13,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt met smaak",
+      "Vanille yoghurt"
+    ],
+    "isFood": true
+  }
+]

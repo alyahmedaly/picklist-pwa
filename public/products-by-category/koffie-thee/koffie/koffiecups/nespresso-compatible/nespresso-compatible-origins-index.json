@@ -1,0 +1,156 @@
+[
+  {
+    "id": "471204",
+    "name": "Perla Superiore Origins Colombia espresso capsules",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934313338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Nespresso compatible",
+      "Nespresso compatible (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471202",
+    "name": "Perla Superiore Origins Sumatra espresso capsules",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934313039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Nespresso compatible",
+      "Nespresso compatible (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485610",
+    "name": "Nescafé Farmers origins Africas capsules",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534383432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Nespresso compatible",
+      "Nespresso compatible (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "551461",
+    "name": "Nescafé Farmers origins Andes capsules",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534383534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Nespresso compatible",
+      "Nespresso compatible (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485613",
+    "name": "Nescafé Farmers origins Brazil capsules",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534383434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Nespresso compatible",
+      "Nespresso compatible (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523351",
+    "name": "Nescafé Farmers origins Colombia capsules",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534383535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Nespresso compatible",
+      "Nespresso compatible (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485612",
+    "name": "Nescafé Farmers origins India capsules",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534383338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Nespresso compatible",
+      "Nespresso compatible (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572378",
+    "name": "Nescafé Farmers origins Mexico espresso capsules",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534383635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Nespresso compatible",
+      "Nespresso compatible (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495569",
+    "name": "Simon Lévelt Colombian emerald espresso cups",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373435333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Nespresso compatible",
+      "Nespresso compatible (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523263",
+    "name": "Simon Lévelt Indonesian Jasper cups",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036393537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Nespresso compatible",
+      "Nespresso compatible (origins)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495571",
+    "name": "Simon Lévelt Ugandan amber cups",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373435333831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiecups",
+      "Nespresso compatible",
+      "Nespresso compatible (origins)"
+    ],
+    "isFood": true
+  }
+]

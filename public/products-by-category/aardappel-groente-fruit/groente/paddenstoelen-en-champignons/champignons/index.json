@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Paddenstoelen en champignons > Champignons",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Paddenstoelen en champignons > Champignons",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "champignons-vers",
+      "displayName": "Champignons Vers",
+      "productCount": 14,
+      "filePath": "champignons-vers.jsonl",
+      "indexPath": "champignons-vers-index.json",
+      "statsPath": "champignons-vers-stats.json",
+      "averageProtein": 2.4,
+      "halalCompliance": 64
+    }
+  ],
+  "totalProducts": 14,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Paddenstoelen En Champignons",
+        "path": "../index.json"
+      },
+      {
+        "name": "Champignons",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/paddenstoelen-en-champignons"
+  }
+}

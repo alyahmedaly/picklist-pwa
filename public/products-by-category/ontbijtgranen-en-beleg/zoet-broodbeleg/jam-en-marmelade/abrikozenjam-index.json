@@ -1,0 +1,132 @@
+[
+  {
+    "id": "132398",
+    "name": "AH Extra jam abrikozen",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383930343238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Abrikozenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2382",
+    "name": "Bonne Maman Abrikozen confiture",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331323437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Abrikozenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195645",
+    "name": "Bonne Maman Abrikozen confiture",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639313430?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Abrikozenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563621",
+    "name": "Bonne Maman Abrikozen fijn gezeefd",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303033343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Abrikozenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413570",
+    "name": "Bonne Maman Meer fruit minder suiker abrikozenjam",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635323739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Abrikozenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532217",
+    "name": "Hero Jam minder zoet abrikozen",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033353133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Abrikozenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413586",
+    "name": "AH Biologisch Abrikoos fruitspread",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Abrikozenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513470",
+    "name": "AH Bosvruchten fruitspread",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835373334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Abrikozenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578263",
+    "name": "Hero Jam zero abrikozen",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Abrikozenjam"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563949",
+    "name": "Natù Abrikozenspread",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038373438?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Jam en marmelade",
+      "Abrikozenjam"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "35718",
+    "name": "Jersey Chocolate eclairs",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303536333037?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Toffee, fudge, nougat",
+      "Toffees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "35539",
+    "name": "Toffifee Toffifee",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137303532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Toffee, fudge, nougat",
+      "Toffees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3184",
+    "name": "Werther's Original Klassieke roomsnoepjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363936303136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Toffee, fudge, nougat",
+      "Toffees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578435",
+    "name": "Werther's Original Soft chocolate caramel",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635353038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Toffee, fudge, nougat",
+      "Toffees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225108",
+    "name": "Werther's Original Caramel & créme",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363636313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Toffee, fudge, nougat",
+      "Toffees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457998",
+    "name": "Werther's Original Soft caramel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533393037?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Toffee, fudge, nougat",
+      "Toffees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559135",
+    "name": "Van Melle Toffees fruit smaken",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735303236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Toffee, fudge, nougat",
+      "Toffees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559131",
+    "name": "Van Melle Toffees advocaat smaak",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234363134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Toffee, fudge, nougat",
+      "Toffees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559132",
+    "name": "Van Melle Toffees drop",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234363132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Toffee, fudge, nougat",
+      "Toffees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226804",
+    "name": "Rosenberg Roomboter babbelaars delftsbl mini blik",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303338333032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Toffee, fudge, nougat",
+      "Toffees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451281",
+    "name": "Werther's Original Classic suikervrij",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353433393039?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Toffee, fudge, nougat",
+      "Toffees"
+    ],
+    "isFood": true
+  }
+]

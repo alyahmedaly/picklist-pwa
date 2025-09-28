@@ -1,0 +1,170 @@
+[
+  {
+    "id": "166766",
+    "name": "Fruittella Aardbei",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232373833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoeprollen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "175979",
+    "name": "Fruittella Garden fruits",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232373834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoeprollen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578457",
+    "name": "Mentos Discovery 14 flavours",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738363736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoeprollen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369464",
+    "name": "Mentos Rainbow 5-pack",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoeprollen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "219856",
+    "name": "Mentos Fruit",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738353534?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoeprollen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369462",
+    "name": "Mentos Fruit 5-pack",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoeprollen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540301",
+    "name": "Mentos Strawberry mix 5-pack",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935323835?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoeprollen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573409",
+    "name": "Mentos Mini fruitmix",
+    "price": 30.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538393636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoeprollen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130290",
+    "name": "Lakrisal Salmiak",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373333313831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoeprollen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547719",
+    "name": "Mentos Fresh cola 5-pack",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935323836?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoeprollen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "208714",
+    "name": "Red Band Fruit fun original 4-pack",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138333136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoeprollen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369461",
+    "name": "Mentos Drop 5-pack",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoeprollen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "109232",
+    "name": "Venco Topdrop hard zout 4-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373236353330?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoeprollen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232457",
+    "name": "Dextro Energy multivitamine",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353734303733?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Snoeprollen"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "categoryPath": "Gezondheid, sport > Sportvoeding",
+  "breadcrumbs": "Gezondheid, sport > Sportvoeding",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "eiwitpoeder",
+      "displayName": "Eiwitpoeder",
+      "productCount": 23,
+      "filePath": "eiwitpoeder.jsonl",
+      "indexPath": "eiwitpoeder-index.json",
+      "statsPath": "eiwitpoeder-stats.json",
+      "averageProtein": 75.8,
+      "halalCompliance": 30
+    },
+    {
+      "name": "magnesium",
+      "displayName": "Magnesium",
+      "productCount": 20,
+      "filePath": "magnesium.jsonl",
+      "indexPath": "magnesium-index.json",
+      "statsPath": "magnesium-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 90
+    },
+    {
+      "name": "proteneshakes",
+      "displayName": "Proteneshakes",
+      "productCount": 14,
+      "filePath": "proteneshakes.jsonl",
+      "indexPath": "proteneshakes-index.json",
+      "statsPath": "proteneshakes-stats.json",
+      "averageProtein": 7.9,
+      "halalCompliance": 100
+    },
+    {
+      "name": "sportsupplementen",
+      "displayName": "Sportsupplementen",
+      "productCount": 14,
+      "filePath": "sportsupplementen.jsonl",
+      "indexPath": "sportsupplementen-index.json",
+      "statsPath": "sportsupplementen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 50
+    },
+    {
+      "name": "prework-out",
+      "displayName": "Prework Out",
+      "productCount": 11,
+      "filePath": "prework-out.jsonl",
+      "indexPath": "prework-out-index.json",
+      "statsPath": "prework-out-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "energierepen",
+      "displayName": "Energierepen",
+      "productCount": 6,
+      "filePath": "energierepen.jsonl",
+      "indexPath": "energierepen-index.json",
+      "statsPath": "energierepen-stats.json",
+      "averageProtein": 5,
+      "halalCompliance": 50
+    }
+  ],
+  "totalProducts": 88,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 88,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../index.json"
+      },
+      {
+        "name": "Sportvoeding",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "gezondheid-sport"
+  }
+}

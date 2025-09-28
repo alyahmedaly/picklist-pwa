@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Yoghurt en kwark > Yoghurt > Yoghurt met smaak",
+  "breadcrumbs": "Zuivel, eieren, boter > Yoghurt en kwark > Yoghurt > Yoghurt met smaak",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "vruchten-yoghurt",
+      "displayName": "Vruchten Yoghurt",
+      "productCount": 18,
+      "filePath": "vruchten-yoghurt.jsonl",
+      "indexPath": "vruchten-yoghurt-index.json",
+      "statsPath": "vruchten-yoghurt-stats.json",
+      "averageProtein": 3.6,
+      "halalCompliance": 100
+    },
+    {
+      "name": "vanille-yoghurt",
+      "displayName": "Vanille Yoghurt",
+      "productCount": 11,
+      "filePath": "vanille-yoghurt.jsonl",
+      "indexPath": "vanille-yoghurt-index.json",
+      "statsPath": "vanille-yoghurt-stats.json",
+      "averageProtein": 3.3,
+      "halalCompliance": 55
+    }
+  ],
+  "totalProducts": 29,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 29,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Yoghurt En Kwark",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Yoghurt",
+        "path": "../index.json"
+      },
+      {
+        "name": "Yoghurt Met Smaak",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "zuivel-eieren-boter/yoghurt-en-kwark/yoghurt"
+  }
+}

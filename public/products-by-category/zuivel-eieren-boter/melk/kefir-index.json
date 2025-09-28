@@ -1,0 +1,74 @@
+[
+  {
+    "id": "566574",
+    "name": "Beautiful Immunity Kefir bosvruchten",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232313438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Kefir"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440366",
+    "name": "Arla Biologisch kefir naturel",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393331383831?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Kefir"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "430038",
+    "name": "Healthy people Kefir blauwe bosbessensmaak",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239333837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Kefir"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415705",
+    "name": "AH Kefir naturel",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Kefir"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401890",
+    "name": "Healthy people Kefir naturel",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239333838?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Kefir"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566573",
+    "name": "Beautiful Immunity Kefir naturel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232313439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Kefir"
+    ],
+    "isFood": true
+  }
+]

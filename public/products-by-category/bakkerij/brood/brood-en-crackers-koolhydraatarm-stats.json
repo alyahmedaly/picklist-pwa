@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Brood > Brood en crackers (koolhydraatarm)",
+  "breadcrumbs": "Bakkerij > Brood > Brood en crackers (koolhydraatarm)",
+  "totalProducts": 14,
+  "halalCompliance": 100,
+  "averageProtein": 28.3,
+  "averagePrice": 3.2,
+  "highProteinProducts": 13,
+  "dataQuality": {
+    "withNutrition": 14,
+    "withIngredients": 14,
+    "withHalalCheck": 14
+  }
+}

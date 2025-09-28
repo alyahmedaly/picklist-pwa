@@ -1,0 +1,36 @@
+{
+  "categoryPath": "Wijn en bubbels > Alcoholvrije wijn, bubbels",
+  "breadcrumbs": "Wijn en bubbels > Alcoholvrije wijn, bubbels",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "alcoholvrije-aperitieven",
+      "displayName": "Alcoholvrije Aperitieven",
+      "productCount": 14,
+      "filePath": "alcoholvrije-aperitieven.jsonl",
+      "indexPath": "alcoholvrije-aperitieven-index.json",
+      "statsPath": "alcoholvrije-aperitieven-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 79
+    }
+  ],
+  "totalProducts": 14,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../index.json"
+      },
+      {
+        "name": "Alcoholvrije Wijn Bubbels",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "wijn-en-bubbels"
+  }
+}

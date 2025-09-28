@@ -1,0 +1,39 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "soepen-in-blik",
+      "displayName": "Soepen In Blik",
+      "productCount": 19,
+      "hasSubdirectories": false,
+      "indexPath": "soepen-in-blik/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 19,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 19,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../index.json"
+      },
+      {
+        "name": "Conserven",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "soepen-sauzen-kruiden-olie"
+  }
+}

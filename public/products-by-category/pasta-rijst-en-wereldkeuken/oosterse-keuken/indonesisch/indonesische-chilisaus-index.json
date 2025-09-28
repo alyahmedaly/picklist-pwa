@@ -1,0 +1,145 @@
+[
+  {
+    "id": "516869",
+    "name": "Go-Tan Sriracha mayo",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535155",
+    "name": "Red Phoenix Sweet chili saus gember & knoflook",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131333332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535154",
+    "name": "Red Phoenix Sweet chili saus met lemongrass",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131333239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535153",
+    "name": "Red Phoenix Sweet chili saus original",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131333330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236468",
+    "name": "Go-Tan Hot chilli saus",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363732323033?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574897",
+    "name": "Go-Tan Sriracha ketchup chili ketchup sauce",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166448",
+    "name": "Flowerbrand Sweet chili sauce",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383031343039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236467",
+    "name": "Go-Tan Sweet chilli sauce",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539383438?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388182",
+    "name": "AH Sweet chili sauce",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734373039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505271",
+    "name": "Go-Tan Smokey sriracha",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373831333035?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505270",
+    "name": "Go-Tan Sriracha",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932343437?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische chilisaus"
+    ],
+    "isFood": true
+  }
+]

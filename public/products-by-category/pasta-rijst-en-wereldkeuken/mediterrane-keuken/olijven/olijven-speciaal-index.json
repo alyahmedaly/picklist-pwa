@@ -1,0 +1,93 @@
+[
+  {
+    "id": "500475",
+    "name": "Amogusti Olijven gevuld met ansjovis",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373637333636?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Olijven speciaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500476",
+    "name": "Amogusti Olijven gevuld met citroen",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373637333535?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Olijven speciaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465745",
+    "name": "Marmarabirlik Kuru sele zwarte olijven",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637313130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Olijven speciaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577559",
+    "name": "Amogusti Olijven gevuld met truffel",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934323232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Olijven speciaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577557",
+    "name": "Elita Groene olijven citroen en knoflooksmaak",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Olijven speciaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577556",
+    "name": "Elita Groene olijven met knoflook en basilicum",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Olijven speciaal"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577555",
+    "name": "Elita Groene olijven rode peper en paprika",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931333436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Olijven speciaal"
+    ],
+    "isFood": true
+  }
+]

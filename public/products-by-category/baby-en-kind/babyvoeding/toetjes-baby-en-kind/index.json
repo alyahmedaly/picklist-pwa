@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Baby en kind > Babyvoeding > Toetjes (baby en kind)",
+  "breadcrumbs": "Baby en kind > Babyvoeding > Toetjes (baby en kind)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "toetjes-vanaf-6-maanden",
+      "displayName": "Toetjes Vanaf 6 Maanden",
+      "productCount": 9,
+      "filePath": "toetjes-vanaf-6-maanden.jsonl",
+      "indexPath": "toetjes-vanaf-6-maanden-index.json",
+      "statsPath": "toetjes-vanaf-6-maanden-stats.json",
+      "averageProtein": 1.9,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 9,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Baby En Kind",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Babyvoeding",
+        "path": "../index.json"
+      },
+      {
+        "name": "Toetjes Baby En Kind",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "baby-en-kind/babyvoeding"
+  }
+}

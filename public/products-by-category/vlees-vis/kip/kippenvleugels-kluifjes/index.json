@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Vlees, vis > Kip > Kippenvleugels, kluifjes",
+  "breadcrumbs": "Vlees, vis > Kip > Kippenvleugels, kluifjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kipvleugels",
+      "displayName": "Kipvleugels",
+      "productCount": 6,
+      "filePath": "kipvleugels.jsonl",
+      "indexPath": "kipvleugels-index.json",
+      "statsPath": "kipvleugels-stats.json",
+      "averageProtein": 17.7,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kip",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kippenvleugels Kluifjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/kip"
+  }
+}

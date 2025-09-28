@@ -1,0 +1,82 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Droge worst",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Droge worst",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "droge-worst-snacks",
+      "displayName": "Droge Worst Snacks",
+      "productCount": 46,
+      "filePath": "droge-worst-snacks.jsonl",
+      "indexPath": "droge-worst-snacks-index.json",
+      "statsPath": "droge-worst-snacks-stats.json",
+      "averageProtein": 28.3,
+      "halalCompliance": 24
+    },
+    {
+      "name": "droge-worst-salami-fuet",
+      "displayName": "Droge Worst Salami Fuet",
+      "productCount": 34,
+      "filePath": "droge-worst-salami-fuet.jsonl",
+      "indexPath": "droge-worst-salami-fuet-index.json",
+      "statsPath": "droge-worst-salami-fuet-stats.json",
+      "averageProtein": 22.5,
+      "halalCompliance": 0
+    },
+    {
+      "name": "droge-worst-metworst",
+      "displayName": "Droge Worst Metworst",
+      "productCount": 17,
+      "filePath": "droge-worst-metworst.jsonl",
+      "indexPath": "droge-worst-metworst-index.json",
+      "statsPath": "droge-worst-metworst-stats.json",
+      "averageProtein": 26.4,
+      "halalCompliance": 0
+    },
+    {
+      "name": "droge-worst-cervelaat",
+      "displayName": "Droge Worst Cervelaat",
+      "productCount": 9,
+      "filePath": "droge-worst-cervelaat.jsonl",
+      "indexPath": "droge-worst-cervelaat-index.json",
+      "statsPath": "droge-worst-cervelaat-stats.json",
+      "averageProtein": 21.3,
+      "halalCompliance": 11
+    },
+    {
+      "name": "chorizo-worst",
+      "displayName": "Chorizo Worst",
+      "productCount": 8,
+      "filePath": "chorizo-worst.jsonl",
+      "indexPath": "chorizo-worst-index.json",
+      "statsPath": "chorizo-worst-stats.json",
+      "averageProtein": 22.6,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 114,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 114,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../index.json"
+      },
+      {
+        "name": "Droge Worst",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "kaas-vleeswaren-tapas"
+  }
+}

@@ -1,0 +1,554 @@
+[
+  {
+    "id": "475410",
+    "name": "Bifi Roll 3-pack",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632383831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576879",
+    "name": "Bifi Roll XXL",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933313139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556751",
+    "name": "Bifi Salami sticks",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393834353933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473208",
+    "name": "Bifi BIFI ROLL TURKEY 3PK 10X3X45G bel",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383734363630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67722",
+    "name": "Compaxo Amigo's",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031343533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238119",
+    "name": "Auvernou Mini sticks nature",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236323532303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561337",
+    "name": "Huls Droge worst naturel sticks",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448429",
+    "name": "Huls Sticks naturel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363837353638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199685",
+    "name": "AH Kleine worstjes",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331383537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62658",
+    "name": "AH Mini cervelaat",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303331383837?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436593",
+    "name": "Aoste Bistro Patron voorgesneden BEL",
+    "price": 2.71,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436591",
+    "name": "Aoste Stickado walnoot bel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373538313437?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238118",
+    "name": "Auvernou Mini snacks nature",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303339323636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556746",
+    "name": "Bifi Chorizo sticks",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235383331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367554",
+    "name": "Bifi Mini 6-pack",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393834373238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496867",
+    "name": "Bifi Minis 10-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373537313038?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570107",
+    "name": "Bifi The original 3-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475409",
+    "name": "Bifi The original 7-pack family pack",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383336303832?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570108",
+    "name": "Bifi Turkey 3-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239393533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570102",
+    "name": "Huls Sticks mediterraanse droge worst",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331353337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228289",
+    "name": "Justin Bridou Baton de berger hazelnoten bel",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936333734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374342",
+    "name": "Sneq's Ferdi fuchs",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303339343835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496389",
+    "name": "Stegeman Chorizo sticks",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035313630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467823",
+    "name": "Stegeman Fuet ambachtelijk sticks multipack",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639393132?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197311",
+    "name": "AH Mini cabanossi",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303331383730?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476920",
+    "name": "Jack Link's Beef bar sweet & hot 3-pack",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735333734?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436482",
+    "name": "Marcassou Tranches d'apéro BEL",
+    "price": 2.5,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199396",
+    "name": "AH Knabbelspek",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733313530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476919",
+    "name": "Jack Link's Protein bar original 3-pack",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736373337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570165",
+    "name": "Wild West Beef jerky",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334303339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476917",
+    "name": "Argal Fuet snack sticks",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363532343132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199395",
+    "name": "AH Knabbelbacon",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733313532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445077",
+    "name": "Jack Link's Beef jerky original",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935333333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570166",
+    "name": "Wild West Beef jerky honey BBQ",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334303632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444970",
+    "name": "Jack Link's Biltong original",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935333332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561341",
+    "name": "Wild West Steak strips honey BBQ",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435318",
+    "name": "Zwan tv worst gvp Bel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393930363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556748",
+    "name": "Jack Link's Ham snack",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233343135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561340",
+    "name": "Wild West Steak strips",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331323534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436594",
+    "name": "Aoste Gedroogde ham BEL",
+    "price": 2.85,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436481",
+    "name": "Aoste Gedroogde kalkoen BEL",
+    "price": 2.85,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436592",
+    "name": "Aoste Bistro time bel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373037373530?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556747",
+    "name": "Bifi Chorizo 3-pack",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233393632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556749",
+    "name": "Stegeman Plus chorizo sticks",
+    "price": 3.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "364143",
+    "name": "Weidenaar Weidenaartjes",
+    "price": 3.49,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435319",
+    "name": "Zwan Grillworsten BEL",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236373732343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Droge worst",
+      "Droge worst - snacks"
+    ],
+    "isFood": true
+  }
+]

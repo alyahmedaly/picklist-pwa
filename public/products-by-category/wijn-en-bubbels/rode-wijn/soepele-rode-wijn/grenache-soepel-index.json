@@ -1,0 +1,67 @@
+[
+  {
+    "id": "217376",
+    "name": "Les Dauphins Reserve côtes du rhône rouge",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Grenache (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425613",
+    "name": "Mesta Garnacha organic wine",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Grenache (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570663",
+    "name": "Sella & Mosca Raim cannonau",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736353836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Grenache (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387118",
+    "name": "AH Excellent Selectie côtes du rhône villages",
+    "price": 5.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Grenache (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "93567",
+    "name": "Sangre de Toro Original",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4b525436303033353031?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Grenache (Soepel)"
+    ],
+    "isFood": true
+  }
+]

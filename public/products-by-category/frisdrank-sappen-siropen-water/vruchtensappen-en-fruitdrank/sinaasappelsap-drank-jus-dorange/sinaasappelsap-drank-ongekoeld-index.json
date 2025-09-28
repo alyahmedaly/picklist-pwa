@@ -1,0 +1,288 @@
+[
+  {
+    "id": "485574",
+    "name": "AH Sinaasappeldrink",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378031",
+    "name": "AH Sinaasappelsap",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033323037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378091",
+    "name": "AH Sinaasappelsap 6-pack",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934323339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520962",
+    "name": "Appelsientje Mandarijntje",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631333735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485685",
+    "name": "Het sapgilde Appel - kersensap bio",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030343435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485684",
+    "name": "Het sapgilde Appel - mangosap bio",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030343438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124419",
+    "name": "Taksi Sinaasappel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238373036?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485565",
+    "name": "AH Sinaasappelsap mild",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739363939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218329",
+    "name": "Appelsientje Sinaasappelsap mild",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "327585",
+    "name": "Flevosap Appel peer",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "510235",
+    "name": "Orangina Regular 6-pack",
+    "price": 10.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303138373235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "119839",
+    "name": "AH Biologisch Sinaasappelsap",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383832393939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "377720",
+    "name": "AH Sinaasappelsap",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033373732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "377722",
+    "name": "AH Sinaasappelsap",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033373731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485567",
+    "name": "AH Sinaasappelsap",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363739313833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "377721",
+    "name": "AH Sinaasappelsap met vruchtvlees",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033373730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "55444",
+    "name": "Appelsientje Sinaasappel met extra vruchtvlees",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636383331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2751",
+    "name": "Appelsientje Sinaasappelsap",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132323634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129194",
+    "name": "Appelsientje Sinaasappelsap mild",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218327",
+    "name": "Appelsientje Sinaasappelsap voordeelpak",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935333031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "239499",
+    "name": "Appelsientje Sinaasappel volle smaak",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238373536?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454943",
+    "name": "Appelsientje Sinaasappel volle smaak 6-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934363733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank  (ongekoeld)"
+    ],
+    "isFood": true
+  }
+]

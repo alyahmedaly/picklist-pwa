@@ -1,0 +1,170 @@
+[
+  {
+    "id": "507895",
+    "name": "Leev Lowcarb crackers tomaat & oregano",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030333038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Brood en crackers (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470039",
+    "name": "Smaakt Lijnzaadcrackers maanzaad less carb",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Brood en crackers (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507896",
+    "name": "Leev Lowcarb crackers rozmarijn",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030343930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Brood en crackers (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507894",
+    "name": "Leev Lowcarb crackers naturel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030343837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Brood en crackers (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456506",
+    "name": "TastyBasics Vezelrijke crackers kaas & peper",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033313530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Brood en crackers (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456510",
+    "name": "TastyBasics Crackers Zonnebloem- en Pompoenpitten",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Brood en crackers (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "406382",
+    "name": "TastyBasics Vezelrijke crackers meerzaden",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Brood en crackers (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492910",
+    "name": "TastyBasics Vezelrijke crackers maanzaad & olijf",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033313531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Brood en crackers (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575458",
+    "name": "TastyBasics Crispy crackers rozemarijn",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Brood en crackers (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507189",
+    "name": "AH Stevig eiwitrijk heel",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934353930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Brood en crackers (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563604",
+    "name": "TastyBasics Crispy crackers sesam",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830383832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Brood en crackers (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517804",
+    "name": "TastyBasics Robuust brood naturel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033313438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Brood en crackers (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "406403",
+    "name": "TastyBasics Brood lijnzaad",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033313439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Brood en crackers (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470273",
+    "name": "Smaakt Proteine brood less carb",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Brood en crackers (koolhydraatarm)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Bakkerij > Bolletjes, broodjes, croissants > Bolletjes",
+  "breadcrumbs": "Bakkerij > Bolletjes, broodjes, croissants > Bolletjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "verse-bolletjes",
+      "displayName": "Verse Bolletjes",
+      "productCount": 22,
+      "filePath": "verse-bolletjes.jsonl",
+      "indexPath": "verse-bolletjes-index.json",
+      "statsPath": "verse-bolletjes-stats.json",
+      "averageProtein": 11,
+      "halalCompliance": 9
+    },
+    {
+      "name": "verse-broodjes",
+      "displayName": "Verse Broodjes",
+      "productCount": 8,
+      "filePath": "verse-broodjes.jsonl",
+      "indexPath": "verse-broodjes-index.json",
+      "statsPath": "verse-broodjes-stats.json",
+      "averageProtein": 9.3,
+      "halalCompliance": 88
+    },
+    {
+      "name": "krentenbollen",
+      "displayName": "Krentenbollen",
+      "productCount": 5,
+      "filePath": "krentenbollen.jsonl",
+      "indexPath": "krentenbollen-index.json",
+      "statsPath": "krentenbollen-stats.json",
+      "averageProtein": 8.1,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 35,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 35,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bolletjes Broodjes Croissants",
+        "path": "../index.json"
+      },
+      {
+        "name": "Bolletjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bakkerij/bolletjes-broodjes-croissants"
+  }
+}

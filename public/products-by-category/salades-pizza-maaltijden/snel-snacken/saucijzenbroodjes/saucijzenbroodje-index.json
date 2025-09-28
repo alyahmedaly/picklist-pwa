@@ -1,0 +1,67 @@
+[
+  {
+    "id": "230724",
+    "name": "AH Saucijzenbroodje",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d5036333137343533?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Saucijzenbroodjes",
+      "Saucijzenbroodje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199563",
+    "name": "AH Mini saucijzenbroodjes",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Saucijzenbroodjes",
+      "Saucijzenbroodje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199770",
+    "name": "AH Saucijzenbroodjes",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383832393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Saucijzenbroodjes",
+      "Saucijzenbroodje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "362863",
+    "name": "AH Vegetarische saucijzenbroodje",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335373831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Saucijzenbroodjes",
+      "Saucijzenbroodje"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523152",
+    "name": "AH Mini broodjes pakket",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136323635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Snel snacken",
+      "Saucijzenbroodjes",
+      "Saucijzenbroodje"
+    ],
+    "isFood": true
+  }
+]

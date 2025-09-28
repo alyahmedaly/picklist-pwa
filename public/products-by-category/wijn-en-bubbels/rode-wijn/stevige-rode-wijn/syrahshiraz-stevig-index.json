@@ -1,0 +1,132 @@
+[
+  {
+    "id": "58640",
+    "name": "Château Tapie Languedoc biologische wijn",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133313435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Syrah/Shiraz (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465836",
+    "name": "19 Crimes Red blend",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736323132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Syrah/Shiraz (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104062",
+    "name": "Château Coulon Rouge organic wine",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303237333530?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Syrah/Shiraz (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170061",
+    "name": "Coyam Rood organic wine",
+    "price": 16.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303039303331?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Syrah/Shiraz (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "69193",
+    "name": "E. Guigal Côtes du rhône rouge",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631353832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Syrah/Shiraz (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365203",
+    "name": "E. Guigal Crozes hermitage",
+    "price": 19.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Syrah/Shiraz (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "49911",
+    "name": "Lindeman's Bin 50 shiraz",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303637393938?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Syrah/Shiraz (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170802",
+    "name": "Lindeman's South africa shiraz cabernet sauvignon",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303330333738?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Syrah/Shiraz (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "93723",
+    "name": "Penfolds Koonunga hill shiraz cabernet",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Syrah/Shiraz (Stevig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160261",
+    "name": "Tamboerskloof Syrah",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Stevige rode wijn",
+      "Syrah/Shiraz (Stevig)"
+    ],
+    "isFood": true
+  }
+]

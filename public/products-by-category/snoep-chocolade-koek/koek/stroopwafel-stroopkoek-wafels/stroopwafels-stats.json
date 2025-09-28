@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Koek > Stroopwafel, stroopkoek, wafels > Stroopwafels",
+  "breadcrumbs": "Snoep, chocolade, koek > Koek > Stroopwafel, stroopkoek, wafels > Stroopwafels",
+  "totalProducts": 12,
+  "halalCompliance": 0,
+  "averageProtein": 3.8,
+  "averagePrice": 2.67,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 12,
+    "withIngredients": 12,
+    "withHalalCheck": 12
+  }
+}

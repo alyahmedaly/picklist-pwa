@@ -1,0 +1,84 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "oosterse-maaltijden",
+      "displayName": "Oosterse Maaltijden",
+      "productCount": 19,
+      "hasSubdirectories": false,
+      "indexPath": "oosterse-maaltijden/index.json"
+    },
+    {
+      "name": "hollandse-maaltijden",
+      "displayName": "Hollandse Maaltijden",
+      "productCount": 18,
+      "hasSubdirectories": false,
+      "indexPath": "hollandse-maaltijden/index.json"
+    },
+    {
+      "name": "italiaanse-maaltijden",
+      "displayName": "Italiaanse Maaltijden",
+      "productCount": 10,
+      "hasSubdirectories": false,
+      "indexPath": "italiaanse-maaltijden/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "stoommaaltijden",
+      "displayName": "Stoommaaltijden",
+      "productCount": 18,
+      "filePath": "stoommaaltijden.jsonl",
+      "indexPath": "stoommaaltijden-index.json",
+      "statsPath": "stoommaaltijden-stats.json",
+      "averageProtein": 5.3,
+      "halalCompliance": 94
+    },
+    {
+      "name": "wereld-maaltijden",
+      "displayName": "Wereld Maaltijden",
+      "productCount": 12,
+      "filePath": "wereld-maaltijden.jsonl",
+      "indexPath": "wereld-maaltijden-index.json",
+      "statsPath": "wereld-maaltijden-stats.json",
+      "averageProtein": 4.9,
+      "halalCompliance": 67
+    },
+    {
+      "name": "halal-maaltijden",
+      "displayName": "Halal Maaltijden",
+      "productCount": 7,
+      "filePath": "halal-maaltijden.jsonl",
+      "indexPath": "halal-maaltijden-index.json",
+      "statsPath": "halal-maaltijden-stats.json",
+      "averageProtein": 5.8,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 84,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 84,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kant Enklaar Maaltijden",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "salades-pizza-maaltijden"
+  }
+}

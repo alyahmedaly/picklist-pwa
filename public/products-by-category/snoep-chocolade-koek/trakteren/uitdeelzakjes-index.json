@@ -1,0 +1,266 @@
+[
+  {
+    "id": "492905",
+    "name": "Candyman Verrassingszakje",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373231313435?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480724",
+    "name": "Fruittella Dummy",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232373835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480725",
+    "name": "Fruittella Lange Jan uitdeelzak",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480723",
+    "name": "Fruittella Mini uitdeelzak",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232373837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383105",
+    "name": "Maoam Mao' mixx",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313630?revLabel=27&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196539",
+    "name": "Maoam Bloxx",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383439303132?revLabel=29&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383106",
+    "name": "Maoam Partymixx",
+    "price": 3.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932303733?revLabel=27&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374835",
+    "name": "AH Kids tum tum",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467170",
+    "name": "AH Partymix",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331373039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578504",
+    "name": "Autodrop Mini cadillacs vegan uitdeelzakjes",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530343931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439301",
+    "name": "Haribo Kindermix multipack",
+    "price": 4.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313636?revLabel=12&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508479",
+    "name": "Trolli Multi mix",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373539363930?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "88624",
+    "name": "Red Band Schatkistjes zacht zoet uitdeelzak",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233343238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486789",
+    "name": "Haribo Super party multipack",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935363734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459505",
+    "name": "Haribo Greatest hits multipack",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932373430?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439302",
+    "name": "Haribo Goudberen multipack",
+    "price": 4.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932363539?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439299",
+    "name": "Haribo Starmix Multi pack",
+    "price": 4.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030313034?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469162",
+    "name": "Haribo Trick or treat",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935363136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524833",
+    "name": "Fruitfunk Fruit bites banana & peach",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383932363534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578456",
+    "name": "AH Rozijnen vriendjes",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524477",
+    "name": "Fruitfunk Fruit bites strawberry & apple",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733323635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439300",
+    "name": "Haribo Dragibus multipack",
+    "price": 4.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932323438?revLabel=10&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Trakteren",
+      "Uitdeelzakjes"
+    ],
+    "isFood": true
+  }
+]

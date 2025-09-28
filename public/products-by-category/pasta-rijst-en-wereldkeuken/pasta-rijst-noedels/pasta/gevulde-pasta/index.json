@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Pasta > Gevulde pasta",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Pasta > Gevulde pasta",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "tortellini-tortelloni",
+      "displayName": "Tortellini Tortelloni",
+      "productCount": 5,
+      "filePath": "tortellini-tortelloni.jsonl",
+      "indexPath": "tortellini-tortelloni-index.json",
+      "statsPath": "tortellini-tortelloni-stats.json",
+      "averageProtein": 14.2,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Pasta Rijst Noedels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Pasta",
+        "path": "../index.json"
+      },
+      {
+        "name": "Gevulde Pasta",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "pasta-rijst-en-wereldkeuken/pasta-rijst-noedels/pasta"
+  }
+}

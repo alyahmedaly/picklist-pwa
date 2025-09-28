@@ -1,0 +1,80 @@
+[
+  {
+    "id": "485497",
+    "name": "AH Spareribs zoet",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335303039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spareribs",
+      "Spareribs (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412504",
+    "name": "AH Spareribs pittig",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spareribs",
+      "Spareribs (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412503",
+    "name": "AH Spareribs zoet",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spareribs",
+      "Spareribs (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226216",
+    "name": "AH BBQ spareribs bel",
+    "price": 6.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spareribs",
+      "Spareribs (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386814",
+    "name": "AH BBQ spareribs pittig bel",
+    "price": 7.72,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spareribs",
+      "Spareribs (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160750",
+    "name": "AH Krabbetjes",
+    "price": 3.92,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731383234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Spareribs",
+      "Spareribs (vers)"
+    ],
+    "isFood": true
+  }
+]

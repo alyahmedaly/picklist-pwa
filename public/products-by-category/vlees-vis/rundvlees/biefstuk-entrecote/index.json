@@ -1,0 +1,43 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "biefstuk",
+      "displayName": "Biefstuk",
+      "productCount": 17,
+      "hasSubdirectories": false,
+      "indexPath": "biefstuk/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 17,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 17,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Rundvlees",
+        "path": "../index.json"
+      },
+      {
+        "name": "Biefstuk Entrecote",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/rundvlees"
+  }
+}

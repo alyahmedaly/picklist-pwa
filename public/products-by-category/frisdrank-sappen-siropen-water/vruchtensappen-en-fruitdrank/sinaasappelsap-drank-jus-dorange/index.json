@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Vruchtensappen en fruitdrank > Sinaasappelsap & drank (jus d'orange)",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Vruchtensappen en fruitdrank > Sinaasappelsap & drank (jus d'orange)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "sinaasappelsap-drank-ongekoeld",
+      "displayName": "Sinaasappelsap Drank Ongekoeld",
+      "productCount": 22,
+      "filePath": "sinaasappelsap-drank-ongekoeld.jsonl",
+      "indexPath": "sinaasappelsap-drank-ongekoeld-index.json",
+      "statsPath": "sinaasappelsap-drank-ongekoeld-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 86
+    },
+    {
+      "name": "sinaasappelsap-drank-gekoeld",
+      "displayName": "Sinaasappelsap Drank Gekoeld",
+      "productCount": 9,
+      "filePath": "sinaasappelsap-drank-gekoeld.jsonl",
+      "indexPath": "sinaasappelsap-drank-gekoeld-index.json",
+      "statsPath": "sinaasappelsap-drank-gekoeld-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 89
+    }
+  ],
+  "totalProducts": 31,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 31,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vruchtensappen En Fruitdrank",
+        "path": "../index.json"
+      },
+      {
+        "name": "Sinaasappelsap Drank Jus Dorange",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/vruchtensappen-en-fruitdrank"
+  }
+}

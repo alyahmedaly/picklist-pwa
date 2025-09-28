@@ -1,0 +1,122 @@
+[
+  {
+    "id": "508518",
+    "name": "Haribo Chamallows chocolade",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031303137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Spekken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583917",
+    "name": "AH Bakfeest marshmallows mini",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032343839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Spekken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502433",
+    "name": "AH Feest spekken",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932303637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Spekken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225096",
+    "name": "Frisia Partymallows",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736383734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Spekken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578447",
+    "name": "Autodrop Airbags zachte marshmallow cadillac",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638363330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Spekken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514784",
+    "name": "Frisia Marshmallows barbecue",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736383838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Spekken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514785",
+    "name": "Frisia Twistermallows",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736383831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Spekken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524476",
+    "name": "Frisia Vegan marshmallows",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Spekken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451275",
+    "name": "Haribo Chamallows barbecue",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383838353130?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Spekken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451274",
+    "name": "Haribo Chamallows ruitspek",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932373336?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Spekken"
+    ],
+    "isFood": true
+  }
+]

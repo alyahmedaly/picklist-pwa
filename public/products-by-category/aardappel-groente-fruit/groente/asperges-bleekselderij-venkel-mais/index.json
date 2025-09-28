@@ -1,0 +1,54 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "mais",
+      "displayName": "Mais",
+      "productCount": 13,
+      "hasSubdirectories": false,
+      "indexPath": "mais/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "artisjok",
+      "displayName": "Artisjok",
+      "productCount": 6,
+      "filePath": "artisjok.jsonl",
+      "indexPath": "artisjok-index.json",
+      "statsPath": "artisjok-stats.json",
+      "averageProtein": 0.9,
+      "halalCompliance": 67
+    }
+  ],
+  "totalProducts": 19,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 19,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../index.json"
+      },
+      {
+        "name": "Asperges Bleekselderij Venkel Mais",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/groente"
+  }
+}

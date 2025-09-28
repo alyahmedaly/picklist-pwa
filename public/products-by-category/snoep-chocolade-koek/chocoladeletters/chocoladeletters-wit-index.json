@@ -1,0 +1,86 @@
+[
+  {
+    "id": "558175",
+    "name": "AH Chocoladeletter wit confetti",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031333432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482630",
+    "name": "AH Letter confetti",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031333431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461908",
+    "name": "Tony's Chocolonely Witte chocolade letterreep pepernoot S",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838393033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446430",
+    "name": "AH Chocoladeletter wit",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733313939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505795",
+    "name": "Verkade Hart wit speculaas",
+    "price": 3.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835333032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506699",
+    "name": "Delicata Chocoladeletter wit",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733323036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461807",
+    "name": "Tony's Chocolonely Witte chocolade letterreep s",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocoladeletters",
+      "Chocoladeletters wit"
+    ],
+    "isFood": true
+  }
+]

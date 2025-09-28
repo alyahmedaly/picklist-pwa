@@ -1,0 +1,98 @@
+[
+  {
+    "id": "494124",
+    "name": "BFree Wraps zoete aardappel",
+    "price": 6.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136333036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Groente wraps"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399573",
+    "name": "No Fairytales Bieten tortilla",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431333435?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Groente wraps"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442839",
+    "name": "No Fairytales Paprika & chili tortilla",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431333736?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Groente wraps"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399645",
+    "name": "No Fairytales Wortel tortilla",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431333434?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Groente wraps"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572377",
+    "name": "Knorr Bieten wraps",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331373031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Groente wraps"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572376",
+    "name": "Knorr Tomaten wraps",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331313033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Groente wraps"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572375",
+    "name": "Knorr Wortel wraps met 35% wortel",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330373435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Groente wraps"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583208",
+    "name": "No Fairytales tuna melt wrap pakket",
+    "price": 10.91,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230383939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mexicaanse keuken",
+      "Groente wraps"
+    ],
+    "isFood": true
+  }
+]

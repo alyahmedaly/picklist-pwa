@@ -1,0 +1,93 @@
+[
+  {
+    "id": "575474",
+    "name": "Alpro Protein red berries",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330323533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein Tussendoortjes",
+      "High Protein Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575475",
+    "name": "Alpro Protein tropical",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330323534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein Tussendoortjes",
+      "High Protein Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448362",
+    "name": "Melkunie Protein aardbei yoghurt",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537303135?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein Tussendoortjes",
+      "High Protein Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448811",
+    "name": "Melkunie Protein mango yoghurt",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537303831?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein Tussendoortjes",
+      "High Protein Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520090",
+    "name": "Melkunie Protein vanille yoghurt",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537303931?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein Tussendoortjes",
+      "High Protein Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582015",
+    "name": "Melkunie Protein aardbei yoghurt 4-pack",
+    "price": 6.44,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130323938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein Tussendoortjes",
+      "High Protein Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582016",
+    "name": "Melkunie Protein vanille yoghurt 4-pack",
+    "price": 6.44,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130323939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "High Protein Zuivel",
+      "High Protein Tussendoortjes",
+      "High Protein Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  }
+]

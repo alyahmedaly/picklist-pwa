@@ -1,0 +1,146 @@
+[
+  {
+    "id": "129990",
+    "name": "Chovi Allioli",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373736383332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Aioli, boter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572084",
+    "name": "AH Excellent Aioli zwarte knoflook",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233363830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Aioli, boter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516648",
+    "name": "Yildriz Spaanse allioli",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930313330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Aioli, boter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217278",
+    "name": "AH Aioli",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135383132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Aioli, boter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572077",
+    "name": "AH Aioli basilicum",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Aioli, boter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572076",
+    "name": "AH Aioli pittig",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Aioli, boter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440990",
+    "name": "AH Kleintje aioli",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Aioli, boter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572085",
+    "name": "AH Luchtige boter basilicum tomaat",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Aioli, boter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558414",
+    "name": "Jean Bâton Classiques aioli sauce",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Aioli, boter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479541",
+    "name": "Chovi Allioli vegan",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539343632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Aioli, boter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497585",
+    "name": "AH Aioli",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Aioli, boter"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561003",
+    "name": "AH Yoghurt aioli",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537323137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Aioli, boter"
+    ],
+    "isFood": true
+  }
+]

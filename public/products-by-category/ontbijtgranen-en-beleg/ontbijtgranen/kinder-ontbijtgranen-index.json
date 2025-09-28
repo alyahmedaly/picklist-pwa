@@ -1,0 +1,110 @@
+[
+  {
+    "id": "516887",
+    "name": "Kellogg's Tresor chocolade hazelnotensmaak",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831393832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Kinder ontbijtgranen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516888",
+    "name": "Kellogg's Tresor melk choco",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735393736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Kinder ontbijtgranen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560777",
+    "name": "Kellogg's Frosties",
+    "price": 3.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838323731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Kinder ontbijtgranen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516927",
+    "name": "Oreo O's cereal",
+    "price": 4.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373732373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Kinder ontbijtgranen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218377",
+    "name": "Kellogg's Coco pops",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233303030?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Kinder ontbijtgranen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560778",
+    "name": "Kellogg's Honey bsss pops",
+    "price": 3.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433323034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Kinder ontbijtgranen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560784",
+    "name": "Kellogg's Smacks",
+    "price": 3.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631323036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Kinder ontbijtgranen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560776",
+    "name": "Kellogg's Coco pops chocos",
+    "price": 3.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437393333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Kinder ontbijtgranen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560779",
+    "name": "Kellogg's Honey bsss loops",
+    "price": 3.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631323231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Kinder ontbijtgranen"
+    ],
+    "isFood": true
+  }
+]

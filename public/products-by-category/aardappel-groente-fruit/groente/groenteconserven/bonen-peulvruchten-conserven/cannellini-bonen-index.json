@@ -1,0 +1,86 @@
+[
+  {
+    "id": "188266",
+    "name": "AH Cannellini bonen",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533393738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Cannellini bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575281",
+    "name": "Boon Cannellini boon",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Cannellini bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556393",
+    "name": "AH Cannellini bonen 2 kleintjes",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336373438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Cannellini bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195559",
+    "name": "Bonduelle Cannellini bonen",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303432373235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Cannellini bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583841",
+    "name": "Hak Canellini bonen",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035303635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Cannellini bonen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471751",
+    "name": "AH Cannellini bonen",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Cannellini bonen"
+    ],
+    "isFood": true
+  }
+]

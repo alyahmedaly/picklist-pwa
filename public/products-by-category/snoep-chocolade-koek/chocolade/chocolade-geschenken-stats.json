@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Chocolade > Chocolade geschenken",
+  "breadcrumbs": "Snoep, chocolade, koek > Chocolade > Chocolade geschenken",
+  "totalProducts": 24,
+  "halalCompliance": 4,
+  "averageProtein": 6.8,
+  "averagePrice": 5.14,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 24,
+    "withIngredients": 24,
+    "withHalalCheck": 24
+  }
+}

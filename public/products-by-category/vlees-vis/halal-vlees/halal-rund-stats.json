@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Halal vlees > Halal rund",
+  "breadcrumbs": "Vlees, vis > Halal vlees > Halal rund",
+  "totalProducts": 6,
+  "halalCompliance": 100,
+  "averageProtein": 19.3,
+  "averagePrice": 5.47,
+  "highProteinProducts": 5,
+  "dataQuality": {
+    "withNutrition": 6,
+    "withIngredients": 6,
+    "withHalalCheck": 6
+  }
+}

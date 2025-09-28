@@ -1,0 +1,98 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Kaas > Kaas voor borrel",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Kaas > Kaas voor borrel",
+  "subdirectories": [
+    {
+      "name": "mozzarella-burrata",
+      "displayName": "Mozzarella Burrata",
+      "productCount": 30,
+      "hasSubdirectories": false,
+      "indexPath": "mozzarella-burrata/index.json"
+    },
+    {
+      "name": "blauwe-kazen-roquefort-gorgonzola",
+      "displayName": "Blauwe Kazen Roquefort Gorgonzola",
+      "productCount": 18,
+      "hasSubdirectories": false,
+      "indexPath": "blauwe-kazen-roquefort-gorgonzola/index.json"
+    },
+    {
+      "name": "half-harde-kazen-gruyere-emmentaler",
+      "displayName": "Half Harde Kazen Gruyere Emmentaler",
+      "productCount": 11,
+      "hasSubdirectories": false,
+      "indexPath": "half-harde-kazen-gruyere-emmentaler/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "witte-korst-kaas-brie",
+      "displayName": "Witte Korst Kaas Brie",
+      "productCount": 35,
+      "filePath": "witte-korst-kaas-brie.jsonl",
+      "indexPath": "witte-korst-kaas-brie-index.json",
+      "statsPath": "witte-korst-kaas-brie-stats.json",
+      "averageProtein": 16.3,
+      "halalCompliance": 91
+    },
+    {
+      "name": "kaasblokjes",
+      "displayName": "Kaasblokjes",
+      "productCount": 25,
+      "filePath": "kaasblokjes.jsonl",
+      "indexPath": "kaasblokjes-index.json",
+      "statsPath": "kaasblokjes-stats.json",
+      "averageProtein": 22,
+      "halalCompliance": 88
+    },
+    {
+      "name": "rode-korst-kaas-port-salut",
+      "displayName": "Rode Korst Kaas Port Salut",
+      "productCount": 18,
+      "filePath": "rode-korst-kaas-port-salut.jsonl",
+      "indexPath": "rode-korst-kaas-port-salut-index.json",
+      "statsPath": "rode-korst-kaas-port-salut-stats.json",
+      "averageProtein": 21.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "kaasplankjes",
+      "displayName": "Kaasplankjes",
+      "productCount": 12,
+      "filePath": "kaasplankjes.jsonl",
+      "indexPath": "kaasplankjes-index.json",
+      "statsPath": "kaasplankjes-stats.json",
+      "averageProtein": 11.5,
+      "halalCompliance": 50
+    }
+  ],
+  "totalProducts": 149,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 149,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kaas",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kaas Voor Borrel",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "kaas-vleeswaren-tapas/kaas"
+  }
+}

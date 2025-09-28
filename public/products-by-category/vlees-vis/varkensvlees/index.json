@@ -1,0 +1,125 @@
+{
+  "categoryPath": "Vlees, vis > Varkensvlees",
+  "breadcrumbs": "Vlees, vis > Varkensvlees",
+  "subdirectories": [
+    {
+      "name": "schnitzel-cordon-bleu",
+      "displayName": "Schnitzel Cordon Bleu",
+      "productCount": 12,
+      "hasSubdirectories": false,
+      "indexPath": "schnitzel-cordon-bleu/index.json"
+    },
+    {
+      "name": "spek-bacon",
+      "displayName": "Spek Bacon",
+      "productCount": 9,
+      "hasSubdirectories": true,
+      "indexPath": "spek-bacon/index.json"
+    },
+    {
+      "name": "shoarma-gyros",
+      "displayName": "Shoarma Gyros",
+      "productCount": 8,
+      "hasSubdirectories": false,
+      "indexPath": "shoarma-gyros/index.json"
+    },
+    {
+      "name": "hamburgers-varkensvlees",
+      "displayName": "Hamburgers Varkensvlees",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "hamburgers-varkensvlees/index.json"
+    },
+    {
+      "name": "spareribs",
+      "displayName": "Spareribs",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "spareribs/index.json"
+    },
+    {
+      "name": "varkenshaas",
+      "displayName": "Varkenshaas",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "varkenshaas/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "worst-varkensvlees",
+      "displayName": "Worst Varkensvlees",
+      "productCount": 14,
+      "filePath": "worst-varkensvlees.jsonl",
+      "indexPath": "worst-varkensvlees-index.json",
+      "statsPath": "worst-varkensvlees-stats.json",
+      "averageProtein": 16.8,
+      "halalCompliance": 0
+    },
+    {
+      "name": "gehakt-halfomhalf",
+      "displayName": "Gehakt Halfomhalf",
+      "productCount": 13,
+      "filePath": "gehakt-halfomhalf.jsonl",
+      "indexPath": "gehakt-halfomhalf-index.json",
+      "statsPath": "gehakt-halfomhalf-stats.json",
+      "averageProtein": 16.5,
+      "halalCompliance": 0
+    },
+    {
+      "name": "karbonades",
+      "displayName": "Karbonades",
+      "productCount": 7,
+      "filePath": "karbonades.jsonl",
+      "indexPath": "karbonades-index.json",
+      "statsPath": "karbonades-stats.json",
+      "averageProtein": 17,
+      "halalCompliance": 43
+    },
+    {
+      "name": "speklappen",
+      "displayName": "Speklappen",
+      "productCount": 7,
+      "filePath": "speklappen.jsonl",
+      "indexPath": "speklappen-index.json",
+      "statsPath": "speklappen-stats.json",
+      "averageProtein": 16,
+      "halalCompliance": 0
+    },
+    {
+      "name": "vlees-varken",
+      "displayName": "Vlees Varken",
+      "productCount": 5,
+      "filePath": "vlees-varken.jsonl",
+      "indexPath": "vlees-varken-index.json",
+      "statsPath": "vlees-varken-stats.json",
+      "averageProtein": 23.2,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 93,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 93,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Varkensvlees",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "vlees-vis"
+  }
+}

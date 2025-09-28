@@ -1,0 +1,68 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Soepen > Bouillon, fond",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Soepen > Bouillon, fond",
+  "subdirectories": [
+    {
+      "name": "groentebouillon",
+      "displayName": "Groentebouillon",
+      "productCount": 9,
+      "hasSubdirectories": false,
+      "indexPath": "groentebouillon/index.json"
+    },
+    {
+      "name": "vleesbouillon",
+      "displayName": "Vleesbouillon",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "vleesbouillon/index.json"
+    },
+    {
+      "name": "kippenbouillon",
+      "displayName": "Kippenbouillon",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "kippenbouillon/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "fond",
+      "displayName": "Fond",
+      "productCount": 9,
+      "filePath": "fond.jsonl",
+      "indexPath": "fond-index.json",
+      "statsPath": "fond-stats.json",
+      "averageProtein": 2.7,
+      "halalCompliance": 78
+    }
+  ],
+  "totalProducts": 31,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 31,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Soepen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Bouillon Fond",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "soepen-sauzen-kruiden-olie/soepen"
+  }
+}

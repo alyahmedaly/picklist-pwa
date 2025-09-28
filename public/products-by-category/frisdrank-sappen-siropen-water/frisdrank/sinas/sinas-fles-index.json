@@ -1,0 +1,249 @@
+[
+  {
+    "id": "63924",
+    "name": "AH Sinas regular",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476870",
+    "name": "AH Sinas regular",
+    "price": 0.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830343930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "137881",
+    "name": "AH Sinas regular 6-pack",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476875",
+    "name": "AH Sinas regular 6-pack",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2803",
+    "name": "Fanta Orange",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130862",
+    "name": "Fanta Orange",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630363039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496888",
+    "name": "Schweppes Agrumes",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537343336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222765",
+    "name": "Orangina Regular",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303137373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "63925",
+    "name": "AH Sinas zero",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476869",
+    "name": "AH Sinas zero",
+    "price": 0.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476871",
+    "name": "AH Sinas zero 6-pack",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "511929",
+    "name": "Fanta Orange zero sugar",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339393437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566939",
+    "name": "Orangina Zero sugar",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303137373033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518825",
+    "name": "Sisi Sinas zero sugar",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535373634?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566942",
+    "name": "Fanta Raspberry zero sugar",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339393733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518930",
+    "name": "Fanta What the fanta no sugar",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030353537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566934",
+    "name": "Fanta Orange 1,5L 4-pack",
+    "price": 9.96,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566935",
+    "name": "Fanta Orange Zero 1,5L 4-pack",
+    "price": 9.96,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039343038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161329",
+    "name": "Fanta Orange zero sugar",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339393436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Sinas",
+      "Sinas (fles)"
+    ],
+    "isFood": true
+  }
+]

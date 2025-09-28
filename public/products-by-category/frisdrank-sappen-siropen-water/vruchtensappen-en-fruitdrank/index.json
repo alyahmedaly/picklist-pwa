@@ -1,0 +1,129 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "frisse-fruitdrank",
+      "displayName": "Frisse Fruitdrank",
+      "productCount": 70,
+      "hasSubdirectories": false,
+      "indexPath": "frisse-fruitdrank/index.json"
+    },
+    {
+      "name": "sinaasappelsap-drank-jus-dorange",
+      "displayName": "Sinaasappelsap Drank Jus Dorange",
+      "productCount": 31,
+      "hasSubdirectories": false,
+      "indexPath": "sinaasappelsap-drank-jus-dorange/index.json"
+    },
+    {
+      "name": "appelsap-drank",
+      "displayName": "Appelsap Drank",
+      "productCount": 26,
+      "hasSubdirectories": false,
+      "indexPath": "appelsap-drank/index.json"
+    },
+    {
+      "name": "multivruchtensap-drank",
+      "displayName": "Multivruchtensap Drank",
+      "productCount": 26,
+      "hasSubdirectories": false,
+      "indexPath": "multivruchtensap-drank/index.json"
+    },
+    {
+      "name": "multivitamine-drank",
+      "displayName": "Multivitamine Drank",
+      "productCount": 21,
+      "hasSubdirectories": false,
+      "indexPath": "multivitamine-drank/index.json"
+    },
+    {
+      "name": "puursap-nectar",
+      "displayName": "Puursap Nectar",
+      "productCount": 12,
+      "hasSubdirectories": false,
+      "indexPath": "puursap-nectar/index.json"
+    },
+    {
+      "name": "dubbeldrank",
+      "displayName": "Dubbeldrank",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "dubbeldrank/index.json"
+    },
+    {
+      "name": "diverse-sappen-dranken",
+      "displayName": "Diverse Sappen Dranken",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "diverse-sappen-dranken/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "cranberrysap-drank",
+      "displayName": "Cranberrysap Drank",
+      "productCount": 10,
+      "filePath": "cranberrysap-drank.jsonl",
+      "indexPath": "cranberrysap-drank-index.json",
+      "statsPath": "cranberrysap-drank-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 80
+    },
+    {
+      "name": "perensap-drank",
+      "displayName": "Perensap Drank",
+      "productCount": 7,
+      "filePath": "perensap-drank.jsonl",
+      "indexPath": "perensap-drank-index.json",
+      "statsPath": "perensap-drank-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 86
+    },
+    {
+      "name": "aloe-vera-drink",
+      "displayName": "Aloe Vera Drink",
+      "productCount": 6,
+      "filePath": "aloe-vera-drink.jsonl",
+      "indexPath": "aloe-vera-drink-index.json",
+      "statsPath": "aloe-vera-drink-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "kokoswater",
+      "displayName": "Kokoswater",
+      "productCount": 5,
+      "filePath": "kokoswater.jsonl",
+      "indexPath": "kokoswater-index.json",
+      "statsPath": "kokoswater-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 226,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 226,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vruchtensappen En Fruitdrank",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "frisdrank-sappen-siropen-water"
+  }
+}

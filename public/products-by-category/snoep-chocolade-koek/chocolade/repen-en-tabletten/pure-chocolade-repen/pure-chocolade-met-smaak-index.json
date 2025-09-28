@@ -1,0 +1,254 @@
+[
+  {
+    "id": "466839",
+    "name": "Lindt Excellence gember citroen pure chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502239",
+    "name": "Tony's Chocolonely Puur citroenkaramel chocokoek",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384655",
+    "name": "Lindt Excellence framboos pure chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556470",
+    "name": "Lindt Excellence karamel hazelnoot puur",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232895",
+    "name": "Lindt Excellence munt pure chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196597",
+    "name": "Lindt Excellence sinaasappel pure chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569841",
+    "name": "Tony's Chocolonely Reep puur koffie toffee",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837303139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507977",
+    "name": "Delicata Reep pure chocolade sinaasappel amandel",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032303533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532265",
+    "name": "Ferrero Rocher hazelnoot puur",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231313130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508076",
+    "name": "Delicata Reep pure chocolade viooltjes & bosbes",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033313632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508005",
+    "name": "Delicata Reep pure chocolade balsamico & aarbei",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032303736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549955",
+    "name": "AH Biologisch Reep puur sinaasappel puur",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393234333231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508007",
+    "name": "Delicata Reep pure chocolade lavendel & karamel",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033313531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563891",
+    "name": "Delicata Reep espresso & karamel pure chocolade",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533323631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507979",
+    "name": "Delicata Reep pure chocolade walnoot vijg",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032303735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507982",
+    "name": "Delicata Reep puur gember limoen",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373230393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507976",
+    "name": "Delicata Reep pure chocolade amandel kokos",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417395",
+    "name": "Delicata Reep puur 64% cacao",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met smaak"
+    ],
+    "isFood": true
+  }
+]

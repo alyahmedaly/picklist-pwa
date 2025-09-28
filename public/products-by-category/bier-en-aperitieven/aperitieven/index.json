@@ -1,0 +1,39 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "droge-sherry",
+      "displayName": "Droge Sherry",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "droge-sherry/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 7,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 7,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../index.json"
+      },
+      {
+        "name": "Aperitieven",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "bier-en-aperitieven"
+  }
+}

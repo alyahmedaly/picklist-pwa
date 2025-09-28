@@ -1,0 +1,72 @@
+[
+  {
+    "id": "173138",
+    "name": "Grand' Italia Rigatoni tradizionali",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Penne, rigatoni",
+      "Rigatoni"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210483",
+    "name": "De Cecco Mezzi rigatoni nr26",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939393834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Penne, rigatoni",
+      "Rigatoni"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567482",
+    "name": "La Molisana Rigacuore",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234323937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Penne, rigatoni",
+      "Rigatoni"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561879",
+    "name": "La Molisana Rigatoni",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536333735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Penne, rigatoni",
+      "Rigatoni"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575920",
+    "name": "Liguori Mezze maniche rigate no38",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733353535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Penne, rigatoni",
+      "Rigatoni"
+    ],
+    "isFood": true
+  }
+]

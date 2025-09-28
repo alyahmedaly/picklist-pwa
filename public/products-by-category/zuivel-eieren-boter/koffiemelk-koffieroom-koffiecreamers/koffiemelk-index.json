@@ -1,0 +1,338 @@
+[
+  {
+    "id": "1109",
+    "name": "AH Volle koffiemelk",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50363534303539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "34388",
+    "name": "AH Volle koffiemelk",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373232363132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508003",
+    "name": "Friesche Vlag Goudband",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383031343431?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508066",
+    "name": "Friesche Vlag Goudband",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383031343335?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187350",
+    "name": "Friesche Vlag Goudband volle koffiemelk",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1101",
+    "name": "AH Halfvolle koffiemelk",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373232363133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1107",
+    "name": "AH Halfvolle koffiemelk",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50363534303631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1108",
+    "name": "AH Halfvolle koffiemelk",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303134353530?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3675",
+    "name": "Friesche Vlag Goudband",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "34419",
+    "name": "AH Biologisch Volle koffiemelk",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373635323639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173573",
+    "name": "AH Halfvolle koffiemelk cups",
+    "price": 0.45,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313837333932?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46794",
+    "name": "Friesche Vlag Halvamel",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933323534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193676",
+    "name": "Friesche Vlag Halvamel",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508068",
+    "name": "Friesche Vlag Halvamel",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383031343930?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508070",
+    "name": "Friesche Vlag Halvamel",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383031343630?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210814",
+    "name": "Friesche Vlag Halvamel voordeelverpakking",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46030",
+    "name": "Becel Romig voor in de koffie",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536333634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "57107",
+    "name": "Becel Romig voor in de koffie",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363538303330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237570",
+    "name": "Becel Romig voor in de koffie",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536323733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3673",
+    "name": "Becel Romig voor in de koffie cups",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536323734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574785",
+    "name": "Friesche Vlag Koffieverrijker haver",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339383733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "128423",
+    "name": "AH Biologisch Halfvolle koffiemelk",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373635323637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1893",
+    "name": "Friesche Vlag Balance",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508064",
+    "name": "Friesche Vlag Balance",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383031343839?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568385",
+    "name": "AH Halfvolle koffiemelk 4-pack",
+    "price": 3.61,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234393239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578461",
+    "name": "Becel Koffiecreamer 3-pack",
+    "price": 4.72,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934343432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575715",
+    "name": "Friesche Vlag Halvamel 3-pack",
+    "price": 4.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580242",
+    "name": "Friesche Vlag Halvamel koffiemelk 2-pack",
+    "price": 5.68,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036313937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Koffiemelk, koffieroom, koffiecreamers",
+      "Koffiemelk"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "232894",
+    "name": "Lindt Excellence zeezout pure chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232896",
+    "name": "Lindt Excellence chili pure chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582792",
+    "name": "Lindt Excellence reep pure chocolade pistache",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234323836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582787",
+    "name": "Lindt Excellence reep pure chocolade 50%",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234323837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507752",
+    "name": "Lindt Lindor reep 70% pure chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "402616",
+    "name": "Lindt Excellence 70% mild pure chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193227",
+    "name": "Tony's Chocolonely Reep puur 70%",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837353535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523482",
+    "name": "AH Reep puur",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "55232",
+    "name": "Côte d'Or L'original reep puur",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353735383837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582813",
+    "name": "MrBeast Feastables dark chocolate",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534363139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188951",
+    "name": "AH Biologisch Reep puur",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363437353631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196282",
+    "name": "AH Reep puur",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373733353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "35401",
+    "name": "Delicata Reep krachtige pure Belgische chocolade",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393130303235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1017",
+    "name": "Delicata Reep pure chocolade",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502245",
+    "name": "Verkade Tablet puur",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932303834?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196599",
+    "name": "Lindt Excellence 70% pure chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124134",
+    "name": "Côte d'Or 70% Pure chocolade reep intense",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353735383834?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396056",
+    "name": "Hands Off Seriously dark 85% cacao",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730303833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435744",
+    "name": "Lindt Excellence 78% pure chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188949",
+    "name": "AH Biologisch Reep extra puur",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363437353732?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417394",
+    "name": "Delicata Reep extra pure chocolade 70%",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393039393834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459586",
+    "name": "Delicata Reep puur fleur de sel 75% cacao",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634333835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196598",
+    "name": "Lindt Excellence 85% pure chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459628",
+    "name": "AH Reep extra puur",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373733353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1018",
+    "name": "Delicata Reep extra pure chocolade 70%",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417321",
+    "name": "Delicata Reep puur 71% cacao",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232897",
+    "name": "Lindt Excellence 90% pure chocolade",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502248",
+    "name": "Verkade Extra puur",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933303739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159626",
+    "name": "Côte d'Or Chocolade reep extra intense puur 86%",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127759",
+    "name": "Delicata Reep puur 75% cacao",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480914",
+    "name": "Lindt Excellence 100% pure chocolade",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232899",
+    "name": "Lindt Excellence 99% pure chocolade",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469392",
+    "name": "Alter Eco 85% peru dark chocolate vegan",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330333134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417324",
+    "name": "Delicata Reep puur 80% cacao",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031303131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237923",
+    "name": "Delicata Reep puur 85% cacao",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031303130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469395",
+    "name": "Alter Eco 90% peru dark chocolate vegan",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330333138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade"
+    ],
+    "isFood": true
+  }
+]

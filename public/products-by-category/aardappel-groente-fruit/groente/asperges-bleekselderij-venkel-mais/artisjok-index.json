@@ -1,0 +1,80 @@
+[
+  {
+    "id": "485623",
+    "name": "Royal Gemarineerde artisjokharten",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363837353438?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Artisjok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "424928",
+    "name": "AH Gemarineerde artisjok",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Artisjok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416510",
+    "name": "AH Gegrilde artisjok in olie",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335353831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Artisjok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104261",
+    "name": "AH Artisjokharten",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363430383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Artisjok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578632",
+    "name": "AH Gegrilde artisjok in olie 2-pack",
+    "price": 2.83,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Artisjok"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578634",
+    "name": "AH Gemarineerde artisjok 2-pack",
+    "price": 4.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Asperges, bleekselderij, venkel, mais",
+      "Artisjok"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "60045",
+    "name": "Del Monte Ananasschijven op siroop",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363834313631?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Ananas (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165309",
+    "name": "Del Monte Ananasschijven op siroop",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939383931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Ananas (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168789",
+    "name": "Del Monte Ananas blokjes op sap",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353734303135?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Ananas (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185582",
+    "name": "Del Monte Ananasblokjes op sap",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353734303637?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Ananas (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "385410",
+    "name": "Del Monte Ananasschijven op sap",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353734303736?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Ananas (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "428748",
+    "name": "Del Monte Ananasschijven op sap",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303530323230?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Ananas (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "428747",
+    "name": "Del Monte Ananassticks op sap",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353734303539?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Ananas (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185782",
+    "name": "Fairtrade Original Ananas schijven op sap",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531393036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Ananas (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374356",
+    "name": "Fairtrade Original Ananas stukjes op eigen sap",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436393034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Ananas (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "857",
+    "name": "AH Ananasschijven op sap",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735353631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Ananas (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "56754",
+    "name": "AH Ananasstukjes op sap",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735353535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Ananas (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509290",
+    "name": "AH Stukjes ananas op sap",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383435393738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Ananas (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381922",
+    "name": "Aarts Ananas bio",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353739373035?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Ananas (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580586",
+    "name": "Del Monte ananasblokjes 3-pack",
+    "price": 4.05,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038313033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Ananas (conserven)"
+    ],
+    "isFood": true
+  }
+]

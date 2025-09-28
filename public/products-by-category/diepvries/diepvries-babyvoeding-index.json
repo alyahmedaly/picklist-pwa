@@ -1,0 +1,57 @@
+[
+  {
+    "id": "564312",
+    "name": "Mama Deli Macaroni & tomaat 12m+",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries babyvoeding"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564307",
+    "name": "Mama Deli Zoete aardappel & pompoen 4m+",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639343135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries babyvoeding"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564309",
+    "name": "Mama Deli Couscous, broccoli & rode biet 8m+",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639303731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries babyvoeding"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564315",
+    "name": "Mama Deli Orzo, courgette & rode paprika 8m+",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639343339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries babyvoeding"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564308",
+    "name": "Mama Deli Zoete aardappel & kikkererwt 8m+",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639343136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries babyvoeding"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Gebak en taart > Vlaai",
+  "breadcrumbs": "Bakkerij > Gebak en taart > Vlaai",
+  "totalProducts": 11,
+  "halalCompliance": 45,
+  "averageProtein": 3.2,
+  "averagePrice": 6.15,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 10,
+    "withIngredients": 11,
+    "withHalalCheck": 11
+  }
+}

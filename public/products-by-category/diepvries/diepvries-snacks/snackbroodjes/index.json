@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Diepvries > Diepvries snacks > Snackbroodjes",
+  "breadcrumbs": "Diepvries > Diepvries snacks > Snackbroodjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "broodje-snack",
+      "displayName": "Broodje Snack",
+      "productCount": 5,
+      "filePath": "broodje-snack.jsonl",
+      "indexPath": "broodje-snack-index.json",
+      "statsPath": "broodje-snack-stats.json",
+      "averageProtein": 10,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Diepvries Snacks",
+        "path": "../index.json"
+      },
+      {
+        "name": "Snackbroodjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "diepvries/diepvries-snacks"
+  }
+}

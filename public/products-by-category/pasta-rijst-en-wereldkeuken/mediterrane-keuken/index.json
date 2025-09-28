@@ -1,0 +1,46 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "italiaanse-keuken",
+      "displayName": "Italiaanse Keuken",
+      "productCount": 80,
+      "hasSubdirectories": true,
+      "indexPath": "italiaanse-keuken/index.json"
+    },
+    {
+      "name": "olijven",
+      "displayName": "Olijven",
+      "productCount": 15,
+      "hasSubdirectories": false,
+      "indexPath": "olijven/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 95,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 95,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Mediterrane Keuken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "pasta-rijst-en-wereldkeuken"
+  }
+}

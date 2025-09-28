@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Ice tea > Ice tea koolzuurhoudend",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Ice tea > Ice tea koolzuurhoudend",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "ice-tea-koolzuurhoudend-flessen",
+      "displayName": "Ice Tea Koolzuurhoudend Flessen",
+      "productCount": 12,
+      "filePath": "ice-tea-koolzuurhoudend-flessen.jsonl",
+      "indexPath": "ice-tea-koolzuurhoudend-flessen-index.json",
+      "statsPath": "ice-tea-koolzuurhoudend-flessen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 92
+    },
+    {
+      "name": "ice-tea-koolzuurhoudend-blikjes",
+      "displayName": "Ice Tea Koolzuurhoudend Blikjes",
+      "productCount": 7,
+      "filePath": "ice-tea-koolzuurhoudend-blikjes.jsonl",
+      "indexPath": "ice-tea-koolzuurhoudend-blikjes-index.json",
+      "statsPath": "ice-tea-koolzuurhoudend-blikjes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 86
+    }
+  ],
+  "totalProducts": 19,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 19,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Ice Tea",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ice Tea Koolzuurhoudend",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/ice-tea"
+  }
+}

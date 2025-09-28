@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Frisdrank > Sinas",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Frisdrank > Sinas",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "sinas-fles",
+      "displayName": "Sinas Fles",
+      "productCount": 19,
+      "filePath": "sinas-fles.jsonl",
+      "indexPath": "sinas-fles-index.json",
+      "statsPath": "sinas-fles-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 89
+    },
+    {
+      "name": "sinas-blik",
+      "displayName": "Sinas Blik",
+      "productCount": 12,
+      "filePath": "sinas-blik.jsonl",
+      "indexPath": "sinas-blik-index.json",
+      "statsPath": "sinas-blik-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 31,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 31,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Frisdrank",
+        "path": "../index.json"
+      },
+      {
+        "name": "Sinas",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/frisdrank"
+  }
+}

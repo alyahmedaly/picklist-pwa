@@ -1,0 +1,114 @@
+[
+  {
+    "id": "232382",
+    "name": "Hebro Saté ajam ketjap",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532393232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Sate (diepvries)",
+      "Kipsate (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429055",
+    "name": "AH Kipsate op stokje",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231363830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Sate (diepvries)",
+      "Kipsate (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429057",
+    "name": "AH Saté ajam",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Sate (diepvries)",
+      "Kipsate (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408979",
+    "name": "Mora Kipsaté milde pindasaus",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838353231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Sate (diepvries)",
+      "Kipsate (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232384",
+    "name": "Hebro Saté ajam pittig",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539373631?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Sate (diepvries)",
+      "Kipsate (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408980",
+    "name": "Mora Kipsaté pittige pindasaus",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039303739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Sate (diepvries)",
+      "Kipsate (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232380",
+    "name": "Hebro Saté ajam",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535303830?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Sate (diepvries)",
+      "Kipsate (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "377912",
+    "name": "Hebro Sate ajam XL",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532393039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Sate (diepvries)",
+      "Kipsate (diepvries)"
+    ],
+    "isFood": true
+  }
+]

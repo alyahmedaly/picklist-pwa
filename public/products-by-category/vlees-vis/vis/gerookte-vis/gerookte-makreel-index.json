@@ -1,0 +1,80 @@
+[
+  {
+    "id": "170803",
+    "name": "AH Gerookte makreel",
+    "price": 4.04,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte makreel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "512832",
+    "name": "AH Gerookte makreel flakes",
+    "price": 5.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte makreel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365767",
+    "name": "AH Gerookte makreelfilet graatloos",
+    "price": 5.66,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte makreel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457563",
+    "name": "AH Halve gerookte makreel",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte makreel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571128",
+    "name": "AH Gerookte makreel filet peper",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte makreel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "48968",
+    "name": "AH Gerookte makreelfilet",
+    "price": 3.74,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte makreel"
+    ],
+    "isFood": true
+  }
+]

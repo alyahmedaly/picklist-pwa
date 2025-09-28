@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Toetjes > Roomijs",
+  "breadcrumbs": "Zuivel, eieren, boter > Toetjes > Roomijs",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "roomschepijs",
+      "displayName": "Roomschepijs",
+      "productCount": 29,
+      "filePath": "roomschepijs.jsonl",
+      "indexPath": "roomschepijs-index.json",
+      "statsPath": "roomschepijs-stats.json",
+      "averageProtein": 3.2,
+      "halalCompliance": 3
+    }
+  ],
+  "totalProducts": 29,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Toetjes",
+        "path": "../index.json"
+      },
+      {
+        "name": "Roomijs",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "zuivel-eieren-boter/toetjes"
+  }
+}

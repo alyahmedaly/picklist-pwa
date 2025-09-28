@@ -1,0 +1,158 @@
+[
+  {
+    "id": "509537",
+    "name": "Pommery Champagne noir brut",
+    "price": 40.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Champagne (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130932",
+    "name": "Louis Roederer Champagne brut premier",
+    "price": 60,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537333634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Champagne (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "61132",
+    "name": "Veuve Clicquot Brut",
+    "price": 65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231333738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Champagne (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "93238",
+    "name": "Veuve Clicquot Champagne brut rosé",
+    "price": 80,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231333739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Champagne (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486039",
+    "name": "AH Excellent Selectie champagne brut premier Cru",
+    "price": 25.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373030343135?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Champagne (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523975",
+    "name": "AH Excellent Selectie champagne brut rosé",
+    "price": 25.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039383136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Champagne (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447368",
+    "name": "Diane de Frion Champange brut",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436313030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Champagne (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374430",
+    "name": "Pannier Champagne Brut",
+    "price": 27.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534393039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Champagne (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "114456",
+    "name": "Piper Heidsieck Champagne cuvée sublime",
+    "price": 55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393637353634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Champagne (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160524",
+    "name": "Pommery Brut rosé",
+    "price": 55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373339333132?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Champagne (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "178179",
+    "name": "Pommery Champagne brut royal",
+    "price": 24.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830363931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Champagne (Droog)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160572",
+    "name": "Pommery Champagne Brut Royal",
+    "price": 42.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373437343039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Bubbels, mousserende wijn",
+      "Droge bubbels",
+      "Champagne (Droog)"
+    ],
+    "isFood": true
+  }
+]

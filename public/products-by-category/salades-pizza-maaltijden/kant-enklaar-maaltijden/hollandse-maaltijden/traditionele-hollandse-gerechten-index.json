@@ -1,0 +1,93 @@
+[
+  {
+    "id": "57542",
+    "name": "AH Cordon bleu met spinazie",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Traditionele Hollandse gerechten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "48306",
+    "name": "AH Hachee rodekool",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035333637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Traditionele Hollandse gerechten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210762",
+    "name": "AH Hachee stoofpeer",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035333730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Traditionele Hollandse gerechten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419068",
+    "name": "AH Rode biet gehaktbal",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Traditionele Hollandse gerechten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505709",
+    "name": "AH Braadworst bloemkool",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035333638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Traditionele Hollandse gerechten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210763",
+    "name": "AH Kipfilet pepersaus met wortel en doperwt",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035333639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Traditionele Hollandse gerechten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442584",
+    "name": "AH Verse penne scharrelkip gehaktballetjes",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393938363037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Hollandse maaltijden",
+      "Traditionele Hollandse gerechten"
+    ],
+    "isFood": true
+  }
+]

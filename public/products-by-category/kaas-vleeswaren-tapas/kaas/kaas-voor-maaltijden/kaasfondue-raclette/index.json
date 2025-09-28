@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Kaas > Kaas voor maaltijden > Kaasfondue, raclette",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Kaas > Kaas voor maaltijden > Kaasfondue, raclette",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "fondue-kaas",
+      "displayName": "Fondue Kaas",
+      "productCount": 6,
+      "filePath": "fondue-kaas.jsonl",
+      "indexPath": "fondue-kaas-index.json",
+      "statsPath": "fondue-kaas-stats.json",
+      "averageProtein": 16,
+      "halalCompliance": 50
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Kaas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kaas Voor Maaltijden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kaasfondue Raclette",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "kaas-vleeswaren-tapas/kaas/kaas-voor-maaltijden"
+  }
+}

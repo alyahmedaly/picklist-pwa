@@ -1,0 +1,184 @@
+[
+  {
+    "id": "568108",
+    "name": "Charlie's Sparkling water cassis",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135373439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurhoudend water",
+      "Flesjes water (koolzuurhoudend)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "379761",
+    "name": "AH Mineraalwater koolzuurhoudend 6-pack",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurhoudend water",
+      "Flesjes water (koolzuurhoudend)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123423",
+    "name": "AH Mineraalwater koolzuurvrij",
+    "price": 0.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurhoudend water",
+      "Flesjes water (koolzuurhoudend)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123424",
+    "name": "AH Mineraalwater licht bruisend",
+    "price": 0.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurhoudend water",
+      "Flesjes water (koolzuurhoudend)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123417",
+    "name": "AH Mineraalwater licht bruisend 6-pack",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurhoudend water",
+      "Flesjes water (koolzuurhoudend)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442106",
+    "name": "AH Water koolzuurhoudend",
+    "price": 0.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373435383732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurhoudend water",
+      "Flesjes water (koolzuurhoudend)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198584",
+    "name": "Evian Natuurlijk mineraalwater",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373535303833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurhoudend water",
+      "Flesjes water (koolzuurhoudend)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "398612",
+    "name": "S. Pellegrino Mineraalwater koolzuurhoudend",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50383237313539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurhoudend water",
+      "Flesjes water (koolzuurhoudend)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559021",
+    "name": "SEA Water Sparkling water",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434353332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurhoudend water",
+      "Flesjes water (koolzuurhoudend)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "65783",
+    "name": "Spa Finesse licht bruisend mineraalwater",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339323334?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurhoudend water",
+      "Flesjes water (koolzuurhoudend)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553549",
+    "name": "Spa Intense bruisend mineraalwater",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336323033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurhoudend water",
+      "Flesjes water (koolzuurhoudend)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "63010",
+    "name": "Spa Intense fles",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339323238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurhoudend water",
+      "Flesjes water (koolzuurhoudend)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67825",
+    "name": "Spa Intense rood bruisend mineraalwater",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurhoudend water",
+      "Flesjes water (koolzuurhoudend)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "73241",
+    "name": "Spa Intense rood bruisend mineraalwater",
+    "price": 16.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639313634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Water",
+      "Koolzuurhoudend water",
+      "Flesjes water (koolzuurhoudend)"
+    ],
+    "isFood": true
+  }
+]

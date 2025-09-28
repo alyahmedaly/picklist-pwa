@@ -1,0 +1,36 @@
+{
+  "categoryPath": "Koken, tafelen, vrije tijd > Feestje, gelegenheid",
+  "breadcrumbs": "Koken, tafelen, vrije tijd > Feestje, gelegenheid",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "taartversiering",
+      "displayName": "Taartversiering",
+      "productCount": 10,
+      "filePath": "taartversiering.jsonl",
+      "indexPath": "taartversiering-index.json",
+      "statsPath": "taartversiering-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 10,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koken Tafelen Vrije Tijd",
+        "path": "../index.json"
+      },
+      {
+        "name": "Feestje Gelegenheid",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "koken-tafelen-vrije-tijd"
+  }
+}

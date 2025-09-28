@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Kaas beleg > Jong belegen kaas broodbeleg",
+  "breadcrumbs": "Ontbijtgranen en beleg > Kaas beleg > Jong belegen kaas broodbeleg",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "jong-belegen-kaas-plakken",
+      "displayName": "Jong Belegen Kaas Plakken",
+      "productCount": 24,
+      "filePath": "jong-belegen-kaas-plakken.jsonl",
+      "indexPath": "jong-belegen-kaas-plakken-index.json",
+      "statsPath": "jong-belegen-kaas-plakken-stats.json",
+      "averageProtein": 26.5,
+      "halalCompliance": 100
+    },
+    {
+      "name": "jong-belegen-kaas-stuk",
+      "displayName": "Jong Belegen Kaas Stuk",
+      "productCount": 13,
+      "filePath": "jong-belegen-kaas-stuk.jsonl",
+      "indexPath": "jong-belegen-kaas-stuk-index.json",
+      "statsPath": "jong-belegen-kaas-stuk-stats.json",
+      "averageProtein": 25.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 37,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 37,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kaas Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Jong Belegen Kaas Broodbeleg",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/kaas-beleg"
+  }
+}

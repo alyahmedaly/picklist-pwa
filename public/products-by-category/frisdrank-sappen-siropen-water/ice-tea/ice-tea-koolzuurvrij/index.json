@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Ice tea > Ice tea koolzuurvrij",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Ice tea > Ice tea koolzuurvrij",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "ice-tea-koolzuurvrij-flessen",
+      "displayName": "Ice Tea Koolzuurvrij Flessen",
+      "productCount": 58,
+      "filePath": "ice-tea-koolzuurvrij-flessen.jsonl",
+      "indexPath": "ice-tea-koolzuurvrij-flessen-index.json",
+      "statsPath": "ice-tea-koolzuurvrij-flessen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 93
+    },
+    {
+      "name": "ice-tea-koolzuurvrij-blikjes",
+      "displayName": "Ice Tea Koolzuurvrij Blikjes",
+      "productCount": 27,
+      "filePath": "ice-tea-koolzuurvrij-blikjes.jsonl",
+      "indexPath": "ice-tea-koolzuurvrij-blikjes-index.json",
+      "statsPath": "ice-tea-koolzuurvrij-blikjes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 85
+    },
+    {
+      "name": "ice-tea-koolzuurvrij-pakken",
+      "displayName": "Ice Tea Koolzuurvrij Pakken",
+      "productCount": 25,
+      "filePath": "ice-tea-koolzuurvrij-pakken.jsonl",
+      "indexPath": "ice-tea-koolzuurvrij-pakken-index.json",
+      "statsPath": "ice-tea-koolzuurvrij-pakken-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 96
+    }
+  ],
+  "totalProducts": 110,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 110,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Ice Tea",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ice Tea Koolzuurvrij",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/ice-tea"
+  }
+}

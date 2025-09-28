@@ -1,0 +1,61 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "vitamines-supplementen",
+      "displayName": "Vitamines Supplementen",
+      "productCount": 158,
+      "hasSubdirectories": true,
+      "indexPath": "vitamines-supplementen/index.json"
+    },
+    {
+      "name": "sportvoeding",
+      "displayName": "Sportvoeding",
+      "productCount": 88,
+      "hasSubdirectories": false,
+      "indexPath": "sportvoeding/index.json"
+    },
+    {
+      "name": "zelfzorg",
+      "displayName": "Zelfzorg",
+      "productCount": 69,
+      "hasSubdirectories": true,
+      "indexPath": "zelfzorg/index.json"
+    },
+    {
+      "name": "optiek",
+      "displayName": "Optiek",
+      "productCount": 49,
+      "hasSubdirectories": true,
+      "indexPath": "optiek/index.json"
+    },
+    {
+      "name": "dieetvoeding",
+      "displayName": "Dieetvoeding",
+      "productCount": 35,
+      "hasSubdirectories": true,
+      "indexPath": "dieetvoeding/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 399,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 399,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "520111",
+    "name": "AH Geel fruit notenmix ongezouten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383639323430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Noten en fruitmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541505",
+    "name": "AH Biologisch Pistache noten",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Noten en fruitmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469386",
+    "name": "AH Biologisch Cashewnoten ongebrand",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338343133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Noten en fruitmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470166",
+    "name": "AH Biologisch Dadel & notenmix ongebrand",
+    "price": 5.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939353437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Noten en fruitmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569983",
+    "name": "AH Verrijker walnoot en vijg rozijnen",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033343039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Noten en fruitmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541506",
+    "name": "AH Biologisch Pistache & notenmix",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536323833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Noten en fruitmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520963",
+    "name": "AH Verrijker gevriesdroogde fruit mix",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383732393730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Noten en fruitmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500154",
+    "name": "AH Verrijker notenmix ontbijt",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934303632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Noten en fruitmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469385",
+    "name": "AH Biologisch Amandelen ongebrand",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363336313637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Noten en fruitmix"
+    ],
+    "isFood": true
+  }
+]

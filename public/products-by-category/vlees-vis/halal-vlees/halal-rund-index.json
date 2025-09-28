@@ -1,0 +1,74 @@
+[
+  {
+    "id": "314139",
+    "name": "Efepasa Burcu gevogelteworsten",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730373933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal rund"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507472",
+    "name": "Wahid Hamburgers",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334373139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal rund"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495350",
+    "name": "Wahid Kebab spies",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536303831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal rund"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413558",
+    "name": "Wahid Merguez",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133343231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal rund"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197817",
+    "name": "Wahid Rundergehakt",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334373030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal rund"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533528",
+    "name": "Omar Biefstuk",
+    "price": 7.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal rund"
+    ],
+    "isFood": true
+  }
+]

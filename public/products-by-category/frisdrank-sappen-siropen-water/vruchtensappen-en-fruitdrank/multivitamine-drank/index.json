@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Vruchtensappen en fruitdrank > Multivitamine drank",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Vruchtensappen en fruitdrank > Multivitamine drank",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "multivitamine-pakken",
+      "displayName": "Multivitamine Pakken",
+      "productCount": 21,
+      "filePath": "multivitamine-pakken.jsonl",
+      "indexPath": "multivitamine-pakken-index.json",
+      "statsPath": "multivitamine-pakken-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 81
+    }
+  ],
+  "totalProducts": 21,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vruchtensappen En Fruitdrank",
+        "path": "../index.json"
+      },
+      {
+        "name": "Multivitamine Drank",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/vruchtensappen-en-fruitdrank"
+  }
+}

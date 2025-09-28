@@ -1,0 +1,61 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Yoghurt en kwark > Yoghurt",
+  "breadcrumbs": "Zuivel, eieren, boter > Yoghurt en kwark > Yoghurt",
+  "subdirectories": [
+    {
+      "name": "yoghurt-naturel",
+      "displayName": "Yoghurt Naturel",
+      "productCount": 40,
+      "hasSubdirectories": false,
+      "indexPath": "yoghurt-naturel/index.json"
+    },
+    {
+      "name": "yoghurt-met-smaak",
+      "displayName": "Yoghurt Met Smaak",
+      "productCount": 29,
+      "hasSubdirectories": false,
+      "indexPath": "yoghurt-met-smaak/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "griekse-yoghurt",
+      "displayName": "Griekse Yoghurt",
+      "productCount": 30,
+      "filePath": "griekse-yoghurt.jsonl",
+      "indexPath": "griekse-yoghurt-index.json",
+      "statsPath": "griekse-yoghurt-stats.json",
+      "averageProtein": 4.3,
+      "halalCompliance": 67
+    }
+  ],
+  "totalProducts": 99,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 99,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Yoghurt En Kwark",
+        "path": "../index.json"
+      },
+      {
+        "name": "Yoghurt",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "zuivel-eieren-boter/yoghurt-en-kwark"
+  }
+}

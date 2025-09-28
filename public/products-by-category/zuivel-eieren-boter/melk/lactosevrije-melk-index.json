@@ -1,0 +1,98 @@
+[
+  {
+    "id": "448315",
+    "name": "AH Lactosevrije houdbare volle melk",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393931363639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Lactosevrije melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474966",
+    "name": "Arla Lactofree volle melk",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363632373439?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Lactosevrije melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469664",
+    "name": "AH Lactosevrij verse halfvolle melkdrank",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331303835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Lactosevrije melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448314",
+    "name": "AH Lactosevrije houdbare halfvolle melk",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393931363734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Lactosevrije melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209828",
+    "name": "Arla Lactofree halfvolle melk",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353639303532?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Lactosevrije melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213334",
+    "name": "Arla Lactofree halfvolle melk lactosevrij",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632343930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Lactosevrije melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515787",
+    "name": "Arla Lactofree halfvolle melk lactosevrij",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383436333431?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Lactosevrije melk"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460931",
+    "name": "Arla Lactofree houdbare halfvolle melk",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632343936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Melk",
+      "Lactosevrije melk"
+    ],
+    "isFood": true
+  }
+]

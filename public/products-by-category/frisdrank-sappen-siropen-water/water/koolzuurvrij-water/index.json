@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Water > Koolzuurvrij water",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Water > Koolzuurvrij water",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "flessen-water-koolzuurvrij",
+      "displayName": "Flessen Water Koolzuurvrij",
+      "productCount": 19,
+      "filePath": "flessen-water-koolzuurvrij.jsonl",
+      "indexPath": "flessen-water-koolzuurvrij-index.json",
+      "statsPath": "flessen-water-koolzuurvrij-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 32
+    },
+    {
+      "name": "flesjes-water-koolzuurvrij",
+      "displayName": "Flesjes Water Koolzuurvrij",
+      "productCount": 18,
+      "filePath": "flesjes-water-koolzuurvrij.jsonl",
+      "indexPath": "flesjes-water-koolzuurvrij-index.json",
+      "statsPath": "flesjes-water-koolzuurvrij-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 56
+    }
+  ],
+  "totalProducts": 37,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 37,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Water",
+        "path": "../index.json"
+      },
+      {
+        "name": "Koolzuurvrij Water",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/water"
+  }
+}

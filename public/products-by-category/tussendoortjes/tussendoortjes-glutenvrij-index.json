@@ -1,0 +1,134 @@
+[
+  {
+    "id": "407857",
+    "name": "Schär Crisp bar",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373430343139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494244",
+    "name": "AH Glutenvrij Muffin chocolate chip",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373231303032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494410",
+    "name": "AH Glutenvrij Mueslireep chocolade",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530313935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188968",
+    "name": "Eat Natural Fruit & nut bars amandel & abrikoos",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634333233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518775",
+    "name": "Nakd. Vegan chocolish double cocao bars",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383734333931?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518730",
+    "name": "Nakd. Vegan chocolish raspberry cocao bars",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383734333838?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388651",
+    "name": "Eat Natural Protein packed repen pinda's & chocolade",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634333236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474864",
+    "name": "Clif Bar Peanut butter",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432333139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541509",
+    "name": "Leev Linzenwafels rozemarijn 3-pack",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131333633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541508",
+    "name": "Leev Linzenwafels paprika 3-pack",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575449",
+    "name": "Leev Linzenwafels cacao",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636333835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (glutenvrij)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "235999",
+    "name": "Consenza Blocks of rice with dark chocolate",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933373635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (glutenvrij)"
+    ],
+    "isFood": true
+  }
+]

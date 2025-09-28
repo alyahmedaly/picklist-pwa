@@ -1,0 +1,100 @@
+[
+  {
+    "id": "442504",
+    "name": "Coca-Cola zero caff free 6x0.5L BEL",
+    "price": 9.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393035383030?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola cafeïnevrij flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171607",
+    "name": "Coca-Cola Zero sugar zero caffeïne",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030363231?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola cafeïnevrij flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518942",
+    "name": "Coca-Cola Zero sugar zero caffeïne",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030353438?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola cafeïnevrij flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566949",
+    "name": "Coca-Cola Zero sugar zero caffeine 12-pack",
+    "price": 7.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532363831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola cafeïnevrij flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566940",
+    "name": "Coca-Cola Zero sugar zero caffeine 4-pack",
+    "price": 9.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393938343534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola cafeïnevrij flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573408",
+    "name": "Coca-Cola Zero sugar zero caffeïne 4-pack",
+    "price": 10.6,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola cafeïnevrij flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457593",
+    "name": "Pepsi Zero cola caffeine free",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola cafeïnevrij flessen"
+    ],
+    "isFood": true
+  }
+]

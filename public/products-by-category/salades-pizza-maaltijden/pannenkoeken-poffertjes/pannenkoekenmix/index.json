@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Pannenkoeken, poffertjes > Pannenkoekenmix",
+  "breadcrumbs": "Salades, pizza, maaltijden > Pannenkoeken, poffertjes > Pannenkoekenmix",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "pannenkoekenmix-diverse",
+      "displayName": "Pannenkoekenmix Diverse",
+      "productCount": 16,
+      "filePath": "pannenkoekenmix-diverse.jsonl",
+      "indexPath": "pannenkoekenmix-diverse-index.json",
+      "statsPath": "pannenkoekenmix-diverse-stats.json",
+      "averageProtein": 7.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 16,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Pannenkoeken Poffertjes",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pannenkoekenmix",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "salades-pizza-maaltijden/pannenkoeken-poffertjes"
+  }
+}

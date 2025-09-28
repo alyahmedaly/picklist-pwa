@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Zoet broodbeleg > Stroop",
+  "breadcrumbs": "Ontbijtgranen en beleg > Zoet broodbeleg > Stroop",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "appelstroop-perenstroop",
+      "displayName": "Appelstroop Perenstroop",
+      "productCount": 12,
+      "filePath": "appelstroop-perenstroop.jsonl",
+      "indexPath": "appelstroop-perenstroop-index.json",
+      "statsPath": "appelstroop-perenstroop-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 12,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Zoet Broodbeleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Stroop",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/zoet-broodbeleg"
+  }
+}

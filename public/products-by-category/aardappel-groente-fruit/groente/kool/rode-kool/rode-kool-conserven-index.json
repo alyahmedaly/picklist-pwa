@@ -1,0 +1,198 @@
+[
+  {
+    "id": "115257",
+    "name": "AH Kruidenzuurkool",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Rode kool",
+      "Rode kool (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "39196",
+    "name": "Bonduelle Rode kool met appel",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Rode kool",
+      "Rode kool (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165411",
+    "name": "AH Biologisch Gekookte rodekool met appeltjes",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437353730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Rode kool",
+      "Rode kool (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "115254",
+    "name": "AH Gekookte rodekool met appeltjes",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437353638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Rode kool",
+      "Rode kool (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "57859",
+    "name": "AH Rode kool met appel",
+    "price": 0.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Rode kool",
+      "Rode kool (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "58367",
+    "name": "AH Rode kool met appel",
+    "price": 0.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Rode kool",
+      "Rode kool (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207339",
+    "name": "Hak Rode Kool",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Rode kool",
+      "Rode kool (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207533",
+    "name": "Hak Rode Kool",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Rode kool",
+      "Rode kool (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207330",
+    "name": "Hak Rode kool met stukjes appel",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038313136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Rode kool",
+      "Rode kool (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207337",
+    "name": "Hak Rode kool met stukjes appel",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Rode kool",
+      "Rode kool (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207534",
+    "name": "Hak Rode kool met stukjes appel",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Rode kool",
+      "Rode kool (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "101183",
+    "name": "AH Biologisch Rode kool met appel",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Rode kool",
+      "Rode kool (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161399",
+    "name": "AH Rode kool met appel",
+    "price": 0.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Rode kool",
+      "Rode kool (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450484",
+    "name": "Hak Rode kool met appel 0%",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Kool",
+      "Rode kool",
+      "Rode kool (conserven)"
+    ],
+    "isFood": true
+  }
+]

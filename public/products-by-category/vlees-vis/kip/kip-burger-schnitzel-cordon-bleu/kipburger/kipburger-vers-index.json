@@ -1,0 +1,128 @@
+[
+  {
+    "id": "557111",
+    "name": "Danlers Chicken burger",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436363436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Kipburger",
+      "Kipburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531871",
+    "name": "AH Scharrel kipburger 2 stuks",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Kipburger",
+      "Kipburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531872",
+    "name": "AH Scharrel kipburger 4 stuks",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Kipburger",
+      "Kipburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556724",
+    "name": "AH Scharrel kipburger Jalapeño 2 stuks",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Kipburger",
+      "Kipburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531876",
+    "name": "AH Scharrel krokante kipfilet burger",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Kipburger",
+      "Kipburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533085",
+    "name": "AH Scharrel kipburger",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Kipburger",
+      "Kipburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560559",
+    "name": "AH Scharrel smokey kipburger",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Kipburger",
+      "Kipburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577875",
+    "name": "AH Scharrel kipburger Jalapeno 3-pack",
+    "price": 9.96,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930303936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Kipburger",
+      "Kipburger (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577874",
+    "name": "AH Scharrel smokey kipburger 3-pack",
+    "price": 9.96,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930303935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Kipburger",
+      "Kipburger (vers)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "half-zoete-sherry",
+      "displayName": "Half Zoete Sherry",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "half-zoete-sherry/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 5,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 5,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Port Sherry En Vermouth",
+        "path": "../index.json"
+      },
+      {
+        "name": "Sherry",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "wijn-en-bubbels/port-sherry-en-vermouth"
+  }
+}

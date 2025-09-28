@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Kauwgom > Kauwgom multipack",
+  "breadcrumbs": "Snoep, chocolade, koek > Kauwgom > Kauwgom multipack",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "multipack-mint",
+      "displayName": "Multipack Mint",
+      "productCount": 19,
+      "filePath": "multipack-mint.jsonl",
+      "indexPath": "multipack-mint-index.json",
+      "statsPath": "multipack-mint-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 5
+    },
+    {
+      "name": "multipack-fruit",
+      "displayName": "Multipack Fruit",
+      "productCount": 6,
+      "filePath": "multipack-fruit.jsonl",
+      "indexPath": "multipack-fruit-index.json",
+      "statsPath": "multipack-fruit-stats.json",
+      "averageProtein": 0.4,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 25,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 25,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kauwgom",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kauwgom Multipack",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "snoep-chocolade-koek/kauwgom"
+  }
+}

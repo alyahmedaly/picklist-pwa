@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Wijn en bubbels > Mixdranken en likorettes > Mixdranken",
+  "breadcrumbs": "Wijn en bubbels > Mixdranken en likorettes > Mixdranken",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "mixdranken-blikjes-en-flesjes",
+      "displayName": "Mixdranken Blikjes En Flesjes",
+      "productCount": 48,
+      "filePath": "mixdranken-blikjes-en-flesjes.jsonl",
+      "indexPath": "mixdranken-blikjes-en-flesjes-index.json",
+      "statsPath": "mixdranken-blikjes-en-flesjes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 10
+    },
+    {
+      "name": "mixdranken-flessen",
+      "displayName": "Mixdranken Flessen",
+      "productCount": 14,
+      "filePath": "mixdranken-flessen.jsonl",
+      "indexPath": "mixdranken-flessen-index.json",
+      "statsPath": "mixdranken-flessen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 21
+    }
+  ],
+  "totalProducts": 62,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 62,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Mixdranken En Likorettes",
+        "path": "../index.json"
+      },
+      {
+        "name": "Mixdranken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "wijn-en-bubbels/mixdranken-en-likorettes"
+  }
+}

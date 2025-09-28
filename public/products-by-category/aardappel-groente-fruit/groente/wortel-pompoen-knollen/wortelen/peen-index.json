@@ -1,0 +1,114 @@
+[
+  {
+    "id": "127590",
+    "name": "AH Bospeen",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363432393135?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Peen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188141",
+    "name": "AH Geschilde bospeen",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131343536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Peen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561136",
+    "name": "AH Biologisch Winterpeen",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438353435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Peen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104817",
+    "name": "AH Peen julienne",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434323431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Peen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226376",
+    "name": "AH Peen julienne",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532383538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Peen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "4076",
+    "name": "AH Winterpeen",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383736323731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Peen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99036",
+    "name": "AH Winterpeen",
+    "price": 0.35,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303631383931?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Peen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567142",
+    "name": "AH Winterpeen 3-pack",
+    "price": 4.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039343034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Wortelen",
+      "Peen"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "445437",
+    "name": "AH Chorizo pamplona",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spaanse en Italiaanse vleeswaren (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570400",
+    "name": "AH Excellent Chorizo iberico",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633343837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spaanse en Italiaanse vleeswaren (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508274",
+    "name": "Huls Sticks chorizo",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383132363932?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spaanse en Italiaanse vleeswaren (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579137",
+    "name": "AH Spianata romana",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034383035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spaanse en Italiaanse vleeswaren (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560664",
+    "name": "AH Truffelsalami parmezaanse kaas",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830343938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spaanse en Italiaanse vleeswaren (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454038",
+    "name": "AH Pepperoni",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spaanse en Italiaanse vleeswaren (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454460",
+    "name": "AH Salami milano",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spaanse en Italiaanse vleeswaren (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497881",
+    "name": "AH Chorizo",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spaanse en Italiaanse vleeswaren (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497774",
+    "name": "Argal Chorizo ring pamplona",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373631363134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spaanse en Italiaanse vleeswaren (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549899",
+    "name": "AH Jamón serrano duroc",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130303238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spaanse en Italiaanse vleeswaren (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579136",
+    "name": "AH Jamon curado",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038343034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spaanse en Italiaanse vleeswaren (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445439",
+    "name": "AH Jamon serrano",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spaanse en Italiaanse vleeswaren (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479368",
+    "name": "AH Prosciutto crudo",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spaanse en Italiaanse vleeswaren (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580366",
+    "name": "AH Jamon serrano 3-pack",
+    "price": 8.61,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spaanse en Italiaanse vleeswaren (voorverpakt)"
+    ],
+    "isFood": true
+  }
+]

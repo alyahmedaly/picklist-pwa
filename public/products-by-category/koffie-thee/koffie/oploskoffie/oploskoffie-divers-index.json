@@ -1,0 +1,119 @@
+[
+  {
+    "id": "229544",
+    "name": "Nescafé Wiener melange family oploskoffie",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831353139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (divers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495590",
+    "name": "Nescafé Iced salted caramel oploskoffie",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (divers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381469",
+    "name": "Caffé Gondoliere Latte macchiato instant coffee",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383637343432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (divers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381468",
+    "name": "Caffé Gondoliere Wiener melange instant coffee",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383637343431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (divers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476546",
+    "name": "Nescafé Frappé ijskoffie oploskoffie",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363534303332?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (divers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561890",
+    "name": "Nescafé Chocolate caramel brownie mocha",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133343235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (divers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381470",
+    "name": "Caffé Gondoliere Cappucino oplos navul",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383637343433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (divers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232989",
+    "name": "Zonnatura Meergranen koffie cafeïnevrij",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137373334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (divers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562112",
+    "name": "Caffé Gondoliere Gold melange instant coffee",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393633323630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Oploskoffie",
+      "Oploskoffie (divers)"
+    ],
+    "isFood": true
+  }
+]

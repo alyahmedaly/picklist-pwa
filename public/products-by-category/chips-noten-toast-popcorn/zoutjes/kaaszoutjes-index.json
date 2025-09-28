@@ -1,0 +1,302 @@
+[
+  {
+    "id": "129542",
+    "name": "AH Kaaswafels met kaascreme",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d5031343333313031?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183304",
+    "name": "AH Kaas bolletjes ham-kaas",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303331373737?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570694",
+    "name": "Hollandia Kaasrolletjes Gouda kaas",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035353239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209800",
+    "name": "AH Kaas en bieslook soesjes met creme",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303539383733?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416630",
+    "name": "AH Parmezaanse kaas biscuits",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50363438313239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "150090",
+    "name": "AH Excellent Kaasovaaltjes Goudse kaas",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323532313735?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170772",
+    "name": "AH Kaas bolletjes roomkaas",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323532323031?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129543",
+    "name": "AH Kaaskoekjes met roomboter",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323532313538?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "182773",
+    "name": "AH Excellent Roomboter geitenkaas biscuits",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323532323632?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168466",
+    "name": "Verkade Ovengebakken shuttles kaas & ui",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833353738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183302",
+    "name": "AH Oude kaasbiscuit",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303331383230?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506326",
+    "name": "AH Zaanlander Kaasvlinder",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383336353533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416664",
+    "name": "AH Roomboter kaasvlinders extra kaas",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50363437323430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189289",
+    "name": "Euro Patisserie Twiggles kaasvlinders",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393637313236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "111149",
+    "name": "Euro Patisserie Twiggles selection kaaskoekjes",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393634393330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165097",
+    "name": "AH Kaaskoekjes mix met roomboter",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323532313137?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416668",
+    "name": "AH Roomboter kaasstengels met pitten",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50363437323339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229016",
+    "name": "Van Strien Kaasvlinders",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363639363538?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448357",
+    "name": "AH Luxe rijstcrackers",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "111148",
+    "name": "Euro Patisserie Twiggles snack kaas",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173428",
+    "name": "Tuc Cheese",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034323538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229017",
+    "name": "Van Strien Kaasstengels",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363639323733?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165098",
+    "name": "AH Kaasstengels met Goudse kaas",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373733353337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183306",
+    "name": "AH Tijm & rozemarijn zoutjes met zeezout",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303331383432?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447645",
+    "name": "AH Ham & kaas smaak zoutjes",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533323437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Kaaszoutjes"
+    ],
+    "isFood": true
+  }
+]

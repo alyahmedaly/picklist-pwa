@@ -1,0 +1,75 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "noten",
+      "displayName": "Noten",
+      "productCount": 241,
+      "hasSubdirectories": true,
+      "indexPath": "noten/index.json"
+    },
+    {
+      "name": "chips",
+      "displayName": "Chips",
+      "productCount": 208,
+      "hasSubdirectories": true,
+      "indexPath": "chips/index.json"
+    },
+    {
+      "name": "zoutjes",
+      "displayName": "Zoutjes",
+      "productCount": 88,
+      "hasSubdirectories": false,
+      "indexPath": "zoutjes/index.json"
+    },
+    {
+      "name": "toastjes",
+      "displayName": "Toastjes",
+      "productCount": 17,
+      "hasSubdirectories": false,
+      "indexPath": "toastjes/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "popcorn",
+      "displayName": "Popcorn",
+      "productCount": 18,
+      "filePath": "popcorn.jsonl",
+      "indexPath": "popcorn-index.json",
+      "statsPath": "popcorn-stats.json",
+      "averageProtein": 6.4,
+      "halalCompliance": 67
+    },
+    {
+      "name": "kerstchocolade",
+      "displayName": "Kerstchocolade",
+      "productCount": 11,
+      "filePath": "kerstchocolade.jsonl",
+      "indexPath": "kerstchocolade-index.json",
+      "statsPath": "kerstchocolade-stats.json",
+      "averageProtein": 7.1,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 583,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 583,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Chips Noten Toast Popcorn",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

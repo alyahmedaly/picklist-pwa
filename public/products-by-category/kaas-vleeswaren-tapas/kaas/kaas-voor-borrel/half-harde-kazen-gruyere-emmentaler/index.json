@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Kaas > Kaas voor borrel > Half harde kazen, gruyere, emmentaler",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Kaas > Kaas voor borrel > Half harde kazen, gruyere, emmentaler",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "half-harde-kaas",
+      "displayName": "Half Harde Kaas",
+      "productCount": 11,
+      "filePath": "half-harde-kaas.jsonl",
+      "indexPath": "half-harde-kaas-index.json",
+      "statsPath": "half-harde-kaas-stats.json",
+      "averageProtein": 23.6,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 11,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Kaas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kaas Voor Borrel",
+        "path": "../index.json"
+      },
+      {
+        "name": "Half Harde Kazen Gruyere Emmentaler",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "kaas-vleeswaren-tapas/kaas/kaas-voor-borrel"
+  }
+}

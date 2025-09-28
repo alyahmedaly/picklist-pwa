@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Vruchtensappen en fruitdrank > Diverse sappen & dranken",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Vruchtensappen en fruitdrank > Diverse sappen & dranken",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "mangosap-drank",
+      "displayName": "Mangosap Drank",
+      "productCount": 5,
+      "filePath": "mangosap-drank.jsonl",
+      "indexPath": "mangosap-drank-index.json",
+      "statsPath": "mangosap-drank-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vruchtensappen En Fruitdrank",
+        "path": "../index.json"
+      },
+      {
+        "name": "Diverse Sappen Dranken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/vruchtensappen-en-fruitdrank"
+  }
+}

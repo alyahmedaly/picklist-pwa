@@ -1,0 +1,98 @@
+[
+  {
+    "id": "128131",
+    "name": "AH Salade erbij boeren mix",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Groene salade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579428",
+    "name": "AH Salade erbij geitenkaas appel",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034383132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Groene salade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "128130",
+    "name": "AH Salade erbij italiaanse mix",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038343139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Groene salade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "120877",
+    "name": "AH Salade erbij caesar mix",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Groene salade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365406",
+    "name": "AH Salade erbij blauwe kaas",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038343235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Groene salade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "224709",
+    "name": "AH Salade erbij tomaat komkommer",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038343231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Groene salade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237426",
+    "name": "AH Salade erbij witlof appel",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038343032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Groene salade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193241",
+    "name": "AH Salade erbij kip",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038343137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Groene salade"
+    ],
+    "isFood": true
+  }
+]

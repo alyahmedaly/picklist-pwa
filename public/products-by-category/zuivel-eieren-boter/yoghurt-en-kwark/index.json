@@ -1,0 +1,53 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "yoghurt",
+      "displayName": "Yoghurt",
+      "productCount": 99,
+      "hasSubdirectories": true,
+      "indexPath": "yoghurt/index.json"
+    },
+    {
+      "name": "kwark",
+      "displayName": "Kwark",
+      "productCount": 50,
+      "hasSubdirectories": false,
+      "indexPath": "kwark/index.json"
+    },
+    {
+      "name": "skyr",
+      "displayName": "Skyr",
+      "productCount": 27,
+      "hasSubdirectories": false,
+      "indexPath": "skyr/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 176,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 176,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../index.json"
+      },
+      {
+        "name": "Yoghurt En Kwark",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "zuivel-eieren-boter"
+  }
+}

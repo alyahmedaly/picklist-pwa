@@ -1,0 +1,266 @@
+[
+  {
+    "id": "369539",
+    "name": "Maggi Dagschotel broccoli kaas",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137343730?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369540",
+    "name": "Maggi Dagschotel sperziebonen saté",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "122943",
+    "name": "Honig Basis voor boerenomelet",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137343836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199022",
+    "name": "Honig Basis voor kapucijners",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231373038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484123",
+    "name": "Maggi Ovenschotel broccoli gratin",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373537323637?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553387",
+    "name": "Honig Basis voor witlof ovenschotel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438383436?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369542",
+    "name": "Maggi Ovenschotel witlof cremesaus",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137373038?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553709",
+    "name": "Honig Basis voor bloemkool ovenschotel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034313932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553390",
+    "name": "Honig Basis voor sperziebonen ovenschotel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531323536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164106",
+    "name": "Knorr Maaltijdmix Hollandse hachee",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934373338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369543",
+    "name": "Maggi Ovenschotel bloemkool room",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134353837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553391",
+    "name": "Maggi Ovenschotel courgette gratin",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133333538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553388",
+    "name": "Honig Basis voor prei ovenschotel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369537",
+    "name": "Maggi Ovenschotel prei kerrie",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "443258",
+    "name": "Verstegen Ver Mix voor andijvie",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353735383432?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369533",
+    "name": "Maggi Dagschotel sperziebonen jachtsaus",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137393432?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "136847",
+    "name": "Honig Basis voor hachee",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136363432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170298",
+    "name": "Knorr Maaltijdmix boerenomelet",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393936393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189102",
+    "name": "Knorr Maaltijdmix Hollands stoofpotje",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169267",
+    "name": "Knorr Maaltijdmix ovenpasta ham-kaas",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393936363838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553384",
+    "name": "Honig Basis voor macaroni en spaghetti",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199180",
+    "name": "Knorr Maaltijdmix Hollandse gehaktschotel",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303033333836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Hollandse keuken",
+      "Nederlandse mixen"
+    ],
+    "isFood": true
+  }
+]

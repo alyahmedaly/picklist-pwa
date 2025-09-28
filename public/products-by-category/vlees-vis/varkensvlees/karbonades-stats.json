@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Varkensvlees > Karbonades",
+  "breadcrumbs": "Vlees, vis > Varkensvlees > Karbonades",
+  "totalProducts": 7,
+  "halalCompliance": 43,
+  "averageProtein": 17,
+  "averagePrice": 4.35,
+  "highProteinProducts": 6,
+  "dataQuality": {
+    "withNutrition": 6,
+    "withIngredients": 6,
+    "withHalalCheck": 6
+  }
+}

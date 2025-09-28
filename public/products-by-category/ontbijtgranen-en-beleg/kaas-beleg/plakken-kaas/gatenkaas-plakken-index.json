@@ -1,0 +1,80 @@
+[
+  {
+    "id": "198059",
+    "name": "AH Gatenkaas belegen 45+ plakken",
+    "price": 4.62,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339323835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gatenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173446",
+    "name": "AH Gatenkaas jong belegen 45+ plakken",
+    "price": 4.3,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339333034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gatenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513424",
+    "name": "AH Jonge gatenkaas 45+ plakken",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437343837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gatenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492764",
+    "name": "Leerdammer Gatenkaas 45+ plakken",
+    "price": 4.41,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331303935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gatenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223419",
+    "name": "Leerdammer Lightlife 35+ plakken",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gatenkaas (plakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223420",
+    "name": "Leerdammer Original 45+ plakken",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539303233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Kaas beleg",
+      "Plakken kaas",
+      "Gatenkaas (plakken)"
+    ],
+    "isFood": true
+  }
+]

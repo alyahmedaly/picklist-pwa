@@ -1,0 +1,43 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "handzeep",
+      "displayName": "Handzeep",
+      "productCount": 8,
+      "hasSubdirectories": false,
+      "indexPath": "handzeep/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 8,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 8,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Drogisterij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Lichaamsverzorging",
+        "path": "../index.json"
+      },
+      {
+        "name": "Handverzorging",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "drogisterij/lichaamsverzorging"
+  }
+}

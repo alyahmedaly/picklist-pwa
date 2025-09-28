@@ -1,0 +1,210 @@
+[
+  {
+    "id": "387603",
+    "name": "Bundaberg Ginger beer",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237303133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476720",
+    "name": "AH Ginger beer",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838373531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476566",
+    "name": "Royal Club Ginger beer",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036303932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459012",
+    "name": "Fever-Tree Ginger beer",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383637393234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568509",
+    "name": "Fever-Tree Sparkling ginger beer",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506875",
+    "name": "Royal Club Ginger beer 0% 12-pack",
+    "price": 10.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383235303039?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494306",
+    "name": "Royal Club Ginger beer 0% suiker",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373334363039?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476721",
+    "name": "AH Ginger ale",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233363739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458265",
+    "name": "Fentimans Ginger beer",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476725",
+    "name": "Fever-Tree Ginger beer light",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502051",
+    "name": "Bundaberg Diet ginger beer",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393238383330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476683",
+    "name": "Fentimans Ginger beer",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519029",
+    "name": "Fentimans Ginger beer 6-pack",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575808",
+    "name": "Fentimans Ginger Beer voordeelpakket",
+    "price": 7.9,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732343731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476860",
+    "name": "Fentimans Pink ginger",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195830",
+    "name": "Old Jamaica Ginger beer soda",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934353830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Ginger beer"
+    ],
+    "isFood": true
+  }
+]

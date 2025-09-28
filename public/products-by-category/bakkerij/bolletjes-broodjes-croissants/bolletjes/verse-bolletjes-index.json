@@ -1,0 +1,288 @@
+[
+  {
+    "id": "523357",
+    "name": "AH Extra lang lekker mini chocolade bol",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577373",
+    "name": "AH Mini kaasbollen Zaanlander",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "200994",
+    "name": "AH Extra lang lekker beschuitbollen",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434373533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582983",
+    "name": "AH Extra lang lekker mini speculaas bollen",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441110",
+    "name": "AH Kaas uien bollen",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578277",
+    "name": "AH Bakkerspuntjes met roomboter",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933393630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "32494",
+    "name": "AH Extra lang lekker witte bollen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572478",
+    "name": "AH Mini appel bollen gember",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533303230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578280",
+    "name": "AH Bakkerspuntjes met sesam",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "200624",
+    "name": "AH Witte bollen",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338343631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582995",
+    "name": "AH Extra lang lekker witte bollen",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572477",
+    "name": "AH Mini appel citroen bollen volkoren",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533303231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417063",
+    "name": "AH Bakkersbollen wit",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738363231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230715",
+    "name": "AH Italiaanse bol wit",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313334353134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564460",
+    "name": "AH Bakkersbollen boulogne",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564459",
+    "name": "AH Bakkersbollen triomphe",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "200582",
+    "name": "AH Extra lang lekker bruine bollen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439816",
+    "name": "AH Extra lang lekker volkoren bollen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582996",
+    "name": "AH Extra lang lekker volkoren bollen",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459347",
+    "name": "AH Tijgerbol wit",
+    "price": 0.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383838383037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449847",
+    "name": "AH Bakkersbol vezelrijk",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553743",
+    "name": "AH Volkoren bollen",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337383838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Bolletjes, broodjes, croissants",
+      "Bolletjes",
+      "Verse bolletjes"
+    ],
+    "isFood": true
+  }
+]

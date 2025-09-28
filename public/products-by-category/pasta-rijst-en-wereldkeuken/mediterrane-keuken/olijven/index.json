@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Mediterrane keuken > Olijven",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Mediterrane keuken > Olijven",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "groene-olijven",
+      "displayName": "Groene Olijven",
+      "productCount": 8,
+      "filePath": "groene-olijven.jsonl",
+      "indexPath": "groene-olijven-index.json",
+      "statsPath": "groene-olijven-stats.json",
+      "averageProtein": 1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "olijven-speciaal",
+      "displayName": "Olijven Speciaal",
+      "productCount": 7,
+      "filePath": "olijven-speciaal.jsonl",
+      "indexPath": "olijven-speciaal-index.json",
+      "statsPath": "olijven-speciaal-stats.json",
+      "averageProtein": 1.4,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 15,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 15,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Mediterrane Keuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Olijven",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/mediterrane-keuken"
+  }
+}

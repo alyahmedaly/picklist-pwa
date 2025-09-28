@@ -1,0 +1,119 @@
+[
+  {
+    "id": "382448",
+    "name": "AH Bloedsinaasappelsap",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738373132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "100845",
+    "name": "AH Gekoelde sinaasappeldrank",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "114709",
+    "name": "AH Sinaasappel drink",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630383336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569888",
+    "name": "CoolBest Fruit drink orange",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930323731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210126",
+    "name": "CoolBest Premium orange zonder vruchtvlees",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159310",
+    "name": "AH Valencia sinaasappelsap",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46321",
+    "name": "CoolBest Premium orange",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221781",
+    "name": "CoolBest Premium orange value pack",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank (gekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577169",
+    "name": "CoolBest Premium Orange 3-pack",
+    "price": 8.62,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Sinaasappelsap & drank (jus d'orange)",
+      "Sinaasappelsap & drank (gekoeld)"
+    ],
+    "isFood": true
+  }
+]

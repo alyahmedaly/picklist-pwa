@@ -1,0 +1,132 @@
+[
+  {
+    "id": "173145",
+    "name": "AH Lasagne ei",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031303234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Lasagnebladen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467978",
+    "name": "AH Lasagne",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030393639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Lasagnebladen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191054",
+    "name": "De Cecco Cannelloni all'uovo",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939393933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Lasagnebladen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210489",
+    "name": "De Cecco Lasagne all'uovo",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939393936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Lasagnebladen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "208514",
+    "name": "Grand' Italia Lasagne all'uovo",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830303736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Lasagnebladen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2207",
+    "name": "Grand' Italia Lasagne tradizionali",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Lasagnebladen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232568",
+    "name": "Honig lasagne original",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383133323333?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Lasagnebladen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123662",
+    "name": "Honig lasagne verdi",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037383138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Lasagnebladen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "208513",
+    "name": "Grand' Italia Lasagne volkoren",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739383638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Lasagnebladen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543646",
+    "name": "AH Biologisch Lasagne volkoren",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233353133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Lasagnebladen"
+    ],
+    "isFood": true
+  }
+]

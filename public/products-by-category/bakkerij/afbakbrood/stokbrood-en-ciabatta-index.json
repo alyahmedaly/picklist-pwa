@@ -1,0 +1,206 @@
+[
+  {
+    "id": "129141",
+    "name": "AH Stokbrood knoflookboter",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373530303835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228354",
+    "name": "AH Stokbrood kruidenboter",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451996",
+    "name": "AH Stokbrood kruidenboter",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237313130333639?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "73",
+    "name": "AH Franse baguettes",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738313133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523366",
+    "name": "AH Biologisch Stokbrood wit met desem bereid",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136373734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99032",
+    "name": "AH Boulogne stokbrood",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366073",
+    "name": "AH Baguette",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "31584",
+    "name": "AH Ciabatta",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738313238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1622",
+    "name": "AH Frans stokbrood",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735353536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437100",
+    "name": "AH Liefde & Passie Ciabatta",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "32543",
+    "name": "AH Stokbrood wit",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478432",
+    "name": "AH Spelt stokbrood met desem bereid",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523398",
+    "name": "AH Biologisch Stokbrood meergranen met desem bereid",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136373730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230790",
+    "name": "AH Stokbrood bruin",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458411",
+    "name": "AH Biologisch Stokbrood volkoren met desem bereid",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383832393637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508051",
+    "name": "AH Partybrood volkoren",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733323236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580116",
+    "name": "AH Stokbrood knoflookboter 3-pack",
+    "price": 4.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034333736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Stokbrood en ciabatta"
+    ],
+    "isFood": true
+  }
+]

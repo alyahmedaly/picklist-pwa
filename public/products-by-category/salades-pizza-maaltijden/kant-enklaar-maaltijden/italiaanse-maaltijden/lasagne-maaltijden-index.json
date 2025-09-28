@@ -1,0 +1,67 @@
+[
+  {
+    "id": "104428",
+    "name": "AH Lasagne bolognese",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Italiaanse maaltijden",
+      "Lasagne maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104433",
+    "name": "AH Lasagne groenten",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Italiaanse maaltijden",
+      "Lasagne maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386311",
+    "name": "AH Lasagne bolognese",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Italiaanse maaltijden",
+      "Lasagne maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386312",
+    "name": "AH Lasagne bolognese",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Italiaanse maaltijden",
+      "Lasagne maaltijden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531127",
+    "name": "AH Maaltijd lasagne pittig",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838373232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Kant- en-klaar maaltijden",
+      "Italiaanse maaltijden",
+      "Lasagne maaltijden"
+    ],
+    "isFood": true
+  }
+]

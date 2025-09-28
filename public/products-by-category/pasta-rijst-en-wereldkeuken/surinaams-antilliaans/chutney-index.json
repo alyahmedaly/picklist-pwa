@@ -1,0 +1,62 @@
+[
+  {
+    "id": "553550",
+    "name": "Tilda Mango chutney",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638313631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Chutney"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396084",
+    "name": "Chan's Surinaamse mango chutney",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383237363830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Chutney"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480629",
+    "name": "AH Vijgen chutney",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383235393037?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Chutney"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441104",
+    "name": "Patak's Ginger mango chutney",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363835353534?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Chutney"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126390",
+    "name": "Patak's Mango chutney zoet",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363835353535?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Chutney"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "484537",
+    "name": "AH Pangasius Mediterraans koekenpan",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Pangasius (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135532",
+    "name": "AH Pangasiusfilet tuinkruiden",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Pangasius (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571227",
+    "name": "AH Pangasiusfilet sweet-chili",
+    "price": 6.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Pangasius (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197753",
+    "name": "AH Pangasiusfilet knoflook-citroen",
+    "price": 6.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Pangasius (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571233",
+    "name": "AH Pangasiusfilet",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Pangasius (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571234",
+    "name": "AH Pangasiusfilet",
+    "price": 2.71,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Pangasius (vers)"
+    ],
+    "isFood": true
+  }
+]

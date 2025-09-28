@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Sauzen > Sladressing, slasaus",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Sauzen > Sladressing, slasaus",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "sladressing",
+      "displayName": "Sladressing",
+      "productCount": 22,
+      "filePath": "sladressing.jsonl",
+      "indexPath": "sladressing-index.json",
+      "statsPath": "sladressing-stats.json",
+      "averageProtein": 0.8,
+      "halalCompliance": 100
+    },
+    {
+      "name": "honingmosterd-dressing",
+      "displayName": "Honingmosterd Dressing",
+      "productCount": 8,
+      "filePath": "honingmosterd-dressing.jsonl",
+      "indexPath": "honingmosterd-dressing-index.json",
+      "statsPath": "honingmosterd-dressing-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "slasaus",
+      "displayName": "Slasaus",
+      "productCount": 5,
+      "filePath": "slasaus.jsonl",
+      "indexPath": "slasaus-index.json",
+      "statsPath": "slasaus-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 35,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 35,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Sauzen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Sladressing Slasaus",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "soepen-sauzen-kruiden-olie/sauzen"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "categoryPath": "Bier en aperitieven > Alcoholvrij bier en bier laag in alcohol",
+  "breadcrumbs": "Bier en aperitieven > Alcoholvrij bier en bier laag in alcohol",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "alcoholvrij-bier-00",
+      "displayName": "Alcoholvrij Bier 00",
+      "productCount": 36,
+      "filePath": "alcoholvrij-bier-00.jsonl",
+      "indexPath": "alcoholvrij-bier-00-index.json",
+      "statsPath": "alcoholvrij-bier-00-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "radler-00",
+      "displayName": "Radler 00",
+      "productCount": 17,
+      "filePath": "radler-00.jsonl",
+      "indexPath": "radler-00-index.json",
+      "statsPath": "radler-00-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 82
+    },
+    {
+      "name": "cider-00",
+      "displayName": "Cider 00",
+      "productCount": 5,
+      "filePath": "cider-00.jsonl",
+      "indexPath": "cider-00-index.json",
+      "statsPath": "cider-00-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "pils-laag-in-alcohol",
+      "displayName": "Pils Laag In Alcohol",
+      "productCount": 5,
+      "filePath": "pils-laag-in-alcohol.jsonl",
+      "indexPath": "pils-laag-in-alcohol-index.json",
+      "statsPath": "pils-laag-in-alcohol-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "ros-bier-fruitbier-00",
+      "displayName": "Ros Bier Fruitbier 00",
+      "productCount": 5,
+      "filePath": "ros-bier-fruitbier-00.jsonl",
+      "indexPath": "ros-bier-fruitbier-00-index.json",
+      "statsPath": "ros-bier-fruitbier-00-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 68,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 68,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../index.json"
+      },
+      {
+        "name": "Alcoholvrij Bier En Bier Laag In Alcohol",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "bier-en-aperitieven"
+  }
+}

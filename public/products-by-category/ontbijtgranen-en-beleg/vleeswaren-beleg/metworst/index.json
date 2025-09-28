@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Vleeswaren beleg > Metworst",
+  "breadcrumbs": "Ontbijtgranen en beleg > Vleeswaren beleg > Metworst",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "metworst-voorverpakt",
+      "displayName": "Metworst Voorverpakt",
+      "productCount": 5,
+      "filePath": "metworst-voorverpakt.jsonl",
+      "indexPath": "metworst-voorverpakt-index.json",
+      "statsPath": "metworst-voorverpakt-stats.json",
+      "averageProtein": 21.1,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vleeswaren Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Metworst",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/vleeswaren-beleg"
+  }
+}

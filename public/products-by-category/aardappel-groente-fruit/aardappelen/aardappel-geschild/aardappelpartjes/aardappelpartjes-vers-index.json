@@ -1,0 +1,100 @@
+[
+  {
+    "id": "128941",
+    "name": "AH Toscaanse aardappelpartjes",
+    "price": 0.71,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363639373930?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Aardappelpartjes",
+      "Aardappelpartjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476324",
+    "name": "AH Bakaardappeltjes paprika en knoflook",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Aardappelpartjes",
+      "Aardappelpartjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123184",
+    "name": "AH Aardappelpartjes",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363435353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Aardappelpartjes",
+      "Aardappelpartjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196694",
+    "name": "AH Aardappelpartjes schil",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383336343933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Aardappelpartjes",
+      "Aardappelpartjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217088",
+    "name": "AH Bakaardappeltjes",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363435353632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Aardappelpartjes",
+      "Aardappelpartjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "184952",
+    "name": "CêlaVíta Oma's opbakkers",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Aardappelpartjes",
+      "Aardappelpartjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193255",
+    "name": "CêlaVíta Oma's opbakkers familieverpakking",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632333431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Aardappelpartjes",
+      "Aardappelpartjes (vers)"
+    ],
+    "isFood": true
+  }
+]

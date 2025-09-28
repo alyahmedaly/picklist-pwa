@@ -1,0 +1,62 @@
+[
+  {
+    "id": "522246",
+    "name": "Mayoneur Sriracha mayo",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533333637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Plantaardige sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564766",
+    "name": "AH Terra Plantaardig mayo sriracha",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Plantaardige sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564765",
+    "name": "AH Terra Plantaardig mayo truffelsmaak",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303033373038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Plantaardige sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564764",
+    "name": "AH Terra Plantaardig mayo knoflook",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303033373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Plantaardige sauzen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564767",
+    "name": "AH Terra Plantaardig saus whisky cocktail",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130363932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Plantaardige sauzen"
+    ],
+    "isFood": true
+  }
+]

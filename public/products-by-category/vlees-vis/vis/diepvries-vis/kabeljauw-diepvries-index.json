@@ -1,0 +1,67 @@
+[
+  {
+    "id": "453740",
+    "name": "Iglo Lekkerbekjes oergranen meergranen",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303037393833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Kabeljauw (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "792",
+    "name": "AH Kabeljauw",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038323036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Kabeljauw (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121478",
+    "name": "AH Kabeljauwfilet",
+    "price": 10.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363739313232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Kabeljauw (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365666",
+    "name": "AH Kabeljauwhaasje",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363730323936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Kabeljauw (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226504",
+    "name": "Iglo Lekkerbekje traditioneel",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Diepvries vis",
+      "Kabeljauw (diepvries)"
+    ],
+    "isFood": true
+  }
+]

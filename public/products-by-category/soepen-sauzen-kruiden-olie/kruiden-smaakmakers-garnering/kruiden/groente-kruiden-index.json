@@ -1,0 +1,119 @@
+[
+  {
+    "id": "216649",
+    "name": "Verstegen Kruidenmix voor boerenkool",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534303236?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Groente kruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216651",
+    "name": "Verstegen Kruidenmix voor hutspot",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534303237?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Groente kruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216653",
+    "name": "Verstegen Kruidenmix voor zuurkool",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534303238?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Groente kruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414956",
+    "name": "A.Vogel Herbamare spicy korrels",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137323639?revLabel=18&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Groente kruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556752",
+    "name": "Verstegen Mix voor persillade escargots",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303133393031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Groente kruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "59533",
+    "name": "A.Vogel Herbamare original zeezout met kruiden",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373530343338?revLabel=15&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Groente kruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197915",
+    "name": "Verstegen Inmaakkruiden",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534323239?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Groente kruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518457",
+    "name": "Verstegen Lavasblad gemalen",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Groente kruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578430",
+    "name": "Verstegen mix voor boerenkool 3-pack",
+    "price": 4.02,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Groente kruiden"
+    ],
+    "isFood": true
+  }
+]

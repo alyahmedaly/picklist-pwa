@@ -1,0 +1,249 @@
+[
+  {
+    "id": "475103",
+    "name": "AH Peppermint gum suikervrij 3-pack",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363237383631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475102",
+    "name": "AH Menthol eucalyptus gum suikervrij",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363237383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458507",
+    "name": "Sportlife Frozn deepmint sugar free gums 4-pack",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438393134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458509",
+    "name": "Sportlife Frozn intensemint sugar free gums 4-pack",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438393036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475105",
+    "name": "AH Intense mint gum suikervrij",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363237383633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475104",
+    "name": "AH Spearmint gum suikervrij 3-pack",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363237383632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439409",
+    "name": "Mentos Gum Mighty mint 3-pack",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458505",
+    "name": "Sportlife Extramint sugar free gums 4-pack",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458511",
+    "name": "Sportlife Peppermint sugar free gums 4-pack",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438393136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458512",
+    "name": "Sportlife Smashmint sugar free gums 4-pack",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438393138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578492",
+    "name": "Sportlife Sweetmint 4-pack",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635323431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480891",
+    "name": "XyliFresh Mentholmint gum sugarfree 4-pack",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393134303337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480890",
+    "name": "XyliFresh Peppermint gum sugarfree 4-pack",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132373638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578442",
+    "name": "Stimorol Fresh mint 6-pack",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030343337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514831",
+    "name": "Stimorol Ice intense mint",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637383734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514830",
+    "name": "Stimorol Ice peppermint",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514827",
+    "name": "Stimorol Max spearmint 3-pack",
+    "price": 3.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438393336?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514826",
+    "name": "Stimorol Max splash peppermint",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438393234?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514832",
+    "name": "Stimorol Original",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Kauwgom",
+      "Kauwgom multipack",
+      "Multipack (mint)"
+    ],
+    "isFood": true
+  }
+]

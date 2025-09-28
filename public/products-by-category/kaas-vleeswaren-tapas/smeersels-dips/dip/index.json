@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Smeersels & dips > Dip",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Smeersels & dips > Dip",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "dipsaus-vers",
+      "displayName": "Dipsaus Vers",
+      "productCount": 14,
+      "filePath": "dipsaus-vers.jsonl",
+      "indexPath": "dipsaus-vers-index.json",
+      "statsPath": "dipsaus-vers-stats.json",
+      "averageProtein": 2.8,
+      "halalCompliance": 71
+    }
+  ],
+  "totalProducts": 14,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Smeersels Dips",
+        "path": "../index.json"
+      },
+      {
+        "name": "Dip",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "kaas-vleeswaren-tapas/smeersels-dips"
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "538048",
+    "name": "AH Keukentextielset blauw sterren",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037373730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Koken",
+      "Keukentextiel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538046",
+    "name": "AH Keukentextielset grijs driehoek",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037373638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Koken",
+      "Keukentextiel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538045",
+    "name": "AH Keukentextielset okergeel stippen",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037373637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Koken",
+      "Keukentextiel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538047",
+    "name": "AH Keukentextielset rood blad",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037373639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Koken",
+      "Keukentextiel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556496",
+    "name": "AH Theedoeken blauw",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535343337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Koken",
+      "Keukentextiel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556497",
+    "name": "AH Theedoeken grijs",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Koken",
+      "Keukentextiel"
+    ],
+    "isFood": true
+  }
+]

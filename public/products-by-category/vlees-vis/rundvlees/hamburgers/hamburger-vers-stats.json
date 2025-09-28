@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Rundvlees > Hamburgers > Hamburger (vers)",
+  "breadcrumbs": "Vlees, vis > Rundvlees > Hamburgers > Hamburger (vers)",
+  "totalProducts": 26,
+  "halalCompliance": 77,
+  "averageProtein": 13.3,
+  "averagePrice": 5.42,
+  "highProteinProducts": 18,
+  "dataQuality": {
+    "withNutrition": 19,
+    "withIngredients": 21,
+    "withHalalCheck": 21
+  }
+}

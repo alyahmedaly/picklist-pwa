@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Oosterse keuken > Thais",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Oosterse keuken > Thais",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "thaise-chilisaus",
+      "displayName": "Thaise Chilisaus",
+      "productCount": 6,
+      "filePath": "thaise-chilisaus.jsonl",
+      "indexPath": "thaise-chilisaus-index.json",
+      "statsPath": "thaise-chilisaus-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "thaise-woksaus",
+      "displayName": "Thaise Woksaus",
+      "productCount": 5,
+      "filePath": "thaise-woksaus.jsonl",
+      "indexPath": "thaise-woksaus-index.json",
+      "statsPath": "thaise-woksaus-stats.json",
+      "averageProtein": 1.4,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 11,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 11,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Oosterse Keuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Thais",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/oosterse-keuken"
+  }
+}

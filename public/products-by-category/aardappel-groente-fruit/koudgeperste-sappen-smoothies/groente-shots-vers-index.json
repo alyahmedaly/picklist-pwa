@@ -1,0 +1,314 @@
+[
+  {
+    "id": "561718",
+    "name": "AH Ginger passion",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "530777",
+    "name": "Holyshot Ginger turmeric",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383839343934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570233",
+    "name": "AH Gember shot mild",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630383939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517542",
+    "name": "AH Vers sap appel gember",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934373637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561713",
+    "name": "AH Yellow ginger",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537313931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519996",
+    "name": "Healthy people Energy gember appel & citroen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431373839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562346",
+    "name": "AH 80% groentesap rode biet",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561719",
+    "name": "AH Ginger power",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533393430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "530778",
+    "name": "Holyshot Ginger lemon",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383839343933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561714",
+    "name": "AH 85% Groenteshot rode biet",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561715",
+    "name": "AH 85% Groenteshot Wortel",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582184",
+    "name": "Innocent Ginger",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031363535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565684",
+    "name": "Innocent Immunity shot ginger",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537303136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565683",
+    "name": "Innocent Immunity shot ginger & turmeric",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537363835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562347",
+    "name": "AH 80% groentesap venkel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562345",
+    "name": "AH 80% groentesap wortel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561716",
+    "name": "AH 85% Groenteshot Spinazie",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520015",
+    "name": "Healthy people Care cranberry",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230353033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562344",
+    "name": "AH 80% groentesap komkommer",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562343",
+    "name": "AH 80% groentesap spinazie",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536383639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561717",
+    "name": "AH 85% Groenteshot Pompoen",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571541",
+    "name": "AH Gembershots pakket",
+    "price": 6.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438373636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571534",
+    "name": "AH Ginger passion 6-pack",
+    "price": 6.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438373632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571533",
+    "name": "AH Ginger power 6-pack",
+    "price": 6.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438373631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571542",
+    "name": "AH Groentesappen wortel, spinazie, biet",
+    "price": 5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438373735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571539",
+    "name": "AH Groenteshots pakket",
+    "price": 6.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438373634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Groente shots (vers)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "365984",
+    "name": "AH Volkoren sandwich old amsterdam",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731363237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Belegde broodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "272840",
+    "name": "AH Meergranen sandwich bacon ei",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731363239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Belegde broodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "357914",
+    "name": "AH Wrap caesar kip bacon",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936373039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Belegde broodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135028",
+    "name": "AH Sandwich tonijnsalade",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Belegde broodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "331125",
+    "name": "AH Volkoren sandwich mozarella tomaat",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Belegde broodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "308528",
+    "name": "AH Wrap gerookte zalm",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Belegde broodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565005",
+    "name": "AH Terra Plantaardige wrap falafel tomaat",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Belegde broodjes"
+    ],
+    "isFood": true
+  }
+]

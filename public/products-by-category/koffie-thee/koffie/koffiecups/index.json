@@ -1,0 +1,50 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "nespresso-compatible",
+      "displayName": "Nespresso Compatible",
+      "productCount": 46,
+      "hasSubdirectories": false,
+      "indexPath": "nespresso-compatible/index.json"
+    },
+    {
+      "name": "dolce-gusto-compatible",
+      "displayName": "Dolce Gusto Compatible",
+      "productCount": 31,
+      "hasSubdirectories": false,
+      "indexPath": "dolce-gusto-compatible/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 77,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 77,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Koffie",
+        "path": "../index.json"
+      },
+      {
+        "name": "Koffiecups",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "koffie-thee/koffie"
+  }
+}

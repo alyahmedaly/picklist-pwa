@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Brood > Koolhydraatarm brood",
+  "breadcrumbs": "Bakkerij > Brood > Koolhydraatarm brood",
+  "totalProducts": 6,
+  "halalCompliance": 67,
+  "averageProtein": 14,
+  "averagePrice": 2.52,
+  "highProteinProducts": 5,
+  "dataQuality": {
+    "withNutrition": 5,
+    "withIngredients": 5,
+    "withHalalCheck": 5
+  }
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "568093",
+    "name": "Appelsientje Fruitdrink appel 6-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938363038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576688",
+    "name": "DubbelFrisss Boost appel & perzik 6-pack",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738333238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576676",
+    "name": "DubbelFrisss Boost bosvruchten & appel 6-pack",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738313338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556554",
+    "name": "Taksi Tropisch fruit met 40% zuivel",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330333030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568094",
+    "name": "Appelsientje Fruitdrink sinaasappel 6-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230373932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568099",
+    "name": "Wicky Aardbei 6-pack",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576674",
+    "name": "AH Frisse fruitdrank framboos 1kcal",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030383131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556538",
+    "name": "Roosvicee 1 kcal framboos & bosbes 6-pack",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037323434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576675",
+    "name": "AH Frisse fruitdrank appel-perzik 1kcal",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568092",
+    "name": "Appelsientje Fris fruit appel 6-pack",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837303332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568091",
+    "name": "Appelsientje Fris fruit zwarte bes 6-pack",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837303134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576677",
+    "name": "DubbelFrisss 1kcal framboos & cranberry 6-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738333332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520758",
+    "name": "DubbelFrisss Appel & perzik 6-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383639323932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436172",
+    "name": "Appelsientje Kids fruitdrink appel en aardbei 6-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238373934?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576684",
+    "name": "Capri-Sun Multivitamin zero 10-pack",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733303933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568101",
+    "name": "Wicky Aardbei 0% suiker 6-pack",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232383032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568166",
+    "name": "Wicky Appel 0% suiker 6-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568160",
+    "name": "Wicky Framboos 0% suiker 6-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232383332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568165",
+    "name": "Wicky Fruit 0% suiker 6-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232383033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568100",
+    "name": "Wicky Sinaasappel 6-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232373036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Fruitdrank drinkpakjes"
+    ],
+    "isFood": true
+  }
+]

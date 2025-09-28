@@ -1,0 +1,75 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "brood",
+      "displayName": "Brood",
+      "productCount": 203,
+      "hasSubdirectories": true,
+      "indexPath": "brood/index.json"
+    },
+    {
+      "name": "bakproducten",
+      "displayName": "Bakproducten",
+      "productCount": 155,
+      "hasSubdirectories": true,
+      "indexPath": "bakproducten/index.json"
+    },
+    {
+      "name": "crackers",
+      "displayName": "Crackers",
+      "productCount": 117,
+      "hasSubdirectories": false,
+      "indexPath": "crackers/index.json"
+    },
+    {
+      "name": "zoete-snacks",
+      "displayName": "Zoete Snacks",
+      "productCount": 98,
+      "hasSubdirectories": false,
+      "indexPath": "zoete-snacks/index.json"
+    },
+    {
+      "name": "afbakbrood",
+      "displayName": "Afbakbrood",
+      "productCount": 98,
+      "hasSubdirectories": false,
+      "indexPath": "afbakbrood/index.json"
+    },
+    {
+      "name": "gebak-en-taart",
+      "displayName": "Gebak En Taart",
+      "productCount": 77,
+      "hasSubdirectories": true,
+      "indexPath": "gebak-en-taart/index.json"
+    },
+    {
+      "name": "bolletjes-broodjes-croissants",
+      "displayName": "Bolletjes Broodjes Croissants",
+      "productCount": 59,
+      "hasSubdirectories": true,
+      "indexPath": "bolletjes-broodjes-croissants/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 807,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 807,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

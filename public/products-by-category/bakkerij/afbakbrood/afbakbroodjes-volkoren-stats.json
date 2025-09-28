@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Afbakbrood > Afbakbroodjes volkoren",
+  "breadcrumbs": "Bakkerij > Afbakbrood > Afbakbroodjes volkoren",
+  "totalProducts": 5,
+  "halalCompliance": 100,
+  "averageProtein": 9.9,
+  "averagePrice": 2.47,
+  "highProteinProducts": 1,
+  "dataQuality": {
+    "withNutrition": 5,
+    "withIngredients": 5,
+    "withHalalCheck": 5
+  }
+}

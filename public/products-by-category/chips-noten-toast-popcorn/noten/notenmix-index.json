@@ -1,0 +1,542 @@
+[
+  {
+    "id": "37025",
+    "name": "AH Rozijnen melk chocolade",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236313930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559273",
+    "name": "AH Luxe multimix cheddar",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559222",
+    "name": "AH Mexicaanse mix licht pittig",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559287",
+    "name": "AH Hot mix gezouten",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436303830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559277",
+    "name": "AH Luxe multimix Mediterraans",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559274",
+    "name": "AH Luxe multimix tropisch",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165971",
+    "name": "AH Macadamia's gezouten",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434373534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426103",
+    "name": "AH Pistache notenmix gezouten",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163618",
+    "name": "Duyvis Oven roasted nutmix cashews salted",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559276",
+    "name": "AH Luxe multimix Asian",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559279",
+    "name": "AH Luxe multimix paprika smaak",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639393836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426105",
+    "name": "AH Olijven notenmix gezouten",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217671",
+    "name": "AH Pepitamix gezouten",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550320",
+    "name": "AH Roodfruit notenmix ongezouten",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534393737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487233",
+    "name": "AH Zes noten mix gezouten",
+    "price": 3.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460617",
+    "name": "AH Elitehaver ongebrand",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339333130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559280",
+    "name": "AH Luxe multimix BBQ-stijl",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536383736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559275",
+    "name": "AH Luxe multimix chili smaak",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537373633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539300",
+    "name": "AH Noten rozijnen mix ongebrand",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632363139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468239",
+    "name": "AH Rood fruit notenmix ongezouten",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213947",
+    "name": "AH Studentenhaver ongebrand",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383338323731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469384",
+    "name": "AH Biologisch Notenmix ongebrand",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363334303237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487228",
+    "name": "AH Elitehaver ongezouten",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487237",
+    "name": "AH Huismix gezouten",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236323830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559258",
+    "name": "AH Huismix gezouten",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531333539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460470",
+    "name": "AH Noten cranberry rozijn mix ongebrand",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339333033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217662",
+    "name": "AH Notenmix gezouten",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559225",
+    "name": "AH Tokio mix mild",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467600",
+    "name": "AH Studentenhaver ongezouten",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633343737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470167",
+    "name": "AH Biologisch Studentenhaver ongebrand",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373533343337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140744",
+    "name": "AH Naturel mix ongezouten",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339333234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217701",
+    "name": "AH Cranberry notenmix ongezouten",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735363037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517348",
+    "name": "AH Cranberry notenmix ongezouten",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636383232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "487227",
+    "name": "AH Huismix ongezouten",
+    "price": 3.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631363636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559257",
+    "name": "AH Huismix ongezouten",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426104",
+    "name": "AH Macadamia mix gezouten",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460618",
+    "name": "AH Notenmix ongebrand",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559268",
+    "name": "AH Studentenhaver ongezouten",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439313132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559288",
+    "name": "AH Studentenhaver ongezouten",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227586",
+    "name": "AH Walnootmix ongebrand",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236323536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403667",
+    "name": "AH Cashew mix amandel pecan ongebrand",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383039363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426102",
+    "name": "AH Notenmix ongezouten",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236333530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517294",
+    "name": "AH Notenmix ongezouten",
+    "price": 5.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636383233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397829",
+    "name": "AH Notenmix ongebrand",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557983",
+    "name": "BitesWeLove Crunchy peas smoked paprika 12-pack",
+    "price": 16.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439353934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Noten",
+      "Notenmix"
+    ],
+    "isFood": true
+  }
+]

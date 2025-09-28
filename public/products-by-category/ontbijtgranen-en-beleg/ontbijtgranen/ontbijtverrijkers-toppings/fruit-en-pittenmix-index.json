@@ -1,0 +1,93 @@
+[
+  {
+    "id": "569984",
+    "name": "AH Verrijker moerbei abrikoos en cranberry",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437333632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Fruit en pittenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538517",
+    "name": "AH Verrijker gezoete cranberry pittenmix",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Fruit en pittenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500149",
+    "name": "AH Verrijker ontbijt hennepzaad",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934303139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Fruit en pittenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467431",
+    "name": "BioToday Mini snacker maanzaad kurkema",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383530343130?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Fruit en pittenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500148",
+    "name": "AH Verrijker chiazaad",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Fruit en pittenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500162",
+    "name": "AH Verrijker ontbijt zaden en pittenmix",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383530343335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Fruit en pittenmix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578767",
+    "name": "AH ontbijt zaden en pittenmix 2-pack",
+    "price": 5.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030333930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Ontbijtverrijkers (toppings)",
+      "Fruit en pittenmix"
+    ],
+    "isFood": true
+  }
+]

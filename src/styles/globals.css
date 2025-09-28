@@ -1,0 +1,282 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/**
+ * Design System Global Styles
+ * Ali's Nutrition-Focused Design System
+ */
+
+@layer base {
+  :root {
+    /* Semantic Colors (shadcn/ui compatible) */
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 142 76% 36%; /* Nutrition green */
+    --primary-foreground: 355.7 100% 97.3%;
+    --secondary: 210 40% 98%;
+    --secondary-foreground: 222.2 84% 4.9%;
+    --muted: 210 40% 98%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 98%;
+    --accent-foreground: 222.2 84% 4.9%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 142 76% 36%;
+    --radius: 0.5rem;
+
+    /* Nutrition-specific CSS variables from design tokens */
+    --color-protein-low: 254 240 199; /* #fef3c7 */
+    --color-protein-moderate: 251 191 36; /* #fbbf24 */
+    --color-protein-high: 22 163 74; /* #16a34a */
+    
+    --color-calories-low: 220 252 231; /* #dcfce7 */
+    --color-calories-moderate: 254 215 170; /* #fed7aa */
+    --color-calories-high: 254 202 202; /* #fecaca */
+    
+    --color-health-A: 22 163 74; /* #16a34a */
+    --color-health-B: 101 163 13; /* #65a30d */
+    --color-health-C: 245 158 11; /* #f59e0b */
+    --color-health-D: 234 88 12; /* #ea580c */
+    --color-health-E: 220 38 38; /* #dc2626 */
+    
+    --color-halal-confirmed: 22 163 74; /* #16a34a */
+    --color-halal-questionable: 245 158 11; /* #f59e0b */
+    --color-halal-prohibited: 220 38 38; /* #dc2626 */
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 142 76% 36%;
+    --primary-foreground: 355.7 100% 97.3%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 142 76% 36%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer components {
+  /* Ali's Nutrition Component Styles */
+  
+  /* Protein Level Indicators */
+  .protein-low {
+    @apply bg-[rgb(var(--color-protein-low))] text-amber-900;
+  }
+  
+  .protein-moderate {
+    @apply bg-[rgb(var(--color-protein-moderate))] text-amber-900;
+  }
+  
+  .protein-high {
+    @apply bg-[rgb(var(--color-protein-high))] text-white;
+  }
+
+  /* Health Grade Indicators */
+  .health-A {
+    @apply bg-[rgb(var(--color-health-A))] text-white;
+  }
+  
+  .health-B {
+    @apply bg-[rgb(var(--color-health-B))] text-white;
+  }
+  
+  .health-C {
+    @apply bg-[rgb(var(--color-health-C))] text-white;
+  }
+  
+  .health-D {
+    @apply bg-[rgb(var(--color-health-D))] text-white;
+  }
+  
+  .health-E {
+    @apply bg-[rgb(var(--color-health-E))] text-white;
+  }
+
+  /* Halal Status Indicators */
+  .halal-confirmed {
+    @apply bg-[rgb(var(--color-halal-confirmed))] text-white;
+  }
+  
+  .halal-questionable {
+    @apply bg-[rgb(var(--color-halal-questionable))] text-black;
+  }
+  
+  .halal-prohibited {
+    @apply bg-[rgb(var(--color-halal-prohibited))] text-white;
+  }
+
+  /* Nutrition Card Styles */
+  .nutrition-card {
+    @apply bg-card text-card-foreground rounded-lg border shadow-sm;
+  }
+  
+  .nutrition-compact {
+    @apply text-sm leading-tight;
+  }
+  
+  .nutrition-scannable {
+    @apply flex items-center gap-2;
+  }
+
+  /* Mobile Touch Targets */
+  .touch-target {
+    @apply min-h-[44px] min-w-[44px];
+  }
+
+  /* Ali-specific Animation Classes */
+  .protein-meter-fill {
+    animation: protein-fill 1s ease-out;
+  }
+  
+  @keyframes protein-fill {
+    from {
+      stroke-dashoffset: 176;
+    }
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  .fade-in {
+    animation: fade-in 0.3s ease-out;
+  }
+  
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  /* Accessibility Enhancements */
+  .sr-only {
+    @apply absolute w-px h-px p-0 -m-px overflow-hidden whitespace-nowrap border-0;
+    clip: rect(0, 0, 0, 0);
+  }
+  
+  .focus-visible {
+    @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2;
+  }
+
+  /* Mobile-First Responsive Utilities */
+  .mobile-stack {
+    @apply flex flex-col gap-2;
+  }
+  
+  .mobile-stack-dense {
+    @apply flex flex-col gap-1;
+  }
+  
+  @media (min-width: 768px) {
+    .mobile-stack {
+      @apply flex-row items-center;
+    }
+    
+    .mobile-stack-dense {
+      @apply flex-row items-center gap-2;
+    }
+  }
+
+  /* High-Density Information Display */
+  .nutrition-grid {
+    @apply grid grid-cols-2 gap-2;
+  }
+  
+  @media (min-width: 640px) {
+    .nutrition-grid {
+      @apply grid-cols-3;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .nutrition-grid {
+      @apply grid-cols-4;
+    }
+  }
+
+  /* Print Styles for Nutrition Labels */
+  @media print {
+    .nutrition-card {
+      @apply border border-gray-300 bg-white text-black;
+    }
+    
+    .protein-high,
+    .protein-moderate,
+    .protein-low {
+      @apply bg-white text-black border border-gray-400;
+    }
+    
+    .health-A,
+    .health-B,
+    .health-C,
+    .health-D,
+    .health-E {
+      @apply bg-white text-black border border-gray-400;
+    }
+  }
+}
+
+@layer utilities {
+  /* Ali's Custom Utility Classes */
+  
+  /* Nutrition value emphasis */
+  .nutrition-highlight {
+    @apply font-semibold text-primary;
+  }
+  
+  /* Protein target progress */
+  .protein-progress {
+    @apply relative overflow-hidden rounded-full bg-muted;
+  }
+  
+  .protein-progress-bar {
+    @apply h-full bg-[rgb(var(--color-protein-high))] transition-all duration-300 ease-out;
+  }
+  
+  /* Calorie density indicators */
+  .calorie-low {
+    @apply text-[rgb(var(--color-calories-low))] font-medium;
+  }
+  
+  .calorie-moderate {
+    @apply text-[rgb(var(--color-calories-moderate))] font-medium;
+  }
+  
+  .calorie-high {
+    @apply text-[rgb(var(--color-calories-high))] font-medium;
+  }
+}

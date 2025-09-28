@@ -1,0 +1,132 @@
+[
+  {
+    "id": "473797",
+    "name": "Etos Huid haar nagel",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131393130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Huid-, haar- & nagel supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483874",
+    "name": "Lucovitaal Haar vitamines gummies",
+    "price": 19.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636313034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Huid-, haar- & nagel supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459233",
+    "name": "Lucovitaal Haar volume caspules",
+    "price": 18.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373733343735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Huid-, haar- & nagel supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507040",
+    "name": "Lucovitaal Hyaluronzuur 120 mg capsules",
+    "price": 24.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373936333630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Huid-, haar- & nagel supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561563",
+    "name": "Lucovitaal Kertaine complex",
+    "price": 19.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537343733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Huid-, haar- & nagel supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515248",
+    "name": "RevitalTrax Anti-aging collagen complex",
+    "price": 39.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430303835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Huid-, haar- & nagel supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561570",
+    "name": "Vitakruid Beautycomplex tabletten",
+    "price": 26.9,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530363734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Huid-, haar- & nagel supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539644",
+    "name": "Vitakruid Silsolutions",
+    "price": 26.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939343632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Huid-, haar- & nagel supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515237",
+    "name": "Vital proteins Collageen peptiden",
+    "price": 47.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Huid-, haar- & nagel supplementen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483897",
+    "name": "Yummygums Hair",
+    "price": 24.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636343632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Vitamines & supplementen",
+      "Supplementen",
+      "Huid-, haar- & nagel supplementen"
+    ],
+    "isFood": true
+  }
+]

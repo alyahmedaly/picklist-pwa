@@ -1,0 +1,80 @@
+[
+  {
+    "id": "399924",
+    "name": "Monin Hazelnoot siroop",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353832343430?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiesiroop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399923",
+    "name": "Monin Vanille siroop",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353832343431?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiesiroop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399922",
+    "name": "Monin Caramel siroop",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353832343437?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiesiroop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "521141",
+    "name": "Monin Coffee syrups set premium",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733373532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiesiroop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "521908",
+    "name": "Monin Chocolate cookie siroop",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733393035?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiesiroop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559379",
+    "name": "Monin Siroop caramel sugar free",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531393937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffieverrijkers",
+      "Koffiesiroop"
+    ],
+    "isFood": true
+  }
+]

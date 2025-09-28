@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Diepvries > Diepvries snacks > Frituur snacks",
+  "breadcrumbs": "Diepvries > Diepvries snacks > Frituur snacks",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "borrelmix-frituur",
+      "displayName": "Borrelmix Frituur",
+      "productCount": 7,
+      "filePath": "borrelmix-frituur.jsonl",
+      "indexPath": "borrelmix-frituur-index.json",
+      "statsPath": "borrelmix-frituur-stats.json",
+      "averageProtein": 9.7,
+      "halalCompliance": 0
+    },
+    {
+      "name": "kipnuggetskipfingers-frituur",
+      "displayName": "Kipnuggetskipfingers Frituur",
+      "productCount": 7,
+      "filePath": "kipnuggetskipfingers-frituur.jsonl",
+      "indexPath": "kipnuggetskipfingers-frituur-index.json",
+      "statsPath": "kipnuggetskipfingers-frituur-stats.json",
+      "averageProtein": 13.9,
+      "halalCompliance": 100
+    },
+    {
+      "name": "bitterballen-frituur",
+      "displayName": "Bitterballen Frituur",
+      "productCount": 5,
+      "filePath": "bitterballen-frituur.jsonl",
+      "indexPath": "bitterballen-frituur-index.json",
+      "statsPath": "bitterballen-frituur-stats.json",
+      "averageProtein": 6.5,
+      "halalCompliance": 40
+    }
+  ],
+  "totalProducts": 19,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 19,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Diepvries Snacks",
+        "path": "../index.json"
+      },
+      {
+        "name": "Frituur Snacks",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "diepvries/diepvries-snacks"
+  }
+}

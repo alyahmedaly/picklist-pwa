@@ -1,0 +1,266 @@
+[
+  {
+    "id": "420736",
+    "name": "Jules Destrooper Speculooskoekjes melkchocolade",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231323532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479677",
+    "name": "Lotus Biscoff Speculoos koek vanille",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216714",
+    "name": "AH Speculaas brokken",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383435393330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479675",
+    "name": "Lotus Biscoff Speculoos koek crème",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035353533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577887",
+    "name": "AH Speculaasmolens met amandelstukjes",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "343304",
+    "name": "Lotus Biscoff Speculoos koek Belgische chocola",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036323539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474154",
+    "name": "AH Bakkers speculaas",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038313939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473735",
+    "name": "AH Roomboter speculaas molens",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733323338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444413",
+    "name": "Koopmans Speculaascake heerlijk luchtig",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638373435?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438963",
+    "name": "Lotus Biscoff Speculoos koek",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035353333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549476",
+    "name": "Lotus Biscoff Speculoos koek XL",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035353335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1055",
+    "name": "AH Amandelspeculaas",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735353730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123856",
+    "name": "AH Gevuld Speculaas met banketspijs",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505604",
+    "name": "AH Speculaas variantjes",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738313633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540802",
+    "name": "Koopmans Speculaas koekjespakket met sint vormen",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393834373139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525301",
+    "name": "AH Mini speculaasjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161759",
+    "name": "AH Speculaasbrokken met amandelen",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833393735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577888",
+    "name": "AH Gevuld speculaas",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129970",
+    "name": "Koopmans Speculaas oud-Hollands recept",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393834373233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104211",
+    "name": "AH Gevuld speculaas met amandelspijs",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160496",
+    "name": "AH Gevulde speculaasreepjes",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227762",
+    "name": "BioToday Spelt speculoos koekjes",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933373433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Speculaas"
+    ],
+    "isFood": true
+  }
+]

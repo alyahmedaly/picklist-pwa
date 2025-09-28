@@ -1,0 +1,93 @@
+[
+  {
+    "id": "577610",
+    "name": "Snapple Fruit punch",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839313833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544486",
+    "name": "Sisi Mango no bubbles zero sugar",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383930353837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544490",
+    "name": "Sisi Mango no bubbles zero sugar",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383930353839?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435145",
+    "name": "Spa duo blackberry-raspberry bel",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353836323639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "546646",
+    "name": "Spa Fruit citron bruisend",
+    "price": 8.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638323134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544487",
+    "name": "Sisi Orange no bubbles zero sugar",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383930353835?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (flessen)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435146",
+    "name": "Spa Orange bel",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353838383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (flessen)"
+    ],
+    "isFood": true
+  }
+]

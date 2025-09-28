@@ -1,0 +1,74 @@
+[
+  {
+    "id": "520130",
+    "name": "Arla Lactofree griekse stijl yoghurt",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383534343630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Lactosevrije zuivel",
+      "Lactosevrije yoghurt en kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583323",
+    "name": "AH Lactosevrije yoghurt Griekse stijl 5%",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033323437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Lactosevrije zuivel",
+      "Lactosevrije yoghurt en kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515740",
+    "name": "Arla Lactofree volle yoghurt lactosevrij",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Lactosevrije zuivel",
+      "Lactosevrije yoghurt en kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "212525",
+    "name": "Arla Lactofree halfvolle yoghurt",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Lactosevrije zuivel",
+      "Lactosevrije yoghurt en kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438670",
+    "name": "AH Lactosevrije magere kwark",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331343937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Lactosevrije zuivel",
+      "Lactosevrije yoghurt en kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437124",
+    "name": "Arla Lactofree magere kwark",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353933313030?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Lactosevrije zuivel",
+      "Lactosevrije yoghurt en kwark"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Kaas beleg > Roomkaas",
+  "breadcrumbs": "Ontbijtgranen en beleg > Kaas beleg > Roomkaas",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "roomkaas-kruiden",
+      "displayName": "Roomkaas Kruiden",
+      "productCount": 31,
+      "filePath": "roomkaas-kruiden.jsonl",
+      "indexPath": "roomkaas-kruiden-index.json",
+      "statsPath": "roomkaas-kruiden-stats.json",
+      "averageProtein": 5.8,
+      "halalCompliance": 77
+    }
+  ],
+  "totalProducts": 31,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kaas Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Roomkaas",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/kaas-beleg"
+  }
+}

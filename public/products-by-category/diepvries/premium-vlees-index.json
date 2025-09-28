@@ -1,0 +1,222 @@
+[
+  {
+    "id": "574698",
+    "name": "AH Vakslager iberico procureur",
+    "price": 22.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838323233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574700",
+    "name": "AH Vakslager Iberico ribfingers",
+    "price": 11.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739393432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574688",
+    "name": "AH Vakslager varkensbuikspek",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838323331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574671",
+    "name": "AH Vakslager runder entrecôte",
+    "price": 14.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838353230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574680",
+    "name": "AH Vakslager runder shortribs",
+    "price": 52.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574669",
+    "name": "AH Vakslager cote du boeuf",
+    "price": 34.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739393436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574672",
+    "name": "AH Vakslager iberico rack",
+    "price": 7,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739393433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574676",
+    "name": "AH Vakslager lamsrack",
+    "price": 39.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838323234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574701",
+    "name": "AH Vakslager tomahawk",
+    "price": 34.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838323237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574673",
+    "name": "AH Vakslager label rouge kwartel",
+    "price": 9.2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838323235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574686",
+    "name": "AH Vakslager runder tritip graangevoerd",
+    "price": 27.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838323238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574251",
+    "name": "AH Vakslager bavette graangevoerd",
+    "price": 8.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739393434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574675",
+    "name": "AH Vakslager lamshaasjes",
+    "price": 17.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574678",
+    "name": "AH Vakslager picanha grasgevoerd",
+    "price": 38.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838323330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574677",
+    "name": "AH Vakslager runder picanha graangevoerd",
+    "price": 37.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574684",
+    "name": "AH Vakslager scharrel eendenbout",
+    "price": 7.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838323236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574674",
+    "name": "AH Vakslager lams chumps",
+    "price": 19.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574670",
+    "name": "AH Vakslager runder diamanthaas",
+    "price": 8.1,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574681",
+    "name": "AH Vakslager runder ossenhaas",
+    "price": 87.98,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574679",
+    "name": "AH Vakslager runder ribeye graangevoerd",
+    "price": 22.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838323232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Premium vlees"
+    ],
+    "isFood": true
+  }
+]

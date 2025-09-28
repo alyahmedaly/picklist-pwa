@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Bakkerij > Bakproducten > Broodmix, croissantdeeg > Broodmix",
+  "breadcrumbs": "Bakkerij > Bakproducten > Broodmix, croissantdeeg > Broodmix",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "broodmix-diverse",
+      "displayName": "Broodmix Diverse",
+      "productCount": 10,
+      "filePath": "broodmix-diverse.jsonl",
+      "indexPath": "broodmix-diverse-index.json",
+      "statsPath": "broodmix-diverse-stats.json",
+      "averageProtein": 11.1,
+      "halalCompliance": 70
+    }
+  ],
+  "totalProducts": 10,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Bakproducten",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Broodmix Croissantdeeg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Broodmix",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "bakkerij/bakproducten/broodmix-croissantdeeg"
+  }
+}

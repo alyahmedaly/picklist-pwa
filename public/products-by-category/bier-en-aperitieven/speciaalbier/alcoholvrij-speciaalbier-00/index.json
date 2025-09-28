@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Bier en aperitieven > Speciaalbier > Alcoholvrij speciaalbier 0.0",
+  "breadcrumbs": "Bier en aperitieven > Speciaalbier > Alcoholvrij speciaalbier 0.0",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "blond-bier-00",
+      "displayName": "Blond Bier 00",
+      "productCount": 11,
+      "filePath": "blond-bier-00.jsonl",
+      "indexPath": "blond-bier-00-index.json",
+      "statsPath": "blond-bier-00-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "wit-weizen-00",
+      "displayName": "Wit Weizen 00",
+      "productCount": 9,
+      "filePath": "wit-weizen-00.jsonl",
+      "indexPath": "wit-weizen-00-index.json",
+      "statsPath": "wit-weizen-00-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 20,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 20,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Speciaalbier",
+        "path": "../index.json"
+      },
+      {
+        "name": "Alcoholvrij Speciaalbier 00",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bier-en-aperitieven/speciaalbier"
+  }
+}

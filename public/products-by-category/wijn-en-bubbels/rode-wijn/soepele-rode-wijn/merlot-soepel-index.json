@@ -1,0 +1,301 @@
+[
+  {
+    "id": "222345",
+    "name": "AH Merlot",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373837393431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166917",
+    "name": "AH Biologisch Merlot",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373338313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561459",
+    "name": "BE Bio Merlot",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036303630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575845",
+    "name": "Cape Moonlight Merlot",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739313238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "121090",
+    "name": "Casillero del Diablo Merlot reserva",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383536323930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "411212",
+    "name": "Cono Sur Bicicleta merlot",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "141654",
+    "name": "Fat bastard Merlot",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425679",
+    "name": "Free Feather Merlot Alcoholvrij",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d5031313832333032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169057",
+    "name": "Jacob's Creek Classic merlot",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303233333437?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "69479",
+    "name": "La Palma Merlot",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234333539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104107",
+    "name": "La Tulipe Merlot",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332393138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99219",
+    "name": "Lindeman's Bin 40 merlot",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303232303938?revLabel=13&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160367",
+    "name": "Norton Barrel select merlot",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303533393537?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "63123",
+    "name": "Norton Colección merlot",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440712",
+    "name": "Porcupine Ridge Merlot",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d5039363733303138?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104099",
+    "name": "Rawson's Retreat Merlot",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303136353332?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "113928",
+    "name": "Saint roche Rouge organic wine",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333333838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "34361",
+    "name": "Undurraga Merlot",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "93758",
+    "name": "Valdivieso Merlot",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130383438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "93772",
+    "name": "Valdivieso Merlot winemaker reserva",
+    "price": 7.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363437393738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "115201",
+    "name": "Welmoed Merlot",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127960",
+    "name": "Wild Pig Merlot",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636353635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225294",
+    "name": "Wild Pig Merlot wijntap",
+    "price": 11.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631353739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Merlot (Soepel)"
+    ],
+    "isFood": true
+  }
+]

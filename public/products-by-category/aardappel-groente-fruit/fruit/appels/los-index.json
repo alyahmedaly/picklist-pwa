@@ -1,0 +1,132 @@
+[
+  {
+    "id": "80583",
+    "name": "AH Elstar",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303132333830?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Los"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230735",
+    "name": "AH Fuji appels",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363030333330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Los"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62362",
+    "name": "AH Golden delicous",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534363430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Los"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "94754",
+    "name": "AH Jonagold",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534363339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Los"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366619",
+    "name": "Kanzi Appels",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534363336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Los"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230750",
+    "name": "Pink Lady Appels",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303230323539?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Los"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "94755",
+    "name": "AH Goudreinette",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534363337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Los"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "120890",
+    "name": "AH Granny smith",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545236323038393139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Los"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230764",
+    "name": "Jazz Appels",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Los"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "490395",
+    "name": "SPRANK Appels",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Appels",
+      "Los"
+    ],
+    "isFood": true
+  }
+]

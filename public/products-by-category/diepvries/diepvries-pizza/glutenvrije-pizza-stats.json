@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Diepvries > Diepvries pizza > Glutenvrije pizza",
+  "breadcrumbs": "Diepvries > Diepvries pizza > Glutenvrije pizza",
+  "totalProducts": 5,
+  "halalCompliance": 60,
+  "averageProtein": 9.1,
+  "averagePrice": 4.15,
+  "highProteinProducts": 1,
+  "dataQuality": {
+    "withNutrition": 5,
+    "withIngredients": 5,
+    "withHalalCheck": 5
+  }
+}

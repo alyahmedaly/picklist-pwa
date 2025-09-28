@@ -1,0 +1,64 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "ros-bier-fruitbier",
+      "displayName": "Ros Bier Fruitbier",
+      "productCount": 34,
+      "hasSubdirectories": false,
+      "indexPath": "ros-bier-fruitbier/index.json"
+    },
+    {
+      "name": "mexicaans-bier",
+      "displayName": "Mexicaans Bier",
+      "productCount": 17,
+      "hasSubdirectories": false,
+      "indexPath": "mexicaans-bier/index.json"
+    },
+    {
+      "name": "cider",
+      "displayName": "Cider",
+      "productCount": 8,
+      "hasSubdirectories": false,
+      "indexPath": "cider/index.json"
+    },
+    {
+      "name": "radler",
+      "displayName": "Radler",
+      "productCount": 8,
+      "hasSubdirectories": true,
+      "indexPath": "radler/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 67,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 67,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bier",
+        "path": "../index.json"
+      },
+      {
+        "name": "Radler Cider Fruitbier Mexicaans",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bier-en-aperitieven/bier"
+  }
+}

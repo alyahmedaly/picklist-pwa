@@ -1,0 +1,132 @@
+[
+  {
+    "id": "211055",
+    "name": "John West Gerookte makreel",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Makreel (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570106",
+    "name": "John West Gerookte makreel water",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334343333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Makreel (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570104",
+    "name": "John West Makreel olie",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739303437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Makreel (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570103",
+    "name": "John West Makreel water",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334343334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Makreel (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570105",
+    "name": "John West Makreel tomaat",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303334343336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Makreel (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195735",
+    "name": "Princes Makreel in pittige tomatensaus",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383437313633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Makreel (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "410379",
+    "name": "Fish Tales Makreelfilet in olie",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034303433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Makreel (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159714",
+    "name": "Princes Makreel in water",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383437313731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Makreel (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183607",
+    "name": "Princes Makreel in zonnebloemolie",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383437313732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Makreel (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386081",
+    "name": "Statesman Makreel op de huid in zonnebloemolie",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432373238?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Makreel (conserven)"
+    ],
+    "isFood": true
+  }
+]

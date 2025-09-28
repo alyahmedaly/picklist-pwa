@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Frisdrank > Cola > Cola flesjes",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Frisdrank > Cola > Cola flesjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "cola-regular-flesjes",
+      "displayName": "Cola Regular Flesjes",
+      "productCount": 6,
+      "filePath": "cola-regular-flesjes.jsonl",
+      "indexPath": "cola-regular-flesjes-index.json",
+      "statsPath": "cola-regular-flesjes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Frisdrank",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Cola",
+        "path": "../index.json"
+      },
+      {
+        "name": "Cola Flesjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "frisdrank-sappen-siropen-water/frisdrank/cola"
+  }
+}

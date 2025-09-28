@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Rundvlees > Tartaar",
+  "breadcrumbs": "Vlees, vis > Rundvlees > Tartaar",
+  "totalProducts": 7,
+  "halalCompliance": 100,
+  "averageProtein": 19.9,
+  "averagePrice": 4.18,
+  "highProteinProducts": 7,
+  "dataQuality": {
+    "withNutrition": 7,
+    "withIngredients": 7,
+    "withHalalCheck": 7
+  }
+}

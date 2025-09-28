@@ -1,0 +1,76 @@
+{
+  "categoryPath": "Baby en kind > Babyvoeding > Flesvoeding",
+  "breadcrumbs": "Baby en kind > Babyvoeding > Flesvoeding",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "06-maanden-zuigelingenvoeding",
+      "displayName": "06 Maanden Zuigelingenvoeding",
+      "productCount": 22,
+      "filePath": "06-maanden-zuigelingenvoeding.jsonl",
+      "indexPath": "06-maanden-zuigelingenvoeding-index.json",
+      "statsPath": "06-maanden-zuigelingenvoeding-stats.json",
+      "averageProtein": 2.1,
+      "halalCompliance": 14
+    },
+    {
+      "name": "vanaf-6-maanden-opvolgmelk",
+      "displayName": "Vanaf 6 Maanden Opvolgmelk",
+      "productCount": 17,
+      "filePath": "vanaf-6-maanden-opvolgmelk.jsonl",
+      "indexPath": "vanaf-6-maanden-opvolgmelk-index.json",
+      "statsPath": "vanaf-6-maanden-opvolgmelk-stats.json",
+      "averageProtein": 1.4,
+      "halalCompliance": 12
+    },
+    {
+      "name": "vanaf-12-maanden-dreumesmelk",
+      "displayName": "Vanaf 12 Maanden Dreumesmelk",
+      "productCount": 10,
+      "filePath": "vanaf-12-maanden-dreumesmelk.jsonl",
+      "indexPath": "vanaf-12-maanden-dreumesmelk-index.json",
+      "statsPath": "vanaf-12-maanden-dreumesmelk-stats.json",
+      "averageProtein": 2.3,
+      "halalCompliance": 10
+    },
+    {
+      "name": "vanaf-2-jaar-peutermelk",
+      "displayName": "Vanaf 2 Jaar Peutermelk",
+      "productCount": 5,
+      "filePath": "vanaf-2-jaar-peutermelk.jsonl",
+      "indexPath": "vanaf-2-jaar-peutermelk-index.json",
+      "statsPath": "vanaf-2-jaar-peutermelk-stats.json",
+      "averageProtein": 1.5,
+      "halalCompliance": 20
+    }
+  ],
+  "totalProducts": 54,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 54,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Baby En Kind",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Babyvoeding",
+        "path": "../index.json"
+      },
+      {
+        "name": "Flesvoeding",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "baby-en-kind/babyvoeding"
+  }
+}

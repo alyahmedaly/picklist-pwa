@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Hollandse keuken > Jus",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Hollandse keuken > Jus",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "jus-rundvlees",
+      "displayName": "Jus Rundvlees",
+      "productCount": 8,
+      "filePath": "jus-rundvlees.jsonl",
+      "indexPath": "jus-rundvlees-index.json",
+      "statsPath": "jus-rundvlees-stats.json",
+      "averageProtein": 5.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "jus-naturel",
+      "displayName": "Jus Naturel",
+      "productCount": 5,
+      "filePath": "jus-naturel.jsonl",
+      "indexPath": "jus-naturel-index.json",
+      "statsPath": "jus-naturel-stats.json",
+      "averageProtein": 7.6,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 13,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 13,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Hollandse Keuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Jus",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/hollandse-keuken"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Wortel, pompoen, knollen > Wortelen",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Wortel, pompoen, knollen > Wortelen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "peen",
+      "displayName": "Peen",
+      "productCount": 8,
+      "filePath": "peen.jsonl",
+      "indexPath": "peen-index.json",
+      "statsPath": "peen-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 63
+    },
+    {
+      "name": "wortelen-conserven",
+      "displayName": "Wortelen Conserven",
+      "productCount": 7,
+      "filePath": "wortelen-conserven.jsonl",
+      "indexPath": "wortelen-conserven-index.json",
+      "statsPath": "wortelen-conserven-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 15,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 15,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Wortel Pompoen Knollen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Wortelen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/wortel-pompoen-knollen"
+  }
+}

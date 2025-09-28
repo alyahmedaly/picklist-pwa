@@ -1,0 +1,816 @@
+[
+  {
+    "id": "576699",
+    "name": "Optimum Nutrition Chocolate sweet coconut bar",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576713",
+    "name": "Nutramino Protein bar sweet coconut",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938393238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576712",
+    "name": "Nutramino Protein chocolate classic milk crunch",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938393330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505201",
+    "name": "Liga Proteine reep cranberry",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934303436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576698",
+    "name": "Optimum Nutrition Chocolate sea salt crunch bar",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505200",
+    "name": "Liga Proteine reep pinda",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934303530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576710",
+    "name": "Nutramino Protein bar crunchy chocolate & brownie",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938393337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576736",
+    "name": "Optimum Nutrition Chocolate berry crunch bar",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576789",
+    "name": "Mars Hi protein salted caramel reep",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407165",
+    "name": "Nature Valley Protein pinda & chocolade repen",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330383436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576787",
+    "name": "Snickers Hi protein milk reep",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937323734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576788",
+    "name": "Snickers Hi protein white reep",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937323831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570875",
+    "name": "Grenade Oreo white protein bar",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531353139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407166",
+    "name": "Nature Valley Protein salted caramel & pinda repen",
+    "price": 3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336303439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576700",
+    "name": "Nutramino Hazelnut protein wafer",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938393332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576334",
+    "name": "Barebells Soft protein bar coco choco",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576342",
+    "name": "Clif Bar Energy chews black cherry",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734353631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576343",
+    "name": "Clif Bar Energy chews mountain berry",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734353539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576484",
+    "name": "Grenade Oreo 4-pack",
+    "price": 10.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939383531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548168",
+    "name": "Grenade Oreo protein bar",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339323138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576356",
+    "name": "Hero B'tween protein soft chocolade & karamel",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939393435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576357",
+    "name": "Hero B'tween protein soft pinda & karamel",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939393636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576701",
+    "name": "Nutramino Chocolate protein wafer",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938393331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383222",
+    "name": "FulFil Peanut and caramel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576358",
+    "name": "FulFil Protein bar dark choco salted caramel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733313131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548337",
+    "name": "FulFil Vitamin & protein bar peanut butter",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303138303636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474894",
+    "name": "Grenade Salted peanut protein bar",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531353330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576703",
+    "name": "NXT Level Raspberry toffee crispy protein bar",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560850",
+    "name": "AH Protein bar white choco pinda karamel",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434343936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576336",
+    "name": "Barebells Soft protein bar peanut caramel",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537383736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508296",
+    "name": "Body & Fit Perfection bar crunch white choc. cook",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373937373139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518815",
+    "name": "Body & Fit Perfection bar crunchy chocolate cookie",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932353531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476840",
+    "name": "Body & Fit Perfection bar peanut caramel",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576359",
+    "name": "FulFil Protein bar white choco peanut & caramel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733313132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484507",
+    "name": "Grenade Salted caramel protein bar",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531353232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556309",
+    "name": "Lindahls Protein snack coconut",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303139343635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576711",
+    "name": "Nutramino Protein bar chunky peanut & caramel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938393239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576704",
+    "name": "NXT Level Lemon cheese-cake crispy protein bar",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538343437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576735",
+    "name": "Optimum Nutrition Chocolate brownie crunch bar",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548160",
+    "name": "Upfront Pindakaas eiwitreep",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939333535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548169",
+    "name": "Barebells Soft protein bar marshmallow rocky road",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474892",
+    "name": "Be-kind Proteïne notenreep pure chocolade",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393234383833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526122",
+    "name": "Body & Fit Perfection bar cookie dough & caramel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508297",
+    "name": "Body & Fit Perfection bar deluxe cookie",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373937373138?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470947",
+    "name": "FulFil Protein bar chocolate salted caramel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303137373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576722",
+    "name": "Optimum Nutrition Double rich chocolate bar",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576734",
+    "name": "Optimum Nutrition Marshmallow crunch bar",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938373037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548158",
+    "name": "Upfront Eiwitreep salted brownie",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032373636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560851",
+    "name": "AH Protein bar melk choco pinda karamel",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434343934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566922",
+    "name": "Barebells Soft protein bar banana dream",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393736363932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548170",
+    "name": "Barebells Soft protein bar caramel choco",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038383838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492613",
+    "name": "Barebells Vegan protein bar salty peanut",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373036313539?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518934",
+    "name": "Body & Fit Perfection bar deluxe chocolate caramel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738303737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548159",
+    "name": "Upfront Appel kaneel eiwitreep",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031373739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566957",
+    "name": "Upfront Cookie dough eiwitreep",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030303639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444578",
+    "name": "Barebells Protein bar white chocolate almond",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533343239?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576497",
+    "name": "Grenade White chocolate cookie",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363932323230?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570880",
+    "name": "NXT Level Pocket protein caramel cookie",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530353135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570879",
+    "name": "NXT Level Pocket protein raspberry cheesecake",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530353132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576706",
+    "name": "Upfront Eiwitcrisp cinnamon roll",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736373631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570878",
+    "name": "Upfront Vegan eiwitreep citroencake",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938363936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414027",
+    "name": "Barebells Protein bar caramel cashew",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533343138?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414028",
+    "name": "Barebells Protein bar cookies & cream",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533343139?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576335",
+    "name": "Barebells Protein bar creamy crisp",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731333837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576499",
+    "name": "Wecare High protein bars choco caramel",
+    "price": 2.4,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539333539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451891",
+    "name": "Barebells Protein bar hazelnut & nougat",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533343238?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "430023",
+    "name": "Barebells Protein bar salty peanut",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534393139?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576707",
+    "name": "Upfront Eiwitcrisp choco pinda",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736373630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566881",
+    "name": "Nakd. Protein bars peanut butter",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303037373432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576500",
+    "name": "Wecare High protein bars chocolate",
+    "price": 2.4,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539333831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576733",
+    "name": "Bolletje Goed bezig protein",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934353237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566960",
+    "name": "Nakd. Protein bars caramel",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303037373431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566877",
+    "name": "Nakd. Protein bars cocoa hazelnut",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303037373433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566860",
+    "name": "Body & Fit Creatine monohydrate",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036353834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Proteïnerepen"
+    ],
+    "isFood": true
+  }
+]

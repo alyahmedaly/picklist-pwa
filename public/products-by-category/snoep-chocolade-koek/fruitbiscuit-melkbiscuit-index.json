@@ -1,0 +1,387 @@
+[
+  {
+    "id": "207321",
+    "name": "AH Fruitbiscuit yoghurt aardbeismaak",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831343335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207320",
+    "name": "AH Fruitbiscuit yoghurt bosvruchtensmaak",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831343333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163794",
+    "name": "Liga Milkbreak bosvruchten frambozensmaak",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132032",
+    "name": "Liga Milkbreak melk",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132037",
+    "name": "Liga Milkbreak melk aardbeiensmaak",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132035",
+    "name": "Liga Milkbreak melk chocosmaak",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639323131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397506",
+    "name": "Liga Milkbreak melk XL",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549603",
+    "name": "Sultana Yofruit aardbei smaak",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235393536?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549604",
+    "name": "Sultana Yofruit bosvruchten smaak",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235393633?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221047",
+    "name": "Liga Belvita sandwich yoghurt aardbeiensmaak",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460091",
+    "name": "LU Barquette aardbei bel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430313939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "133872",
+    "name": "AH Melkbiscuit",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323532313331?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "133870",
+    "name": "AH Melkbiscuit aardbeiensmaak",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323532323530?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549606",
+    "name": "Sultana Knapperige biscuit kokos",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235393530?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "31145",
+    "name": "Liga Evergreen appel",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135353437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439270",
+    "name": "Liga Evergreen crunchy muesli-chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531383432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570729",
+    "name": "Sultana Fruitbiscuit mix",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339393033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135608",
+    "name": "AH Meergranenbiscuit rozijn",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "32658",
+    "name": "Liga Evergreen bosvruchten",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "224900",
+    "name": "Sultana Fruitbiscuit bosvruchten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033393834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549485",
+    "name": "Sultana Fruitbiscuit bosvruchten smaak",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235383936?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549487",
+    "name": "Sultana Fruitbiscuit framboos smaak",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235393231?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549486",
+    "name": "Sultana Fruitbiscuit peer kaneel smaak",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235393131?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549605",
+    "name": "Sultana Knapperige biscuit kaneel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235393430?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3771",
+    "name": "Liga Evergreen krenten",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135353438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397505",
+    "name": "Liga Evergreen krenten XL",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549484",
+    "name": "Sultana Fruitbiscuit appel smaak",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235383638?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "224899",
+    "name": "Sultana Fruitbiscuit appel voordeelpak",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236353037?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549483",
+    "name": "Sultana Fruitbiscuit naturel",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235393232?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407152",
+    "name": "Sultana Fruitbiscuit naturel voordeelpak",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235353439?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407185",
+    "name": "AH Fruitbiscuit appelsmaak",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831343331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407188",
+    "name": "AH Fruitbiscuit bosvruchtensmaak",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838373132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407190",
+    "name": "AH Fruitbiscuit naturel",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831343435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572372",
+    "name": "Liga Evergreen krenten 3-pack",
+    "price": 7.84,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032373937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556368",
+    "name": "Liga Milkbreak melk 2-pack",
+    "price": 5.98,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234383338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Fruitbiscuit & melkbiscuit"
+    ],
+    "isFood": true
+  }
+]

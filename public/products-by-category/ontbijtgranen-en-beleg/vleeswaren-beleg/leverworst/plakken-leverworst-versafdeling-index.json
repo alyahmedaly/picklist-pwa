@@ -1,0 +1,67 @@
+[
+  {
+    "id": "68188",
+    "name": "AH Hausmacher gesneden",
+    "price": 2.47,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036363239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Leverworst",
+      "Plakken leverworst (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188720",
+    "name": "AH Kalfsleverworst",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Leverworst",
+      "Plakken leverworst (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576786",
+    "name": "AH Leverworst",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932373233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Leverworst",
+      "Plakken leverworst (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231691",
+    "name": "Wilthagen Zeeuwsche leverworst",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437343737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Leverworst",
+      "Plakken leverworst (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580362",
+    "name": "AH Hausmacher gesneden 2-pack",
+    "price": 4.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Leverworst",
+      "Plakken leverworst (versafdeling)"
+    ],
+    "isFood": true
+  }
+]

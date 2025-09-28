@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Frisdrank > Cola > Cola light & suikervrij",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Frisdrank > Cola > Cola light & suikervrij",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "cola-light-suikervrije-flesjes",
+      "displayName": "Cola Light Suikervrije Flesjes",
+      "productCount": 5,
+      "filePath": "cola-light-suikervrije-flesjes.jsonl",
+      "indexPath": "cola-light-suikervrije-flesjes-index.json",
+      "statsPath": "cola-light-suikervrije-flesjes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Frisdrank",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Cola",
+        "path": "../index.json"
+      },
+      {
+        "name": "Cola Light Suikervrij",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "frisdrank-sappen-siropen-water/frisdrank/cola"
+  }
+}

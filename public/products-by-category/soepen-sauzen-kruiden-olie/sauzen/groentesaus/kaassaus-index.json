@@ -1,0 +1,93 @@
+[
+  {
+    "id": "398528",
+    "name": "Maggi Ham kaas saus",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135313439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Groentesaus",
+      "Kaassaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "398522",
+    "name": "Maggi Kaas saus",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134393333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Groentesaus",
+      "Kaassaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "375019",
+    "name": "Maggi 4 Kazen saus",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134323431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Groentesaus",
+      "Kaassaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384768",
+    "name": "Aardappel Anders Ham - kaas",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632323032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Groentesaus",
+      "Kaassaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159522",
+    "name": "Knorr Kaas saus",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838383536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Groentesaus",
+      "Kaassaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535163",
+    "name": "AH Mix voor kaassaus",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Groentesaus",
+      "Kaassaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203303",
+    "name": "Knorr Mix 4-kazensaus",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838363537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Groentesaus",
+      "Kaassaus"
+    ],
+    "isFood": true
+  }
+]

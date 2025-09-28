@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bier en aperitieven > Speciaalbier > Bockbier > Herfstbok",
+  "breadcrumbs": "Bier en aperitieven > Speciaalbier > Bockbier > Herfstbok",
+  "totalProducts": 25,
+  "halalCompliance": 100,
+  "averageProtein": 0.3,
+  "averagePrice": 4.56,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 12,
+    "withIngredients": 25,
+    "withHalalCheck": 25
+  }
+}

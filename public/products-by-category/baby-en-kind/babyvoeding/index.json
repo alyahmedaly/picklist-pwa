@@ -1,0 +1,85 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "fruithapjes-baby-en-kind",
+      "displayName": "Fruithapjes Baby En Kind",
+      "productCount": 105,
+      "hasSubdirectories": true,
+      "indexPath": "fruithapjes-baby-en-kind/index.json"
+    },
+    {
+      "name": "maaltijden-baby-en-kind",
+      "displayName": "Maaltijden Baby En Kind",
+      "productCount": 93,
+      "hasSubdirectories": false,
+      "indexPath": "maaltijden-baby-en-kind/index.json"
+    },
+    {
+      "name": "flesvoeding",
+      "displayName": "Flesvoeding",
+      "productCount": 54,
+      "hasSubdirectories": false,
+      "indexPath": "flesvoeding/index.json"
+    },
+    {
+      "name": "tussendoortjes-baby-en-kind",
+      "displayName": "Tussendoortjes Baby En Kind",
+      "productCount": 42,
+      "hasSubdirectories": true,
+      "indexPath": "tussendoortjes-baby-en-kind/index.json"
+    },
+    {
+      "name": "pap-baby-en-kind",
+      "displayName": "Pap Baby En Kind",
+      "productCount": 13,
+      "hasSubdirectories": false,
+      "indexPath": "pap-baby-en-kind/index.json"
+    },
+    {
+      "name": "toetjes-baby-en-kind",
+      "displayName": "Toetjes Baby En Kind",
+      "productCount": 9,
+      "hasSubdirectories": false,
+      "indexPath": "toetjes-baby-en-kind/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "broodbeleg-baby-en-kind",
+      "displayName": "Broodbeleg Baby En Kind",
+      "productCount": 8,
+      "filePath": "broodbeleg-baby-en-kind.jsonl",
+      "indexPath": "broodbeleg-baby-en-kind-index.json",
+      "statsPath": "broodbeleg-baby-en-kind-stats.json",
+      "averageProtein": 5.9,
+      "halalCompliance": 88
+    }
+  ],
+  "totalProducts": 324,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 324,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Baby En Kind",
+        "path": "../index.json"
+      },
+      {
+        "name": "Babyvoeding",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "baby-en-kind"
+  }
+}

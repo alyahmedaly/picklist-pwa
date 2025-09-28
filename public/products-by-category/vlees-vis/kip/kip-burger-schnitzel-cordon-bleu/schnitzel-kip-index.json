@@ -1,0 +1,145 @@
+[
+  {
+    "id": "531986",
+    "name": "AH Scharrel kipschnitzel vol-au-vent bel",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Schnitzel (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582032",
+    "name": "AH Scharrel kip gevulde schnitzel kerrie",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Schnitzel (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533082",
+    "name": "AH Scharrel kipschnitzel 2 stuks",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Schnitzel (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575840",
+    "name": "AH Scharrel kipschnitzel XXL",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836323737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Schnitzel (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531873",
+    "name": "AH Scharrel krokant kipfiletschnitzel",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Schnitzel (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531875",
+    "name": "AH Scharrel krokante kipfiletschnitzel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Schnitzel (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477567",
+    "name": "AH Biologisch Krokante kipfiletschnitzel",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Schnitzel (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531869",
+    "name": "AH Scharrel kipsateschnitzel 2 stuks",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Schnitzel (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582031",
+    "name": "AH Scharrel kip gevulde schnitzel cheddar",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Schnitzel (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577829",
+    "name": "AH Scharrel kipsateschnitzel 2 stuks 3-pack",
+    "price": 9.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Schnitzel (kip)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567361",
+    "name": "AH Scharrel kipschnitzel 2 stuks 3-pack",
+    "price": 8.52,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130373439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kip- burger, schnitzel, cordon bleu",
+      "Schnitzel (kip)"
+    ],
+    "isFood": true
+  }
+]

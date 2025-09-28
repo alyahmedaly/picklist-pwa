@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Pasta > Spaghetti, linguine > Spaghetti",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Pasta > Spaghetti, linguine > Spaghetti",
+  "totalProducts": 30,
+  "halalCompliance": 100,
+  "averageProtein": 12.8,
+  "averagePrice": 2.12,
+  "highProteinProducts": 2,
+  "dataQuality": {
+    "withNutrition": 30,
+    "withIngredients": 30,
+    "withHalalCheck": 30
+  }
+}

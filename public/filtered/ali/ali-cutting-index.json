@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": "511160",
+      "name": "Smaakt Vegan gehaktbal",
+      "price": 0,
+      "categories": [],
+      "filterScore": 90.83250000000001
+    }
+  ],
+  "metadata": {
+    "totalProducts": 1,
+    "version": "1.0.0"
+  }
+}

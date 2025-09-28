@@ -1,0 +1,71 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Aardappelen > Aardappel - geschild",
+  "breadcrumbs": "Aardappel, groente, fruit > Aardappelen > Aardappel - geschild",
+  "subdirectories": [
+    {
+      "name": "aardappelpartjes",
+      "displayName": "Aardappelpartjes",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "aardappelpartjes/index.json"
+    },
+    {
+      "name": "aardappelschijfjes",
+      "displayName": "Aardappelschijfjes",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "aardappelschijfjes/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "krieltjes-geschild",
+      "displayName": "Krieltjes Geschild",
+      "productCount": 8,
+      "filePath": "krieltjes-geschild.jsonl",
+      "indexPath": "krieltjes-geschild-index.json",
+      "statsPath": "krieltjes-geschild-stats.json",
+      "averageProtein": 2.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "stamppot-aardappelen",
+      "displayName": "Stamppot Aardappelen",
+      "productCount": 6,
+      "filePath": "stamppot-aardappelen.jsonl",
+      "indexPath": "stamppot-aardappelen-index.json",
+      "statsPath": "stamppot-aardappelen-stats.json",
+      "averageProtein": 1.7,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 27,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 27,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Aardappelen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Aardappel Geschild",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/aardappelen"
+  }
+}

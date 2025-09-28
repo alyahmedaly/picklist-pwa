@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Sperziebonen, snijbonen en peulvruchten > Doperwten",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Sperziebonen, snijbonen en peulvruchten > Doperwten",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "doperwten-conserven",
+      "displayName": "Doperwten Conserven",
+      "productCount": 11,
+      "filePath": "doperwten-conserven.jsonl",
+      "indexPath": "doperwten-conserven-index.json",
+      "statsPath": "doperwten-conserven-stats.json",
+      "averageProtein": 4.8,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 11,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Sperziebonen Snijbonen En Peulvruchten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Doperwten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/sperziebonen-snijbonen-en-peulvruchten"
+  }
+}

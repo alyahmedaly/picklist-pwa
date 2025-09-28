@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Vla en pap > Vla",
+  "breadcrumbs": "Zuivel, eieren, boter > Vla en pap > Vla",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "vanille-vla",
+      "displayName": "Vanille Vla",
+      "productCount": 13,
+      "filePath": "vanille-vla.jsonl",
+      "indexPath": "vanille-vla-index.json",
+      "statsPath": "vanille-vla-stats.json",
+      "averageProtein": 2.4,
+      "halalCompliance": 46
+    },
+    {
+      "name": "dubbelvla",
+      "displayName": "Dubbelvla",
+      "productCount": 5,
+      "filePath": "dubbelvla.jsonl",
+      "indexPath": "dubbelvla-index.json",
+      "statsPath": "dubbelvla-stats.json",
+      "averageProtein": 2.2,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 18,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 18,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vla En Pap",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vla",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "zuivel-eieren-boter/vla-en-pap"
+  }
+}

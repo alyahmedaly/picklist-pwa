@@ -1,0 +1,114 @@
+[
+  {
+    "id": "566931",
+    "name": "Seepje Handzeep eucalyptus & rozemarijn navul",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303136373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Lichaamsverzorging",
+      "Handverzorging",
+      "Handzeep",
+      "Vloeibare zeep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470327",
+    "name": "Seepje Handzeep eucalyptus en rozemarijn",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353739303732?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Lichaamsverzorging",
+      "Handverzorging",
+      "Handzeep",
+      "Vloeibare zeep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566879",
+    "name": "Seepje Handzeep lavendel met tonka navulling",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135353635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Lichaamsverzorging",
+      "Handverzorging",
+      "Handzeep",
+      "Vloeibare zeep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486721",
+    "name": "Seepje Sinaasappel handzeep",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431303039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Lichaamsverzorging",
+      "Handverzorging",
+      "Handzeep",
+      "Vloeibare zeep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571243",
+    "name": "The Green Lab Co. Navulset handzeep bergamot & vanille",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635323530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Lichaamsverzorging",
+      "Handverzorging",
+      "Handzeep",
+      "Vloeibare zeep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571242",
+    "name": "The Green Lab Co. Navulset handzeep oranjebloesem lavendel",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635323436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Lichaamsverzorging",
+      "Handverzorging",
+      "Handzeep",
+      "Vloeibare zeep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571244",
+    "name": "The Green Lab Co. Starterset handzeep eucalyptus basilicum",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635323531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Lichaamsverzorging",
+      "Handverzorging",
+      "Handzeep",
+      "Vloeibare zeep"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571257",
+    "name": "The Green Lab Co. Starterset handzeep rosemarijn & gember",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430333337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Lichaamsverzorging",
+      "Handverzorging",
+      "Handzeep",
+      "Vloeibare zeep"
+    ],
+    "isFood": true
+  }
+]

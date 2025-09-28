@@ -1,0 +1,93 @@
+[
+  {
+    "id": "571296",
+    "name": "AH Runder-kipchipolata",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Hamburgers (varkensvlees)",
+      "Hamburgers - varkensvlees (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420783",
+    "name": "AH Hamburgerschotel BEL",
+    "price": 11.25,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50383237313733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Hamburgers (varkensvlees)",
+      "Hamburgers - varkensvlees (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571364",
+    "name": "AH Rund- en varkensburger met rundereiwit",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Hamburgers (varkensvlees)",
+      "Hamburgers - varkensvlees (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571365",
+    "name": "AH Rund- en varkensburger met rundereiwit",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Hamburgers (varkensvlees)",
+      "Hamburgers - varkensvlees (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132797",
+    "name": "AH Hamburgers",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132313131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Hamburgers (varkensvlees)",
+      "Hamburgers - varkensvlees (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571291",
+    "name": "AH Runder-kipburger",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Hamburgers (varkensvlees)",
+      "Hamburgers - varkensvlees (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571292",
+    "name": "AH Runder-kipgehakt",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Hamburgers (varkensvlees)",
+      "Hamburgers - varkensvlees (vers)"
+    ],
+    "isFood": true
+  }
+]

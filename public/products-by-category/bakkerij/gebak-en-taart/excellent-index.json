@@ -1,0 +1,74 @@
+[
+  {
+    "id": "577167",
+    "name": "AH Excellent Crunchy witte chocolade hazelnoottaart",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034383130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Excellent"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577037",
+    "name": "AH Excellent Green velvet punten",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Excellent"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577038",
+    "name": "AH Excellent Choco karamel punten",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Excellent"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577039",
+    "name": "AH Excellent Frambozen Chocotaart",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Excellent"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577045",
+    "name": "AH Excellent Luxe carrotcake met noten",
+    "price": 11.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Excellent"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577036",
+    "name": "AH Excellent Carrotcake punten",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Gebak en taart",
+      "Excellent"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "560681",
+    "name": "AH Mosterdkaas 48+ blokjes",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "430548",
+    "name": "AH Mosterdkaasblokjes 48+",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036363335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479502",
+    "name": "Cheesepop Gouda 48+",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363531383539?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469815",
+    "name": "Old Amsterdam Borrelblokjes voorgesneden",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635363436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564343",
+    "name": "Old Amsterdam Borrelstuk",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635363739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236944",
+    "name": "Bonne Vache Smeerkaaspuntjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231303435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486706",
+    "name": "De Zaanse Hoeve Extra belegen 48+ blokjes",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363532363939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562030",
+    "name": "AH Goudse kaasblokjes oud 48+",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "94766",
+    "name": "AH Goudse oud 48+ blokjes",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131303135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160607",
+    "name": "Cheestrings Original",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535323039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583248",
+    "name": "Maaslander Proteine kaasrepen stuk",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938323332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "94765",
+    "name": "AH Goudse belegen 48+ blokjes",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131303138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562029",
+    "name": "AH Goudse blokjes jong belegen 48+",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "94767",
+    "name": "AH Goudse jong 48+ blokjes",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131303137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367567",
+    "name": "AH Goudse kaasblokjes jong komijn 48+",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486707",
+    "name": "De Zaanse Hoeve Jong belegen 48+ blokjes",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363532363937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445343",
+    "name": "AH Geitenkaasblokjes jong belegen 50+",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562034",
+    "name": "AH Kaasblokje jong belegen 30+",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553806",
+    "name": "De Zaanse Hoeve Jong komijn 30+ plakken",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933393332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466140",
+    "name": "AH Gatenkaas blokjes",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036363136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579237",
+    "name": "AH Gatenkaas blokjes 2-pack",
+    "price": 5.3,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579236",
+    "name": "AH Mosterdkaasblokjes 48+ 2-pack",
+    "price": 5.11,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193642",
+    "name": "Babybel Original mini",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131373734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539545",
+    "name": "Babybel Original mini",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131333335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447757",
+    "name": "De Zaanse Hoeve Belegen 30+ stuk",
+    "price": 5.26,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasblokjes"
+    ],
+    "isFood": true
+  }
+]

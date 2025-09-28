@@ -1,0 +1,80 @@
+[
+  {
+    "id": "418284",
+    "name": "AH Verse pureersoep tomaat oregano",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535333633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Soepgroente en pureersoepen",
+      "Pureersoepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565231",
+    "name": "AH Pureersoep pompoen linzen",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537373839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Soepgroente en pureersoepen",
+      "Pureersoepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482847",
+    "name": "AH Pureersoep zoete aardappel paprika",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332383538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Soepgroente en pureersoepen",
+      "Pureersoepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "418293",
+    "name": "AH Verse pureersoep pompoen wortel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Soepgroente en pureersoepen",
+      "Pureersoepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505427",
+    "name": "AH Pureersoep pastinaak knolselderij",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738313533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Soepgroente en pureersoepen",
+      "Pureersoepen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435433",
+    "name": "AH Pureersoep broccoli spinazie",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332383632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Soepgroente en pureersoepen",
+      "Pureersoepen"
+    ],
+    "isFood": true
+  }
+]

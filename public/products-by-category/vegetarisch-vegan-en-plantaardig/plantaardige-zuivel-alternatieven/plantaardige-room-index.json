@@ -1,0 +1,170 @@
+[
+  {
+    "id": "461861",
+    "name": "AH Terra Plantaardige soja topping",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige room"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583041",
+    "name": "Blue Band Finesse plantaardig alternatief slagroom",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige room"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577258",
+    "name": "AH Terra Plantaardig romige creme",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838373431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige room"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502981",
+    "name": "AH Terra Plantaardige kokos voor opkloppen",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536383832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige room"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570915",
+    "name": "AH Terra Plantaardig alternatief crème fraîche",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838373330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige room"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469101",
+    "name": "AH Terra Plantaardige kokos keuken",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige room"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502982",
+    "name": "AH Terra Plantaardige soja op te kloppen",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige room"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583040",
+    "name": "Blue Band Finesse plantaardig alternatief kookroom",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930303332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige room"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462464",
+    "name": "AH Terra Plantaardige soja keuken",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige room"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "114696",
+    "name": "Alpro Cooking",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039353136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige room"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462462",
+    "name": "AH Terra Plantaardige haver keuken",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige room"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437391",
+    "name": "AH Terra Plantaardige verse soja keuken",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631363535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige room"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417968",
+    "name": "Oatly! Haver cuisine bio",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige room"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196932",
+    "name": "Alpro Cooking light",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033353737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige zuivel alternatieven",
+      "Plantaardige room"
+    ],
+    "isFood": true
+  }
+]

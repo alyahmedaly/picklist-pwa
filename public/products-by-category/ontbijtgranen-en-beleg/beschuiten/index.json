@@ -1,0 +1,36 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Beschuiten",
+  "breadcrumbs": "Ontbijtgranen en beleg > Beschuiten",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "beschuit",
+      "displayName": "Beschuit",
+      "productCount": 12,
+      "filePath": "beschuit.jsonl",
+      "indexPath": "beschuit-index.json",
+      "statsPath": "beschuit-stats.json",
+      "averageProtein": 16.4,
+      "halalCompliance": 42
+    }
+  ],
+  "totalProducts": 12,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Beschuiten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "ontbijtgranen-en-beleg"
+  }
+}

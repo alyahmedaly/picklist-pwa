@@ -1,0 +1,249 @@
+[
+  {
+    "id": "574287",
+    "name": "Santa Maria Potato pops supréme cheese",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438343235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574288",
+    "name": "Santa Maria Potato pops salt & butter",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530353136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574286",
+    "name": "Santa Maria Potato pops sweet chili",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303438343236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553858",
+    "name": "Chio Popchips sour cream & onion",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553859",
+    "name": "Chio Popchips paprika",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731363938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497396",
+    "name": "Tyrrells Lentil sour cream & onion",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217874",
+    "name": "AH Ribbelchips sour cream & onion",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497400",
+    "name": "Tyrrells Lentil perfect paprika",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835323330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425476",
+    "name": "BioToday Linzenchips zeezout",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457628",
+    "name": "Lay's Oven baked barbecue",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383934?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526747",
+    "name": "Lay's Oven baked cheese & onion",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457644",
+    "name": "Lay's Oven baked roasted paprika",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383836?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457646",
+    "name": "Lay's Oven baked mediterranean herbs",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383639?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "457645",
+    "name": "Lay's Oven baked naturel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383630?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526374",
+    "name": "Popworks Sweet bbq",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836333635?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526375",
+    "name": "Popworks Sweet & salty",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836333633?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485162",
+    "name": "BioToday Triangles rice/pea/tom 80g bio",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373737393636?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407984",
+    "name": "AH Ribbelchips zeezout",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549673",
+    "name": "BioToday Erwtenflips paprika",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Chips minder vet, zout",
+      "Chips minder vet"
+    ],
+    "isFood": true
+  }
+]

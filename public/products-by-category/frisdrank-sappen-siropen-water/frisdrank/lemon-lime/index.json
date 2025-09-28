@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Frisdrank > Lemon, lime",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Frisdrank > Lemon, lime",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "lemon-lime-dranken-fles",
+      "displayName": "Lemon Lime Dranken Fles",
+      "productCount": 20,
+      "filePath": "lemon-lime-dranken-fles.jsonl",
+      "indexPath": "lemon-lime-dranken-fles-index.json",
+      "statsPath": "lemon-lime-dranken-fles-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 90
+    },
+    {
+      "name": "lemon-lime-dranken-blik",
+      "displayName": "Lemon Lime Dranken Blik",
+      "productCount": 17,
+      "filePath": "lemon-lime-dranken-blik.jsonl",
+      "indexPath": "lemon-lime-dranken-blik-index.json",
+      "statsPath": "lemon-lime-dranken-blik-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 37,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 37,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Frisdrank",
+        "path": "../index.json"
+      },
+      {
+        "name": "Lemon Lime",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/frisdrank"
+  }
+}

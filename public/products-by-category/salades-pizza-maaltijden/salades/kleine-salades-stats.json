@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Salades > Kleine salades",
+  "breadcrumbs": "Salades, pizza, maaltijden > Salades > Kleine salades",
+  "totalProducts": 25,
+  "halalCompliance": 84,
+  "averageProtein": 5,
+  "averagePrice": 3.67,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 23,
+    "withIngredients": 25,
+    "withHalalCheck": 25
+  }
+}

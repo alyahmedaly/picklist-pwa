@@ -1,0 +1,62 @@
+[
+  {
+    "id": "123824",
+    "name": "AH Greenfields Carpaccio",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538363538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Carpaccio (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470652",
+    "name": "AH Greenfields Carpaccio truffelmayo",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538363539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Carpaccio (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505443",
+    "name": "AH Vitello tonnato",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335353835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Carpaccio (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494056",
+    "name": "AH Greenfields Ah grf carpaccio honing mosterd",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434353131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Carpaccio (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568540",
+    "name": "AH Greenfields Carpaccio truffelmayo pakket",
+    "price": 6.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237333637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Carpaccio (versafdeling)"
+    ],
+    "isFood": true
+  }
+]

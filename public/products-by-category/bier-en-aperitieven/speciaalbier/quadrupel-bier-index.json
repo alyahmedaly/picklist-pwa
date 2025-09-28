@@ -1,0 +1,218 @@
+[
+  {
+    "id": "561613",
+    "name": "Big Belly Brewing Jacques",
+    "price": 4.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532363639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "69077",
+    "name": "Grolsch Krachtig kanon",
+    "price": 1.44,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363538313231?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "96568",
+    "name": "Grolsch Krachtig kanon 6-pack",
+    "price": 8.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383235343233?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396312",
+    "name": "Gulden Draak Brewmaster",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363931313135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218350",
+    "name": "Hertog Jan Grand prestige",
+    "price": 5.81,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437303937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491865",
+    "name": "Hertog Jan Grand prestige",
+    "price": 1.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233303437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491924",
+    "name": "Hertog Jan Grand prestige 6-pack",
+    "price": 7.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234170",
+    "name": "Hertog Jan Grand prestige bier",
+    "price": 5.36,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437303934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578902",
+    "name": "Kees Enjoy the silence",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303432363830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234409",
+    "name": "La Trappe Trappist quadrupel",
+    "price": 6.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135363730?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548553",
+    "name": "La Trappe Trappist quadrupel",
+    "price": 2.2,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236353836?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548554",
+    "name": "La Trappe Trappist quadrupel 4-pack",
+    "price": 8.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335303636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515112",
+    "name": "LeFort Donker 4-pack",
+    "price": 9.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535323632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578903",
+    "name": "Moersleutel Quad",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "190756",
+    "name": "St. Bernardus Abt 12",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135323137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "215204",
+    "name": "St. Bernardus Abt 12",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363635343234?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "215423",
+    "name": "Straffe Hendrik Halve maan quadrupel",
+    "price": 3.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353432343531?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234411",
+    "name": "Trappistes Rochefort 10 Beer",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535373231?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Quadrupel bier"
+    ],
+    "isFood": true
+  }
+]

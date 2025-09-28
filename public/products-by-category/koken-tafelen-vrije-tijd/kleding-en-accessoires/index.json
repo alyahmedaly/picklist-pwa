@@ -1,0 +1,50 @@
+{
+  "categoryPath": "Koken, tafelen, vrije tijd > Kleding en accessoires",
+  "breadcrumbs": "Koken, tafelen, vrije tijd > Kleding en accessoires",
+  "subdirectories": [
+    {
+      "name": "damesmode",
+      "displayName": "Damesmode",
+      "productCount": 53,
+      "hasSubdirectories": false,
+      "indexPath": "damesmode/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "herenmode",
+      "displayName": "Herenmode",
+      "productCount": 34,
+      "filePath": "herenmode.jsonl",
+      "indexPath": "herenmode-index.json",
+      "statsPath": "herenmode-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 87,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 87,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koken Tafelen Vrije Tijd",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kleding En Accessoires",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "koken-tafelen-vrije-tijd"
+  }
+}

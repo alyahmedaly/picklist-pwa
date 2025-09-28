@@ -1,0 +1,422 @@
+[
+  {
+    "id": "448369",
+    "name": "Gü Chocolate & salted caramel cheesecakes",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425569",
+    "name": "AH Cheesecake new york",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393136383331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580250",
+    "name": "AH Trifle kers",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493105",
+    "name": "Oreo Cheesecake",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373036303137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556296",
+    "name": "AH Miljonairsdessert karamelsmaak",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556297",
+    "name": "AH Trifle aardbei",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531393631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580249",
+    "name": "AH Trifle pumpkin spice smaak",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556295",
+    "name": "AH Tiramisu",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531393538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425570",
+    "name": "AH Moelleux chocolate",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438680",
+    "name": "De Zaanse Hoeve Tiramisu",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438313637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225342",
+    "name": "Rolo Chocolade & karamel dessert",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639353638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438731",
+    "name": "AH Mousse koffie",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367194",
+    "name": "Danone Twix mix",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639323535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555451",
+    "name": "AH Panna cotta rood fruit",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437393336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185879",
+    "name": "AH Tiramisu",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335353832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187549",
+    "name": "AH Tiramisu",
+    "price": 3.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373639323237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493085",
+    "name": "Almhof Choco met echte slagroom karamel",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039383635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567560",
+    "name": "Danio Duo chocolade balletjes",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238363337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567562",
+    "name": "Danio Duo karamel",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238363331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "206805",
+    "name": "AH Crème brulée met karamel vlokken",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393239303934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437389",
+    "name": "Almhof Hoekje choco cookie vanille yoghurt",
+    "price": 1.04,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235393538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575545",
+    "name": "Danio Duo melkchocolade",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567561",
+    "name": "Danio Duo witte chocolade",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556318",
+    "name": "Danone M&M mix",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639323536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556346",
+    "name": "Ehrmann Grand dessert chocolade",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303436323437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556281",
+    "name": "Ehrmann Grand dessert vanille",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435303938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384052",
+    "name": "Almhof Hoekje choco balls naturel yoghurt",
+    "price": 0.94,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239383830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384051",
+    "name": "Almhof Hoekje kers naturel yoghurt",
+    "price": 1.04,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235363235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556326",
+    "name": "Ehrmann Grand dessert double toffee",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303338333738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407963",
+    "name": "Almhof Hoekje Venetië pistache yoghurt",
+    "price": 1.04,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239383832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196146",
+    "name": "De Zaanse Hoeve Roomtoetje chocolade",
+    "price": 0.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333323930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196145",
+    "name": "De Zaanse Hoeve Roomtoetje vanille",
+    "price": 0.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235343436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583279",
+    "name": "Isey Skyr air stracciatella",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568569",
+    "name": "AH Tiramisu 2-pack",
+    "price": 4.16,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330313437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578543",
+    "name": "Almhof Hoekje Choco Balls variatiepakket",
+    "price": 2.2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934343332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Luxe toetjes"
+    ],
+    "isFood": true
+  }
+]

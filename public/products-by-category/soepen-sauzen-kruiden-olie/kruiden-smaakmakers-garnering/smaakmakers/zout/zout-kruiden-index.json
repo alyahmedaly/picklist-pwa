@@ -1,0 +1,128 @@
+[
+  {
+    "id": "531739",
+    "name": "Verstegen Tafelgoud het alternatief voor zout",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935343733?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout  (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531740",
+    "name": "Verstegen Keukengoud het alternatief voor zout",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935343732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout  (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570449",
+    "name": "Camargue Fleur de sel citroen & tijm",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131393339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout  (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570462",
+    "name": "Cornish Sea Salt Co Everything bagel",
+    "price": 2.47,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934393936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout  (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518441",
+    "name": "Cornish Sea Salt Co Really garlicky",
+    "price": 2.47,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934393939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout  (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164641",
+    "name": "Drogheria Molen roze Himalaya zout",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533353230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout  (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531738",
+    "name": "Drogheria Siciliaans steenzout",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout  (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531737",
+    "name": "Drogheria Zeezout & peper",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533353235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout  (kruiden)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570466",
+    "name": "Drogheria Zeezout & peper met truffelsmaak",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531303536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Smaakmakers",
+      "Zout",
+      "Zout  (kruiden)"
+    ],
+    "isFood": true
+  }
+]

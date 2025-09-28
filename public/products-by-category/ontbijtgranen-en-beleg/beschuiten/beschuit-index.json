@@ -1,0 +1,146 @@
+[
+  {
+    "id": "513515",
+    "name": "Bolletje Bakkers beschuit origineel",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631383236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beschuiten",
+      "Beschuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513514",
+    "name": "Bolletje Vezelrijk boeren beschuit meerzaden",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432343334?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beschuiten",
+      "Beschuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513498",
+    "name": "Bolletje Vezelrijk boeren beschuit volkoren",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731313536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beschuiten",
+      "Beschuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518140",
+    "name": "TastyBasics Beschuit zonnebloem- en pompoenpitten",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830393039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beschuiten",
+      "Beschuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1624",
+    "name": "AH Beschuit naturel",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363035303238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beschuiten",
+      "Beschuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1625",
+    "name": "AH Beschuit volkoren",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beschuiten",
+      "Beschuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570297",
+    "name": "AH Biologisch Volkoren beschuit meerzaden",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534393935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beschuiten",
+      "Beschuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477554",
+    "name": "Bolletje Echte beschuit",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631383235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beschuiten",
+      "Beschuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518026",
+    "name": "TastyBasics Beschuit meerzaden",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393739363538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beschuiten",
+      "Beschuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456078",
+    "name": "AH Meerzadenbeschuit",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beschuiten",
+      "Beschuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456077",
+    "name": "AH Spelt Beschuit",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363037313839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beschuiten",
+      "Beschuit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442765",
+    "name": "Bolletje Volkoren beschuit",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631383234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beschuiten",
+      "Beschuit"
+    ],
+    "isFood": true
+  }
+]

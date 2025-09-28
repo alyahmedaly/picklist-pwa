@@ -1,0 +1,158 @@
+[
+  {
+    "id": "213751",
+    "name": "AH Toast zalm",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalm - stukken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173876",
+    "name": "AH Warmgerookte zalmfilet",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalm - stukken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "55671",
+    "name": "AH Gerookte zalmblokjes",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalm - stukken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130190",
+    "name": "AH Sandwich zalmplakken",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalm - stukken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376617",
+    "name": "AH Gravad lachs",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalm - stukken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233479",
+    "name": "AH Warmgerookte zalm flakes",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalm - stukken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211064",
+    "name": "AH Biologisch Gerookte zalm",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalm - stukken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516979",
+    "name": "AH Gerookte zalm 30% verlaagd in zout",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalm - stukken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225135",
+    "name": "Fish Tales Sockeye gerookte wilde zalm",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalm - stukken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185801",
+    "name": "AH Gerookte sockeye zalm",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalm - stukken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577823",
+    "name": "AH Sandwich zalmplakken 3-pack",
+    "price": 11.97,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalm - stukken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "461772",
+    "name": "Fish Tales Atlantische gerookte zalm",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331383938?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gerookte vis",
+      "Gerookte zalm - stukken"
+    ],
+    "isFood": true
+  }
+]

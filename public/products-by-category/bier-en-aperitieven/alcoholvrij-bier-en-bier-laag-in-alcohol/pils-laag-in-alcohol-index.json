@@ -1,0 +1,62 @@
+[
+  {
+    "id": "533074",
+    "name": "Bird Brewery Non alk",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536323939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Pils laag in alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548574",
+    "name": "To Øl Implosion",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303435363130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Pils laag in alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482994",
+    "name": "Warsteiner Alcoholvrij pilsener",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Pils laag in alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409171",
+    "name": "Warsteiner Alkoholfrei pilsener 6-pack",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373437353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Pils laag in alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548580",
+    "name": "Jever Fun beer 4-pack",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337313636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Pils laag in alcohol"
+    ],
+    "isFood": true
+  }
+]

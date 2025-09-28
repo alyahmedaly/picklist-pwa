@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Sla, rauwkost en kiemgroenten > Rauwkost",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Sla, rauwkost en kiemgroenten > Rauwkost",
+  "totalProducts": 12,
+  "halalCompliance": 100,
+  "averageProtein": 1.2,
+  "averagePrice": 1.98,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 12,
+    "withIngredients": 12,
+    "withHalalCheck": 12
+  }
+}

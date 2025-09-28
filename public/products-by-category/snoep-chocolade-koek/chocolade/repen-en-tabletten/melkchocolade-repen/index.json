@@ -1,0 +1,90 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Chocolade > Repen en tabletten > Melkchocolade repen",
+  "breadcrumbs": "Snoep, chocolade, koek > Chocolade > Repen en tabletten > Melkchocolade repen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "melkchocolade-met-noten",
+      "displayName": "Melkchocolade Met Noten",
+      "productCount": 31,
+      "filePath": "melkchocolade-met-noten.jsonl",
+      "indexPath": "melkchocolade-met-noten-index.json",
+      "statsPath": "melkchocolade-met-noten-stats.json",
+      "averageProtein": 8,
+      "halalCompliance": 3
+    },
+    {
+      "name": "melkchocolade-met-smaak",
+      "displayName": "Melkchocolade Met Smaak",
+      "productCount": 23,
+      "filePath": "melkchocolade-met-smaak.jsonl",
+      "indexPath": "melkchocolade-met-smaak-index.json",
+      "statsPath": "melkchocolade-met-smaak-stats.json",
+      "averageProtein": 7,
+      "halalCompliance": 0
+    },
+    {
+      "name": "melkchocolade",
+      "displayName": "Melkchocolade",
+      "productCount": 22,
+      "filePath": "melkchocolade.jsonl",
+      "indexPath": "melkchocolade-index.json",
+      "statsPath": "melkchocolade-stats.json",
+      "averageProtein": 6.6,
+      "halalCompliance": 9
+    },
+    {
+      "name": "melkchocolade-met-biscuit",
+      "displayName": "Melkchocolade Met Biscuit",
+      "productCount": 18,
+      "filePath": "melkchocolade-met-biscuit.jsonl",
+      "indexPath": "melkchocolade-met-biscuit-index.json",
+      "statsPath": "melkchocolade-met-biscuit-stats.json",
+      "averageProtein": 5.9,
+      "halalCompliance": 6
+    },
+    {
+      "name": "melkchocolade-met-vulling-pralin",
+      "displayName": "Melkchocolade Met Vulling Pralin",
+      "productCount": 11,
+      "filePath": "melkchocolade-met-vulling-pralin.jsonl",
+      "indexPath": "melkchocolade-met-vulling-pralin-index.json",
+      "statsPath": "melkchocolade-met-vulling-pralin-stats.json",
+      "averageProtein": 6.5,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 105,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 105,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Chocolade",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Repen En Tabletten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Melkchocolade Repen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "snoep-chocolade-koek/chocolade/repen-en-tabletten"
+  }
+}

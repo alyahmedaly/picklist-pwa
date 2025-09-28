@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Vlees > Vleesconserven > Smeerpastei, smac",
+  "breadcrumbs": "Vlees, vis > Vlees > Vleesconserven > Smeerpastei, smac",
+  "totalProducts": 20,
+  "halalCompliance": 45,
+  "averageProtein": 10.4,
+  "averagePrice": 2.46,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 20,
+    "withIngredients": 20,
+    "withHalalCheck": 20
+  }
+}

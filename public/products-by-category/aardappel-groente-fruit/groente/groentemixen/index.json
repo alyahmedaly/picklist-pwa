@@ -1,0 +1,81 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Groentemixen",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Groentemixen",
+  "subdirectories": [
+    {
+      "name": "roerbakgroente",
+      "displayName": "Roerbakgroente",
+      "productCount": 10,
+      "hasSubdirectories": false,
+      "indexPath": "roerbakgroente/index.json"
+    },
+    {
+      "name": "soepgroente",
+      "displayName": "Soepgroente",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "soepgroente/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "wokgroente",
+      "displayName": "Wokgroente",
+      "productCount": 11,
+      "filePath": "wokgroente.jsonl",
+      "indexPath": "wokgroente-index.json",
+      "statsPath": "wokgroente-stats.json",
+      "averageProtein": 1.8,
+      "halalCompliance": 100
+    },
+    {
+      "name": "groentemixen-vers",
+      "displayName": "Groentemixen Vers",
+      "productCount": 5,
+      "filePath": "groentemixen-vers.jsonl",
+      "indexPath": "groentemixen-vers-index.json",
+      "statsPath": "groentemixen-vers-stats.json",
+      "averageProtein": 1.8,
+      "halalCompliance": 100
+    },
+    {
+      "name": "ovengroente",
+      "displayName": "Ovengroente",
+      "productCount": 5,
+      "filePath": "ovengroente.jsonl",
+      "indexPath": "ovengroente-index.json",
+      "statsPath": "ovengroente-stats.json",
+      "averageProtein": 1.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 36,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 36,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../index.json"
+      },
+      {
+        "name": "Groentemixen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/groente"
+  }
+}

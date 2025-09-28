@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Vlees > Vleesconserven > Knakworst",
+  "breadcrumbs": "Vlees, vis > Vlees > Vleesconserven > Knakworst",
+  "totalProducts": 31,
+  "halalCompliance": 19,
+  "averageProtein": 10.4,
+  "averagePrice": 4.63,
+  "highProteinProducts": 1,
+  "dataQuality": {
+    "withNutrition": 27,
+    "withIngredients": 27,
+    "withHalalCheck": 27
+  }
+}

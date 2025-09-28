@@ -1,0 +1,62 @@
+[
+  {
+    "id": "516471",
+    "name": "Bavaria 0.0% Fruity ginger lime",
+    "price": 0.97,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535343538?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Rosé bier, fruitbier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230656",
+    "name": "Bavaria 0.0% Fruity rosé",
+    "price": 0.97,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373132383530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Rosé bier, fruitbier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225456",
+    "name": "Bavaria 0.0% Fruity rose 6-pack",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838303236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Rosé bier, fruitbier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571810",
+    "name": "Bavaria 0.0 Fruity lemon lime",
+    "price": 1.02,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135363438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Rosé bier, fruitbier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580348",
+    "name": "Kasteelbier Rouge 0.0%",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032383038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Alcoholvrij bier en bier laag in alcohol",
+      "Rosé bier, fruitbier 0.0"
+    ],
+    "isFood": true
+  }
+]

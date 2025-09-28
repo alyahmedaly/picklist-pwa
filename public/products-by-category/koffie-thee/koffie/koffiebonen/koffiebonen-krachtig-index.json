@@ -1,0 +1,223 @@
+[
+  {
+    "id": "572468",
+    "name": "Perla Huisblends Espresso extra dark koffiebonen",
+    "price": 11.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238353131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471066",
+    "name": "Perla Huisblends Intens koffiebonen",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934303937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161538",
+    "name": "Perla Superiore Finest dark roast koffiebonen",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934303831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195721",
+    "name": "Perla Superiore Finest dark roast koffiebonen",
+    "price": 15.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934303936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238689",
+    "name": "Perla Superiore Finest forte koffiebonen",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373935353936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238690",
+    "name": "Perla Superiore Finest forte koffiebonen",
+    "price": 15.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373934303939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381402",
+    "name": "Australian Organic dark roast koffiebonen",
+    "price": 9.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437323739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381393",
+    "name": "Australian Organic feelgood koffiebonen",
+    "price": 9.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437323830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127407",
+    "name": "illy Classico coffee beans",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932333133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221440",
+    "name": "illy Intenso coffee beans",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932333030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170164",
+    "name": "Lavazza Espresso Italiano classico koffiebonen",
+    "price": 10.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733393635?revLabel=7&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480998",
+    "name": "Segafredo Casa speciale bonen",
+    "price": 9.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532363437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "333098",
+    "name": "Segafredo Intermezzo bonen",
+    "price": 16.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238702",
+    "name": "Segafredo Selezione espresso bonen",
+    "price": 9.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030393435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "430599",
+    "name": "Segafredo Selezione organica espresso bonen",
+    "price": 10.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031313637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495568",
+    "name": "Simon Lévelt Mexican amethyst bonen",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537333237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495581",
+    "name": "Starbucks Espresso dark roast koffiebonen",
+    "price": 10.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koffie, thee",
+      "Koffie",
+      "Koffiebonen",
+      "Koffiebonen (krachtig)"
+    ],
+    "isFood": true
+  }
+]

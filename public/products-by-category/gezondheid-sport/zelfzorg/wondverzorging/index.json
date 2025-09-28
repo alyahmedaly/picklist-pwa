@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Gezondheid, sport > Zelfzorg > Wondverzorging",
+  "breadcrumbs": "Gezondheid, sport > Zelfzorg > Wondverzorging",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "pleisters",
+      "displayName": "Pleisters",
+      "productCount": 9,
+      "filePath": "pleisters.jsonl",
+      "indexPath": "pleisters-index.json",
+      "statsPath": "pleisters-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 44
+    }
+  ],
+  "totalProducts": 9,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Zelfzorg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Wondverzorging",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "gezondheid-sport/zelfzorg"
+  }
+}

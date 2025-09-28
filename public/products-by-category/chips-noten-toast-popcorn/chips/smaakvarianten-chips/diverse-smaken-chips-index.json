@@ -1,0 +1,587 @@
+[
+  {
+    "id": "564779",
+    "name": "Herr's Jalapeño flavored cheese curls",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036383532?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526745",
+    "name": "Cheetos Nibb-it rings",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836333632?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447644",
+    "name": "AH Kaas smaak flips",
+    "price": 1.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533323930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553930",
+    "name": "Cheetos Crunchetos ham & cheese",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237383936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574289",
+    "name": "Chio Fried chicken",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233281",
+    "name": "Pringles Salt & vinegar",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383737363034?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526388",
+    "name": "Cheetos Big chipito sweet chili",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234363630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195845",
+    "name": "Doritos Bits twisties honey barbeque",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932393936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579879",
+    "name": "Chio Pom-bär pizza",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937353039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553929",
+    "name": "Cheetos Crunchetos sweet chili",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237363638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233278",
+    "name": "Pringles Sour cream & onion",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836363237?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579877",
+    "name": "AH Biologisch Zoete aardappel chips",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574285",
+    "name": "AH Vegan flips met kaassmaak",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233284",
+    "name": "Pringles Texas BBQ",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035343435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516977",
+    "name": "Chio Pom-bär cheese",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303531323638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562284",
+    "name": "Croky Explosions Thai curry",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335303530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233279",
+    "name": "Pringles Hot & spicy",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562283",
+    "name": "Croky Explosions sweet chili",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335303533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574348",
+    "name": "Lay's Max red sweet chili",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533343932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477772",
+    "name": "Lay's Max strong hot chicken wings",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134383734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460367",
+    "name": "Proper Sour cream & chive",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632393332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460366",
+    "name": "Proper Sweet Sriracha Chilli Lentil Chips",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331323234?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516969",
+    "name": "Lay's Max salt & black pepper",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233393733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477612",
+    "name": "Lay's Max strong chilli & lime",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526377",
+    "name": "Lay's Barbecue",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537313130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574334",
+    "name": "Cheetos Crunchetto's flamin hot",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516976",
+    "name": "Chio Donuts peanut caramel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434303534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526364",
+    "name": "Chio Hugs & kisses cheese",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831303239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574332",
+    "name": "Lay's Max flamin hot",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574331",
+    "name": "Proper Katsu curry",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632383934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549676",
+    "name": "BioToday Hummus chips Indian curry",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231313131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526380",
+    "name": "Lay's Heinz tomaten ketchup",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134373537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516966",
+    "name": "Lay's Max heinz tomato ketchup",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438353135?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516968",
+    "name": "Lay's Max paprika",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139343638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516970",
+    "name": "Lay's Max pickles",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438353134?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447643",
+    "name": "AH Luchtige pinda flips",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533323830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516967",
+    "name": "Lay's Max naturel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131323634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553933",
+    "name": "Lay's Max roasted onion & sour cream",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139303935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526383",
+    "name": "Lay's Pickles",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136373932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574330",
+    "name": "Proper Ghost chilli & yuzu",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632383935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578194",
+    "name": "BitesWeLove Crunchy peas mediterranean spices",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838353936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516965",
+    "name": "Lay's Max patatje joppie",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438353038?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548163",
+    "name": "Upfront Linzen chips kaas",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137373733?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526376",
+    "name": "Lay's Patatje joppie",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737373030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579878",
+    "name": "AH Robuuste chips truffelsmaak",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933393439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Smaakvarianten chips",
+      "Diverse smaken chips"
+    ],
+    "isFood": true
+  }
+]

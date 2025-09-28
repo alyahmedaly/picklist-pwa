@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Brood > Bruin brood > Dagvers bruin",
+  "breadcrumbs": "Bakkerij > Brood > Bruin brood > Dagvers bruin",
+  "totalProducts": 9,
+  "halalCompliance": 56,
+  "averageProtein": 10.4,
+  "averagePrice": 1.51,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 9,
+    "withIngredients": 9,
+    "withHalalCheck": 9
+  }
+}

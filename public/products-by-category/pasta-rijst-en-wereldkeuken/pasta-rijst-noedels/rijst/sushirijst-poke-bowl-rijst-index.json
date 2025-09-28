@@ -1,0 +1,80 @@
+[
+  {
+    "id": "496981",
+    "name": "Lassie Voorgestoomde poké bowl rijst",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Sushirijst, poke bowl rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "512152",
+    "name": "Lassie Poke bowl rijst",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Sushirijst, poke bowl rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525401",
+    "name": "AH Sushi rijst",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234333430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Sushirijst, poke bowl rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583715",
+    "name": "AH Sushi rijst",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038333739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Sushirijst, poke bowl rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553363",
+    "name": "Saitaku Poke rice",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635393435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Sushirijst, poke bowl rijst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164491",
+    "name": "Saitaku Sushi rice",
+    "price": 3.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638373933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Rijst",
+      "Sushirijst, poke bowl rijst"
+    ],
+    "isFood": true
+  }
+]

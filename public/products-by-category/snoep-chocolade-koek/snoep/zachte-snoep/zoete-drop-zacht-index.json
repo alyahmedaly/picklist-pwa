@@ -1,0 +1,470 @@
+[
+  {
+    "id": "374840",
+    "name": "AH Engelse drop",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451872",
+    "name": "Look-O-Look Dropveters zoet",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559150",
+    "name": "Italiano Zachte zoete dropstaafjes",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393238313831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399893",
+    "name": "Haribo Rotella",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547731",
+    "name": "Klene Snoepdrop luchtige fruitklappers",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338353730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459465",
+    "name": "AH Zoete drop",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534343936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559145",
+    "name": "Italiano Luchtige drop quattro's",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393238313731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547730",
+    "name": "Klene Snoepdrop gesuikerde duimpjes",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338353634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578441",
+    "name": "Look-O-Look Duo drop sticks",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935363934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547668",
+    "name": "Venco Schoolkrijt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561371",
+    "name": "Venco Schoolkrijt 12-pack",
+    "price": 23.4,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537333638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547727",
+    "name": "Venco Schoolkrijt XL",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569671",
+    "name": "Venco Dropduo's zacht & rijk",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338363130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569670",
+    "name": "Venco Dropduo's zoet & verfijnd",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338363038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547759",
+    "name": "Venco Droptoppers zacht & zoet",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547769",
+    "name": "Venco Droptoppers zacht & zoet XL",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578495",
+    "name": "Venco NL drop",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636393630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447979",
+    "name": "Autodrop Zot zoete zacht wagens",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135353035?revLabel=22&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486801",
+    "name": "Oldtimers Jochums favorieten volzoet & mildzout",
+    "price": 3.69,
+    "image": "NA",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547687",
+    "name": "Harlekijntjes Zachte honing drop",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233323532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547732",
+    "name": "Klene Snoepdrop zoete salmiakboksjes",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338353632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569672",
+    "name": "Venco Dropduo's vol & romig",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338363339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547707",
+    "name": "Venco Droptoefjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565967",
+    "name": "Venco Droptoppers krakend & zacht voordeelpak",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547686",
+    "name": "Harlekijntjes Zacht zoete drop",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237363835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569677",
+    "name": "Harlekijntjes Zachte zoete drop",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539303630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547776",
+    "name": "Klene Pinpassen zacht zoet voordeelverpakking",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338353731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439408",
+    "name": "Klene Puur honing",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547689",
+    "name": "Klene Pinpassen zacht zoet",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338353631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439305",
+    "name": "Klene Puur zoet",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838323935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547733",
+    "name": "Klene Steekpenningen zoethout",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493021",
+    "name": "Klene Puur zoethout",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838323936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547669",
+    "name": "Venco Piramides",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547724",
+    "name": "Venco Piramides XL",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393238383139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547833",
+    "name": "Echte mannekes Originele",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393834323730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166963",
+    "name": "Katja Kokindjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939333436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Zoete drop (zacht)"
+    ],
+    "isFood": true
+  }
+]

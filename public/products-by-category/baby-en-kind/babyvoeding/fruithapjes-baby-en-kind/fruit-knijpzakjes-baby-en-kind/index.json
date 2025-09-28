@@ -1,0 +1,70 @@
+{
+  "categoryPath": "Baby en kind > Babyvoeding > Fruithapjes (baby en kind) > Fruit knijpzakjes (baby en kind)",
+  "breadcrumbs": "Baby en kind > Babyvoeding > Fruithapjes (baby en kind) > Fruit knijpzakjes (baby en kind)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "fruit-knijphapjes-vanaf-12-maanden",
+      "displayName": "Fruit Knijphapjes Vanaf 12 Maanden",
+      "productCount": 24,
+      "filePath": "fruit-knijphapjes-vanaf-12-maanden.jsonl",
+      "indexPath": "fruit-knijphapjes-vanaf-12-maanden-index.json",
+      "statsPath": "fruit-knijphapjes-vanaf-12-maanden-stats.json",
+      "averageProtein": 1.3,
+      "halalCompliance": 92
+    },
+    {
+      "name": "fruit-knijphapjes-vanaf-6-maanden",
+      "displayName": "Fruit Knijphapjes Vanaf 6 Maanden",
+      "productCount": 19,
+      "filePath": "fruit-knijphapjes-vanaf-6-maanden.jsonl",
+      "indexPath": "fruit-knijphapjes-vanaf-6-maanden-index.json",
+      "statsPath": "fruit-knijphapjes-vanaf-6-maanden-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 95
+    },
+    {
+      "name": "fruit-knijphapjes-vanaf-4-maanden",
+      "displayName": "Fruit Knijphapjes Vanaf 4 Maanden",
+      "productCount": 17,
+      "filePath": "fruit-knijphapjes-vanaf-4-maanden.jsonl",
+      "indexPath": "fruit-knijphapjes-vanaf-4-maanden-index.json",
+      "statsPath": "fruit-knijphapjes-vanaf-4-maanden-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 94
+    }
+  ],
+  "totalProducts": 60,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 60,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Baby En Kind",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Babyvoeding",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Fruithapjes Baby En Kind",
+        "path": "../index.json"
+      },
+      {
+        "name": "Fruit Knijpzakjes Baby En Kind",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "baby-en-kind/babyvoeding/fruithapjes-baby-en-kind"
+  }
+}

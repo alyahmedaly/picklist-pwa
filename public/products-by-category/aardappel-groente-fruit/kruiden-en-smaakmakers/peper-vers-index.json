@@ -1,0 +1,86 @@
+[
+  {
+    "id": "221518",
+    "name": "AH Pepermix",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738343136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Peper (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234031",
+    "name": "AH Rawit pepers",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738333939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Peper (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415243",
+    "name": "AH Adjuma peper",
+    "price": 0.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363530333733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Peper (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415244",
+    "name": "AH Jalapeño peper groen",
+    "price": 0.55,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50343837303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Peper (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415238",
+    "name": "AH Jalapeño peper rood",
+    "price": 0.55,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50343733393036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Peper (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387770",
+    "name": "AH Rode peper",
+    "price": 0.45,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323137303330?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Peper (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566912",
+    "name": "AH Rode Peper 3-pack",
+    "price": 1.28,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038333331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Peper (vers)"
+    ],
+    "isFood": true
+  }
+]

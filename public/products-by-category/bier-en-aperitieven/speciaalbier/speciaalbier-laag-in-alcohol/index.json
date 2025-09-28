@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Bier en aperitieven > Speciaalbier > Speciaalbier laag in alcohol",
+  "breadcrumbs": "Bier en aperitieven > Speciaalbier > Speciaalbier laag in alcohol",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "ipa-laag-in-alcohol",
+      "displayName": "Ipa Laag In Alcohol",
+      "productCount": 13,
+      "filePath": "ipa-laag-in-alcohol.jsonl",
+      "indexPath": "ipa-laag-in-alcohol-index.json",
+      "statsPath": "ipa-laag-in-alcohol-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "blond-bier-laag-in-alcohol",
+      "displayName": "Blond Bier Laag In Alcohol",
+      "productCount": 10,
+      "filePath": "blond-bier-laag-in-alcohol.jsonl",
+      "indexPath": "blond-bier-laag-in-alcohol-index.json",
+      "statsPath": "blond-bier-laag-in-alcohol-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "wit-weizen-laag-in-alcohol",
+      "displayName": "Wit Weizen Laag In Alcohol",
+      "productCount": 5,
+      "filePath": "wit-weizen-laag-in-alcohol.jsonl",
+      "indexPath": "wit-weizen-laag-in-alcohol-index.json",
+      "statsPath": "wit-weizen-laag-in-alcohol-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 28,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 28,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Speciaalbier",
+        "path": "../index.json"
+      },
+      {
+        "name": "Speciaalbier Laag In Alcohol",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bier-en-aperitieven/speciaalbier"
+  }
+}

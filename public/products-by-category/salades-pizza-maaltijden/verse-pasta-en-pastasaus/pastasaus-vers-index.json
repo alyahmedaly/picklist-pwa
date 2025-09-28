@@ -1,0 +1,98 @@
+[
+  {
+    "id": "364395",
+    "name": "AH Pastasaus Funghi",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse pasta en pastasaus",
+      "Pastasaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "96778",
+    "name": "AH Pastasaus carbonara",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130353936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse pasta en pastasaus",
+      "Pastasaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "146483",
+    "name": "AH Pastasaus 5 kazen",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031333031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse pasta en pastasaus",
+      "Pastasaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "120332",
+    "name": "AH Pastasaus tomaat mascarpone",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse pasta en pastasaus",
+      "Pastasaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217090",
+    "name": "AH Pastasaus pomod basil",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse pasta en pastasaus",
+      "Pastasaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160918",
+    "name": "AH Pastasaus spinazie ricotta",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse pasta en pastasaus",
+      "Pastasaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567109",
+    "name": "AH Pastasaus voor pomodori ricotta",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse pasta en pastasaus",
+      "Pastasaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "96779",
+    "name": "AH Pastasaus napolitana",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031333032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Verse pasta en pastasaus",
+      "Pastasaus (vers)"
+    ],
+    "isFood": true
+  }
+]

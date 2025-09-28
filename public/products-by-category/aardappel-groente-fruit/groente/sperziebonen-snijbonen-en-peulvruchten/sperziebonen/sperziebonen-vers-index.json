@@ -1,0 +1,72 @@
+[
+  {
+    "id": "4102",
+    "name": "AH Sperziebonen",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833393433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Sperziebonen",
+      "Sperziebonen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395946",
+    "name": "AH Sperziebonen",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532383636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Sperziebonen",
+      "Sperziebonen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395947",
+    "name": "AH Sperziebonen grootverpakking",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Sperziebonen",
+      "Sperziebonen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230848",
+    "name": "AH Sperziebonen kleinverpakking",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131393038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Sperziebonen",
+      "Sperziebonen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231530",
+    "name": "AH Sperziebonen",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303133303738?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sperziebonen, snijbonen en peulvruchten",
+      "Sperziebonen",
+      "Sperziebonen (vers)"
+    ],
+    "isFood": true
+  }
+]

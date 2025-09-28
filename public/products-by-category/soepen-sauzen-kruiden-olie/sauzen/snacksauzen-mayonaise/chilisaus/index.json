@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Sauzen > Snacksauzen, mayonaise > Chilisaus",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Sauzen > Snacksauzen, mayonaise > Chilisaus",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "tabasco-chilipepersaus",
+      "displayName": "Tabasco Chilipepersaus",
+      "productCount": 11,
+      "filePath": "tabasco-chilipepersaus.jsonl",
+      "indexPath": "tabasco-chilipepersaus-index.json",
+      "statsPath": "tabasco-chilipepersaus-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 11,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Sauzen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Snacksauzen Mayonaise",
+        "path": "../index.json"
+      },
+      {
+        "name": "Chilisaus",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "soepen-sauzen-kruiden-olie/sauzen/snacksauzen-mayonaise"
+  }
+}

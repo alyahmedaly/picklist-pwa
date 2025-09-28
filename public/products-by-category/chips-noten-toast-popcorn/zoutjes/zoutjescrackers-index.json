@@ -1,0 +1,350 @@
+[
+  {
+    "id": "1077",
+    "name": "AH Trio zoutjes sesam- & maanzaad",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303538313339?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494273",
+    "name": "AH Wasabi chili mix",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517373",
+    "name": "Tuc Mini smoky bacon",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731373038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517270",
+    "name": "Tuc Mini cheese",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034323630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168435",
+    "name": "Tuc Sour cream & onion",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932353732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "35001",
+    "name": "LU Tuc bacon",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533353632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "143673",
+    "name": "LU Tuc paprika",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737393430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483929",
+    "name": "Tuc Salt&pepper",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138323437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165099",
+    "name": "AH Zoute stengels naturel",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373733353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386049",
+    "name": "LU Tuc sweet chili",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137343039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559218",
+    "name": "AH Mexicaantjes mild",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494274",
+    "name": "AH Zeewier crackers",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731363939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165121",
+    "name": "AH Ovenzoutjes sour cream onion",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559248",
+    "name": "AH Wasabi bollen",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168436",
+    "name": "LU Tuc original mini",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034323532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165120",
+    "name": "AH Ovenzoutjes met pittige tomaat smaak",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737353134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494269",
+    "name": "AH Sweet paprika crackers",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221227",
+    "name": "Lay's Oven baked crunchy biscuits paprika",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383933?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3256",
+    "name": "LU Tuc original",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303731373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195846",
+    "name": "Doritos Bits sweet paprika",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932393930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221226",
+    "name": "Lay's Oven baked crunchy biscuits tomato onion",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932393036?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571967",
+    "name": "AH Haver & lijnzaad crackers paprika",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559220",
+    "name": "AH Soja crackers mild",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494271",
+    "name": "AH Tomaat kruiden crackers",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494270",
+    "name": "AH Edamame crackers",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571969",
+    "name": "AH Haver & lijnzaad crackers zeezout",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494267",
+    "name": "AH Moon crackers",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731373630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571965",
+    "name": "AH Maïs & bruine boon crackers sweet chili",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565961",
+    "name": "Leev Lowcarb crackers meerzaden",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030343931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Zoutjes",
+      "Zoutjes-crackers"
+    ],
+    "isFood": true
+  }
+]

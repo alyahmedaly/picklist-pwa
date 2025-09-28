@@ -1,0 +1,62 @@
+{
+  "categoryPath": "Vegetarisch, vegan en plantaardig > Plantaardige kaas",
+  "breadcrumbs": "Vegetarisch, vegan en plantaardig > Plantaardige kaas",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "plantaardige-kaas-voor-beleg",
+      "displayName": "Plantaardige Kaas Voor Beleg",
+      "productCount": 9,
+      "filePath": "plantaardige-kaas-voor-beleg.jsonl",
+      "indexPath": "plantaardige-kaas-voor-beleg-index.json",
+      "statsPath": "plantaardige-kaas-voor-beleg-stats.json",
+      "averageProtein": 2.6,
+      "halalCompliance": 100
+    },
+    {
+      "name": "plantaardige-kaas-voor-maaltijden",
+      "displayName": "Plantaardige Kaas Voor Maaltijden",
+      "productCount": 9,
+      "filePath": "plantaardige-kaas-voor-maaltijden.jsonl",
+      "indexPath": "plantaardige-kaas-voor-maaltijden-index.json",
+      "statsPath": "plantaardige-kaas-voor-maaltijden-stats.json",
+      "averageProtein": 1.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "plantaardige-kaas-voor-de-borrel",
+      "displayName": "Plantaardige Kaas Voor De Borrel",
+      "productCount": 6,
+      "filePath": "plantaardige-kaas-voor-de-borrel.jsonl",
+      "indexPath": "plantaardige-kaas-voor-de-borrel-index.json",
+      "statsPath": "plantaardige-kaas-voor-de-borrel-stats.json",
+      "averageProtein": 2.6,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 24,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 24,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vegetarisch Vegan En Plantaardig",
+        "path": "../index.json"
+      },
+      {
+        "name": "Plantaardige Kaas",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "vegetarisch-vegan-en-plantaardig"
+  }
+}

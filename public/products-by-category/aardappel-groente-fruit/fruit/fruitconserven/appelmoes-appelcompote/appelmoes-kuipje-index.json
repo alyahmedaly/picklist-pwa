@@ -1,0 +1,72 @@
+[
+  {
+    "id": "513525",
+    "name": "AH Appelmoes 0% suiker toegevoegd 12-pack",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336353135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (kuipje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513596",
+    "name": "AH Appelmoes 0% suiker toegevoegd 4-pack",
+    "price": 1.05,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336353136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (kuipje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435899",
+    "name": "Servero Appelmoesjes original",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039343737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (kuipje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435900",
+    "name": "Servero Appelmoesjes original voordeelverpakking",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039343937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (kuipje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583845",
+    "name": "Servero Royal gala appelmoesjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037363732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Fruitconserven",
+      "Appelmoes, appelcompote",
+      "Appelmoes (kuipje)"
+    ],
+    "isFood": true
+  }
+]

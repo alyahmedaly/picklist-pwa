@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Bakkerij > Bakproducten > Bak accessoires, bakvormen",
+  "breadcrumbs": "Bakkerij > Bakproducten > Bak accessoires, bakvormen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "bak-accessoires-uitsteekvormpjes",
+      "displayName": "Bak Accessoires Uitsteekvormpjes",
+      "productCount": 9,
+      "filePath": "bak-accessoires-uitsteekvormpjes.jsonl",
+      "indexPath": "bak-accessoires-uitsteekvormpjes-index.json",
+      "statsPath": "bak-accessoires-uitsteekvormpjes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 9,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bakproducten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Bak Accessoires Bakvormen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bakkerij/bakproducten"
+  }
+}

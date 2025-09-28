@@ -1,0 +1,116 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Oosterse keuken > Indonesisch",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Oosterse keuken > Indonesisch",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "satsaus",
+      "displayName": "Satsaus",
+      "productCount": 26,
+      "filePath": "satsaus.jsonl",
+      "indexPath": "satsaus-index.json",
+      "statsPath": "satsaus-stats.json",
+      "averageProtein": 8.2,
+      "halalCompliance": 58
+    },
+    {
+      "name": "kroepoek",
+      "displayName": "Kroepoek",
+      "productCount": 24,
+      "filePath": "kroepoek.jsonl",
+      "indexPath": "kroepoek-index.json",
+      "statsPath": "kroepoek-stats.json",
+      "averageProtein": 3.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "boemboe",
+      "displayName": "Boemboe",
+      "productCount": 20,
+      "filePath": "boemboe.jsonl",
+      "indexPath": "boemboe-index.json",
+      "statsPath": "boemboe-stats.json",
+      "averageProtein": 3.7,
+      "halalCompliance": 85
+    },
+    {
+      "name": "indonesische-woksaus",
+      "displayName": "Indonesische Woksaus",
+      "productCount": 17,
+      "filePath": "indonesische-woksaus.jsonl",
+      "indexPath": "indonesische-woksaus-index.json",
+      "statsPath": "indonesische-woksaus-stats.json",
+      "averageProtein": 3.1,
+      "halalCompliance": 76
+    },
+    {
+      "name": "sambal",
+      "displayName": "Sambal",
+      "productCount": 15,
+      "filePath": "sambal.jsonl",
+      "indexPath": "sambal-index.json",
+      "statsPath": "sambal-stats.json",
+      "averageProtein": 2.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "ketjap",
+      "displayName": "Ketjap",
+      "productCount": 12,
+      "filePath": "ketjap.jsonl",
+      "indexPath": "ketjap-index.json",
+      "statsPath": "ketjap-stats.json",
+      "averageProtein": 3.6,
+      "halalCompliance": 100
+    },
+    {
+      "name": "indonesische-chilisaus",
+      "displayName": "Indonesische Chilisaus",
+      "productCount": 11,
+      "filePath": "indonesische-chilisaus.jsonl",
+      "indexPath": "indonesische-chilisaus-index.json",
+      "statsPath": "indonesische-chilisaus-stats.json",
+      "averageProtein": 0.8,
+      "halalCompliance": 100
+    },
+    {
+      "name": "gebakken-uitjes",
+      "displayName": "Gebakken Uitjes",
+      "productCount": 5,
+      "filePath": "gebakken-uitjes.jsonl",
+      "indexPath": "gebakken-uitjes-index.json",
+      "statsPath": "gebakken-uitjes-stats.json",
+      "averageProtein": 5.9,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 130,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 130,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Oosterse Keuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Indonesisch",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/oosterse-keuken"
+  }
+}

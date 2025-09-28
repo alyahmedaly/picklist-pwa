@@ -1,0 +1,72 @@
+[
+  {
+    "id": "65764",
+    "name": "Drogheria 4 Seizoenen peper",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533353237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Gedroogde kruiden",
+      "Peper mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197981",
+    "name": "Drogheria 4 Seizoenen peper bio",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533353432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Gedroogde kruiden",
+      "Peper mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "414873",
+    "name": "Verstegen 4 seizoen peper",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138313330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Gedroogde kruiden",
+      "Peper mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415000",
+    "name": "Verstegen 4 Seizoenen peper",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533393837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Gedroogde kruiden",
+      "Peper mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195386",
+    "name": "Verstegen 4 Seizoenenpeper",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333736?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Gedroogde kruiden",
+      "Peper mix"
+    ],
+    "isFood": true
+  }
+]

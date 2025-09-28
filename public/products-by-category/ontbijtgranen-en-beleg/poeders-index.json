@@ -1,0 +1,68 @@
+[
+  {
+    "id": "365905",
+    "name": "BioFan Kokosbloesemsuiker",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Poeders"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "381941",
+    "name": "Smaakt Wijnsteenbakpoeder",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136313534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Poeders"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225021",
+    "name": "Raw Organic Food Cacao poeder",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139373037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Poeders"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "398402",
+    "name": "BioToday Edelgistvlokken",
+    "price": 6.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136353439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Poeders"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225018",
+    "name": "Raw Organic Food Maca high energy poeder",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139373130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Poeders"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228017",
+    "name": "Raw Organic Food Spirulinapoeder",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136333337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Poeders"
+    ],
+    "isFood": true
+  }
+]

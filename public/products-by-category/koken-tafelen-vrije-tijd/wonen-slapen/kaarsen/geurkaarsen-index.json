@@ -1,0 +1,106 @@
+[
+  {
+    "id": "545163",
+    "name": "AH Geurkaars fesh days 10cm",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393133343638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Wonen, slapen",
+      "Kaarsen",
+      "Geurkaarsen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "545162",
+    "name": "AH Geurkaars herbal wood 10cm",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393133343637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Wonen, slapen",
+      "Kaarsen",
+      "Geurkaarsen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "545092",
+    "name": "AH Geurkaars in glas fresh days",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393133343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Wonen, slapen",
+      "Kaarsen",
+      "Geurkaarsen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "545091",
+    "name": "AH Geurkaars in glas herbal wood",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393133343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Wonen, slapen",
+      "Kaarsen",
+      "Geurkaarsen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "545090",
+    "name": "AH Geurkaars in glas warm embrace",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393133333939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Wonen, slapen",
+      "Kaarsen",
+      "Geurkaarsen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "545089",
+    "name": "AH Geurkaars in glas wild garden",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393133333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Wonen, slapen",
+      "Kaarsen",
+      "Geurkaarsen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "545161",
+    "name": "AH Geurkaars warm embrace 10cm",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393133343636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Wonen, slapen",
+      "Kaarsen",
+      "Geurkaarsen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "545160",
+    "name": "AH Geurkaars wild garden 10cm",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393133343635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Koken, tafelen, vrije tijd",
+      "Wonen, slapen",
+      "Kaarsen",
+      "Geurkaarsen"
+    ],
+    "isFood": true
+  }
+]

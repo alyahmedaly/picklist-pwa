@@ -1,0 +1,326 @@
+[
+  {
+    "id": "471311",
+    "name": "Marhaba Rundersalami",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033363133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507470",
+    "name": "Efepasa Guven gesneden knoflookworst",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363534313636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "377953",
+    "name": "Wahid Smeerleverworst",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539373132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471308",
+    "name": "Marhaba Pepersalami",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507613",
+    "name": "Egetürk Dilim tavuk sefasi",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333333535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440300",
+    "name": "Chatar kip natuur",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191121",
+    "name": "Chatar Pikant",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232333534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "404528",
+    "name": "Ikbal Kipboterhamworst paprika",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393832363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "404530",
+    "name": "Ikbal Runderboterhamworst",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393631343134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "404527",
+    "name": "Ikbal Kipboterhamworst",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034313030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507454",
+    "name": "Marhaba Kalkoen chorizo",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540726",
+    "name": "Fulya Tavuk salam",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031313536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580679",
+    "name": "Marhaba Magere kalkoen salami",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032333931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549270",
+    "name": "Marhaba Kalkoen salami",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233373531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477653",
+    "name": "Wahid Filet Americain",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039393439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "147246",
+    "name": "Wahid Kipboterhamworst 125g",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393832363032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471359",
+    "name": "Marhaba Kalkoenrollade",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575203",
+    "name": "Wahid Jalapeño - cheddar worst",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933333836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549266",
+    "name": "Wahid Kalkoenfilet plakjes naturel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162008",
+    "name": "Wahid Kalkoenham 125g",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393832353735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575163",
+    "name": "Wahid Kipgrillworst plakjes chilipeper",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831333132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507420",
+    "name": "Wahid Kalfsbacon plakjes",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034303834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516223",
+    "name": "Wahid Kipfilet chilipeper",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393832363636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162009",
+    "name": "Wahid Kipfilet naturel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393832363038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191122",
+    "name": "Wahid Kipfilet provence",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393832353732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471360",
+    "name": "Marhaba Kipfilet",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218618",
+    "name": "Marhaba Kalkoen bacon",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Halal vlees",
+      "Halal vleeswaren"
+    ],
+    "isFood": true
+  }
+]

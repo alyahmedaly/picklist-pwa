@@ -1,0 +1,128 @@
+[
+  {
+    "id": "199854",
+    "name": "Carbonell Groene peper",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383837383738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Tomaten, paprika, pepers (conserven)",
+      "Jalapeno, pepers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "382407",
+    "name": "Royal Jalapeno mix",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353738363833?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Tomaten, paprika, pepers (conserven)",
+      "Jalapeno, pepers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140845",
+    "name": "AH Zoete pepertjes gevuld met verse kaas",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313832333233?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Tomaten, paprika, pepers (conserven)",
+      "Jalapeno, pepers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "138514",
+    "name": "Pikante pepers Peppadew 400 gram",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733303936?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Tomaten, paprika, pepers (conserven)",
+      "Jalapeno, pepers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416511",
+    "name": "AH Jalapeno plakjes",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Tomaten, paprika, pepers (conserven)",
+      "Jalapeno, pepers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140616",
+    "name": "AH Jalapenos",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Tomaten, paprika, pepers (conserven)",
+      "Jalapeno, pepers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578635",
+    "name": "AH Jalapeno plakjes 2-pack",
+    "price": 4.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Tomaten, paprika, pepers (conserven)",
+      "Jalapeno, pepers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578641",
+    "name": "AH Jalapenos 2-pack",
+    "price": 4.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Tomaten, paprika, pepers (conserven)",
+      "Jalapeno, pepers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "213356",
+    "name": "Royal Groene pepers",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137303933?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Tomaten, paprika, pepers (conserven)",
+      "Jalapeno, pepers"
+    ],
+    "isFood": true
+  }
+]

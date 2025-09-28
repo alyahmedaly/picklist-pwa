@@ -1,0 +1,98 @@
+[
+  {
+    "id": "221697",
+    "name": "Ben & Jerry's Cool-lection classic",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932303338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs bekertjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209566",
+    "name": "Hertog Ijssalon mini aardbeien meringue",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839353130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs bekertjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515664",
+    "name": "Hertog Ijssalon mini citroentaart meringue",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839363630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs bekertjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209479",
+    "name": "Hertog Ijssalon mini drie chocolades",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303030313138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs bekertjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "57660",
+    "name": "AH Roomijsjes",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs bekertjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188379",
+    "name": "Hertog Ijssalon mini pecan karamel vanille",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303030303830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs bekertjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467042",
+    "name": "Oppo Brothers Double salted caramel",
+    "price": 6.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035303936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs bekertjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474583",
+    "name": "Nestlé Pirulo frutti",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538363932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Roomijs bekertjes"
+    ],
+    "isFood": true
+  }
+]

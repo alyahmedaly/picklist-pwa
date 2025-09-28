@@ -1,0 +1,122 @@
+[
+  {
+    "id": "483924",
+    "name": "AH Voor in de oven runder sukade",
+    "price": 6.4,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537373637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Stoofvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506381",
+    "name": "AH Voor in de oven stoofvlees gekruid",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538303735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Stoofvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483920",
+    "name": "Streeckgenoten Stoofvlees",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383534343434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Stoofvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "537044",
+    "name": "Coertjens Stoofvlees",
+    "price": 4.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383937343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Stoofvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571298",
+    "name": "AH Greenfields Ribrunderlappen",
+    "price": 9.07,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939353233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Stoofvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187574",
+    "name": "AH Riblap",
+    "price": 9.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134383931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Stoofvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571297",
+    "name": "AH Greenfields Sukadelappen",
+    "price": 8.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Stoofvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187570",
+    "name": "AH Sukadelap",
+    "price": 9,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Stoofvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "364883",
+    "name": "AH Greenfields Hachee",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Stoofvlees"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "4002",
+    "name": "AH Greenfields Magere runderlappen",
+    "price": 10.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Stoofvlees"
+    ],
+    "isFood": true
+  }
+]

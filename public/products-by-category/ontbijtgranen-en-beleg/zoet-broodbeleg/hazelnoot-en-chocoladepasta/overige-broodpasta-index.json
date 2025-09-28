@@ -1,0 +1,80 @@
+[
+  {
+    "id": "220736",
+    "name": "Lotus Biscoff Speculoos pasta creamy",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303136363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Overige broodpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563654",
+    "name": "AH Kruidnootjespasta",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830373834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Overige broodpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469679",
+    "name": "So Vegan So Fine Witte kokospasta",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353939333136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Overige broodpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563623",
+    "name": "So Vegan So Fine Pistachepasta",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Overige broodpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209121",
+    "name": "De Ruijter Bebogeen caramel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Overige broodpasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "557110",
+    "name": "Fluff Marshmallow",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303035323332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Overige broodpasta"
+    ],
+    "isFood": true
+  }
+]

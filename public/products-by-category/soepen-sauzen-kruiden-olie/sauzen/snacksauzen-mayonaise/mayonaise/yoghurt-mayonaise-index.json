@@ -1,0 +1,86 @@
+[
+  {
+    "id": "174017",
+    "name": "Calvé Mayonaise yofresh",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393939343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Yoghurt mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535131",
+    "name": "Van Wijngaarden's Zaanse yoghurt mayo",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934363534?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Yoghurt mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429231",
+    "name": "AH Mayo met yoghurt",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d5034363533323038?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Yoghurt mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535125",
+    "name": "AH Yogonaise",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036363539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Yoghurt mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163403",
+    "name": "Calvé Yofresh mayonaise",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130383637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Yoghurt mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "163405",
+    "name": "Calvé Yofresh mayonaise",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932303135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Yoghurt mayonaise"
+    ],
+    "isFood": true
+  }
+]

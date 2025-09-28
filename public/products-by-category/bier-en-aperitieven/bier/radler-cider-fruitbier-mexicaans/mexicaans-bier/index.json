@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Bier en aperitieven > Bier > Radler, cider, fruitbier, Mexicaans > Mexicaans bier",
+  "breadcrumbs": "Bier en aperitieven > Bier > Radler, cider, fruitbier, Mexicaans > Mexicaans bier",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "mexicaans-bier-met-alcohol",
+      "displayName": "Mexicaans Bier Met Alcohol",
+      "productCount": 17,
+      "filePath": "mexicaans-bier-met-alcohol.jsonl",
+      "indexPath": "mexicaans-bier-met-alcohol-index.json",
+      "statsPath": "mexicaans-bier-met-alcohol-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 88
+    }
+  ],
+  "totalProducts": 17,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Bier",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Radler Cider Fruitbier Mexicaans",
+        "path": "../index.json"
+      },
+      {
+        "name": "Mexicaans Bier",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "bier-en-aperitieven/bier/radler-cider-fruitbier-mexicaans"
+  }
+}

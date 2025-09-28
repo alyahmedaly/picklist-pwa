@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Koffie, thee > Koffie > Oploskoffie > Oploskoffie (melkbasis)",
+  "breadcrumbs": "Koffie, thee > Koffie > Oploskoffie > Oploskoffie (melkbasis)",
+  "totalProducts": 23,
+  "halalCompliance": 65,
+  "averageProtein": 3.3,
+  "averagePrice": 3.15,
+  "highProteinProducts": 1,
+  "dataQuality": {
+    "withNutrition": 23,
+    "withIngredients": 23,
+    "withHalalCheck": 23
+  }
+}

@@ -1,0 +1,457 @@
+[
+  {
+    "id": "197926",
+    "name": "AH Gevulde brie met kruiden",
+    "price": 3.51,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323331313535?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "154995",
+    "name": "Président Crème de brie",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336323837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558281",
+    "name": "AH Witte kaas blokjes",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437393533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197939",
+    "name": "AH Bakcamembert",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438343338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389949",
+    "name": "Germain Chaource",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323532393232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "59688",
+    "name": "Président Brie 60+",
+    "price": 4.58,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373135353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540552",
+    "name": "AH Biologisch Brie 60+",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236333336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444967",
+    "name": "AH Excellent Camembert AOP 45+",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233363738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460746",
+    "name": "AH Franse roombrie 60+",
+    "price": 1.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550427",
+    "name": "AH Franse roombrie 60+",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478021",
+    "name": "AH Franse Roombrie 60+",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236254",
+    "name": "Germain Triple crème germain",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532313632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477909",
+    "name": "AH Camembert",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137343035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498026",
+    "name": "AH Camembert",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373537323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460741",
+    "name": "AH Camembert kleinverpakking",
+    "price": 1.5,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434323432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550426",
+    "name": "AH Coulommiers kleintje",
+    "price": 1.5,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "143823",
+    "name": "AH Excellent Boerenbrie 45+",
+    "price": 3.9,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323130303436?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486573",
+    "name": "AH Excellent Brillat-savarin",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373033343137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468265",
+    "name": "AH Excellent Coulommiers",
+    "price": 3.46,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363239393435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550420",
+    "name": "AH Le rustique camembert 40+",
+    "price": 4.4,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233373532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46563",
+    "name": "AH Romige brie 60+",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373537333132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582400",
+    "name": "Delin Le nuiton",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130353839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582399",
+    "name": "Delin Le nuiton ail des ours",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039383438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198016",
+    "name": "Lanquetot Brin de paille 45+",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437343431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104319",
+    "name": "Saint Albray Zacht en soepel",
+    "price": 3.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130353931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571667",
+    "name": "AH Excellent Buffelcamembert truffel",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582396",
+    "name": "Beppino Occelli Tuma dla paja",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519078",
+    "name": "La Tur Italiaanse kaas",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383932333930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568627",
+    "name": "AH Betaalbaar kaastrio",
+    "price": 6,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506137",
+    "name": "Le Pie D'Angloys Franse kaas",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230303133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "377107",
+    "name": "Le Rustique Brie",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393731383534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "143634",
+    "name": "Le Rustique Camembert",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2002",
+    "name": "Président Le brie",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539333239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575924",
+    "name": "Président Le brie extra smeuïg",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736373133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478351",
+    "name": "Président Mini brie",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833353630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Witte korst kaas, brie"
+    ],
+    "isFood": true
+  }
+]

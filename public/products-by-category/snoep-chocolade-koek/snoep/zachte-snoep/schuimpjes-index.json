@@ -1,0 +1,171 @@
+[
+  {
+    "id": "578445",
+    "name": "AH Smiley mix",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Schuimpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "443262",
+    "name": "Red Band Zoete paddenstoelen",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034323037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Schuimpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569704",
+    "name": "Uggo Hot chili pepper",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338353936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Schuimpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569705",
+    "name": "Uggo Spicy mango tango",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Schuimpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232203",
+    "name": "Etna Mariaschuimpjes bel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303338363034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Schuimpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502968",
+    "name": "AH Fruithartjes",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437333835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Schuimpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447996",
+    "name": "Haribo Witte muizen",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393233393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Schuimpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569706",
+    "name": "Uggo Spicy fire bottle",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303338363031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Schuimpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374993",
+    "name": "AH Fruitige schuimpjes",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Schuimpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451881",
+    "name": "Look-O-Look Eetpapier",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Schuimpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451273",
+    "name": "Haribo Bananas",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537343432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Schuimpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447992",
+    "name": "Haribo Harten",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236323837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Schuimpjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196446",
+    "name": "Haribo Primavera",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932313537?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Zachte snoep",
+      "Schuimpjes"
+    ],
+    "isFood": true
+  }
+]

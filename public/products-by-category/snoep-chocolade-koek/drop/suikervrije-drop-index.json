@@ -1,0 +1,218 @@
+[
+  {
+    "id": "196510",
+    "name": "AH Salmiakdrop zout & hard suikervrij",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531333535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508420",
+    "name": "Klene Suikervrij dropgums",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508424",
+    "name": "Klene Suikervrij dubbelzoute dobbelstenen",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508477",
+    "name": "Klene Suikervrij honingbijtjes",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508427",
+    "name": "Klene Suikervrij lauriertjes",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508426",
+    "name": "Klene Suikervrij zoete zonnetjes",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508480",
+    "name": "Klene Suikervrij zoethouten hartjes",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508475",
+    "name": "Klene Suikervrij zoute ovaaltjes",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "60123",
+    "name": "AH Honingdrop suikervrij",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130304",
+    "name": "AH Muntendrop suikervrij",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46926",
+    "name": "AH Suikervrij katjesdrop",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531333438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508429",
+    "name": "Klene Suikervrij muntdrop drop fruit",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836373030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553716",
+    "name": "Klene Suikervrij mild zoete muntdrop",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234363130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508421",
+    "name": "Klene Suikervrij muntdrop",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383836373131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508422",
+    "name": "Klene Suikervrij zout & salmiak dropliefde",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337363336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578501",
+    "name": "Oldtimers Zoete bolletjes suikervrij",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578503",
+    "name": "Oldtimers Zoethout rotsjes suikervrij",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031343936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578502",
+    "name": "Oldtimers Zoute puntjes suikervrij",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337393937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Drop",
+      "Suikervrije drop"
+    ],
+    "isFood": true
+  }
+]

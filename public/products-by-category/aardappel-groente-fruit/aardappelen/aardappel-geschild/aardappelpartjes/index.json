@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Aardappelen > Aardappel - geschild > Aardappelpartjes",
+  "breadcrumbs": "Aardappel, groente, fruit > Aardappelen > Aardappel - geschild > Aardappelpartjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "aardappelpartjes-vers",
+      "displayName": "Aardappelpartjes Vers",
+      "productCount": 7,
+      "filePath": "aardappelpartjes-vers.jsonl",
+      "indexPath": "aardappelpartjes-vers-index.json",
+      "statsPath": "aardappelpartjes-vers-stats.json",
+      "averageProtein": 2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Aardappelen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Aardappel Geschild",
+        "path": "../index.json"
+      },
+      {
+        "name": "Aardappelpartjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/aardappelen/aardappel-geschild"
+  }
+}

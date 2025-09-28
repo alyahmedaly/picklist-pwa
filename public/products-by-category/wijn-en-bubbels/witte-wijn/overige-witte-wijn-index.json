@@ -1,0 +1,158 @@
+[
+  {
+    "id": "222358",
+    "name": "AH Vol & halfzoete Zuid-Afrikaanse wit",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837333039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Overige witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "552929",
+    "name": "Angoris Sparkling pinot bianco",
+    "price": 10.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436333537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Overige witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "284",
+    "name": "Chiarli 1860 Lambrusco bianco",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938333234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Overige witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470446",
+    "name": "G.A. Schmitt Mosel Weisswein",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353930363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Overige witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497945",
+    "name": "Labouré-Roi Meursault",
+    "price": 49.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383430353736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Overige witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199585",
+    "name": "Liebfraumilch Qualitätswein",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432323233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Overige witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165201",
+    "name": "Moselland Spätlese",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Overige witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99190",
+    "name": "Norton Colección torrontés",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Overige witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "559089",
+    "name": "Philippe Bouchard Chablis",
+    "price": 15.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530343237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Overige witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "34340",
+    "name": "Sélection Clémence Blanc",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303236343238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Overige witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "499033",
+    "name": "Torres Celeste verdejo",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383637323936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Overige witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440877",
+    "name": "Vila Nova Vinho verde",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4b525436303033323433?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Overige witte wijn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132983",
+    "name": "Villa Antinori Bianco Toscana",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303237383038?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Witte wijn",
+      "Overige witte wijn"
+    ],
+    "isFood": true
+  }
+]

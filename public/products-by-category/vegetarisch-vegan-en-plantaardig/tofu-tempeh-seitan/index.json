@@ -1,0 +1,36 @@
+{
+  "categoryPath": "Vegetarisch, vegan en plantaardig > Tofu, tempeh, seitan",
+  "breadcrumbs": "Vegetarisch, vegan en plantaardig > Tofu, tempeh, seitan",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "tofu",
+      "displayName": "Tofu",
+      "productCount": 9,
+      "filePath": "tofu.jsonl",
+      "indexPath": "tofu-index.json",
+      "statsPath": "tofu-stats.json",
+      "averageProtein": 16,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 9,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vegetarisch Vegan En Plantaardig",
+        "path": "../index.json"
+      },
+      {
+        "name": "Tofu Tempeh Seitan",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "vegetarisch-vegan-en-plantaardig"
+  }
+}

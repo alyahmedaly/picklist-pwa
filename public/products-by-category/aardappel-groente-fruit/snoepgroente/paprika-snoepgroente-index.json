@@ -1,0 +1,74 @@
+[
+  {
+    "id": "578948",
+    "name": "AH Snoepgroente paprika",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034383134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Paprika (snoepgroente)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509423",
+    "name": "AH Snoepgroente pitloze paprika rood",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636343039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Paprika (snoepgroente)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "490797",
+    "name": "AH Snoepgroente paprikamix",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433393533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Paprika (snoepgroente)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502289",
+    "name": "AH Snoepgroente paprikamix",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393430323034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Paprika (snoepgroente)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575195",
+    "name": "AH Snoepgroente pitloze paprika geel",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634383931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Paprika (snoepgroente)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571795",
+    "name": "AH Snoepgroente & dip mix",
+    "price": 4.57,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530353434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Snoepgroente",
+      "Paprika (snoepgroente)"
+    ],
+    "isFood": true
+  }
+]

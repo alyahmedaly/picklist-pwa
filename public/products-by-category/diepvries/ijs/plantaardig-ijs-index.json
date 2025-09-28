@@ -1,0 +1,194 @@
+[
+  {
+    "id": "515783",
+    "name": "Magnum Mini vegan classic & almond",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538373537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571954",
+    "name": "Magnum Chill blueberry cookie",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335353030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "434485",
+    "name": "Ola Cornetto gluten free vegan",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231303338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550139",
+    "name": "Magnum Vegan sea salt caramel",
+    "price": 4.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932303530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550143",
+    "name": "Ben & Jerry's Non-dairy caramel café",
+    "price": 7.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571961",
+    "name": "Ben & Jerry's Non-dairy oat of this swirled",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538377",
+    "name": "Ben & Jerry's Non-dairy tony's chocolonely love a-fair",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730353530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538373",
+    "name": "AH Terra Plantaardige caramel seasalt",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515689",
+    "name": "Ben & Jerry's Non-dairy cookies on cookie dough",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393832363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466515",
+    "name": "Ben & Jerry's Cookies on cookie dough non-dairy",
+    "price": 7.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538374",
+    "name": "AH Terra Plantaardige choco's mini",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830373833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515681",
+    "name": "Hertog Ijssalon vegan vanille",
+    "price": 5.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138393538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562439",
+    "name": "Jude's Vegan salted caramel",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038383331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540587",
+    "name": "Jude's Chocolate brownie",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038383233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538372",
+    "name": "AH Terra Plantaardige fudge brownie",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562440",
+    "name": "Jude's Madagascan vanilla",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038383231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "IJs",
+      "Plantaardig ijs"
+    ],
+    "isFood": true
+  }
+]

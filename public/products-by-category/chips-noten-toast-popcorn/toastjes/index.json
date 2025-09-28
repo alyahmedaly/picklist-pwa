@@ -1,0 +1,36 @@
+{
+  "categoryPath": "Chips, noten, toast, popcorn > Toastjes",
+  "breadcrumbs": "Chips, noten, toast, popcorn > Toastjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "toast",
+      "displayName": "Toast",
+      "productCount": 17,
+      "filePath": "toast.jsonl",
+      "indexPath": "toast-index.json",
+      "statsPath": "toast-stats.json",
+      "averageProtein": 10.7,
+      "halalCompliance": 29
+    }
+  ],
+  "totalProducts": 17,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Chips Noten Toast Popcorn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Toastjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "chips-noten-toast-popcorn"
+  }
+}

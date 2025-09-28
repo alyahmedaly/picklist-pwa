@@ -1,0 +1,650 @@
+{
+  "categoryTree": [
+    {
+      "name": "Snoep, chocolade, koek",
+      "path": "snoep-chocolade-koek",
+      "indexPath": "snoep-chocolade-koek/index.json",
+      "productCount": 1553,
+      "directProductCount": 96,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "sint-snoepgoed",
+          "displayName": "Sint Snoepgoed",
+          "filePath": "snoep-chocolade-koek/sint-snoepgoed.jsonl",
+          "indexPath": "snoep-chocolade-koek/sint-snoepgoed-index.json",
+          "statsPath": "snoep-chocolade-koek/sint-snoepgoed-stats.json",
+          "productCount": 36
+        },
+        {
+          "name": "fruitbiscuit-melkbiscuit",
+          "displayName": "Fruitbiscuit Melkbiscuit",
+          "filePath": "snoep-chocolade-koek/fruitbiscuit-melkbiscuit.jsonl",
+          "indexPath": "snoep-chocolade-koek/fruitbiscuit-melkbiscuit-index.json",
+          "statsPath": "snoep-chocolade-koek/fruitbiscuit-melkbiscuit-stats.json",
+          "productCount": 35
+        },
+        {
+          "name": "ijs-bitesizes",
+          "displayName": "Ijs Bitesizes",
+          "filePath": "snoep-chocolade-koek/ijs-bitesizes.jsonl",
+          "indexPath": "snoep-chocolade-koek/ijs-bitesizes-index.json",
+          "statsPath": "snoep-chocolade-koek/ijs-bitesizes-stats.json",
+          "productCount": 11
+        },
+        {
+          "name": "marsepein",
+          "displayName": "Marsepein",
+          "filePath": "snoep-chocolade-koek/marsepein.jsonl",
+          "indexPath": "snoep-chocolade-koek/marsepein-index.json",
+          "statsPath": "snoep-chocolade-koek/marsepein-stats.json",
+          "productCount": 8
+        },
+        {
+          "name": "chocolade",
+          "displayName": "Chocolade",
+          "filePath": "snoep-chocolade-koek/chocolade.jsonl",
+          "indexPath": "snoep-chocolade-koek/chocolade-index.json",
+          "statsPath": "snoep-chocolade-koek/chocolade-stats.json",
+          "productCount": 6
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 6.7,
+        "halalCompliance": 0
+      }
+    },
+    {
+      "name": "Frisdrank, sappen, siropen, water",
+      "path": "frisdrank-sappen-siropen-water",
+      "indexPath": "frisdrank-sappen-siropen-water/index.json",
+      "productCount": 1194,
+      "directProductCount": 0,
+      "subcategories": [],
+      "files": [],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 0,
+        "halalCompliance": 0
+      }
+    },
+    {
+      "name": "Aardappel, groente, fruit",
+      "path": "aardappel-groente-fruit",
+      "indexPath": "aardappel-groente-fruit/index.json",
+      "productCount": 1127,
+      "directProductCount": 5,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "verspakket",
+          "displayName": "Verspakket",
+          "filePath": "aardappel-groente-fruit/verspakket.jsonl",
+          "indexPath": "aardappel-groente-fruit/verspakket-index.json",
+          "statsPath": "aardappel-groente-fruit/verspakket-stats.json",
+          "productCount": 5
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 5.8,
+        "halalCompliance": 100
+      }
+    },
+    {
+      "name": "Pasta, rijst en wereldkeuken",
+      "path": "pasta-rijst-en-wereldkeuken",
+      "indexPath": "pasta-rijst-en-wereldkeuken/index.json",
+      "productCount": 1116,
+      "directProductCount": 27,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "arabische-keuken",
+          "displayName": "Arabische Keuken",
+          "filePath": "pasta-rijst-en-wereldkeuken/arabische-keuken.jsonl",
+          "indexPath": "pasta-rijst-en-wereldkeuken/arabische-keuken-index.json",
+          "statsPath": "pasta-rijst-en-wereldkeuken/arabische-keuken-stats.json",
+          "productCount": 27
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 5.4,
+        "halalCompliance": 85
+      }
+    },
+    {
+      "name": "Ontbijtgranen en beleg",
+      "path": "ontbijtgranen-en-beleg",
+      "indexPath": "ontbijtgranen-en-beleg/index.json",
+      "productCount": 1019,
+      "directProductCount": 26,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "plantaardig-zoet-broodbeleg",
+          "displayName": "Plantaardig Zoet Broodbeleg",
+          "filePath": "ontbijtgranen-en-beleg/plantaardig-zoet-broodbeleg.jsonl",
+          "indexPath": "ontbijtgranen-en-beleg/plantaardig-zoet-broodbeleg-index.json",
+          "statsPath": "ontbijtgranen-en-beleg/plantaardig-zoet-broodbeleg-stats.json",
+          "productCount": 20
+        },
+        {
+          "name": "poeders",
+          "displayName": "Poeders",
+          "filePath": "ontbijtgranen-en-beleg/poeders.jsonl",
+          "indexPath": "ontbijtgranen-en-beleg/poeders-index.json",
+          "statsPath": "ontbijtgranen-en-beleg/poeders-stats.json",
+          "productCount": 6
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 21.6,
+        "halalCompliance": 100
+      }
+    },
+    {
+      "name": "Kaas, vleeswaren, tapas",
+      "path": "kaas-vleeswaren-tapas",
+      "indexPath": "kaas-vleeswaren-tapas/index.json",
+      "productCount": 991,
+      "directProductCount": 18,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "verse-olijven",
+          "displayName": "Verse Olijven",
+          "filePath": "kaas-vleeswaren-tapas/verse-olijven.jsonl",
+          "indexPath": "kaas-vleeswaren-tapas/verse-olijven-index.json",
+          "statsPath": "kaas-vleeswaren-tapas/verse-olijven-stats.json",
+          "productCount": 18
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 1.2,
+        "halalCompliance": 89
+      }
+    },
+    {
+      "name": "Zuivel, eieren, boter",
+      "path": "zuivel-eieren-boter",
+      "indexPath": "zuivel-eieren-boter/index.json",
+      "productCount": 908,
+      "directProductCount": 46,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "drinkyoghurt",
+          "displayName": "Drinkyoghurt",
+          "filePath": "zuivel-eieren-boter/drinkyoghurt.jsonl",
+          "indexPath": "zuivel-eieren-boter/drinkyoghurt-index.json",
+          "statsPath": "zuivel-eieren-boter/drinkyoghurt-stats.json",
+          "productCount": 46
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 2.9,
+        "halalCompliance": 89
+      }
+    },
+    {
+      "name": "Bakkerij",
+      "path": "bakkerij",
+      "indexPath": "bakkerij/index.json",
+      "productCount": 807,
+      "directProductCount": 0,
+      "subcategories": [],
+      "files": [],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 0,
+        "halalCompliance": 0
+      }
+    },
+    {
+      "name": "Vlees, vis",
+      "path": "vlees-vis",
+      "indexPath": "vlees-vis/index.json",
+      "productCount": 751,
+      "directProductCount": 25,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "vlees-vis-kip-ovenschotel",
+          "displayName": "Vlees Vis Kip Ovenschotel",
+          "filePath": "vlees-vis/vlees-vis-kip-ovenschotel.jsonl",
+          "indexPath": "vlees-vis/vlees-vis-kip-ovenschotel-index.json",
+          "statsPath": "vlees-vis/vlees-vis-kip-ovenschotel-stats.json",
+          "productCount": 25
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 13.3,
+        "halalCompliance": 48
+      }
+    },
+    {
+      "name": "Bier en aperitieven",
+      "path": "bier-en-aperitieven",
+      "indexPath": "bier-en-aperitieven/index.json",
+      "productCount": 750,
+      "directProductCount": 15,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "speciaalbier",
+          "displayName": "Speciaalbier",
+          "filePath": "bier-en-aperitieven/speciaalbier.jsonl",
+          "indexPath": "bier-en-aperitieven/speciaalbier-index.json",
+          "statsPath": "bier-en-aperitieven/speciaalbier-stats.json",
+          "productCount": 15
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 0.1,
+        "halalCompliance": 93
+      }
+    },
+    {
+      "name": "Wijn en bubbels",
+      "path": "wijn-en-bubbels",
+      "indexPath": "wijn-en-bubbels/index.json",
+      "productCount": 714,
+      "directProductCount": 21,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "wijntaps",
+          "displayName": "Wijntaps",
+          "filePath": "wijn-en-bubbels/wijntaps.jsonl",
+          "indexPath": "wijn-en-bubbels/wijntaps-index.json",
+          "statsPath": "wijn-en-bubbels/wijntaps-stats.json",
+          "productCount": 21
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 0,
+        "halalCompliance": 100
+      }
+    },
+    {
+      "name": "Soepen, sauzen, kruiden, olie",
+      "path": "soepen-sauzen-kruiden-olie",
+      "indexPath": "soepen-sauzen-kruiden-olie/index.json",
+      "productCount": 698,
+      "directProductCount": 0,
+      "subcategories": [],
+      "files": [],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 0,
+        "halalCompliance": 0
+      }
+    },
+    {
+      "name": "Diepvries",
+      "path": "diepvries",
+      "indexPath": "diepvries/index.json",
+      "productCount": 584,
+      "directProductCount": 83,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "diepvries-hapjes",
+          "displayName": "Diepvries Hapjes",
+          "filePath": "diepvries/diepvries-hapjes.jsonl",
+          "indexPath": "diepvries/diepvries-hapjes-index.json",
+          "statsPath": "diepvries/diepvries-hapjes-stats.json",
+          "productCount": 47
+        },
+        {
+          "name": "premium-vlees",
+          "displayName": "Premium Vlees",
+          "filePath": "diepvries/premium-vlees.jsonl",
+          "indexPath": "diepvries/premium-vlees-index.json",
+          "statsPath": "diepvries/premium-vlees-stats.json",
+          "productCount": 20
+        },
+        {
+          "name": "diepvries-halal",
+          "displayName": "Diepvries Halal",
+          "filePath": "diepvries/diepvries-halal.jsonl",
+          "indexPath": "diepvries/diepvries-halal-index.json",
+          "statsPath": "diepvries/diepvries-halal-stats.json",
+          "productCount": 11
+        },
+        {
+          "name": "diepvries-babyvoeding",
+          "displayName": "Diepvries Babyvoeding",
+          "filePath": "diepvries/diepvries-babyvoeding.jsonl",
+          "indexPath": "diepvries/diepvries-babyvoeding-index.json",
+          "statsPath": "diepvries/diepvries-babyvoeding-stats.json",
+          "productCount": 5
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 2.9,
+        "halalCompliance": 100
+      }
+    },
+    {
+      "name": "Chips, noten, toast, popcorn",
+      "path": "chips-noten-toast-popcorn",
+      "indexPath": "chips-noten-toast-popcorn/index.json",
+      "productCount": 583,
+      "directProductCount": 29,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "popcorn",
+          "displayName": "Popcorn",
+          "filePath": "chips-noten-toast-popcorn/popcorn.jsonl",
+          "indexPath": "chips-noten-toast-popcorn/popcorn-index.json",
+          "statsPath": "chips-noten-toast-popcorn/popcorn-stats.json",
+          "productCount": 18
+        },
+        {
+          "name": "kerstchocolade",
+          "displayName": "Kerstchocolade",
+          "filePath": "chips-noten-toast-popcorn/kerstchocolade.jsonl",
+          "indexPath": "chips-noten-toast-popcorn/kerstchocolade-index.json",
+          "statsPath": "chips-noten-toast-popcorn/kerstchocolade-stats.json",
+          "productCount": 11
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 7.1,
+        "halalCompliance": 0
+      }
+    },
+    {
+      "name": "Koffie, thee",
+      "path": "koffie-thee",
+      "indexPath": "koffie-thee/index.json",
+      "productCount": 441,
+      "directProductCount": 0,
+      "subcategories": [],
+      "files": [],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 0,
+        "halalCompliance": 0
+      }
+    },
+    {
+      "name": "Vegetarisch, vegan en plantaardig",
+      "path": "vegetarisch-vegan-en-plantaardig",
+      "indexPath": "vegetarisch-vegan-en-plantaardig/index.json",
+      "productCount": 434,
+      "directProductCount": 80,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "plantaardige-spreads",
+          "displayName": "Plantaardige Spreads",
+          "filePath": "vegetarisch-vegan-en-plantaardig/plantaardige-spreads.jsonl",
+          "indexPath": "vegetarisch-vegan-en-plantaardig/plantaardige-spreads-index.json",
+          "statsPath": "vegetarisch-vegan-en-plantaardig/plantaardige-spreads-stats.json",
+          "productCount": 47
+        },
+        {
+          "name": "vegetarische-spreads",
+          "displayName": "Vegetarische Spreads",
+          "filePath": "vegetarisch-vegan-en-plantaardig/vegetarische-spreads.jsonl",
+          "indexPath": "vegetarisch-vegan-en-plantaardig/vegetarische-spreads-index.json",
+          "statsPath": "vegetarisch-vegan-en-plantaardig/vegetarische-spreads-stats.json",
+          "productCount": 15
+        },
+        {
+          "name": "visvervangers",
+          "displayName": "Visvervangers",
+          "filePath": "vegetarisch-vegan-en-plantaardig/visvervangers.jsonl",
+          "indexPath": "vegetarisch-vegan-en-plantaardig/visvervangers-index.json",
+          "statsPath": "vegetarisch-vegan-en-plantaardig/visvervangers-stats.json",
+          "productCount": 13
+        },
+        {
+          "name": "vegan-snacks",
+          "displayName": "Vegan Snacks",
+          "filePath": "vegetarisch-vegan-en-plantaardig/vegan-snacks.jsonl",
+          "indexPath": "vegetarisch-vegan-en-plantaardig/vegan-snacks-index.json",
+          "statsPath": "vegetarisch-vegan-en-plantaardig/vegan-snacks-stats.json",
+          "productCount": 5
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 9.4,
+        "halalCompliance": 80
+      }
+    },
+    {
+      "name": "Salades, pizza, maaltijden",
+      "path": "salades-pizza-maaltijden",
+      "indexPath": "salades-pizza-maaltijden/index.json",
+      "productCount": 404,
+      "directProductCount": 29,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "verse-soepen",
+          "displayName": "Verse Soepen",
+          "filePath": "salades-pizza-maaltijden/verse-soepen.jsonl",
+          "indexPath": "salades-pizza-maaltijden/verse-soepen-index.json",
+          "statsPath": "salades-pizza-maaltijden/verse-soepen-stats.json",
+          "productCount": 16
+        },
+        {
+          "name": "belegde-broodjes",
+          "displayName": "Belegde Broodjes",
+          "filePath": "salades-pizza-maaltijden/belegde-broodjes.jsonl",
+          "indexPath": "salades-pizza-maaltijden/belegde-broodjes-index.json",
+          "statsPath": "salades-pizza-maaltijden/belegde-broodjes-stats.json",
+          "productCount": 7
+        },
+        {
+          "name": "verse-sushi",
+          "displayName": "Verse Sushi",
+          "filePath": "salades-pizza-maaltijden/verse-sushi.jsonl",
+          "indexPath": "salades-pizza-maaltijden/verse-sushi-index.json",
+          "statsPath": "salades-pizza-maaltijden/verse-sushi-stats.json",
+          "productCount": 6
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 4.5,
+        "halalCompliance": 17
+      }
+    },
+    {
+      "name": "Gezondheid, sport",
+      "path": "gezondheid-sport",
+      "indexPath": "gezondheid-sport/index.json",
+      "productCount": 399,
+      "directProductCount": 0,
+      "subcategories": [],
+      "files": [],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 0,
+        "halalCompliance": 0
+      }
+    },
+    {
+      "name": "Baby en kind",
+      "path": "baby-en-kind",
+      "indexPath": "baby-en-kind/index.json",
+      "productCount": 348,
+      "directProductCount": 0,
+      "subcategories": [],
+      "files": [],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 0,
+        "halalCompliance": 0
+      }
+    },
+    {
+      "name": "Tussendoortjes",
+      "path": "tussendoortjes",
+      "indexPath": "tussendoortjes/index.json",
+      "productCount": 258,
+      "directProductCount": 112,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "protenerepen",
+          "displayName": "Protenerepen",
+          "filePath": "tussendoortjes/protenerepen.jsonl",
+          "indexPath": "tussendoortjes/protenerepen-index.json",
+          "statsPath": "tussendoortjes/protenerepen-stats.json",
+          "productCount": 74
+        },
+        {
+          "name": "tussendoortjes-glutenvrij",
+          "displayName": "Tussendoortjes Glutenvrij",
+          "filePath": "tussendoortjes/tussendoortjes-glutenvrij.jsonl",
+          "indexPath": "tussendoortjes/tussendoortjes-glutenvrij-index.json",
+          "statsPath": "tussendoortjes/tussendoortjes-glutenvrij-stats.json",
+          "productCount": 12
+        },
+        {
+          "name": "ontbijtkoekrepen",
+          "displayName": "Ontbijtkoekrepen",
+          "filePath": "tussendoortjes/ontbijtkoekrepen.jsonl",
+          "indexPath": "tussendoortjes/ontbijtkoekrepen-index.json",
+          "statsPath": "tussendoortjes/ontbijtkoekrepen-stats.json",
+          "productCount": 11
+        },
+        {
+          "name": "fruitsnacks",
+          "displayName": "Fruitsnacks",
+          "filePath": "tussendoortjes/fruitsnacks.jsonl",
+          "indexPath": "tussendoortjes/fruitsnacks-index.json",
+          "statsPath": "tussendoortjes/fruitsnacks-stats.json",
+          "productCount": 10
+        },
+        {
+          "name": "tussendoortjes-koolhydraatarm",
+          "displayName": "Tussendoortjes Koolhydraatarm",
+          "filePath": "tussendoortjes/tussendoortjes-koolhydraatarm.jsonl",
+          "indexPath": "tussendoortjes/tussendoortjes-koolhydraatarm-index.json",
+          "statsPath": "tussendoortjes/tussendoortjes-koolhydraatarm-stats.json",
+          "productCount": 5
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 18.7,
+        "halalCompliance": 40
+      }
+    },
+    {
+      "name": "Koken, tafelen, vrije tijd",
+      "path": "koken-tafelen-vrije-tijd",
+      "indexPath": "koken-tafelen-vrije-tijd/index.json",
+      "productCount": 223,
+      "directProductCount": 0,
+      "subcategories": [],
+      "files": [],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 0,
+        "halalCompliance": 0
+      }
+    },
+    {
+      "name": "Huisdier",
+      "path": "huisdier",
+      "indexPath": "huisdier/index.json",
+      "productCount": 151,
+      "directProductCount": 0,
+      "subcategories": [],
+      "files": [],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 0,
+        "halalCompliance": 0
+      }
+    },
+    {
+      "name": "Drogisterij",
+      "path": "drogisterij",
+      "indexPath": "drogisterij/index.json",
+      "productCount": 76,
+      "directProductCount": 0,
+      "subcategories": [],
+      "files": [],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": true,
+        "averageProtein": 0,
+        "halalCompliance": 0
+      }
+    },
+    {
+      "name": "Glutenvrij",
+      "path": "glutenvrij",
+      "indexPath": "glutenvrij/index.json",
+      "productCount": 7,
+      "directProductCount": 7,
+      "subcategories": [],
+      "files": [
+        {
+          "name": "glutenvrij-en-vegan-sinterklaas-assortiment",
+          "displayName": "Glutenvrij En Vegan Sinterklaas Assortiment",
+          "filePath": "glutenvrij/glutenvrij-en-vegan-sinterklaas-assortiment.jsonl",
+          "indexPath": "glutenvrij/glutenvrij-en-vegan-sinterklaas-assortiment-index.json",
+          "statsPath": "glutenvrij/glutenvrij-en-vegan-sinterklaas-assortiment-stats.json",
+          "productCount": 7
+        }
+      ],
+      "metadata": {
+        "depth": 1,
+        "hasSubcategories": false,
+        "averageProtein": 4.7,
+        "halalCompliance": 43
+      }
+    }
+  ],
+  "metadata": {
+    "totalCategories": 24,
+    "totalFiles": 1031,
+    "totalProducts": 15536,
+    "maxDepth": 5,
+    "version": "1.0.0"
+  }
+}

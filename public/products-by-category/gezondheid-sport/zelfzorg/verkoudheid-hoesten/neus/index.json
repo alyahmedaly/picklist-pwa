@@ -1,0 +1,47 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "neusspray",
+      "displayName": "Neusspray",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "neusspray/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 5,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 5,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Zelfzorg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Verkoudheid Hoesten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Neus",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "gezondheid-sport/zelfzorg/verkoudheid-hoesten"
+  }
+}

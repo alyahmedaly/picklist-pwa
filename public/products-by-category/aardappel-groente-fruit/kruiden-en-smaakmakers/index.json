@@ -1,0 +1,57 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "verse-kruiden",
+      "displayName": "Verse Kruiden",
+      "productCount": 12,
+      "hasSubdirectories": false,
+      "indexPath": "verse-kruiden/index.json"
+    },
+    {
+      "name": "knoflook",
+      "displayName": "Knoflook",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "knoflook/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "peper-vers",
+      "displayName": "Peper Vers",
+      "productCount": 7,
+      "filePath": "peper-vers.jsonl",
+      "indexPath": "peper-vers-index.json",
+      "statsPath": "peper-vers-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 29
+    }
+  ],
+  "totalProducts": 26,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 26,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kruiden En Smaakmakers",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "aardappel-groente-fruit"
+  }
+}

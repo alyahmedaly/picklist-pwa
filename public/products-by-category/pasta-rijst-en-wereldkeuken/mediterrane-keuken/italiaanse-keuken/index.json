@@ -1,0 +1,64 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "tomaten-producten",
+      "displayName": "Tomaten Producten",
+      "productCount": 64,
+      "hasSubdirectories": false,
+      "indexPath": "tomaten-producten/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "italiaanse-keukenkruiden",
+      "displayName": "Italiaanse Keukenkruiden",
+      "productCount": 10,
+      "filePath": "italiaanse-keukenkruiden.jsonl",
+      "indexPath": "italiaanse-keukenkruiden-index.json",
+      "statsPath": "italiaanse-keukenkruiden-stats.json",
+      "averageProtein": 1.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "gegrilde-paprika",
+      "displayName": "Gegrilde Paprika",
+      "productCount": 6,
+      "filePath": "gegrilde-paprika.jsonl",
+      "indexPath": "gegrilde-paprika-index.json",
+      "statsPath": "gegrilde-paprika-stats.json",
+      "averageProtein": 1.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 80,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 80,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Mediterrane Keuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Italiaanse Keuken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/mediterrane-keuken"
+  }
+}

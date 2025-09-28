@@ -1,0 +1,67 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "visconserven",
+      "displayName": "Visconserven",
+      "productCount": 130,
+      "hasSubdirectories": true,
+      "indexPath": "visconserven/index.json"
+    },
+    {
+      "name": "verse-vis",
+      "displayName": "Verse Vis",
+      "productCount": 56,
+      "hasSubdirectories": true,
+      "indexPath": "verse-vis/index.json"
+    },
+    {
+      "name": "gepaneerde-vis",
+      "displayName": "Gepaneerde Vis",
+      "productCount": 29,
+      "hasSubdirectories": false,
+      "indexPath": "gepaneerde-vis/index.json"
+    },
+    {
+      "name": "gerookte-vis",
+      "displayName": "Gerookte Vis",
+      "productCount": 26,
+      "hasSubdirectories": false,
+      "indexPath": "gerookte-vis/index.json"
+    },
+    {
+      "name": "diepvries-vis",
+      "displayName": "Diepvries Vis",
+      "productCount": 25,
+      "hasSubdirectories": false,
+      "indexPath": "diepvries-vis/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 266,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 266,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vis",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "vlees-vis"
+  }
+}

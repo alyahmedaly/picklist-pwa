@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Baby en kind > Babyvoeding > Fruithapjes (baby en kind) > Fruitpotjes",
+  "breadcrumbs": "Baby en kind > Babyvoeding > Fruithapjes (baby en kind) > Fruitpotjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "fruitpotjes-vanaf-8-maanden",
+      "displayName": "Fruitpotjes Vanaf 8 Maanden",
+      "productCount": 13,
+      "filePath": "fruitpotjes-vanaf-8-maanden.jsonl",
+      "indexPath": "fruitpotjes-vanaf-8-maanden-index.json",
+      "statsPath": "fruitpotjes-vanaf-8-maanden-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 92
+    },
+    {
+      "name": "fruitpotjes-vanaf-4-maanden",
+      "displayName": "Fruitpotjes Vanaf 4 Maanden",
+      "productCount": 11,
+      "filePath": "fruitpotjes-vanaf-4-maanden.jsonl",
+      "indexPath": "fruitpotjes-vanaf-4-maanden-index.json",
+      "statsPath": "fruitpotjes-vanaf-4-maanden-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 24,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 24,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Baby En Kind",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Babyvoeding",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Fruithapjes Baby En Kind",
+        "path": "../index.json"
+      },
+      {
+        "name": "Fruitpotjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "baby-en-kind/babyvoeding/fruithapjes-baby-en-kind"
+  }
+}

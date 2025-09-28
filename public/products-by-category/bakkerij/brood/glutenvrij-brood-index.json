@@ -1,0 +1,290 @@
+[
+  {
+    "id": "571984",
+    "name": "Schär Marmerkuchen",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393130363330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509341",
+    "name": "AH Glutenvrij Pistolets wit",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383030303530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550452",
+    "name": "Schär Crunchybread vital",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235303234?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474971",
+    "name": "AH Glutenvrij Afbakbroodjes",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383530393437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550448",
+    "name": "AH Glutenvrij Borrelbrood Mediterraans",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236343530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582997",
+    "name": "Bakers & Bananas Bananenbrood glutenvrij",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137303839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571988",
+    "name": "BFree Tiger rolls",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932383230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494404",
+    "name": "Nairn's Rosemary & sea salt flatbread",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130393633?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494105",
+    "name": "Schär Bagels",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373339313035?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509286",
+    "name": "AH Glutenvrij Kampioentjes",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383030303536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509349",
+    "name": "AH Glutenvrij Pistolets meerzaden",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383531373732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482616",
+    "name": "Nairn's Original flatbread glutenfree",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363635313331?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509381",
+    "name": "AH Glutenvrij Mueslibroodjes",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383531383335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581464",
+    "name": "BFree Naan bread gluten free",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419897",
+    "name": "Schär Pain campagnard glutenvrij aux graines",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373430343530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497604",
+    "name": "AH Glutenvrij Witte bollen",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373439353130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571989",
+    "name": "Schär Flatbreads",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632323434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416956",
+    "name": "AH Glutenvrij Brood bruin half",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373431373034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228422",
+    "name": "Schär Meesterbakker mehrkorn",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732353731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228421",
+    "name": "Schär Meesterbakker vital",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732353732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177044",
+    "name": "Schär Pain campagnard glutenvrij",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373339383631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416967",
+    "name": "AH Glutenvrij Brood donker meerzaden half",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373431373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416957",
+    "name": "AH Glutenvrij Brood licht meerzaden half",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373431353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228420",
+    "name": "Schär Meesterbakker classic",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038313036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Glutenvrij brood"
+    ],
+    "isFood": true
+  }
+]

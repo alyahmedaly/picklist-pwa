@@ -1,0 +1,351 @@
+{
+  "totalRows": 30498,
+  "mergedDuplicates": 0,
+  "excludedColumns": [
+    "PriceSale",
+    "Category6",
+    "Vitamine C",
+    "Kalium/Potassium",
+    "waarvan enkelvoudig onverzadigd",
+    "waarvan meervoudig onverzadigd",
+    "Alcohol",
+    "Calcium",
+    "Vitamine B2 / Riboflavine",
+    "Vitamine B12 / Cyano-Cobalamine",
+    "Fosfor",
+    "Ijzer",
+    "Vitamine A",
+    "Vitamine D",
+    "Vitamine B11 / Foliumzuur",
+    "Jodium",
+    "Vitamine E",
+    "Linolzuur",
+    "Alfa-Linoleenzuur",
+    "Vitamine B3 / Niacine",
+    "Magnesium",
+    "Zink",
+    "Omega 3 Vetzuren",
+    "Vitamine B6 / Pyridoxine",
+    "Vitamine B1 / Thiamine",
+    "Vitamine K",
+    "Vitamine B5 / Pantotheenzuur",
+    "Koper",
+    "Natrium",
+    "waarvan polyolen",
+    "Seleen",
+    "Vitamine H / Biotine",
+    "waarvan toegevoegde suikers",
+    "Omega 6 Vetzuren",
+    "Folaat",
+    "Mangaan",
+    "Chloride",
+    "Sulfaat",
+    "Nitraten",
+    "Bicarbonaat",
+    "Siliciumdioxide (Sio2)",
+    "Ash",
+    "Lactose",
+    "Glucose",
+    "Maltodextrine",
+    "Vitamin D2",
+    "Vitamine B7 / Inositol",
+    "Molybdeen",
+    "Seleen (Organisch)",
+    "Eicosapentaeenzuur",
+    "Docosahexaeenzuur",
+    "waarvan zetmeel",
+    "Cholesterol",
+    "Transvet",
+    "Organic Acids, Total",
+    "Ph, Hydrogen Ion Concentration",
+    "Fluoride",
+    "Carnitine",
+    "Choline",
+    "Taurine",
+    "Nucleotide",
+    "Arachidonzuur",
+    "Wei-Eiwit",
+    "Caseïne",
+    "Palmitinezuur",
+    "Galactose In Voedingsvezel",
+    "Fructose In Voedingsvezel",
+    "Chroom",
+    "Tafelzout Gemengd Met Een Kleine Hoeveelheid Van Verschillende Jodiumbevattende Zouten",
+    "Betaglucanen",
+    "Vitamin A; Calculated By Summation Of The Vitamin A Activities Of Retinol And The Active Carotenoids",
+    "Niacine Equivalent",
+    "Vitamine D3",
+    "Galactooligosaccharides (Gos)",
+    "Vita K-1",
+    "Safranal",
+    "Omega 9 Vetzuren",
+    "Collageen hydrolysaten",
+    "Plantaardige Eiwitten",
+    "Oligomere proanthocyanidinen (OPC)"
+  ],
+  "nullRates": [],
+  "driftCodes": [],
+  "dutchAllergenProducts": 12791,
+  "decimalCommaNormalizedCount": 3014,
+  "nutritionalTagsComputed": 20290,
+  "highProteinProducts": 1455,
+  "veganProducts": 9572,
+  "glutenFreeProducts": 12628,
+  "lactoseFreeProducts": 12461,
+  "highFiberProducts": 1451,
+  "lowCarbProducts": 7511,
+  "netCarbsDistribution": {
+    "very_low": 3101,
+    "low": 2255,
+    "moderate": 2229,
+    "high": 1859,
+    "very_high": 6075
+  },
+  "additiveAnalysisComputed": 20290,
+  "productsWithAdditives": 11150,
+  "productsWithPreservatives": 3230,
+  "productsWithArtificialColors": 1697,
+  "productsWithChildWarnings": 30,
+  "productsWithPKUWarnings": 180,
+  "productsWithAllergenicAdditives": 2592,
+  "productsWithAnimalDerivedAdditives": 245,
+  "organicCompatibleProducts": 14650,
+  "naturalAdditivesOnlyProducts": 4750,
+  "scoringStats": {
+    "totalProducts": 30498,
+    "productsWithScores": 14674,
+    "scoringCoverage": 48.1,
+    "globalGradeDistribution": {
+      "A": 3122,
+      "B": 2762,
+      "C": 2985,
+      "D": 2853,
+      "E": 2952
+    },
+    "categoryGradeDistributions": {
+      "Kaas, vleeswaren, tapas": {
+        "A": 188,
+        "B": 175,
+        "C": 240,
+        "D": 183,
+        "E": 180
+      },
+      "Chips, noten, toast, popcorn": {
+        "A": 115,
+        "B": 136,
+        "C": 101,
+        "D": 131,
+        "E": 119
+      },
+      "Bakkerij": {
+        "A": 154,
+        "B": 185,
+        "C": 173,
+        "D": 168,
+        "E": 166
+      },
+      "Frisdrank, sappen, siropen, water": {
+        "A": 162,
+        "B": 268,
+        "C": 105,
+        "D": 202,
+        "E": 167
+      },
+      "Soepen, sauzen, kruiden, olie": {
+        "A": 133,
+        "B": 166,
+        "C": 156,
+        "D": 125,
+        "E": 167
+      },
+      "Zuivel, eieren, boter": {
+        "A": 109,
+        "B": 197,
+        "C": 172,
+        "D": 156,
+        "E": 155
+      },
+      "Ontbijtgranen en beleg": {
+        "A": 229,
+        "B": 232,
+        "C": 205,
+        "D": 245,
+        "E": 199
+      },
+      "Snoep, chocolade, koek": {
+        "A": 317,
+        "B": 282,
+        "C": 274,
+        "D": 339,
+        "E": 282
+      },
+      "Vegetarisch, vegan en plantaardig": {
+        "A": 89,
+        "B": 83,
+        "C": 87,
+        "D": 88,
+        "E": 81
+      },
+      "Pasta, rijst en wereldkeuken": {
+        "A": 248,
+        "B": 236,
+        "C": 241,
+        "D": 225,
+        "E": 224
+      },
+      "Koffie, thee": {
+        "A": 2,
+        "B": 128,
+        "C": 35,
+        "D": 36,
+        "E": 53
+      },
+      "Tussendoortjes": {
+        "A": 43,
+        "B": 48,
+        "C": 57,
+        "D": 44,
+        "E": 54
+      },
+      "Salades, pizza, maaltijden": {
+        "A": 76,
+        "B": 77,
+        "C": 107,
+        "D": 91,
+        "E": 71
+      },
+      "Gezondheid, sport": {
+        "A": 20,
+        "B": 17,
+        "C": 14,
+        "D": 14,
+        "E": 18
+      },
+      "Vlees, vis": {
+        "A": 157,
+        "B": 183,
+        "C": 162,
+        "D": 142,
+        "E": 173
+      },
+      "Glutenvrij": {
+        "A": 2,
+        "B": 1,
+        "C": 2,
+        "D": 2,
+        "E": 1
+      },
+      "Diepvries": {
+        "A": 111,
+        "B": 131,
+        "C": 131,
+        "D": 131,
+        "E": 124
+      },
+      "Aardappel, groente, fruit": {
+        "A": 198,
+        "B": 326,
+        "C": 234,
+        "D": 190,
+        "E": 251
+      },
+      "Baby en kind": {
+        "A": 60,
+        "B": 52,
+        "C": 59,
+        "D": 56,
+        "E": 49
+      },
+      "Wijn en bubbels": {
+        "A": 44,
+        "B": 25,
+        "C": 28,
+        "D": 38,
+        "E": 29
+      },
+      "Bier en aperitieven": {
+        "A": 0,
+        "B": 0,
+        "C": 128,
+        "D": 0,
+        "E": 23
+      }
+    },
+    "nutriScoreRange": {
+      "min": -10,
+      "max": 34
+    },
+    "healthScoreRange": {
+      "min": 0,
+      "max": 99.9
+    }
+  },
+  "personalHealthExtensions": {
+    "halalAnalysisComputed": 19127,
+    "halalStatusDistribution": {
+      "halal": 14249,
+      "haram": 1636,
+      "questionable": 3220,
+      "unknown": 22
+    },
+    "halalFlagsDistribution": {
+      "hasAlcohol": 519,
+      "hasPork": 1140,
+      "hasAnimalGelatine": 256,
+      "hasNonHalalMeat": 1002,
+      "hasDoubtfulAdditives": 3473
+    },
+    "halalConfidenceDistribution": {
+      "high": 11390,
+      "medium": 7330,
+      "low": 407
+    },
+    "proteinOptimizationComputed": 15447,
+    "proteinDensityScoreRange": {
+      "min": 0,
+      "max": 100
+    },
+    "highProteinDensityProducts": 431,
+    "satietyAnalysisComputed": 30498,
+    "satietyScoreRange": {
+      "min": 0,
+      "max": 90
+    },
+    "highSatietyProducts": 176,
+    "processingPenaltyDistribution": {
+      "minimal": 0,
+      "moderate": 0,
+      "high": 0
+    },
+    "postWorkoutOptimizationComputed": 13145,
+    "postWorkoutScoreRange": {
+      "min": 20.11,
+      "max": 100
+    },
+    "fatLossCompatibilityComputed": 15855,
+    "fatLossScoreRange": {
+      "min": 24.86,
+      "max": 94.2
+    },
+    "enhancedCalorieEfficiencyComputed": 13861,
+    "calorieEfficiencyScoreRange": {
+      "min": 21.48,
+      "max": 94.4
+    },
+    "bodyCompositionContextComputed": 30498,
+    "bodyCompositionPhaseDistribution": {
+      "cutting": 0,
+      "bulking": 0,
+      "maintenance": 0,
+      "recomposition": 30498
+    },
+    "mealTimingDistribution": {
+      "pre_workout": 0,
+      "post_workout": 0,
+      "general": 30498
+    }
+  },
+  "foodProducts": 20290,
+  "nonFoodProducts": 10208,
+  "totalProducts": 30498
+}

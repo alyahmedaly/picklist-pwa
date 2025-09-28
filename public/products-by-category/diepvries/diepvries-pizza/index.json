@@ -1,0 +1,82 @@
+{
+  "categoryPath": "Diepvries > Diepvries pizza",
+  "breadcrumbs": "Diepvries > Diepvries pizza",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "pizza-dunne-bodem",
+      "displayName": "Pizza Dunne Bodem",
+      "productCount": 57,
+      "filePath": "pizza-dunne-bodem.jsonl",
+      "indexPath": "pizza-dunne-bodem-index.json",
+      "statsPath": "pizza-dunne-bodem-stats.json",
+      "averageProtein": 9.3,
+      "halalCompliance": 54
+    },
+    {
+      "name": "pizza-dikke-bodem",
+      "displayName": "Pizza Dikke Bodem",
+      "productCount": 10,
+      "filePath": "pizza-dikke-bodem.jsonl",
+      "indexPath": "pizza-dikke-bodem-index.json",
+      "statsPath": "pizza-dikke-bodem-stats.json",
+      "averageProtein": 9.7,
+      "halalCompliance": 0
+    },
+    {
+      "name": "pizzabroodjes",
+      "displayName": "Pizzabroodjes",
+      "productCount": 10,
+      "filePath": "pizzabroodjes.jsonl",
+      "indexPath": "pizzabroodjes-index.json",
+      "statsPath": "pizzabroodjes-stats.json",
+      "averageProtein": 9.2,
+      "halalCompliance": 40
+    },
+    {
+      "name": "pizza-steenhoutoven",
+      "displayName": "Pizza Steenhoutoven",
+      "productCount": 7,
+      "filePath": "pizza-steenhoutoven.jsonl",
+      "indexPath": "pizza-steenhoutoven-index.json",
+      "statsPath": "pizza-steenhoutoven-stats.json",
+      "averageProtein": 9.3,
+      "halalCompliance": 57
+    },
+    {
+      "name": "glutenvrije-pizza",
+      "displayName": "Glutenvrije Pizza",
+      "productCount": 5,
+      "filePath": "glutenvrije-pizza.jsonl",
+      "indexPath": "glutenvrije-pizza-index.json",
+      "statsPath": "glutenvrije-pizza-stats.json",
+      "averageProtein": 9.1,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 89,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 89,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "../index.json"
+      },
+      {
+        "name": "Diepvries Pizza",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "diepvries"
+  }
+}

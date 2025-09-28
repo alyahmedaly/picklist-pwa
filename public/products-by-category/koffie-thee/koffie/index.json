@@ -1,0 +1,74 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "koffiecups",
+      "displayName": "Koffiecups",
+      "productCount": 77,
+      "hasSubdirectories": true,
+      "indexPath": "koffiecups/index.json"
+    },
+    {
+      "name": "oploskoffie",
+      "displayName": "Oploskoffie",
+      "productCount": 41,
+      "hasSubdirectories": false,
+      "indexPath": "oploskoffie/index.json"
+    },
+    {
+      "name": "koffiebonen",
+      "displayName": "Koffiebonen",
+      "productCount": 37,
+      "hasSubdirectories": false,
+      "indexPath": "koffiebonen/index.json"
+    },
+    {
+      "name": "snelfilterkoffie",
+      "displayName": "Snelfilterkoffie",
+      "productCount": 25,
+      "hasSubdirectories": false,
+      "indexPath": "snelfilterkoffie/index.json"
+    },
+    {
+      "name": "koffieverrijkers",
+      "displayName": "Koffieverrijkers",
+      "productCount": 17,
+      "hasSubdirectories": true,
+      "indexPath": "koffieverrijkers/index.json"
+    },
+    {
+      "name": "koffiepads",
+      "displayName": "Koffiepads",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "koffiepads/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 203,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 203,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "../index.json"
+      },
+      {
+        "name": "Koffie",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "koffie-thee"
+  }
+}

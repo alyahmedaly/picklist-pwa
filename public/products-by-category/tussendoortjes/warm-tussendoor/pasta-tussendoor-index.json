@@ -1,0 +1,146 @@
+[
+  {
+    "id": "200183",
+    "name": "Unox Good pasta carbonara",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Pasta (tussendoor)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577791",
+    "name": "Unox Good pasta carbonara XXL",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131333634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Pasta (tussendoor)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571883",
+    "name": "Batchelors Big pasta 'n' sauce mac 'n' cheese",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538313532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Pasta (tussendoor)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508365",
+    "name": "Unox Good pasta 4 kazen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Pasta (tussendoor)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421315",
+    "name": "Unox Good pasta romige kaassaus",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736303530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Pasta (tussendoor)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571884",
+    "name": "Batchelors Big pasta 'n' sauce cheese & broccoli",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538313531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Pasta (tussendoor)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565173",
+    "name": "Unox Good pasta kaas jalapeño",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Pasta (tussendoor)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538674",
+    "name": "Unox Volkoren goodpasta spinazie kaas",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393930303631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Pasta (tussendoor)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538673",
+    "name": "Unox Volkoren goodpasta tomaat bacon",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393936393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Pasta (tussendoor)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421316",
+    "name": "Unox Good pasta bolognese",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Pasta (tussendoor)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577794",
+    "name": "Unox Good pasta bolognese XXL",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Pasta (tussendoor)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538672",
+    "name": "Unox Good pasta tomaat mozzarella",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736363639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Warm tussendoor",
+      "Pasta (tussendoor)"
+    ],
+    "isFood": true
+  }
+]

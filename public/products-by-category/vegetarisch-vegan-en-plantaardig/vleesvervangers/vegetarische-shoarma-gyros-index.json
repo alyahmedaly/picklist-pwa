@@ -1,0 +1,146 @@
+[
+  {
+    "id": "580468",
+    "name": "Planted Kebab original",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232363635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische shoarma, gyros"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580478",
+    "name": "Planted Pulled Kantonese",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136333138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische shoarma, gyros"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580469",
+    "name": "Planted Pulled spicy",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232363138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische shoarma, gyros"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580483",
+    "name": "Planted Pulled BBQ",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232363639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische shoarma, gyros"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563706",
+    "name": "AH Terra Plantaardige shoarma",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische shoarma, gyros"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564794",
+    "name": "AH Terra Plantaardige shoarma",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische shoarma, gyros"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412549",
+    "name": "Vegetarische Slager Vegan kip-shoarma",
+    "price": 4.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische shoarma, gyros"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502068",
+    "name": "Vivera Plant shoarma",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630363734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische shoarma, gyros"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460410",
+    "name": "Vivera Plantaardige gyros",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630363735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische shoarma, gyros"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572443",
+    "name": "Vivera Plantaardige gyros voordeelverpakking",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533313831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische shoarma, gyros"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450169",
+    "name": "Vivera Plantaardige shoarma voordeelverp",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630363737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische shoarma, gyros"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563664",
+    "name": "Vivera Plantaardige shoarma voordeelverpakking",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630373833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Vleesvervangers",
+      "Vegetarische shoarma, gyros"
+    ],
+    "isFood": true
+  }
+]

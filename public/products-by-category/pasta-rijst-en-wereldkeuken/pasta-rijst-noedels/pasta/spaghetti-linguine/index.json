@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Pasta > Spaghetti, linguine",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Pasta > Spaghetti, linguine",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "spaghetti",
+      "displayName": "Spaghetti",
+      "productCount": 30,
+      "filePath": "spaghetti.jsonl",
+      "indexPath": "spaghetti-index.json",
+      "statsPath": "spaghetti-stats.json",
+      "averageProtein": 12.8,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 30,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Pasta Rijst Noedels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Pasta",
+        "path": "../index.json"
+      },
+      {
+        "name": "Spaghetti Linguine",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "pasta-rijst-en-wereldkeuken/pasta-rijst-noedels/pasta"
+  }
+}

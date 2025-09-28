@@ -1,0 +1,146 @@
+[
+  {
+    "id": "458329",
+    "name": "AH Zaanlander Kaasbolletjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500013",
+    "name": "AH Zaanlander 3 Jaar 48+ schuitje",
+    "price": 4.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373739313932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "439849",
+    "name": "Old Amsterdam Schuitje",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635363435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210292",
+    "name": "AH Geitenkaas met spek",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532353432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574297",
+    "name": "Rotterdamsche Oude Schuije 55 weken",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574298",
+    "name": "Rotterdamsche Oude Vacuum stuk 36 weken",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638323836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "499972",
+    "name": "AH Zaanlander Oud 48+ schuitje",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574299",
+    "name": "Old Amsterdam Extra aged",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634363731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475277",
+    "name": "AH Queso iberico",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234313432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572070",
+    "name": "AH Sweet peppers roomkaas",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519912",
+    "name": "AH Borrelkaaspakket",
+    "price": 5.58,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730353038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes kaas"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575896",
+    "name": "AH Mini geitenkaas met spek",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes kaas"
+    ],
+    "isFood": true
+  }
+]

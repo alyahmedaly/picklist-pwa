@@ -1,0 +1,39 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "varken-reepjes-en-blokjes",
+      "displayName": "Varken Reepjes En Blokjes",
+      "productCount": 5,
+      "hasSubdirectories": true,
+      "indexPath": "varken-reepjes-en-blokjes/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 5,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 5,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Reepjes Blokjes Vlees",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "vlees-vis"
+  }
+}

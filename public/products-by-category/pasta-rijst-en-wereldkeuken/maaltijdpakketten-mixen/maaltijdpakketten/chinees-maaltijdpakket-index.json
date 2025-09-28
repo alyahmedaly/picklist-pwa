@@ -1,0 +1,67 @@
+[
+  {
+    "id": "169255",
+    "name": "Knorr Wereldgerechten Chinese kantonese kip",
+    "price": 5.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Chinees maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419292",
+    "name": "Maggi Stir-fry noodles sweet chili",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373334303134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Chinees maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "53862",
+    "name": "Honig Basis voor roerbakmie",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139363037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Chinees maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "52916",
+    "name": "Knorr Wereldgerechten Chinese beef shanghai",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837323235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Chinees maaltijdpakket"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553414",
+    "name": "AH Woknoedels volkoren kant & klaar",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdpakketten",
+      "Chinees maaltijdpakket"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Siroop",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Siroop",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "limonadesiroop",
+      "displayName": "Limonadesiroop",
+      "productCount": 36,
+      "filePath": "limonadesiroop.jsonl",
+      "indexPath": "limonadesiroop-index.json",
+      "statsPath": "limonadesiroop-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 94
+    },
+    {
+      "name": "limonadesiroop-suikervrij",
+      "displayName": "Limonadesiroop Suikervrij",
+      "productCount": 24,
+      "filePath": "limonadesiroop-suikervrij.jsonl",
+      "indexPath": "limonadesiroop-suikervrij-index.json",
+      "statsPath": "limonadesiroop-suikervrij-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 96
+    },
+    {
+      "name": "limonadesiroop-suikerbewust",
+      "displayName": "Limonadesiroop Suikerbewust",
+      "productCount": 21,
+      "filePath": "limonadesiroop-suikerbewust.jsonl",
+      "indexPath": "limonadesiroop-suikerbewust-index.json",
+      "statsPath": "limonadesiroop-suikerbewust-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 90
+    },
+    {
+      "name": "diksap",
+      "displayName": "Diksap",
+      "productCount": 8,
+      "filePath": "diksap.jsonl",
+      "indexPath": "diksap-index.json",
+      "statsPath": "diksap-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "babysiroop",
+      "displayName": "Babysiroop",
+      "productCount": 6,
+      "filePath": "babysiroop.jsonl",
+      "indexPath": "babysiroop-index.json",
+      "statsPath": "babysiroop-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 83
+    },
+    {
+      "name": "sodastream-siroop",
+      "displayName": "Sodastream Siroop",
+      "productCount": 5,
+      "filePath": "sodastream-siroop.jsonl",
+      "indexPath": "sodastream-siroop-index.json",
+      "statsPath": "sodastream-siroop-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 100,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 100,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../index.json"
+      },
+      {
+        "name": "Siroop",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "frisdrank-sappen-siropen-water"
+  }
+}

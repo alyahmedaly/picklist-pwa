@@ -1,0 +1,223 @@
+[
+  {
+    "id": "563345",
+    "name": "AH Guanciale stuk",
+    "price": 4.4,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386107",
+    "name": "AH Uitgebakken ontbijtspek",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1565",
+    "name": "AH Ontbijtspek",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479367",
+    "name": "AH Pancetta",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419905",
+    "name": "AH Uitgebakken ontbijtspek",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030393730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543170",
+    "name": "AH Katenspek",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197425",
+    "name": "AH Ontbijtspek",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "401061",
+    "name": "AH Pannenkoekspek",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169115",
+    "name": "AH Bakbacon",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543389",
+    "name": "AH Bacon",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543344",
+    "name": "AH Casselerrib",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037393334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442128",
+    "name": "AH Schwarzwalder schinken",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560666",
+    "name": "AH Achterham",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738363736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580368",
+    "name": "AH Bakbacon 3-pack",
+    "price": 8.07,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567122",
+    "name": "AH Ontbijtspek 2-pack",
+    "price": 6.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130373438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568738",
+    "name": "AH Ontbijtspek 2-pack",
+    "price": 3.02,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580365",
+    "name": "AH Pannenkoekspek 3-pack",
+    "price": 6.07,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Spek en bacon plakken (voorverpakt)"
+    ],
+    "isFood": true
+  }
+]

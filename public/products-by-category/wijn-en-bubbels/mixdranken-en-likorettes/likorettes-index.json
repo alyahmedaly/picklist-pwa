@@ -1,0 +1,158 @@
+[
+  {
+    "id": "519067",
+    "name": "Apenshot Likorette",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434373337?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Likorettes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "178785",
+    "name": "Aperol Aperitivo",
+    "price": 15.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Likorettes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "573740",
+    "name": "Aperol spritz pakket",
+    "price": 23.17,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135353934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Likorettes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553697",
+    "name": "Baileys Hazelnut",
+    "price": 13.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237333134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Likorettes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "65995",
+    "name": "Coebergh Red fruit",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536313133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Likorettes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198711",
+    "name": "Finnegan Whisky cream",
+    "price": 6.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353836333639?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Likorettes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387207",
+    "name": "Hooghoudt Passion likorette",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353536303332?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Likorettes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466988",
+    "name": "Hooghoudt Redberry sour",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535393833?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Likorettes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583299",
+    "name": "Licor 43 Chocolate delight",
+    "price": 13.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537323632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Likorettes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478051",
+    "name": "Peachtree Blossom",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539323637?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Likorettes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575696",
+    "name": "Perfetto Aperitivo Italiano",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835383230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Likorettes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577698",
+    "name": "Perfetto Aperitivo Spritz",
+    "price": 15.57,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835383231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Likorettes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387204",
+    "name": "Siebrand Amaretto",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363932363332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Mixdranken en likorettes",
+      "Likorettes"
+    ],
+    "isFood": true
+  }
+]

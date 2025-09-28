@@ -1,0 +1,93 @@
+[
+  {
+    "id": "451700",
+    "name": "De Zaanse Hoeve Volle kwark",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538343034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Kwark",
+      "Volle kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "396393",
+    "name": "AH Biologisch Volle kwark",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339333034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Kwark",
+      "Volle kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130184",
+    "name": "AH Volle kwark",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838363933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Kwark",
+      "Volle kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498201",
+    "name": "Campina Volle kwark naturel voordeelpak",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036353933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Kwark",
+      "Volle kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407975",
+    "name": "Campina Volle milde kwark",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Kwark",
+      "Volle kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403752",
+    "name": "AH Halfvolle kwark",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236303734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Kwark",
+      "Volle kwark"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555357",
+    "name": "Campina Volle kwark 2-pack",
+    "price": 7.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039363437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Kwark",
+      "Volle kwark"
+    ],
+    "isFood": true
+  }
+]

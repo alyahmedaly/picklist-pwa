@@ -1,0 +1,76 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Vleeswaren > Streeckgenoten vleeswaren",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Vleeswaren > Streeckgenoten vleeswaren",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "regio-zuid-vleeswaren",
+      "displayName": "Regio Zuid Vleeswaren",
+      "productCount": 49,
+      "filePath": "regio-zuid-vleeswaren.jsonl",
+      "indexPath": "regio-zuid-vleeswaren-index.json",
+      "statsPath": "regio-zuid-vleeswaren-stats.json",
+      "averageProtein": 16,
+      "halalCompliance": 14
+    },
+    {
+      "name": "regio-west-vleeswaren",
+      "displayName": "Regio West Vleeswaren",
+      "productCount": 38,
+      "filePath": "regio-west-vleeswaren.jsonl",
+      "indexPath": "regio-west-vleeswaren-index.json",
+      "statsPath": "regio-west-vleeswaren-stats.json",
+      "averageProtein": 15.5,
+      "halalCompliance": 34
+    },
+    {
+      "name": "regio-noord-vleeswaren",
+      "displayName": "Regio Noord Vleeswaren",
+      "productCount": 16,
+      "filePath": "regio-noord-vleeswaren.jsonl",
+      "indexPath": "regio-noord-vleeswaren-index.json",
+      "statsPath": "regio-noord-vleeswaren-stats.json",
+      "averageProtein": 18.8,
+      "halalCompliance": 0
+    },
+    {
+      "name": "regio-oost-vleeswaren",
+      "displayName": "Regio Oost Vleeswaren",
+      "productCount": 9,
+      "filePath": "regio-oost-vleeswaren.jsonl",
+      "indexPath": "regio-oost-vleeswaren-index.json",
+      "statsPath": "regio-oost-vleeswaren-stats.json",
+      "averageProtein": 17.9,
+      "halalCompliance": 33
+    }
+  ],
+  "totalProducts": 112,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 112,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vleeswaren",
+        "path": "../index.json"
+      },
+      {
+        "name": "Streeckgenoten Vleeswaren",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "kaas-vleeswaren-tapas/vleeswaren"
+  }
+}

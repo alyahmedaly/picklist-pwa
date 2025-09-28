@@ -1,0 +1,86 @@
+[
+  {
+    "id": "446488",
+    "name": "AH Biologisch Mini rode gekookte bieten",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130383134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462761",
+    "name": "AH Biologisch Rode bieten blokjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031323033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218641",
+    "name": "AH Biologisch Rode bieten gekookt",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137303632?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "418292",
+    "name": "AH Biologisch Rode bieten geraspt",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561845",
+    "name": "AH Terra Plantaardige biologische bietstuk",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393538313036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203002",
+    "name": "AH Biologisch Rode bieten los",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323131343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (vers)"
+    ],
+    "isFood": true
+  }
+]

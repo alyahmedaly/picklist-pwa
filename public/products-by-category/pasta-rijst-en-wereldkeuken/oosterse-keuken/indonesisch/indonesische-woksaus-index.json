@@ -1,0 +1,223 @@
+[
+  {
+    "id": "151717",
+    "name": "Conimex Woksaus zoete soja",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935383130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171791",
+    "name": "Conimex Woksaus knoflook koriander",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838373533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199189",
+    "name": "Conimex Woksaus lemongrass chili",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231373639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "122318",
+    "name": "Conimex Woksaus five spice",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839333731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191724",
+    "name": "Conimex Woksaus hoisin",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838393130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474507",
+    "name": "Go-Tan Ketjap manis bio organic glutenfree",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539383936?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386524",
+    "name": "Go-Tan Original wok black bean",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363732323139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386520",
+    "name": "Go-Tan Original wok ketjap sesam",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539373934?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386523",
+    "name": "Go-Tan Original wok oyster garlic",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539383931?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386518",
+    "name": "Go-Tan Original wok sweet & sour",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539383133?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386522",
+    "name": "Go-Tan Original wok chilli garlic",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539383437?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386519",
+    "name": "Go-Tan Original wok teriyaki",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539373933?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388378",
+    "name": "Amoy Stir fry sauce sweet thai chili",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131393937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171792",
+    "name": "Conimex Woksaus teriyaki",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230363630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126420",
+    "name": "Conimex Woksaus sweet & sour",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412039",
+    "name": "Fairtrade Original Kruidenpasta korma",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532333430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412036",
+    "name": "Fairtrade Original Tandoori kruidenpasta",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532303838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Indonesische woksaus"
+    ],
+    "isFood": true
+  }
+]

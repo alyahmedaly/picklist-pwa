@@ -1,0 +1,132 @@
+[
+  {
+    "id": "196061",
+    "name": "Rivella 4-pack",
+    "price": 10.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373330363432?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Rivella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237894",
+    "name": "Rivella Cranberry",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Rivella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238030",
+    "name": "Rivella Cranberry",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034393539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Rivella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518885",
+    "name": "Rivella Framboos",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034393538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Rivella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140130",
+    "name": "Rivella Original",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034393635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Rivella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168308",
+    "name": "Rivella Original",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Rivella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196062",
+    "name": "Rivella Original",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034393632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Rivella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476679",
+    "name": "Rivella Pineapple",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034393631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Rivella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496793",
+    "name": "Rivella Original",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232313835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Rivella"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496801",
+    "name": "Rivella Original",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373334363130?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Tonic, ginger, bitter, speciaal fris overig",
+      "Rivella"
+    ],
+    "isFood": true
+  }
+]

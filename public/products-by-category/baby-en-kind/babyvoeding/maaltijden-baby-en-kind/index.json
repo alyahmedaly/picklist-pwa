@@ -1,0 +1,86 @@
+{
+  "categoryPath": "Baby en kind > Babyvoeding > Maaltijden (baby en kind)",
+  "breadcrumbs": "Baby en kind > Babyvoeding > Maaltijden (baby en kind)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "maaltijden-vanaf-12-maanden",
+      "displayName": "Maaltijden Vanaf 12 Maanden",
+      "productCount": 28,
+      "filePath": "maaltijden-vanaf-12-maanden.jsonl",
+      "indexPath": "maaltijden-vanaf-12-maanden-index.json",
+      "statsPath": "maaltijden-vanaf-12-maanden-stats.json",
+      "averageProtein": 3.2,
+      "halalCompliance": 89
+    },
+    {
+      "name": "maaltijden-vanaf-8-maanden",
+      "displayName": "Maaltijden Vanaf 8 Maanden",
+      "productCount": 24,
+      "filePath": "maaltijden-vanaf-8-maanden.jsonl",
+      "indexPath": "maaltijden-vanaf-8-maanden-index.json",
+      "statsPath": "maaltijden-vanaf-8-maanden-stats.json",
+      "averageProtein": 2.8,
+      "halalCompliance": 92
+    },
+    {
+      "name": "maaltijden-vanaf-6-maanden",
+      "displayName": "Maaltijden Vanaf 6 Maanden",
+      "productCount": 18,
+      "filePath": "maaltijden-vanaf-6-maanden.jsonl",
+      "indexPath": "maaltijden-vanaf-6-maanden-index.json",
+      "statsPath": "maaltijden-vanaf-6-maanden-stats.json",
+      "averageProtein": 2.7,
+      "halalCompliance": 94
+    },
+    {
+      "name": "maaltijden-vanaf-15-maanden",
+      "displayName": "Maaltijden Vanaf 15 Maanden",
+      "productCount": 16,
+      "filePath": "maaltijden-vanaf-15-maanden.jsonl",
+      "indexPath": "maaltijden-vanaf-15-maanden-index.json",
+      "statsPath": "maaltijden-vanaf-15-maanden-stats.json",
+      "averageProtein": 2.8,
+      "halalCompliance": 100
+    },
+    {
+      "name": "maaltijden-vanaf-4-maanden",
+      "displayName": "Maaltijden Vanaf 4 Maanden",
+      "productCount": 7,
+      "filePath": "maaltijden-vanaf-4-maanden.jsonl",
+      "indexPath": "maaltijden-vanaf-4-maanden-index.json",
+      "statsPath": "maaltijden-vanaf-4-maanden-stats.json",
+      "averageProtein": 1.4,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 93,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 93,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Baby En Kind",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Babyvoeding",
+        "path": "../index.json"
+      },
+      {
+        "name": "Maaltijden Baby En Kind",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "baby-en-kind/babyvoeding"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Koken, tafelen, vrije tijd > Koken",
+  "breadcrumbs": "Koken, tafelen, vrije tijd > Koken",
+  "subdirectories": [
+    {
+      "name": "keukengerei",
+      "displayName": "Keukengerei",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "keukengerei/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "bakvormen",
+      "displayName": "Bakvormen",
+      "productCount": 7,
+      "filePath": "bakvormen.jsonl",
+      "indexPath": "bakvormen-index.json",
+      "statsPath": "bakvormen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "keukentextiel",
+      "displayName": "Keukentextiel",
+      "productCount": 6,
+      "filePath": "keukentextiel.jsonl",
+      "indexPath": "keukentextiel-index.json",
+      "statsPath": "keukentextiel-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 19,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 19,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koken Tafelen Vrije Tijd",
+        "path": "../index.json"
+      },
+      {
+        "name": "Koken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "koken-tafelen-vrije-tijd"
+  }
+}

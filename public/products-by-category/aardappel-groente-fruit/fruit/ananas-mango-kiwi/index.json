@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Fruit > Ananas, mango, kiwi",
+  "breadcrumbs": "Aardappel, groente, fruit > Fruit > Ananas, mango, kiwi",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kiwi",
+      "displayName": "Kiwi",
+      "productCount": 6,
+      "filePath": "kiwi.jsonl",
+      "indexPath": "kiwi-index.json",
+      "statsPath": "kiwi-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ananas Mango Kiwi",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/fruit"
+  }
+}

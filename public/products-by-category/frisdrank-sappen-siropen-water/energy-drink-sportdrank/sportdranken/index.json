@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Energy drink, sportdrank > Sportdranken",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Energy drink, sportdrank > Sportdranken",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "sportdrank-flesjes",
+      "displayName": "Sportdrank Flesjes",
+      "productCount": 25,
+      "filePath": "sportdrank-flesjes.jsonl",
+      "indexPath": "sportdrank-flesjes-index.json",
+      "statsPath": "sportdrank-flesjes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 96
+    },
+    {
+      "name": "sportdrank-in-tray",
+      "displayName": "Sportdrank In Tray",
+      "productCount": 14,
+      "filePath": "sportdrank-in-tray.jsonl",
+      "indexPath": "sportdrank-in-tray-index.json",
+      "statsPath": "sportdrank-in-tray-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 71
+    },
+    {
+      "name": "energy-gel",
+      "displayName": "Energy Gel",
+      "productCount": 5,
+      "filePath": "energy-gel.jsonl",
+      "indexPath": "energy-gel-index.json",
+      "statsPath": "energy-gel-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 44,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 44,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Energy Drink Sportdrank",
+        "path": "../index.json"
+      },
+      {
+        "name": "Sportdranken",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/energy-drink-sportdrank"
+  }
+}

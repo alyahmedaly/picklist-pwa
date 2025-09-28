@@ -1,0 +1,146 @@
+[
+  {
+    "id": "198109",
+    "name": "Guinness Blik fourpack",
+    "price": 7.96,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432353230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Porter en stout bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198195",
+    "name": "Guinness Draught stout",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636333133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Porter en stout bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "379918",
+    "name": "Guinness West Indies porter",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Porter en stout bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468061",
+    "name": "Gulden Draak Imperial Stout",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373339313633?revLabel=22&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Porter en stout bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533214",
+    "name": "Kaapse Brouwers Jennie",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393735313838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Porter en stout bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "530970",
+    "name": "Kees Caramel fudge stout",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393737363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Porter en stout bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505718",
+    "name": "Moersleutel Motor oil",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031343436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Porter en stout bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570489",
+    "name": "Pohjala Kamin barrel aged imperial porter",
+    "price": 6.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336343936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Porter en stout bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514621",
+    "name": "Pohjala Oo",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373134343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Porter en stout bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578907",
+    "name": "Pohjala Stick & stones port & olorosso",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935323838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Porter en stout bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578915",
+    "name": "Two Chefs Brewing Stroopwafel stout",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Porter en stout bier"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533216",
+    "name": "Vet & Lazy Disco",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934343738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Porter en stout bier"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "soep-opwarmen",
+      "displayName": "Soep Opwarmen",
+      "productCount": 42,
+      "hasSubdirectories": true,
+      "indexPath": "soep-opwarmen/index.json"
+    },
+    {
+      "name": "bouillon-fond",
+      "displayName": "Bouillon Fond",
+      "productCount": 31,
+      "hasSubdirectories": true,
+      "indexPath": "bouillon-fond/index.json"
+    },
+    {
+      "name": "soep-zelf-bereiden",
+      "displayName": "Soep Zelf Bereiden",
+      "productCount": 15,
+      "hasSubdirectories": false,
+      "indexPath": "soep-zelf-bereiden/index.json"
+    },
+    {
+      "name": "soepverrijking",
+      "displayName": "Soepverrijking",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "soepverrijking/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 94,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 94,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../index.json"
+      },
+      {
+        "name": "Soepen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "soepen-sauzen-kruiden-olie"
+  }
+}

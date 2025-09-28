@@ -1,0 +1,218 @@
+[
+  {
+    "id": "367764",
+    "name": "Johma Garnalen salade",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232373636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515258",
+    "name": "Johma 100% plantaardige tonijnsalade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336353835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197614",
+    "name": "Johma Zalm salade",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232373632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221934",
+    "name": "Délio Krabsalade bel",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363937313034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211719",
+    "name": "Johma Surimi-krab salade",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232373634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562341",
+    "name": "AH Excellent Zeevis salade",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633343836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445351",
+    "name": "AH Excellent Warm gerookte forelsalade",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560992",
+    "name": "AH Gerookte zalm roomkaas",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738373132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217290",
+    "name": "AH Surimi krab salade",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636393936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562342",
+    "name": "AH Excellent Makreelsalade",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633343835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217317",
+    "name": "AH Tonijnsalade",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "376546",
+    "name": "AH Tonijnsalade",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221943",
+    "name": "Délio Tonijn pikant bel",
+    "price": 3.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363533383531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211718",
+    "name": "Johma Tonijnsalade",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232383830?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497588",
+    "name": "Johma Tonijnsalade voordeelpak",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303133303933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221937",
+    "name": "Délio Tonijnsalade bel",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303139303334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "184624",
+    "name": "Johma Frisse tonijnsalade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232373733?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "522398",
+    "name": "AH Tonijnsalade bewuste keuze",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Vissalades (beleg)"
+    ],
+    "isFood": true
+  }
+]

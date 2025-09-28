@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Drogisterij > Lichaamsverzorging > Bad en douche > Douchegel",
+  "breadcrumbs": "Drogisterij > Lichaamsverzorging > Bad en douche > Douchegel",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "douchegel-alle-huidtypes",
+      "displayName": "Douchegel Alle Huidtypes",
+      "productCount": 15,
+      "filePath": "douchegel-alle-huidtypes.jsonl",
+      "indexPath": "douchegel-alle-huidtypes-index.json",
+      "statsPath": "douchegel-alle-huidtypes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 47
+    }
+  ],
+  "totalProducts": 15,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Drogisterij",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Lichaamsverzorging",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bad En Douche",
+        "path": "../index.json"
+      },
+      {
+        "name": "Douchegel",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "drogisterij/lichaamsverzorging/bad-en-douche"
+  }
+}

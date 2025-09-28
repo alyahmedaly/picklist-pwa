@@ -1,0 +1,72 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Trakteren",
+  "breadcrumbs": "Snoep, chocolade, koek > Trakteren",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "candybars-minis",
+      "displayName": "Candybars Minis",
+      "productCount": 34,
+      "filePath": "candybars-minis.jsonl",
+      "indexPath": "candybars-minis-index.json",
+      "statsPath": "candybars-minis-stats.json",
+      "averageProtein": 6.8,
+      "halalCompliance": 0
+    },
+    {
+      "name": "uitdeelzakjes",
+      "displayName": "Uitdeelzakjes",
+      "productCount": 22,
+      "filePath": "uitdeelzakjes.jsonl",
+      "indexPath": "uitdeelzakjes-index.json",
+      "statsPath": "uitdeelzakjes-stats.json",
+      "averageProtein": 3.1,
+      "halalCompliance": 18
+    },
+    {
+      "name": "lollies",
+      "displayName": "Lollies",
+      "productCount": 10,
+      "filePath": "lollies.jsonl",
+      "indexPath": "lollies-index.json",
+      "statsPath": "lollies-stats.json",
+      "averageProtein": 0.4,
+      "halalCompliance": 80
+    },
+    {
+      "name": "mini-snoepjes",
+      "displayName": "Mini Snoepjes",
+      "productCount": 10,
+      "filePath": "mini-snoepjes.jsonl",
+      "indexPath": "mini-snoepjes-index.json",
+      "statsPath": "mini-snoepjes-stats.json",
+      "averageProtein": 3.1,
+      "halalCompliance": 10
+    }
+  ],
+  "totalProducts": 76,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 76,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../index.json"
+      },
+      {
+        "name": "Trakteren",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "snoep-chocolade-koek"
+  }
+}

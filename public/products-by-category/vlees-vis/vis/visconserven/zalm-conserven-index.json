@@ -1,0 +1,119 @@
+[
+  {
+    "id": "147649",
+    "name": "John West Vispaté zalm",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533353236?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Zalm (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496462",
+    "name": "John West Twist zalm met citroen & tijm",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373338353533?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Zalm (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1793",
+    "name": "John West Wilde rode zalm",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373339303537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Zalm (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "38218",
+    "name": "John West Wilde rode zalm",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373337383332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Zalm (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1765",
+    "name": "John West Wilde roze zalm",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373337383339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Zalm (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "38213",
+    "name": "John West Wilde roze zalm",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373337383431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Zalm (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485275",
+    "name": "Fish Tales Wilde zalm zonder vel & graat",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036383438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Zalm (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "194159",
+    "name": "John West Wilde roze zalm zonder vel en graat",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373337383031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Zalm (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508388",
+    "name": "Statesman Zalm",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383235373136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Zalm (conserven)"
+    ],
+    "isFood": true
+  }
+]

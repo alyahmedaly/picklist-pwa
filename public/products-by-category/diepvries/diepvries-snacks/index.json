@@ -1,0 +1,71 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "ovensnacks",
+      "displayName": "Ovensnacks",
+      "productCount": 60,
+      "hasSubdirectories": false,
+      "indexPath": "ovensnacks/index.json"
+    },
+    {
+      "name": "maaltijdsnacks",
+      "displayName": "Maaltijdsnacks",
+      "productCount": 35,
+      "hasSubdirectories": true,
+      "indexPath": "maaltijdsnacks/index.json"
+    },
+    {
+      "name": "frituur-snacks",
+      "displayName": "Frituur Snacks",
+      "productCount": 19,
+      "hasSubdirectories": false,
+      "indexPath": "frituur-snacks/index.json"
+    },
+    {
+      "name": "snackbroodjes",
+      "displayName": "Snackbroodjes",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "snackbroodjes/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "mini-pizzas",
+      "displayName": "Mini Pizzas",
+      "productCount": 11,
+      "filePath": "mini-pizzas.jsonl",
+      "indexPath": "mini-pizzas-index.json",
+      "statsPath": "mini-pizzas-stats.json",
+      "averageProtein": 10.2,
+      "halalCompliance": 55
+    }
+  ],
+  "totalProducts": 130,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 130,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Diepvries",
+        "path": "../index.json"
+      },
+      {
+        "name": "Diepvries Snacks",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "diepvries"
+  }
+}

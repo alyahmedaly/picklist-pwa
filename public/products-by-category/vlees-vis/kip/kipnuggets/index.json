@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Vlees, vis > Kip > Kipnuggets",
+  "breadcrumbs": "Vlees, vis > Kip > Kipnuggets",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kipcorn-diepvries",
+      "displayName": "Kipcorn Diepvries",
+      "productCount": 6,
+      "filePath": "kipcorn-diepvries.jsonl",
+      "indexPath": "kipcorn-diepvries-index.json",
+      "statsPath": "kipcorn-diepvries-stats.json",
+      "averageProtein": 13.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kip",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kipnuggets",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/kip"
+  }
+}

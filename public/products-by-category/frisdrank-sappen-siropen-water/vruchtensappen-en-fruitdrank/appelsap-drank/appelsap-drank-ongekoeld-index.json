@@ -1,0 +1,340 @@
+[
+  {
+    "id": "520708",
+    "name": "Appelsientje Fruit & groente appel rode biet framboos",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383736343137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485566",
+    "name": "AH Biologisch 100% Appel mango sap",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2742",
+    "name": "Appelsientje Goudappeltje",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133323937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218326",
+    "name": "Appelsientje Goudappeltje voordeelpak",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561875",
+    "name": "Appelsientje Granny smith",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838363636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "289335",
+    "name": "DubbelFrisss Bubbelfrisss 0% champagne",
+    "price": 3.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373631303135?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124429",
+    "name": "Flevosap Appel",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485573",
+    "name": "AH Appeldrink 10-pack",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "377719",
+    "name": "AH Appelsap",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739363735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "377726",
+    "name": "AH Appelsap",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378030",
+    "name": "AH Appelsap",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485568",
+    "name": "AH Appelsap",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383832393735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "378090",
+    "name": "AH Appelsap 6-pack",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485564",
+    "name": "AH Appelsap troebel",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383739363831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "119824",
+    "name": "AH Biologisch Appelsap",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436180",
+    "name": "Appelsientje Goudappeltje troebel",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238363837?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513097",
+    "name": "Het sapgilde Appel peer zwarte bessensap",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030353131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "377716",
+    "name": "Het sapgilde Appel-perensap",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030353039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403957",
+    "name": "Van de Boom Appel",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230383033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "239500",
+    "name": "Appelsientje Goudappeltje volle smaak",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238373532?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454464",
+    "name": "Appelsientje Goudappeltje volle smaak 6-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238373732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523211",
+    "name": "AH Appelsap 6-pack",
+    "price": 13.05,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383736363436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523161",
+    "name": "AH Biologisch appelsap 6-pack",
+    "price": 13.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383736353934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577714",
+    "name": "Appelsientje 100% sap combi pakket",
+    "price": 7.18,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561876",
+    "name": "Appelsientje Golden delicious",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535303536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195824",
+    "name": "De Appelaere Appelsap",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536333436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Appelsap & drank",
+      "Appelsap & drank (ongekoeld)"
+    ],
+    "isFood": true
+  }
+]

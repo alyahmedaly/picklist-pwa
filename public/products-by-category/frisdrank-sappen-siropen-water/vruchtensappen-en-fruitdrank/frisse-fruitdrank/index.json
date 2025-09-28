@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Vruchtensappen en fruitdrank > Frisse fruitdrank",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Vruchtensappen en fruitdrank > Frisse fruitdrank",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "frisse-fruitdrank-pakken",
+      "displayName": "Frisse Fruitdrank Pakken",
+      "productCount": 63,
+      "filePath": "frisse-fruitdrank-pakken.jsonl",
+      "indexPath": "frisse-fruitdrank-pakken-index.json",
+      "statsPath": "frisse-fruitdrank-pakken-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 84
+    },
+    {
+      "name": "frisse-fruitdrank-flessen",
+      "displayName": "Frisse Fruitdrank Flessen",
+      "productCount": 7,
+      "filePath": "frisse-fruitdrank-flessen.jsonl",
+      "indexPath": "frisse-fruitdrank-flessen-index.json",
+      "statsPath": "frisse-fruitdrank-flessen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 70,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 70,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vruchtensappen En Fruitdrank",
+        "path": "../index.json"
+      },
+      {
+        "name": "Frisse Fruitdrank",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/vruchtensappen-en-fruitdrank"
+  }
+}

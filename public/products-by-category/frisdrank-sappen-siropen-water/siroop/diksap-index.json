@@ -1,0 +1,98 @@
+[
+  {
+    "id": "65726",
+    "name": "AH Biologisch Diksap appel",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303132353338?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Diksap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "133202",
+    "name": "AH Biologisch Diksap appel mandarijn passievrucht",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313632353936?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Diksap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "65727",
+    "name": "AH Biologisch Diksap appel zwarte bes",
+    "price": 3.75,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313832333435?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Diksap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "101176",
+    "name": "AH Biologisch Diksap appel-aardbei",
+    "price": 3.75,
+    "image": "NA",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Diksap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "37598",
+    "name": "Dixap Appel",
+    "price": 4.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Diksap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397343",
+    "name": "Dixap Geel fruit",
+    "price": 4.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373039363737?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Diksap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "397342",
+    "name": "Dixap Zomerfruit",
+    "price": 5.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373039363636?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Diksap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "122768",
+    "name": "Dixap Peer perzik kweepeer",
+    "price": 4.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337323834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Diksap"
+    ],
+    "isFood": true
+  }
+]

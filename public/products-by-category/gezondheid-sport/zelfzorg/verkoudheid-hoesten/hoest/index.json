@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Gezondheid, sport > Zelfzorg > Verkoudheid, hoesten > Hoest",
+  "breadcrumbs": "Gezondheid, sport > Zelfzorg > Verkoudheid, hoesten > Hoest",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "hoestdrank",
+      "displayName": "Hoestdrank",
+      "productCount": 23,
+      "filePath": "hoestdrank.jsonl",
+      "indexPath": "hoestdrank-index.json",
+      "statsPath": "hoestdrank-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 4
+    }
+  ],
+  "totalProducts": 23,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Zelfzorg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Verkoudheid Hoesten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Hoest",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "gezondheid-sport/zelfzorg/verkoudheid-hoesten"
+  }
+}

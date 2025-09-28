@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Aardappelen > Aardappel - ongeschild > Hele aardappel - vastkokend",
+  "breadcrumbs": "Aardappel, groente, fruit > Aardappelen > Aardappel - ongeschild > Hele aardappel - vastkokend",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "aardappel-vastkokend-met-schil",
+      "displayName": "Aardappel Vastkokend Met Schil",
+      "productCount": 6,
+      "filePath": "aardappel-vastkokend-met-schil.jsonl",
+      "indexPath": "aardappel-vastkokend-met-schil-index.json",
+      "statsPath": "aardappel-vastkokend-met-schil-stats.json",
+      "averageProtein": 2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 6,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Aardappelen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Aardappel Ongeschild",
+        "path": "../index.json"
+      },
+      {
+        "name": "Hele Aardappel Vastkokend",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/aardappelen/aardappel-ongeschild"
+  }
+}

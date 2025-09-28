@@ -1,0 +1,170 @@
+[
+  {
+    "id": "494107",
+    "name": "Schär Salti",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373339383637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Glutenvrije crackers, knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228406",
+    "name": "Schär Crackers glutenvrij",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373434373838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Glutenvrije crackers, knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494240",
+    "name": "AH Glutenvrij Vezelrijk knäckebröd",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136313239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Glutenvrije crackers, knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494117",
+    "name": "AH Glutenvrij Vezelrijke kaascrackers",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373430333438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Glutenvrije crackers, knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407835",
+    "name": "Nairn's Originele volkorencrackers glutenvrij",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363932393031?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Glutenvrije crackers, knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581454",
+    "name": "Leev Oatcracker naturel free from gluten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130383230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Glutenvrije crackers, knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407843",
+    "name": "Nairn's Volkoren zadencrackers glutenvrij",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363932393034?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Glutenvrije crackers, knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456008",
+    "name": "Wasa sesame & sea salt glutenvrij",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353532393939?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Glutenvrije crackers, knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581455",
+    "name": "Leev Oatcracker rosemary free from gluten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032383238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Glutenvrije crackers, knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581458",
+    "name": "Nairn's Sourdough flatbreads gluten free",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533323134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Glutenvrije crackers, knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199621",
+    "name": "Schär Fette croccanti",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373536343932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Glutenvrije crackers, knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494118",
+    "name": "AH Glutenvrij Vezelrijke zadencrackers",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933333134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Glutenvrije crackers, knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "228417",
+    "name": "AH Glutenvrij Crackers",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135383939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Glutenvrije crackers, knackebrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "443684",
+    "name": "Schär Knusperbrot dunkel glutenvrij",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373334333336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Glutenvrije crackers, knackebrod"
+    ],
+    "isFood": true
+  }
+]

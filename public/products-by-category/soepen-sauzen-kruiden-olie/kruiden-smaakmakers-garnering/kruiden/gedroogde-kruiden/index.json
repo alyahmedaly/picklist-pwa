@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Kruiden, smaakmakers, garnering > Kruiden > Gedroogde kruiden",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Kruiden, smaakmakers, garnering > Kruiden > Gedroogde kruiden",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "peper-mix",
+      "displayName": "Peper Mix",
+      "productCount": 5,
+      "filePath": "peper-mix.jsonl",
+      "indexPath": "peper-mix-index.json",
+      "statsPath": "peper-mix-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 5,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Kruiden Smaakmakers Garnering",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kruiden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Gedroogde Kruiden",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "soepen-sauzen-kruiden-olie/kruiden-smaakmakers-garnering/kruiden"
+  }
+}

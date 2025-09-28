@@ -1,0 +1,72 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Koudgeperste sappen & smoothies",
+  "breadcrumbs": "Aardappel, groente, fruit > Koudgeperste sappen & smoothies",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "multivruchtensap-vers",
+      "displayName": "Multivruchtensap Vers",
+      "productCount": 38,
+      "filePath": "multivruchtensap-vers.jsonl",
+      "indexPath": "multivruchtensap-vers-index.json",
+      "statsPath": "multivruchtensap-vers-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 95
+    },
+    {
+      "name": "smoothie",
+      "displayName": "Smoothie",
+      "productCount": 37,
+      "filePath": "smoothie.jsonl",
+      "indexPath": "smoothie-index.json",
+      "statsPath": "smoothie-stats.json",
+      "averageProtein": 0.9,
+      "halalCompliance": 92
+    },
+    {
+      "name": "groente-shots-vers",
+      "displayName": "Groente Shots Vers",
+      "productCount": 26,
+      "filePath": "groente-shots-vers.jsonl",
+      "indexPath": "groente-shots-vers-index.json",
+      "statsPath": "groente-shots-vers-stats.json",
+      "averageProtein": 0.4,
+      "halalCompliance": 81
+    },
+    {
+      "name": "sinaasappelsap-jus-dorange-vers",
+      "displayName": "Sinaasappelsap Jus Dorange Vers",
+      "productCount": 6,
+      "filePath": "sinaasappelsap-jus-dorange-vers.jsonl",
+      "indexPath": "sinaasappelsap-jus-dorange-vers-index.json",
+      "statsPath": "sinaasappelsap-jus-dorange-vers-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 107,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 107,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Koudgeperste Sappen Smoothies",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "aardappel-groente-fruit"
+  }
+}

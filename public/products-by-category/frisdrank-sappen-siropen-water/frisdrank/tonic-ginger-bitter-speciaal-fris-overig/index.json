@@ -1,0 +1,106 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Frisdrank > Tonic, ginger, bitter, speciaal fris overig",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Frisdrank > Tonic, ginger, bitter, speciaal fris overig",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "tonic",
+      "displayName": "Tonic",
+      "productCount": 33,
+      "filePath": "tonic.jsonl",
+      "indexPath": "tonic-index.json",
+      "statsPath": "tonic-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 94
+    },
+    {
+      "name": "elderflower-rose-lime",
+      "displayName": "Elderflower Rose Lime",
+      "productCount": 21,
+      "filePath": "elderflower-rose-lime.jsonl",
+      "indexPath": "elderflower-rose-lime-index.json",
+      "statsPath": "elderflower-rose-lime-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "ginger-beer",
+      "displayName": "Ginger Beer",
+      "productCount": 16,
+      "filePath": "ginger-beer.jsonl",
+      "indexPath": "ginger-beer-index.json",
+      "statsPath": "ginger-beer-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 94
+    },
+    {
+      "name": "kombucha",
+      "displayName": "Kombucha",
+      "productCount": 15,
+      "filePath": "kombucha.jsonl",
+      "indexPath": "kombucha-index.json",
+      "statsPath": "kombucha-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "rivella",
+      "displayName": "Rivella",
+      "productCount": 10,
+      "filePath": "rivella.jsonl",
+      "indexPath": "rivella-index.json",
+      "statsPath": "rivella-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "ginger-ale",
+      "displayName": "Ginger Ale",
+      "productCount": 7,
+      "filePath": "ginger-ale.jsonl",
+      "indexPath": "ginger-ale-index.json",
+      "statsPath": "ginger-ale-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "bitter-lemon",
+      "displayName": "Bitter Lemon",
+      "productCount": 5,
+      "filePath": "bitter-lemon.jsonl",
+      "indexPath": "bitter-lemon-index.json",
+      "statsPath": "bitter-lemon-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 107,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 107,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Frisdrank",
+        "path": "../index.json"
+      },
+      {
+        "name": "Tonic Ginger Bitter Speciaal Fris Overig",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/frisdrank"
+  }
+}

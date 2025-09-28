@@ -1,0 +1,74 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "olijfolie",
+      "displayName": "Olijfolie",
+      "productCount": 30,
+      "hasSubdirectories": true,
+      "indexPath": "olijfolie/index.json"
+    },
+    {
+      "name": "azijn",
+      "displayName": "Azijn",
+      "productCount": 27,
+      "hasSubdirectories": false,
+      "indexPath": "azijn/index.json"
+    },
+    {
+      "name": "overige-olie",
+      "displayName": "Overige Olie",
+      "productCount": 8,
+      "hasSubdirectories": false,
+      "indexPath": "overige-olie/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "frituurvet",
+      "displayName": "Frituurvet",
+      "productCount": 10,
+      "filePath": "frituurvet.jsonl",
+      "indexPath": "frituurvet-index.json",
+      "statsPath": "frituurvet-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "zonnebloemolie",
+      "displayName": "Zonnebloemolie",
+      "productCount": 6,
+      "filePath": "zonnebloemolie.jsonl",
+      "indexPath": "zonnebloemolie-index.json",
+      "statsPath": "zonnebloemolie-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 81,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 81,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Olie Frituurvet Azijn",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "pasta-rijst-en-wereldkeuken"
+  }
+}

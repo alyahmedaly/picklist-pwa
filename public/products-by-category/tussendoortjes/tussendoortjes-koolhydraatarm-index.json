@@ -1,0 +1,57 @@
+[
+  {
+    "id": "503785",
+    "name": "Wecare Lower carb bar fudge caramel",
+    "price": 2.07,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639303135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576502",
+    "name": "Wecare Bars crunchy dark choco low sugar",
+    "price": 1.94,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437667",
+    "name": "TastyBasics Repen noten en zaden",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576506",
+    "name": "Wecare Lower carb crispy crackers",
+    "price": 2.27,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (koolhydraatarm)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470015",
+    "name": "Smaakt Pinda pompoenrepen less carb",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136343337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Tussendoortjes",
+      "Tussendoortjes (koolhydraatarm)"
+    ],
+    "isFood": true
+  }
+]

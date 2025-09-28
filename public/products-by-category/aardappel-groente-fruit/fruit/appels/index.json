@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Fruit > Appels",
+  "breadcrumbs": "Aardappel, groente, fruit > Fruit > Appels",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "schaal",
+      "displayName": "Schaal",
+      "productCount": 11,
+      "filePath": "schaal.jsonl",
+      "indexPath": "schaal-index.json",
+      "statsPath": "schaal-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 64
+    },
+    {
+      "name": "los",
+      "displayName": "Los",
+      "productCount": 10,
+      "filePath": "los.jsonl",
+      "indexPath": "los-index.json",
+      "statsPath": "los-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 0
+    },
+    {
+      "name": "zakken-en-boxen",
+      "displayName": "Zakken En Boxen",
+      "productCount": 9,
+      "filePath": "zakken-en-boxen.jsonl",
+      "indexPath": "zakken-en-boxen-index.json",
+      "statsPath": "zakken-en-boxen-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 56
+    }
+  ],
+  "totalProducts": 30,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 30,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Appels",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/fruit"
+  }
+}

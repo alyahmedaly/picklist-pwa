@@ -1,0 +1,84 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "zachte-snoep",
+      "displayName": "Zachte Snoep",
+      "productCount": 205,
+      "hasSubdirectories": false,
+      "indexPath": "zachte-snoep/index.json"
+    },
+    {
+      "name": "harde-snoep",
+      "displayName": "Harde Snoep",
+      "productCount": 29,
+      "hasSubdirectories": false,
+      "indexPath": "harde-snoep/index.json"
+    },
+    {
+      "name": "toffee-fudge-nougat",
+      "displayName": "Toffee Fudge Nougat",
+      "productCount": 11,
+      "hasSubdirectories": false,
+      "indexPath": "toffee-fudge-nougat/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "snoeprollen",
+      "displayName": "Snoeprollen",
+      "productCount": 14,
+      "filePath": "snoeprollen.jsonl",
+      "indexPath": "snoeprollen-index.json",
+      "statsPath": "snoeprollen-stats.json",
+      "averageProtein": 0.4,
+      "halalCompliance": 21
+    },
+    {
+      "name": "snoep-suikerbewust",
+      "displayName": "Snoep Suikerbewust",
+      "productCount": 10,
+      "filePath": "snoep-suikerbewust.jsonl",
+      "indexPath": "snoep-suikerbewust-index.json",
+      "statsPath": "snoep-suikerbewust-stats.json",
+      "averageProtein": 0.7,
+      "halalCompliance": 50
+    },
+    {
+      "name": "spekken",
+      "displayName": "Spekken",
+      "productCount": 10,
+      "filePath": "spekken.jsonl",
+      "indexPath": "spekken-index.json",
+      "statsPath": "spekken-stats.json",
+      "averageProtein": 4,
+      "halalCompliance": 10
+    }
+  ],
+  "totalProducts": 279,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 279,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../index.json"
+      },
+      {
+        "name": "Snoep",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "snoep-chocolade-koek"
+  }
+}

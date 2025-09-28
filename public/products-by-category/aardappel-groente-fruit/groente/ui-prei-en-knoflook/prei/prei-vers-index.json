@@ -1,0 +1,72 @@
+[
+  {
+    "id": "63686",
+    "name": "AH Prei a la creme deelblokjes",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313536383732?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Ui, prei en knoflook",
+      "Prei",
+      "Prei (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186650",
+    "name": "AH Biologisch Prei",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332383739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Ui, prei en knoflook",
+      "Prei",
+      "Prei (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230681",
+    "name": "AH Fijngesneden prei",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532383536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Ui, prei en knoflook",
+      "Prei",
+      "Prei (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "395959",
+    "name": "AH Prei",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933333433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Ui, prei en knoflook",
+      "Prei",
+      "Prei (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171425",
+    "name": "AH Prei",
+    "price": 0.55,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303133303736?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Ui, prei en knoflook",
+      "Prei",
+      "Prei (vers)"
+    ],
+    "isFood": true
+  }
+]

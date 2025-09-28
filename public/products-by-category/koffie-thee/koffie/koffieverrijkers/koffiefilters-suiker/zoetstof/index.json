@@ -1,0 +1,48 @@
+{
+  "categoryPath": "Koffie, thee > Koffie > Koffieverrijkers > Koffiefilters, suiker > Zoetstof",
+  "breadcrumbs": "Koffie, thee > Koffie > Koffieverrijkers > Koffiefilters, suiker > Zoetstof",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "zoetstof-tabletten-vloeibaar",
+      "displayName": "Zoetstof Tabletten Vloeibaar",
+      "productCount": 11,
+      "filePath": "zoetstof-tabletten-vloeibaar.jsonl",
+      "indexPath": "zoetstof-tabletten-vloeibaar-index.json",
+      "statsPath": "zoetstof-tabletten-vloeibaar-stats.json",
+      "averageProtein": 0.7,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 11,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "../../../../index.json"
+      },
+      {
+        "name": "Koffie",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Koffieverrijkers",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Koffiefilters Suiker",
+        "path": "../index.json"
+      },
+      {
+        "name": "Zoetstof",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 5,
+    "parentPath": "koffie-thee/koffie/koffieverrijkers/koffiefilters-suiker"
+  }
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "486977",
+    "name": "AH Diepvries mini snacks",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373632323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Snackbroodjes",
+      "Broodje (snack)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383588",
+    "name": "Topking Vlam panini",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373638313534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Snackbroodjes",
+      "Broodje (snack)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420341",
+    "name": "Mora Broodje cheeseburger",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535303331?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Snackbroodjes",
+      "Broodje (snack)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420342",
+    "name": "Mora Broodje kroketburger",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535303239?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Snackbroodjes",
+      "Broodje (snack)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420344",
+    "name": "Mora Broodje chickenburger",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353735373838?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Snackbroodjes",
+      "Broodje (snack)"
+    ],
+    "isFood": true
+  }
+]

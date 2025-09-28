@@ -1,0 +1,146 @@
+[
+  {
+    "id": "56401",
+    "name": "Choca Vlokken",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Vlokken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493547",
+    "name": "De Ruijter Vlokfeest chocoladevlokken",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037313938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Vlokken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135941",
+    "name": "Venz Rimboe kroko vlokken puur/vanille",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393139333138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Vlokken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135942",
+    "name": "Venz Tijgervlokken melk & vanille",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037383438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Vlokken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "119016",
+    "name": "Choca Vlokmix",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037333939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Vlokken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493646",
+    "name": "De Ruijter Royaal chocolade vlokken extra puur",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037373838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Vlokken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493653",
+    "name": "De Ruijter Chocoladevlokken melk",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037373933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Vlokken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493643",
+    "name": "De Ruijter Chocoladevlokken puur",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037333533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Vlokken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493650",
+    "name": "De Ruijter Witte vlokken",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138323631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Vlokken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440463",
+    "name": "AH Mix vlokken",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030393732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Vlokken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440462",
+    "name": "AH Melk chocolade vlokken",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730313032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Vlokken"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440440",
+    "name": "AH Pure chocolade vlokken",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536323737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Vlokken"
+    ],
+    "isFood": true
+  }
+]

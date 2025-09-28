@@ -1,0 +1,74 @@
+[
+  {
+    "id": "466016",
+    "name": "Innocent Citrus shield",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034323032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Sinaasappelsap, jus d'orange (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454039",
+    "name": "AH Sinaasappelsap",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383732303030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Sinaasappelsap, jus d'orange (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "47354",
+    "name": "AH Vers sap sinaasappel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Sinaasappelsap, jus d'orange (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62198",
+    "name": "AH Vers sap sinaasappel",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Sinaasappelsap, jus d'orange (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202921",
+    "name": "Innocent Orange juice with bits",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633383232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Sinaasappelsap, jus d'orange (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238134",
+    "name": "Innocent Orange juice with bits",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034323033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Sinaasappelsap, jus d'orange (vers)"
+    ],
+    "isFood": true
+  }
+]

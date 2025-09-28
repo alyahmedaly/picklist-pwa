@@ -1,0 +1,74 @@
+[
+  {
+    "id": "560661",
+    "name": "AH Terra Plantaardige kruiden créme",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335303730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor de borrel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497567",
+    "name": "Wildwestland Garlic herb affair",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638333037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor de borrel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498317",
+    "name": "Heks'nkaas Vegan",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor de borrel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509562",
+    "name": "Boursin Plantaardig",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039353032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor de borrel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577263",
+    "name": "Züger Cottage drops",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935333334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor de borrel"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560657",
+    "name": "Paturain Knoflook & fijne kruiden vegan",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230343531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vegetarisch, vegan en plantaardig",
+      "Plantaardige kaas",
+      "Plantaardige kaas voor de borrel"
+    ],
+    "isFood": true
+  }
+]

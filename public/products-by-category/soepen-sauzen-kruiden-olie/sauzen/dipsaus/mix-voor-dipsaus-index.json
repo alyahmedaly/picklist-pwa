@@ -1,0 +1,132 @@
+[
+  {
+    "id": "563601",
+    "name": "Van Wijngaarden's Curry & lemon dipmix",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630373134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Dipsaus",
+      "Mix voor dipsaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563596",
+    "name": "Van Wijngaarden's plantaardige kerrie dipmix",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630373038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Dipsaus",
+      "Mix voor dipsaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140617",
+    "name": "AH Guacamole seasoning mix",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373739313832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Dipsaus",
+      "Mix voor dipsaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563599",
+    "name": "Van Wijngaarden's Paprika & tuinkruiden dipmix",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630373039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Dipsaus",
+      "Mix voor dipsaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563600",
+    "name": "Van Wijngaarden's Cocktail dipmix",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630373131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Dipsaus",
+      "Mix voor dipsaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563597",
+    "name": "Van Wijngaarden's Aioli dipmix",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630373037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Dipsaus",
+      "Mix voor dipsaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563602",
+    "name": "Van Wijngaarden's Peper dipmix",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Dipsaus",
+      "Mix voor dipsaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417524",
+    "name": "Santa Maria Dipsaus mix guacamole",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131353630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Dipsaus",
+      "Mix voor dipsaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563598",
+    "name": "Van Wijngaarden's Groene kruiden dipmix",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393630373130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Dipsaus",
+      "Mix voor dipsaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425971",
+    "name": "Santa Maria Dip mix American ranch",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373331323936?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Dipsaus",
+      "Mix voor dipsaus"
+    ],
+    "isFood": true
+  }
+]

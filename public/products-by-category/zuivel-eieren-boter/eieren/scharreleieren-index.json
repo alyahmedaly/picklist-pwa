@@ -1,0 +1,158 @@
+[
+  {
+    "id": "1521",
+    "name": "AH Scharreleieren M",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Scharreleieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1530",
+    "name": "AH Verse scharreleieren L",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Scharreleieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130274",
+    "name": "AH Verse scharreleieren L XL",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Scharreleieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "33658",
+    "name": "AH Verse scharreleieren M",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Scharreleieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130273",
+    "name": "AH Verse scharreleieren M",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Scharreleieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515281",
+    "name": "AH Verse scharreleieren S",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Scharreleieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197157",
+    "name": "AH Witte scharreleieren",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131303636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Scharreleieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479760",
+    "name": "Natuurfarm de Boed 10 Scharrel Eieren S/M/L",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Scharreleieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "119812",
+    "name": "AH Gekleurde gekookte scharreleieren",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373431383230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Scharreleieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567398",
+    "name": "AH Scharreleieren M 2-pack",
+    "price": 4.16,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135333730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Scharreleieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567385",
+    "name": "AH Verse scharreleieren L/XL 3-pack",
+    "price": 10.52,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236333236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Scharreleieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567399",
+    "name": "AH Verse scharreleieren M 2-pack",
+    "price": 11.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038353931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Scharreleieren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567393",
+    "name": "AH Verse scharreleieren M 3x",
+    "price": 9.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135333634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Eieren",
+      "Scharreleieren"
+    ],
+    "isFood": true
+  }
+]

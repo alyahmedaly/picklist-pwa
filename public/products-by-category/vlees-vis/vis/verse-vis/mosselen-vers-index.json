@@ -1,0 +1,145 @@
+[
+  {
+    "id": "226922",
+    "name": "AH Gekookte mosselen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Mosselen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226968",
+    "name": "AH Verse mosselen",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635343031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Mosselen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230884",
+    "name": "AH Verse mosselen",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635343032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Mosselen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436979",
+    "name": "Fish Tales Verse Zeeuwse mosselen",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839313732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Mosselen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222150",
+    "name": "Prins & Dingemanse Mossel jumbo",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303535343536?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Mosselen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "347385",
+    "name": "Prins & Dingemanse Mossel jumbo",
+    "price": 17.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638323336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Mosselen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "103193",
+    "name": "Prins & Dingemanse Verse mosselen",
+    "price": 15.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Mosselen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577724",
+    "name": "AH Gekookte mosselen 3-pack",
+    "price": 5.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Mosselen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561057",
+    "name": "Prins & Dingemanse Gekookte mosselen in azijn",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233333530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Mosselen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577117",
+    "name": "Prins & Dingemanse Voorgestoomde mosselen mediteraanse saus",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836333338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Mosselen (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577116",
+    "name": "Prins & Dingemanse Voorgestoomde mosselen met currysaus",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839303431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Verse vis",
+      "Mosselen (vers)"
+    ],
+    "isFood": true
+  }
+]

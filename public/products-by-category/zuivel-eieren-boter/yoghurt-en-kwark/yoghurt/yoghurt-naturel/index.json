@@ -1,0 +1,70 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Yoghurt en kwark > Yoghurt > Yoghurt naturel",
+  "breadcrumbs": "Zuivel, eieren, boter > Yoghurt en kwark > Yoghurt > Yoghurt naturel",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "halfvolle-yoghurt",
+      "displayName": "Halfvolle Yoghurt",
+      "productCount": 17,
+      "filePath": "halfvolle-yoghurt.jsonl",
+      "indexPath": "halfvolle-yoghurt-index.json",
+      "statsPath": "halfvolle-yoghurt-stats.json",
+      "averageProtein": 2.5,
+      "halalCompliance": 59
+    },
+    {
+      "name": "volle-yoghurt",
+      "displayName": "Volle Yoghurt",
+      "productCount": 12,
+      "filePath": "volle-yoghurt.jsonl",
+      "indexPath": "volle-yoghurt-index.json",
+      "statsPath": "volle-yoghurt-stats.json",
+      "averageProtein": 3.7,
+      "halalCompliance": 83
+    },
+    {
+      "name": "magere-yoghurt",
+      "displayName": "Magere Yoghurt",
+      "productCount": 11,
+      "filePath": "magere-yoghurt.jsonl",
+      "indexPath": "magere-yoghurt-index.json",
+      "statsPath": "magere-yoghurt-stats.json",
+      "averageProtein": 3.6,
+      "halalCompliance": 73
+    }
+  ],
+  "totalProducts": 40,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 40,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Yoghurt En Kwark",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Yoghurt",
+        "path": "../index.json"
+      },
+      {
+        "name": "Yoghurt Naturel",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "zuivel-eieren-boter/yoghurt-en-kwark/yoghurt"
+  }
+}

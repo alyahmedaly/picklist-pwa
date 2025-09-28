@@ -1,0 +1,60 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "verkoudheid-hoesten",
+      "displayName": "Verkoudheid Hoesten",
+      "productCount": 28,
+      "hasSubdirectories": true,
+      "indexPath": "verkoudheid-hoesten/index.json"
+    },
+    {
+      "name": "weerstand-en-energie-supplementen",
+      "displayName": "Weerstand En Energie Supplementen",
+      "productCount": 25,
+      "hasSubdirectories": false,
+      "indexPath": "weerstand-en-energie-supplementen/index.json"
+    },
+    {
+      "name": "wondverzorging",
+      "displayName": "Wondverzorging",
+      "productCount": 9,
+      "hasSubdirectories": false,
+      "indexPath": "wondverzorging/index.json"
+    },
+    {
+      "name": "ontspanning-en-nachtrust",
+      "displayName": "Ontspanning En Nachtrust",
+      "productCount": 7,
+      "hasSubdirectories": false,
+      "indexPath": "ontspanning-en-nachtrust/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 69,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 69,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Gezondheid Sport",
+        "path": "../index.json"
+      },
+      {
+        "name": "Zelfzorg",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "gezondheid-sport"
+  }
+}

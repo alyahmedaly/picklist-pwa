@@ -1,0 +1,110 @@
+[
+  {
+    "id": "563576",
+    "name": "Peijnenburg Ontbijtkoek dubbel lekker 4-pack",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638343733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456272",
+    "name": "AH Gemberkoek",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136373038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456293",
+    "name": "AH Parelkandijkoek",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "239419",
+    "name": "AH Biologisch Ontbijtkoek naturel ongesneden",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363730333131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563726",
+    "name": "Peijnenburg Ontbijtkoek naturel 10-pack",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638343639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124716",
+    "name": "Peijnenburg Ontbijtkoek naturel 4-pack",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638343730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563574",
+    "name": "Peijnenburg Ontbijtkoek parelkandij 4-pack",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393830373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563555",
+    "name": "Peijnenburg Ontbijtkoek naturel 4-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538313436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - overig"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563554",
+    "name": "Peijnenburg Ontbijtkoek naturel 8-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538313435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - overig"
+    ],
+    "isFood": true
+  }
+]

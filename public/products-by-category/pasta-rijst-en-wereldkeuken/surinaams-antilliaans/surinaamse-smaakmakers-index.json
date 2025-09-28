@@ -1,0 +1,170 @@
+[
+  {
+    "id": "518273",
+    "name": "By Soenil Surinaamse roedjak met ananas",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636313937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse smaakmakers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518353",
+    "name": "By Soenil Surinaamse borreldip",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383636323032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse smaakmakers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553529",
+    "name": "Faja Lobi Satésaus trafasie",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334383434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse smaakmakers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553527",
+    "name": "By Soenil Surinaamse masala saus",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336383336?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse smaakmakers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460781",
+    "name": "Faja Lobi Madam jeanette sambal",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse smaakmakers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460786",
+    "name": "Faja Lobi Bami trafasie",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse smaakmakers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460788",
+    "name": "Faja Lobi Bami trafasie speciaal",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse smaakmakers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460979",
+    "name": "Faja Lobi Javaanse marinade trafasie",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse smaakmakers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "182732",
+    "name": "Faja Lobi Moksie speciaal trafasie",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse smaakmakers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460785",
+    "name": "Faja Lobi Nasi trafasie",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse smaakmakers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460787",
+    "name": "Faja Lobi Nasi trafasie speciaal",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse smaakmakers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216277",
+    "name": "Faja Lobi Roti masala speciaal",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634303338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse smaakmakers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216276",
+    "name": "Faja Lobi Roti masala trafasie",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634333330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse smaakmakers"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165009",
+    "name": "Faja Lobi Trassie trafasie",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Surinaams, Antilliaans",
+      "Surinaamse smaakmakers"
+    ],
+    "isFood": true
+  }
+]

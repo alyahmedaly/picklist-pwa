@@ -1,0 +1,210 @@
+[
+  {
+    "id": "512716",
+    "name": "Weidenaar Fijnproevertjes spaans",
+    "price": 2.99,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564808",
+    "name": "Streeckgenoten Spekrollade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034303539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400613",
+    "name": "Weidenaar Scheurworst",
+    "price": 1.09,
+    "image": "NA",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484059",
+    "name": "Streeckgenoten Friese droge worst",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136333239?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564810",
+    "name": "Streeckgenoten Gerookte boterhamworst",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034303435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484062",
+    "name": "Streeckgenoten Grillworst",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373633?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484063",
+    "name": "Streeckgenoten Katenspek",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138313134?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564806",
+    "name": "Streeckgenoten Grillworst kaas",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564811",
+    "name": "Streeckgenoten Fries gebraden gehakt",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034303434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583775",
+    "name": "Streeckgenoten Boeren gehaktbal",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230333335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566603",
+    "name": "Streeckgenoten Friese grillham",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031363238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484055",
+    "name": "Streeckgenoten Schouderham",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373136323637?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566604",
+    "name": "Streeckgenoten Varkensrollade",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034383639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484057",
+    "name": "Streeckgenoten Groningse leverworst fijn",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373137323930?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566602",
+    "name": "Streeckgenoten Gekruide ham",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135363138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484064",
+    "name": "Streeckgenoten Slagers achterham",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130373631?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Streeckgenoten vleeswaren",
+      "Regio noord vleeswaren"
+    ],
+    "isFood": true
+  }
+]

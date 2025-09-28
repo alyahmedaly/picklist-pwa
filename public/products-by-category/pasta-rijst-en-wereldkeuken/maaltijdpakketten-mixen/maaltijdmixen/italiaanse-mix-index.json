@@ -1,0 +1,275 @@
+[
+  {
+    "id": "46555",
+    "name": "Honig Basis voor tagliatelle roomsaus",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031343730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232605",
+    "name": "Knorr Spaghetteria al pesto",
+    "price": 2.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232612",
+    "name": "Knorr Spaghetteria carbonara",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933333632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440993",
+    "name": "Honig Basis macaroni & spaghetti voordeel",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3472",
+    "name": "Honig Basis voor macaroni en spaghetti",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "377931",
+    "name": "Maggi Roerbakpasta romige kip",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "37912",
+    "name": "Honig Basis voor italiaanse kruidensaus",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "46302",
+    "name": "Honig Basis voor lasagnesaus tradizionale",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031343639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440992",
+    "name": "Honig Basis spaghettisaus bolognese voordeel",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137343938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2110",
+    "name": "Honig Basis voor lasagnesaus",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393039313238?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "37917",
+    "name": "Honig Basis voor macaroni stroganoff",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "37921",
+    "name": "Honig Basis voor spaghettisaus bolognese",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393039313331?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419339",
+    "name": "Knorr Natuurlijk lekker macaroni",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "375195",
+    "name": "Knorr Natuurlijk lekker lasagne mix",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835353136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "30099",
+    "name": "Grand' Italia Besciamella sausmix",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830303338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173552",
+    "name": "Knorr Maaltijdmix tagliatelle",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835343032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164100",
+    "name": "Knorr Maaltijdmix spaghetti bolognese",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164101",
+    "name": "Knorr Maaltijdmix macaroni",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373931363935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188409",
+    "name": "Knorr Maaltijdmix ovenpasta tomaat mozzarella",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839373838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164103",
+    "name": "Knorr Maaltijdmix macaroni carbonara",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393930303333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "375196",
+    "name": "Knorr Natuurlijk lekker spaghetti bolognese",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Italiaanse mix"
+    ],
+    "isFood": true
+  }
+]

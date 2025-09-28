@@ -1,0 +1,302 @@
+[
+  {
+    "id": "570137",
+    "name": "Johma Ham-prei salade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336333438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571544",
+    "name": "AH Ei truffel salade",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437343937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570136",
+    "name": "Johma Kip zoete-chili salade",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336333439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365392",
+    "name": "AH Pastasalade pesto",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732383832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574885",
+    "name": "AH Noodlesalade Asian sesame shrimp",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638313839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574834",
+    "name": "AH Pastasalade avocado kip bacon",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635383038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563781",
+    "name": "AH Pastasalade kip kebab",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536373537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "231840",
+    "name": "AH Kleine salade biet geitenkaas",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538333736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475648",
+    "name": "AH Lunchsalade couscous falafel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131333332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574884",
+    "name": "AH Noodlesalade spicy Korean",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638313838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435208",
+    "name": "AH Kleine salade italiaans",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570130",
+    "name": "AH Kleine salade orzo Mediterraans",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838343630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232065",
+    "name": "AH Lunchsalade kip caesar",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837393537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574883",
+    "name": "AH Kleine salade bulgur aubergine",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633343933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "405210",
+    "name": "AH Kleine salade parelcouscous pesto",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373335363331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365389",
+    "name": "AH Pastasalade tonijn",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580557",
+    "name": "AH Terra Plantaardig noodlesalade Thai chili",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038343132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435122",
+    "name": "AH Kleine salade couscous hummus",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570131",
+    "name": "AH Kleine salade Griekse witte kaas",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335363334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "363508",
+    "name": "AH Kleine salade peulvruchten geitenkaas",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383637383931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554910",
+    "name": "AH Kleine salade mango geitenkaas",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437393338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564706",
+    "name": "AH Terra Plantaardige kleine salade quinoa noten",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393834373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560615",
+    "name": "Kasmi Tonijn pikant salade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438353733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560868",
+    "name": "Streeckgenoten Kip pastasalade",
+    "price": 3.99,
+    "image": "NA",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560869",
+    "name": "Streeckgenoten Macaronisalade",
+    "price": 3.99,
+    "image": "NA",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Kleine salades"
+    ],
+    "isFood": true
+  }
+]

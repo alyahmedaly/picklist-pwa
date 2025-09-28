@@ -1,0 +1,242 @@
+[
+  {
+    "id": "484117",
+    "name": "AH Rainbow cookies",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383733323233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517269",
+    "name": "AH Cookie bites koektoefjes bokkenpootjes",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517267",
+    "name": "AH Cookie bites koektoefjes met citroen",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "514847",
+    "name": "Milka Mini wafers",
+    "price": 1.87,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383534343131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570724",
+    "name": "Verkade Bites chocolade cakejes",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303339383830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517309",
+    "name": "AH Cookie bites choc chip",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383632323236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440742",
+    "name": "AH Mini stroopwafels",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535373833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484021",
+    "name": "Oreo Crunchies dipped",
+    "price": 1.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636383736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517431",
+    "name": "AH Cookie bites confetti koekjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383630353733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517478",
+    "name": "AH Cookie bites karamel koekjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383630353732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484022",
+    "name": "Milka Mini cookies",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363738313730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497468",
+    "name": "AH Oranjekoek stukjes met banketspijs",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535373835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517255",
+    "name": "AH Cookie bites galette wafeltjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738343733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570739",
+    "name": "Verkade Bites sjoko rondjes cacao-hazelnoot",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236303830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171407",
+    "name": "LU Mikado melk chocolade",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130323130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468133",
+    "name": "AH Mini meringues salted caramel",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373134303637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "497422",
+    "name": "Verkade Nizza mini kokos",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373933353235?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493178",
+    "name": "LU Mikado pure chocolade",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836333432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517339",
+    "name": "AH Cookie bites digestives melkchocolade",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484020",
+    "name": "Oreo Crunchies original",
+    "price": 1.42,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230353132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Koek bites"
+    ],
+    "isFood": true
+  }
+]

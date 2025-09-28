@@ -1,0 +1,158 @@
+[
+  {
+    "id": "564346",
+    "name": "AH Kaasplateau borrel",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasplankjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564347",
+    "name": "AH Kaasplateau luxe",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasplankjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564345",
+    "name": "AH Kaasplateau mild",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasplankjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565872",
+    "name": "Tête de moine Tete de Moine rozetten",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234373631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasplankjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577126",
+    "name": "Zanetti Taleggio",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932373731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasplankjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577131",
+    "name": "Berthaut Epoisses",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303831363232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasplankjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577125",
+    "name": "AH Excellent Chabichou 45+",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasplankjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576110",
+    "name": "AH Betaalbare rijpe kaasplank",
+    "price": 16.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasplankjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576111",
+    "name": "AH Betaalbare romige kaasplank",
+    "price": 14.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasplankjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576088",
+    "name": "AH Dessert kaasplank",
+    "price": 21.6,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasplankjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576108",
+    "name": "AH Hollandse kaasplank",
+    "price": 22.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739393537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasplankjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576109",
+    "name": "AH Kleine kaasplank",
+    "price": 9.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739393336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Kaas",
+      "Kaas voor borrel",
+      "Kaasplankjes"
+    ],
+    "isFood": true
+  }
+]

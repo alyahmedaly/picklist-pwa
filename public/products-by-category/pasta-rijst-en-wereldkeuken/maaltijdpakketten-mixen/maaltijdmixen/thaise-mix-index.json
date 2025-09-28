@@ -1,0 +1,93 @@
+[
+  {
+    "id": "449916",
+    "name": "Koh Thai Massaman currypasta",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Thaise mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450179",
+    "name": "Koh Thai Massaman currypasta",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536333532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Thaise mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164957",
+    "name": "Blue Elephant Thaise gele curry pasta",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363635353334?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Thaise mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "368598",
+    "name": "Blue Elephant Pad krapow",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836313437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Thaise mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "161714",
+    "name": "Blue Elephant Thaise rode curry pasta",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363635343937?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Thaise mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553423",
+    "name": "Koh Thai Loempia rijstvellen",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336383531?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Thaise mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449926",
+    "name": "Koh Thai Rijstvellen volkoren",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536333439?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Thaise mix"
+    ],
+    "isFood": true
+  }
+]

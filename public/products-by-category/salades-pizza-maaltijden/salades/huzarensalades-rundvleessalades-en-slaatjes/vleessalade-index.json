@@ -1,0 +1,119 @@
+[
+  {
+    "id": "575889",
+    "name": "Chovi Allioli sriracha",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Vleessalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575886",
+    "name": "AH Kip karamba salade",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832313231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Vleessalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "390005",
+    "name": "AH Rundvleessalade",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933333439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Vleessalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389946",
+    "name": "AH Rundvleessalade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Vleessalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "49322",
+    "name": "Johma Rundvlees salade",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232383737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Vleessalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "38088",
+    "name": "AH Rundvleessalade",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738343039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Vleessalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515262",
+    "name": "AH Pasta ham kaas salade specialiteit",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383531383837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Vleessalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575888",
+    "name": "AH Kipsaté salade",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Vleessalade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197628",
+    "name": "AH Saladeschotel rundvlees",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738343036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Salades",
+      "Huzarensalades, rundvleessalades en slaatjes",
+      "Vleessalade"
+    ],
+    "isFood": true
+  }
+]

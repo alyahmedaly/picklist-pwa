@@ -1,0 +1,134 @@
+[
+  {
+    "id": "217848",
+    "name": "AH Ontbijtkoek naturel gesneden",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - gesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563724",
+    "name": "Peijnenburg Ontbijtkoek naturel gesneden",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638343537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - gesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563725",
+    "name": "Peijnenburg Ontbijtkoek naturel gesneden",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638343636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - gesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217850",
+    "name": "AH Ontbijtkoek volkoren gesneden",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - gesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209333",
+    "name": "Bolletje Ontbijtkoek naturel gesneden",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837313534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - gesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563668",
+    "name": "Peijnenburg Ontbijtkoek volkoren gesneden",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638343538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - gesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "456292",
+    "name": "AH Ontbijtkoek zero gesneden",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - gesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563666",
+    "name": "Peijnenburg Ontbijtkoek naturel gesneden",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538313434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - gesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563667",
+    "name": "Peijnenburg Ontbijtkoek naturel gesneden XL",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538313433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - gesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563553",
+    "name": "Peijnenburg Ontbijtkoek volkoren gesneden",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538313437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - gesneden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "552786",
+    "name": "Peijnenburg Verpakte sneetjes ontbijtkoek zero%",
+    "price": 22.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130343937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtkoek",
+      "Ontbijtkoek - gesneden"
+    ],
+    "isFood": true
+  }
+]

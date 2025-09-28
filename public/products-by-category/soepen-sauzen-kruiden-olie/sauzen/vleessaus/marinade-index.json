@@ -1,0 +1,171 @@
+[
+  {
+    "id": "38438",
+    "name": "Conimex Marinademix saté",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934393033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Marinade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575314",
+    "name": "Sishado Pikante marinde",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631313933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Marinade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577869",
+    "name": "AH Ketjap marinade",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030323334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Marinade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575313",
+    "name": "Sishado Zoet-zout marinade",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Marinade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575315",
+    "name": "Sishado Indo marinade",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Marinade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575514",
+    "name": "Euroma African style BBQ by Jonnie Boer",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Marinade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575371",
+    "name": "Euroma American style BBQ by Jonnie Boer",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Marinade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575515",
+    "name": "Euroma Asian style BBQ by Jonnie Boer",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736373537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Marinade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575495",
+    "name": "Euroma Chinese 5 spices by Jonnie Boer",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Marinade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575502",
+    "name": "Euroma Mexican style BBQ by Jonnie Boer",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Marinade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575499",
+    "name": "Euroma Thai green curry by Jonnie Boer",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734353938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Marinade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575500",
+    "name": "Euroma Zwolsche stoof by Jonnie Boer",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Marinade"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475800",
+    "name": "Sweet Baby Ray's Honey barbecuesaus",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530343838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Vleessaus",
+      "Marinade"
+    ],
+    "isFood": true
+  }
+]

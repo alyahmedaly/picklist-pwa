@@ -1,0 +1,142 @@
+[
+  {
+    "id": "63923",
+    "name": "AH Cola light",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola light & suikervrije flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476710",
+    "name": "AH Cola no sugar",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola light & suikervrije flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2799",
+    "name": "Coca-Cola Light",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030363132?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola light & suikervrije flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566964",
+    "name": "Coca-Cola Zero 1L 6-pack",
+    "price": 13.74,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039343738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola light & suikervrije flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "137739",
+    "name": "Coca-Cola Zero sugar",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030363037?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola light & suikervrije flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "137741",
+    "name": "Coca-Cola Zero sugar",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939383737?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola light & suikervrije flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566974",
+    "name": "Coca-Cola Zero Sugar 1,5L 6-pack",
+    "price": 15.54,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola light & suikervrije flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572502",
+    "name": "Coca-Cola Zero sugar 4-pack",
+    "price": 10.36,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539353933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola light & suikervrije flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436664",
+    "name": "Pepsi Zero",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534323037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola light & suikervrije flessen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477062",
+    "name": "Pepsi Zero",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534323030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flessen",
+      "Cola light & suikervrije flessen"
+    ],
+    "isFood": true
+  }
+]

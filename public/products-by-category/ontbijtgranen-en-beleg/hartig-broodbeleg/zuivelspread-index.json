@@ -1,0 +1,74 @@
+[
+  {
+    "id": "575927",
+    "name": "Garlan Zuivelspread knoflook & kruiden",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638323233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Zuivelspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506230",
+    "name": "AH Zuivelspread knoflook kruiden",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434353139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Zuivelspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506228",
+    "name": "AH Zuivelspread naturel",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434353230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Zuivelspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575949",
+    "name": "Garlan Zuivelspread tomaat & basilicum",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638323230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Zuivelspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583243",
+    "name": "Lindahls Protein+ zuivelspread",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137333432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Zuivelspread"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "506229",
+    "name": "AH Zuivelspread light",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383434353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Zuivelspread"
+    ],
+    "isFood": true
+  }
+]

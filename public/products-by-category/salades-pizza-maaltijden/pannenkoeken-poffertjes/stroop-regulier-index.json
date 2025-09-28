@@ -1,0 +1,62 @@
+[
+  {
+    "id": "563656",
+    "name": "Smoeltjes Speculoos stroop",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Stroop (regulier)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123388",
+    "name": "De Zeeuwse Boerin Keukenstroop",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353932393832?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Stroop (regulier)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407552",
+    "name": "Van Gilse Schenkstroop",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353537343735?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Stroop (regulier)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165946",
+    "name": "Van Gilse Bungel stroopstift",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353932393830?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Stroop (regulier)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407553",
+    "name": "Van Gilse Schenkstroop karamel",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353537353139?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "Pannenkoeken, poffertjes",
+      "Stroop (regulier)"
+    ],
+    "isFood": true
+  }
+]

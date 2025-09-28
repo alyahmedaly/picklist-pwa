@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Kant- en-klaar maaltijden > Oosterse maaltijden",
+  "breadcrumbs": "Salades, pizza, maaltijden > Kant- en-klaar maaltijden > Oosterse maaltijden",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "aziatisch-tafelen",
+      "displayName": "Aziatisch Tafelen",
+      "productCount": 19,
+      "filePath": "aziatisch-tafelen.jsonl",
+      "indexPath": "aziatisch-tafelen-index.json",
+      "statsPath": "aziatisch-tafelen-stats.json",
+      "averageProtein": 5.8,
+      "halalCompliance": 47
+    }
+  ],
+  "totalProducts": 19,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kant Enklaar Maaltijden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Oosterse Maaltijden",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "salades-pizza-maaltijden/kant-enklaar-maaltijden"
+  }
+}

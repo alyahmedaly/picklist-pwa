@@ -1,0 +1,106 @@
+[
+  {
+    "id": "56602",
+    "name": "Topking Vlammetjes",
+    "price": 4.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530323837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Loempia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191459",
+    "name": "Mora Loempia met groenten",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733333333?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Loempia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183225",
+    "name": "AH Loempia met groente",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313738333037?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Loempia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571435",
+    "name": "Duca 6 Vietnamese groente loempia's",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Loempia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191460",
+    "name": "Mora Loempia kip & ham",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535393738?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Loempia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366131",
+    "name": "AH Maaltijd loempia kip ham speciaal",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130383539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Loempia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558569",
+    "name": "Wahid Kip loempia",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836393033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Loempia"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "183226",
+    "name": "AH Wereldse hapjes vietnamese loempia",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535303030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Loempia"
+    ],
+    "isFood": true
+  }
+]

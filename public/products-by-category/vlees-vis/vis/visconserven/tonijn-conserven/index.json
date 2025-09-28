@@ -1,0 +1,90 @@
+{
+  "categoryPath": "Vlees, vis > Vis > Visconserven > Tonijn (conserven)",
+  "breadcrumbs": "Vlees, vis > Vis > Visconserven > Tonijn (conserven)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "tonijn-in-olijfolie",
+      "displayName": "Tonijn In Olijfolie",
+      "productCount": 26,
+      "filePath": "tonijn-in-olijfolie.jsonl",
+      "indexPath": "tonijn-in-olijfolie-index.json",
+      "statsPath": "tonijn-in-olijfolie-stats.json",
+      "averageProtein": 22,
+      "halalCompliance": 96
+    },
+    {
+      "name": "tonijn-in-water",
+      "displayName": "Tonijn In Water",
+      "productCount": 16,
+      "filePath": "tonijn-in-water.jsonl",
+      "indexPath": "tonijn-in-water-index.json",
+      "statsPath": "tonijn-in-water-stats.json",
+      "averageProtein": 24.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "tonijn-met-groente",
+      "displayName": "Tonijn Met Groente",
+      "productCount": 14,
+      "filePath": "tonijn-met-groente.jsonl",
+      "indexPath": "tonijn-met-groente-index.json",
+      "statsPath": "tonijn-met-groente-stats.json",
+      "averageProtein": 10,
+      "halalCompliance": 86
+    },
+    {
+      "name": "tonijn-in-zonnebloemolie",
+      "displayName": "Tonijn In Zonnebloemolie",
+      "productCount": 8,
+      "filePath": "tonijn-in-zonnebloemolie.jsonl",
+      "indexPath": "tonijn-in-zonnebloemolie-index.json",
+      "statsPath": "tonijn-in-zonnebloemolie-stats.json",
+      "averageProtein": 23.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "gemarineerde-tonijn",
+      "displayName": "Gemarineerde Tonijn",
+      "productCount": 6,
+      "filePath": "gemarineerde-tonijn.jsonl",
+      "indexPath": "gemarineerde-tonijn-index.json",
+      "statsPath": "gemarineerde-tonijn-stats.json",
+      "averageProtein": 11.9,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 70,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 70,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Visconserven",
+        "path": "../index.json"
+      },
+      {
+        "name": "Tonijn Conserven",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "vlees-vis/vis/visconserven"
+  }
+}

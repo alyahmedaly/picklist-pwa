@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Worsten > Vegetarische worst",
+  "breadcrumbs": "Vlees, vis > Worsten > Vegetarische worst",
+  "totalProducts": 9,
+  "halalCompliance": 100,
+  "averageProtein": 12.1,
+  "averagePrice": 3.83,
+  "highProteinProducts": 2,
+  "dataQuality": {
+    "withNutrition": 9,
+    "withIngredients": 9,
+    "withHalalCheck": 9
+  }
+}

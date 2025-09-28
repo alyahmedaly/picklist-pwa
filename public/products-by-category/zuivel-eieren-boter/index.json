@@ -1,0 +1,121 @@
+{
+  "categoryPath": "Zuivel, eieren, boter",
+  "breadcrumbs": "Zuivel, eieren, boter",
+  "subdirectories": [
+    {
+      "name": "yoghurt-en-kwark",
+      "displayName": "Yoghurt En Kwark",
+      "productCount": 176,
+      "hasSubdirectories": true,
+      "indexPath": "yoghurt-en-kwark/index.json"
+    },
+    {
+      "name": "boter-en-margarine",
+      "displayName": "Boter En Margarine",
+      "productCount": 119,
+      "hasSubdirectories": true,
+      "indexPath": "boter-en-margarine/index.json"
+    },
+    {
+      "name": "toetjes",
+      "displayName": "Toetjes",
+      "productCount": 96,
+      "hasSubdirectories": true,
+      "indexPath": "toetjes/index.json"
+    },
+    {
+      "name": "melk",
+      "displayName": "Melk",
+      "productCount": 93,
+      "hasSubdirectories": true,
+      "indexPath": "melk/index.json"
+    },
+    {
+      "name": "high-protein-zuivel",
+      "displayName": "High Protein Zuivel",
+      "productCount": 91,
+      "hasSubdirectories": true,
+      "indexPath": "high-protein-zuivel/index.json"
+    },
+    {
+      "name": "zuivel-tussendoortjes",
+      "displayName": "Zuivel Tussendoortjes",
+      "productCount": 87,
+      "hasSubdirectories": false,
+      "indexPath": "zuivel-tussendoortjes/index.json"
+    },
+    {
+      "name": "creme-fraiche-slagroom-kookroom-kokosmelk",
+      "displayName": "Creme Fraiche Slagroom Kookroom Kokosmelk",
+      "productCount": 67,
+      "hasSubdirectories": false,
+      "indexPath": "creme-fraiche-slagroom-kookroom-kokosmelk/index.json"
+    },
+    {
+      "name": "koffiemelk-koffieroom-koffiecreamers",
+      "displayName": "Koffiemelk Koffieroom Koffiecreamers",
+      "productCount": 39,
+      "hasSubdirectories": false,
+      "indexPath": "koffiemelk-koffieroom-koffiecreamers/index.json"
+    },
+    {
+      "name": "chocolademelk",
+      "displayName": "Chocolademelk",
+      "productCount": 36,
+      "hasSubdirectories": false,
+      "indexPath": "chocolademelk/index.json"
+    },
+    {
+      "name": "eieren",
+      "displayName": "Eieren",
+      "productCount": 34,
+      "hasSubdirectories": false,
+      "indexPath": "eieren/index.json"
+    },
+    {
+      "name": "vla-en-pap",
+      "displayName": "Vla En Pap",
+      "productCount": 18,
+      "hasSubdirectories": true,
+      "indexPath": "vla-en-pap/index.json"
+    },
+    {
+      "name": "lactosevrije-zuivel",
+      "displayName": "Lactosevrije Zuivel",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "lactosevrije-zuivel/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "drinkyoghurt",
+      "displayName": "Drinkyoghurt",
+      "productCount": 46,
+      "filePath": "drinkyoghurt.jsonl",
+      "indexPath": "drinkyoghurt-index.json",
+      "statsPath": "drinkyoghurt-stats.json",
+      "averageProtein": 2.9,
+      "halalCompliance": 89
+    }
+  ],
+  "totalProducts": 908,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 908,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

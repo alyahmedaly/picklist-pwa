@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Trakteren > Mini snoepjes",
+  "breadcrumbs": "Snoep, chocolade, koek > Trakteren > Mini snoepjes",
+  "totalProducts": 10,
+  "halalCompliance": 10,
+  "averageProtein": 3.1,
+  "averagePrice": 2.49,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 10,
+    "withIngredients": 10,
+    "withHalalCheck": 10
+  }
+}

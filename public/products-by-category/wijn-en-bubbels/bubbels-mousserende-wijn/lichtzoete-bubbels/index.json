@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Wijn en bubbels > Bubbels, mousserende wijn > Lichtzoete bubbels",
+  "breadcrumbs": "Wijn en bubbels > Bubbels, mousserende wijn > Lichtzoete bubbels",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "hugo-wijncocktail-lichtzoet",
+      "displayName": "Hugo Wijncocktail Lichtzoet",
+      "productCount": 7,
+      "filePath": "hugo-wijncocktail-lichtzoet.jsonl",
+      "indexPath": "hugo-wijncocktail-lichtzoet-index.json",
+      "statsPath": "hugo-wijncocktail-lichtzoet-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Bubbels Mousserende Wijn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Lichtzoete Bubbels",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "wijn-en-bubbels/bubbels-mousserende-wijn"
+  }
+}

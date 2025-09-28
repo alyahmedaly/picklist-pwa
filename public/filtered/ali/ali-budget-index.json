@@ -1,0 +1,3271 @@
+{
+  "products": [
+    {
+      "id": "223450",
+      "name": "Eru Goudkuipje sambal",
+      "price": 1.65,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Smeerkaas"
+      ],
+      "filterScore": 57.925000000000004
+    },
+    {
+      "id": "570108",
+      "name": "Bifi Turkey 3-pack",
+      "price": 1.99,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Droge worst",
+        "Droge worst - snacks"
+      ],
+      "filterScore": 62.074999999999996
+    },
+    {
+      "id": "471311",
+      "name": "Marhaba Rundersalami",
+      "price": 2.29,
+      "categories": [
+        "Vlees, vis",
+        "Halal vlees",
+        "Halal vleeswaren"
+      ],
+      "filterScore": 40.489999999999995
+    },
+    {
+      "id": "188817",
+      "name": "AH Blokkaas komijn 40+ plakken",
+      "price": 2.4,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Plakken kaas",
+        "Gekruide kaas (plakken)"
+      ],
+      "filterScore": 58.5375
+    },
+    {
+      "id": "550273",
+      "name": "AH Rookkaas chili 40+ plakken",
+      "price": 2.49,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Plakken kaas",
+        "Rookkaas (plakken)"
+      ],
+      "filterScore": 59.1975
+    },
+    {
+      "id": "513428",
+      "name": "AH Smeuïge rookkaas 45+ plakken",
+      "price": 2.09,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Plakken kaas",
+        "Rookkaas (plakken)"
+      ],
+      "filterScore": 58.580000000000005
+    },
+    {
+      "id": "397145",
+      "name": "Casa Mayor Geroosterde en Gezouten Zonnebloempitten",
+      "price": 1.65,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Overig noten"
+      ],
+      "filterScore": 59.012499999999996
+    },
+    {
+      "id": "479503",
+      "name": "Cheesepop Cheddar 50+",
+      "price": 2.49,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Cheddar kaas",
+        "Cheddar"
+      ],
+      "filterScore": 55.75666666666666
+    },
+    {
+      "id": "479502",
+      "name": "Cheesepop Gouda 48+",
+      "price": 2.49,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Kaasblokjes"
+      ],
+      "filterScore": 56.866666666666674
+    },
+    {
+      "id": "460784",
+      "name": "Faja Lobi Singh masala",
+      "price": 1.29,
+      "categories": [
+        "Pasta, rijst en wereldkeuken",
+        "Surinaams, Antilliaans",
+        "Surinaamse mix"
+      ],
+      "filterScore": 57.7025
+    },
+    {
+      "id": "416664",
+      "name": "AH Roomboter kaasvlinders extra kaas",
+      "price": 1.55,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Zoutjes",
+        "Kaaszoutjes"
+      ],
+      "filterScore": 57.942499999999995
+    },
+    {
+      "id": "165044",
+      "name": "Eru Prestige",
+      "price": 2.15,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Smeerkaas"
+      ],
+      "filterScore": 58.795
+    },
+    {
+      "id": "199395",
+      "name": "AH Knabbelbacon",
+      "price": 1.29,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Droge worst",
+        "Droge worst - snacks"
+      ],
+      "filterScore": 71.2375
+    },
+    {
+      "id": "121109",
+      "name": "Danish Chef Cheese spread alpenkruiden",
+      "price": 1.59,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Smeerkaas"
+      ],
+      "filterScore": 60.34
+    },
+    {
+      "id": "104452",
+      "name": "Danish Chef Cheese spread naturel",
+      "price": 1.59,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Smeerkaas"
+      ],
+      "filterScore": 60.5125
+    },
+    {
+      "id": "140101",
+      "name": "De Zaanse Hoeve Mild 45+ geraspt",
+      "price": 2.39,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Geraspte kaas"
+      ],
+      "filterScore": 58.57
+    },
+    {
+      "id": "460739",
+      "name": "AH Bleu d'Auvergne kleintje",
+      "price": 1.5,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Blauwe kazen, roquefort, gorgonzola",
+        "Blauwe kaas"
+      ],
+      "filterScore": 60.525
+    },
+    {
+      "id": "506125",
+      "name": "AH Dorblu 50+",
+      "price": 2.39,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Blauwe kazen, roquefort, gorgonzola",
+        "Blauwe kaas"
+      ],
+      "filterScore": 55.28666666666667
+    },
+    {
+      "id": "553821",
+      "name": "AH Fenegriekkaas 48+ plakken",
+      "price": 2.49,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Belegen kaas broodbeleg",
+        "Belegen kaas (plakken)"
+      ],
+      "filterScore": 57.8425
+    },
+    {
+      "id": "577138",
+      "name": "AH Kipgrillworst met Zaanlander kaas",
+      "price": 2.39,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Vleeswaren",
+        "Vleeswaren vers",
+        "Kipfilet en kalkoenfilet (versafdeling)"
+      ],
+      "filterScore": 64.32249999999999
+    },
+    {
+      "id": "483409",
+      "name": "AH Kleintje gatenkaas belegen 45+ plakken",
+      "price": 2,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Belegen kaas broodbeleg",
+        "Belegen kaas (plakken)"
+      ],
+      "filterScore": 54.31
+    },
+    {
+      "id": "557027",
+      "name": "AH Pan-pan 20+ plakken kleintje",
+      "price": 2.26,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Belegen kaas broodbeleg",
+        "Belegen kaas (plakken)"
+      ],
+      "filterScore": 61.99333333333333
+    },
+    {
+      "id": "197172",
+      "name": "De Zaanse Hoeve Mild 30+ geraspt",
+      "price": 2.39,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Geraspte kaas"
+      ],
+      "filterScore": 61.6075
+    },
+    {
+      "id": "197939",
+      "name": "AH Bakcamembert",
+      "price": 1.45,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Witte korst kaas, brie"
+      ],
+      "filterScore": 64.15
+    },
+    {
+      "id": "462469",
+      "name": "AH Griekse feta",
+      "price": 2.29,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Feta, geitenkaas, witte kaas",
+        "Feta"
+      ],
+      "filterScore": 59.2975
+    },
+    {
+      "id": "462468",
+      "name": "AH Griekse feta 2-pack",
+      "price": 2.29,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Feta, geitenkaas, witte kaas",
+        "Feta"
+      ],
+      "filterScore": 59.2975
+    },
+    {
+      "id": "564832",
+      "name": "AH Kipgrillworst pikant",
+      "price": 2.39,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Vleeswaren",
+        "Vleeswaren vers",
+        "Kipfilet en kalkoenfilet (versafdeling)"
+      ],
+      "filterScore": 70.42
+    },
+    {
+      "id": "557024",
+      "name": "AH Zaanlander Belegen 48+ plakken kleintje",
+      "price": 2.45,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Belegen kaas broodbeleg",
+        "Belegen kaas (plakken)"
+      ],
+      "filterScore": 56.36333333333334
+    },
+    {
+      "id": "497578",
+      "name": "Parrano Kaas poeder robusto",
+      "price": 1.89,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Geraspte kaas"
+      ],
+      "filterScore": 59.080000000000005
+    },
+    {
+      "id": "572415",
+      "name": "AH Biologisch Filet americain",
+      "price": 1.99,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Vleeswaren",
+        "Vleeswaren vers",
+        "Filet americain (versafdeling)"
+      ],
+      "filterScore": 59.655
+    },
+    {
+      "id": "400471",
+      "name": "AH Biologisch Italiaanse parmigiano reggiano",
+      "price": 1.85,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Geraspte kaas"
+      ],
+      "filterScore": 58.56
+    },
+    {
+      "id": "462129",
+      "name": "AH Burgerkaas rode cheddar plakken",
+      "price": 2.49,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Cheddar kaas",
+        "Cheddar"
+      ],
+      "filterScore": 56.166666666666664
+    },
+    {
+      "id": "513423",
+      "name": "AH Chilikaas 40+ plakken",
+      "price": 2.49,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Plakken kaas",
+        "Gekruide kaas (plakken)"
+      ],
+      "filterScore": 58.23333333333333
+    },
+    {
+      "id": "567317",
+      "name": "AH Gorgonzola 55+",
+      "price": 2.45,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Blauwe kazen, roquefort, gorgonzola",
+        "Gorgonzola"
+      ],
+      "filterScore": 55.28666666666667
+    },
+    {
+      "id": "562029",
+      "name": "AH Goudse blokjes jong belegen 48+",
+      "price": 2.29,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Kaasblokjes"
+      ],
+      "filterScore": 56.26666666666667
+    },
+    {
+      "id": "557028",
+      "name": "AH Goudse fenegriek 50+ plakken kleintje",
+      "price": 2.3,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Belegen kaas broodbeleg",
+        "Belegen kaas (plakken)"
+      ],
+      "filterScore": 55.93333333333334
+    },
+    {
+      "id": "575816",
+      "name": "AH Grillkaas voor grillen of bakken",
+      "price": 2.49,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Halloumi en grilkaas"
+      ],
+      "filterScore": 61.362500000000004
+    },
+    {
+      "id": "440893",
+      "name": "AH Ossenworst",
+      "price": 1.79,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Vleeswaren",
+        "Vleeswaren voorverpakt",
+        "Ossenworst en tartaar (voorverpakt)"
+      ],
+      "filterScore": 71.11
+    },
+    {
+      "id": "557029",
+      "name": "AH Zaanlander Jong belegen 48+ plakken kleintje",
+      "price": 2.47,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Jong belegen kaas broodbeleg",
+        "Jong belegen kaas (plakken)"
+      ],
+      "filterScore": 56.26666666666667
+    },
+    {
+      "id": "580607",
+      "name": "AH Zaanlander Jong komijn 48+ plakken kleintje",
+      "price": 2.26,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Jonge kaas broodbeleg",
+        "Jonge kaas (plakken)"
+      ],
+      "filterScore": 56.04
+    },
+    {
+      "id": "387497",
+      "name": "Bettine Milde geitenkaas pearls naturel",
+      "price": 2.09,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Geitenkaas broodbeleg",
+        "Verse geitenkaas"
+      ],
+      "filterScore": 58.51
+    },
+    {
+      "id": "444861",
+      "name": "De Zaanse Hoeve Jong 48+ plakken",
+      "price": 2.29,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Jonge kaas broodbeleg",
+        "Jonge kaas (plakken)"
+      ],
+      "filterScore": 56.35999999999999
+    },
+    {
+      "id": "444863",
+      "name": "De Zaanse Hoeve Jong belegen 48+ plakken",
+      "price": 2.39,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Jong belegen kaas broodbeleg",
+        "Jong belegen kaas (plakken)"
+      ],
+      "filterScore": 56.35999999999999
+    },
+    {
+      "id": "132903",
+      "name": "Unox Gelderse rookworst magnetron",
+      "price": 1.79,
+      "categories": [
+        "Vlees, vis",
+        "Rookworst, ragout",
+        "Rookworst"
+      ],
+      "filterScore": 56.129999999999995
+    },
+    {
+      "id": "561340",
+      "name": "Wild West Steak strips",
+      "price": 2.25,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Droge worst",
+        "Droge worst - snacks"
+      ],
+      "filterScore": 71.66499999999999
+    },
+    {
+      "id": "236943",
+      "name": "AH Geitenkaas schijfjes naturel",
+      "price": 2.29,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Plakken kaas",
+        "Geitenkaas (plakken)"
+      ],
+      "filterScore": 58.8775
+    },
+    {
+      "id": "562034",
+      "name": "AH Kaasblokje jong belegen 30+",
+      "price": 2.39,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Kaasblokjes"
+      ],
+      "filterScore": 61.48666666666666
+    },
+    {
+      "id": "460748",
+      "name": "AH Saint Paulin",
+      "price": 1.5,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Rode korst kaas, port salut"
+      ],
+      "filterScore": 60.9075
+    },
+    {
+      "id": "462691",
+      "name": "AH Smeerkaas 20+ sambal",
+      "price": 0.69,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Smeerkaas"
+      ],
+      "filterScore": 66.86250000000001
+    },
+    {
+      "id": "195373",
+      "name": "AH Verse geitenkaas naturel 48+",
+      "price": 1.59,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Geitenkaas broodbeleg",
+        "Verse geitenkaas"
+      ],
+      "filterScore": 58.8775
+    },
+    {
+      "id": "369539",
+      "name": "Maggi Dagschotel broccoli kaas",
+      "price": 1.79,
+      "categories": [
+        "Pasta, rijst en wereldkeuken",
+        "Hollandse keuken",
+        "Nederlandse mixen"
+      ],
+      "filterScore": 64.3
+    },
+    {
+      "id": "33648",
+      "name": "Parrano Geraspte kaas originale",
+      "price": 2.49,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Geraspte kaas"
+      ],
+      "filterScore": 61.2
+    },
+    {
+      "id": "202113",
+      "name": "Parrano Geraspte kaas snippers originale",
+      "price": 2.45,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Geraspte kaas"
+      ],
+      "filterScore": 61.4875
+    },
+    {
+      "id": "121125",
+      "name": "Zanetti Parmigiano Reggiano",
+      "price": 2.49,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Geraspte kaas"
+      ],
+      "filterScore": 59.07333333333333
+    },
+    {
+      "id": "460746",
+      "name": "AH Franse roombrie 60+",
+      "price": 1.5,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Witte korst kaas, brie"
+      ],
+      "filterScore": 54.31
+    },
+    {
+      "id": "195374",
+      "name": "AH Geitenkaas honing schijfjes",
+      "price": 1.59,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Geitenkaas broodbeleg",
+        "Verse geitenkaas"
+      ],
+      "filterScore": 63.405
+    },
+    {
+      "id": "486713",
+      "name": "AH Italiaanse grana padano 32+ flakes",
+      "price": 2.49,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Parmezaanse kaas, grano padano, pecorino",
+        "Grano Padano"
+      ],
+      "filterScore": 56.44
+    },
+    {
+      "id": "513424",
+      "name": "AH Jonge gatenkaas 45+ plakken",
+      "price": 2.49,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Plakken kaas",
+        "Gatenkaas (plakken)"
+      ],
+      "filterScore": 60.5525
+    },
+    {
+      "id": "445416",
+      "name": "AH Scharrel gelderse kipworst",
+      "price": 2.49,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Vleeswaren",
+        "Vleeswaren voorverpakt",
+        "Kipfilet en kalkoenfilet (voorverpakt)"
+      ],
+      "filterScore": 72.1
+    },
+    {
+      "id": "580672",
+      "name": "AH Slagersrookworst kip",
+      "price": 1.49,
+      "categories": [
+        "Vlees, vis",
+        "Rookworst, ragout",
+        "Rookworst"
+      ],
+      "filterScore": 63.394999999999996
+    },
+    {
+      "id": "557032",
+      "name": "AH Zaanlander Jong belegen 35+ plakken kleintje",
+      "price": 2.45,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Jong belegen kaas broodbeleg",
+        "Jong belegen kaas (plakken)"
+      ],
+      "filterScore": 59.580000000000005
+    },
+    {
+      "id": "583242",
+      "name": "Lindahls Protein+ gouda jong 30+ plakken",
+      "price": 2.39,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Jonge kaas broodbeleg",
+        "Jonge kaas (plakken)"
+      ],
+      "filterScore": 64.3625
+    },
+    {
+      "id": "498026",
+      "name": "AH Camembert",
+      "price": 1.95,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Witte korst kaas, brie"
+      ],
+      "filterScore": 56.92666666666667
+    },
+    {
+      "id": "460741",
+      "name": "AH Camembert kleinverpakking",
+      "price": 1.5,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Witte korst kaas, brie"
+      ],
+      "filterScore": 60.685
+    },
+    {
+      "id": "550426",
+      "name": "AH Coulommiers kleintje",
+      "price": 1.5,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Witte korst kaas, brie"
+      ],
+      "filterScore": 60.685
+    },
+    {
+      "id": "480994",
+      "name": "Casa Mayor Gezouten Zonnebloempitten",
+      "price": 0.99,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pitten, zaden en notengarnering",
+        "Pitten (superfoods)"
+      ],
+      "filterScore": 60.06999999999999
+    },
+    {
+      "id": "232018",
+      "name": "AH Emmentaler geraspte kaas",
+      "price": 1.99,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Geraspte kaas"
+      ],
+      "filterScore": 62.275000000000006
+    },
+    {
+      "id": "478023",
+      "name": "AH Geitenkaas 50+ gerijpt",
+      "price": 2.39,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor beleg",
+        "Stukken kaas",
+        "Geitenkaas (stuk)"
+      ],
+      "filterScore": 59.4225
+    },
+    {
+      "id": "460744",
+      "name": "AH Geitenkaas blanc",
+      "price": 1.5,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor beleg",
+        "Stukken kaas",
+        "Geitenkaas (stuk)"
+      ],
+      "filterScore": 59.4225
+    },
+    {
+      "id": "236942",
+      "name": "AH Geitenkaas ongesneden",
+      "price": 1.99,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Geitenkaas broodbeleg",
+        "Verse geitenkaas"
+      ],
+      "filterScore": 59.212500000000006
+    },
+    {
+      "id": "217663",
+      "name": "AH Kruidige pinda, mais en pitten gezouten",
+      "price": 1.49,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 65.1375
+    },
+    {
+      "id": "513429",
+      "name": "AH Mozzarella tostikaas 40+ plakken",
+      "price": 2.49,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Mozzarella, burrata",
+        "Mozzarella"
+      ],
+      "filterScore": 62.04249999999999
+    },
+    {
+      "id": "577136",
+      "name": "AH Varkenslever",
+      "price": 1.99,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Vleeswaren",
+        "Vleeswaren vers",
+        "Traditionele vleeswaren (versafdeling)",
+        "Varkenslever en runderlever (versafdeling)"
+      ],
+      "filterScore": 75.24
+    },
+    {
+      "id": "579435",
+      "name": "AH Kaasfrietjes 25+",
+      "price": 1.99,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Geraspte kaas"
+      ],
+      "filterScore": 63.026666666666664
+    },
+    {
+      "id": "506235",
+      "name": "AH Mozzarella",
+      "price": 0.89,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Mozzarella, burrata",
+        "Mozzarella"
+      ],
+      "filterScore": 60.745000000000005
+    },
+    {
+      "id": "478230",
+      "name": "Apetina White cheese 50% less fat",
+      "price": 2.19,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Feta, geitenkaas, witte kaas",
+        "Witte kaas"
+      ],
+      "filterScore": 66.66749999999999
+    },
+    {
+      "id": "113356",
+      "name": "Eru Kids",
+      "price": 1.65,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Smeerkaas"
+      ],
+      "filterScore": 72.3575
+    },
+    {
+      "id": "123142",
+      "name": "Galbani Mozzarella",
+      "price": 1.54,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Mozzarella, burrata",
+        "Mozzarella"
+      ],
+      "filterScore": 60.91499999999999
+    },
+    {
+      "id": "543189",
+      "name": "AH Corned beef",
+      "price": 2.39,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Vleeswaren beleg",
+        "Corned beef - broodbeleg",
+        "Corned beef (voorverpakt)"
+      ],
+      "filterScore": 69.61749999999999
+    },
+    {
+      "id": "195370",
+      "name": "AH Italiaanse mozzarella",
+      "price": 1.89,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Mozzarella, burrata",
+        "Mozzarella"
+      ],
+      "filterScore": 65.2025
+    },
+    {
+      "id": "1589",
+      "name": "AH Smeuïge pindakaas",
+      "price": 2.49,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Vegetarische pindakaas"
+      ],
+      "filterScore": 61.435
+    },
+    {
+      "id": "497570",
+      "name": "Eru Balans naturel",
+      "price": 1.65,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Smeerkaas"
+      ],
+      "filterScore": 70.3875
+    },
+    {
+      "id": "413377",
+      "name": "Galbani Mozzarella lactosevrij",
+      "price": 1.49,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Lactosevrije kaas"
+      ],
+      "filterScore": 69.54
+    },
+    {
+      "id": "419558",
+      "name": "Goldsteig Mini mozzarella",
+      "price": 1.19,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Mozzarella, burrata",
+        "Mozzarella"
+      ],
+      "filterScore": 60.78
+    },
+    {
+      "id": "122943",
+      "name": "Honig Basis voor boerenomelet",
+      "price": 1.99,
+      "categories": [
+        "Pasta, rijst en wereldkeuken",
+        "Hollandse keuken",
+        "Nederlandse mixen"
+      ],
+      "filterScore": 67.11
+    },
+    {
+      "id": "170117",
+      "name": "Maggi Jus vleesjus",
+      "price": 0.79,
+      "categories": [
+        "Pasta, rijst en wereldkeuken",
+        "Hollandse keuken",
+        "Jus",
+        "Jus rundvlees"
+      ],
+      "filterScore": 64.06750000000001
+    },
+    {
+      "id": "471359",
+      "name": "Marhaba Kalkoenrollade",
+      "price": 2.29,
+      "categories": [
+        "Vlees, vis",
+        "Halal vlees",
+        "Halal vleeswaren"
+      ],
+      "filterScore": 73.83
+    },
+    {
+      "id": "570697",
+      "name": "Mitsuba Streetfood snackmix beef noodles",
+      "price": 1.99,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Borrelnoten"
+      ],
+      "filterScore": 60.57
+    },
+    {
+      "id": "577702",
+      "name": "Saitaku Poke sprinkle",
+      "price": 1.59,
+      "categories": [
+        "Pasta, rijst en wereldkeuken",
+        "Maaltijdpakketten, mixen",
+        "Maaltijdpakketten",
+        "Japans maaltijdpakket"
+      ],
+      "filterScore": 61.3875
+    },
+    {
+      "id": "200106",
+      "name": "Unox Extra magere rookworst magnetron",
+      "price": 2.39,
+      "categories": [
+        "Vlees, vis",
+        "Rookworst, ragout",
+        "Rookworst"
+      ],
+      "filterScore": 63.86
+    },
+    {
+      "id": "559294",
+      "name": "AH Gezouten pistachenoten",
+      "price": 2.35,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pistachenoten"
+      ],
+      "filterScore": 60.714999999999996
+    },
+    {
+      "id": "468240",
+      "name": "AH Honing pinda & cashewnoten",
+      "price": 1.99,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Cashewnoten"
+      ],
+      "filterScore": 61.0125
+    },
+    {
+      "id": "460745",
+      "name": "AH Le Marcaire",
+      "price": 1.5,
+      "categories": [],
+      "filterScore": 59.62
+    },
+    {
+      "id": "461685",
+      "name": "AH Pindakaas naturel",
+      "price": 1.69,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Vegetarische pindakaas"
+      ],
+      "filterScore": 61.17
+    },
+    {
+      "id": "139742",
+      "name": "Duyvis Oven roasted pinda's original",
+      "price": 2.39,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 65.96
+    },
+    {
+      "id": "570696",
+      "name": "Mitsuba Streetfood snackmix Thai green curry",
+      "price": 1.99,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Borrelnoten"
+      ],
+      "filterScore": 60.775000000000006
+    },
+    {
+      "id": "238911",
+      "name": "AH Biologisch Italiaanse mozzarella",
+      "price": 2.49,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Mozzarella, burrata",
+        "Mozzarella"
+      ],
+      "filterScore": 61.3125
+    },
+    {
+      "id": "467585",
+      "name": "AH Dry roast pinda's gezouten",
+      "price": 0.89,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 66.4925
+    },
+    {
+      "id": "559287",
+      "name": "AH Hot mix gezouten",
+      "price": 2.19,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Notenmix"
+      ],
+      "filterScore": 64.38499999999999
+    },
+    {
+      "id": "517273",
+      "name": "AH Multimix paprika smaak",
+      "price": 1.65,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Overig noten"
+      ],
+      "filterScore": 63.542500000000004
+    },
+    {
+      "id": "461686",
+      "name": "AH Pindakaas met stukjes pinda",
+      "price": 2.15,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Vegetarische pindakaas"
+      ],
+      "filterScore": 61.535
+    },
+    {
+      "id": "517287",
+      "name": "AH Zoete suikerpinda's",
+      "price": 0.89,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 60.660000000000004
+    },
+    {
+      "id": "238825",
+      "name": "Chio Borrel bites paprika sweet chili",
+      "price": 2.29,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Borrelnoten"
+      ],
+      "filterScore": 63.192499999999995
+    },
+    {
+      "id": "448358",
+      "name": "AH Pittige snackmix",
+      "price": 2.19,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Overig noten"
+      ],
+      "filterScore": 60.1575
+    },
+    {
+      "id": "560668",
+      "name": "AH Scharrel kipfilet",
+      "price": 1.99,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Vleeswaren",
+        "Vleeswaren voorverpakt",
+        "Kipfilet en kalkoenfilet (voorverpakt)"
+      ],
+      "filterScore": 74.2375
+    },
+    {
+      "id": "133707",
+      "name": "AH Smeuge pindakaas arm in natrium",
+      "price": 2.49,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Natriumarme pindakaas"
+      ],
+      "filterScore": 61.22
+    },
+    {
+      "id": "467587",
+      "name": "AH Suikerpinda's",
+      "price": 1.09,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 61.94
+    },
+    {
+      "id": "165103",
+      "name": "Duyvis Pinda's teriyaki gemarineerd",
+      "price": 2.39,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 66.61749999999999
+    },
+    {
+      "id": "451534",
+      "name": "AH Greenfields Runderrookvlees kleinverpakking",
+      "price": 1.98,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Vleeswaren",
+        "Vleeswaren vers",
+        "Rookvlees (versafdeling)"
+      ],
+      "filterScore": 82.4675
+    },
+    {
+      "id": "467586",
+      "name": "AH Katjang pedis gezouten",
+      "price": 1.39,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 64.42250000000001
+    },
+    {
+      "id": "517239",
+      "name": "AH Multimix asian",
+      "price": 1.65,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Overig noten"
+      ],
+      "filterScore": 64.01
+    },
+    {
+      "id": "517285",
+      "name": "AH Multimix chili smaak",
+      "price": 1.65,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Overig noten"
+      ],
+      "filterScore": 64.8325
+    },
+    {
+      "id": "517257",
+      "name": "AH Multimix tropisch",
+      "price": 1.65,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Overig noten"
+      ],
+      "filterScore": 59.735
+    },
+    {
+      "id": "111105",
+      "name": "AH Pinda's in dop",
+      "price": 2.19,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 63.15
+    },
+    {
+      "id": "426103",
+      "name": "AH Pistache notenmix gezouten",
+      "price": 2.19,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Notenmix"
+      ],
+      "filterScore": 64.5675
+    },
+    {
+      "id": "558552",
+      "name": "AH Scharrel gerookte kipfilet kleintje",
+      "price": 1.99,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Vleeswaren",
+        "Vleeswaren vers",
+        "Kipfilet en kalkoenfilet (versafdeling)"
+      ],
+      "filterScore": 78.9375
+    },
+    {
+      "id": "579437",
+      "name": "AH Smeerkaas naturel 20+",
+      "price": 1.15,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Smeerkaas"
+      ],
+      "filterScore": 67.97749999999999
+    },
+    {
+      "id": "517264",
+      "name": "Chio Borrelbites mix asian",
+      "price": 2.29,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Overig noten"
+      ],
+      "filterScore": 61.7325
+    },
+    {
+      "id": "549777",
+      "name": "Echte Smeerkaas 20+ komijn",
+      "price": 1.29,
+      "categories": [],
+      "filterScore": 68.32249999999999
+    },
+    {
+      "id": "549785",
+      "name": "Echte Smeerkaas 20+ kruiden",
+      "price": 1.29,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Smeerkaas"
+      ],
+      "filterScore": 68.57249999999999
+    },
+    {
+      "id": "549786",
+      "name": "Echte Smeerkaas 20+ naturel",
+      "price": 1.19,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Smeerkaas"
+      ],
+      "filterScore": 68.32249999999999
+    },
+    {
+      "id": "162009",
+      "name": "Wahid Kipfilet naturel",
+      "price": 2.49,
+      "categories": [
+        "Vlees, vis",
+        "Halal vlees",
+        "Halal vleeswaren"
+      ],
+      "filterScore": 74.85499999999999
+    },
+    {
+      "id": "517998",
+      "name": "AH Dunne crackers rozemarijn geitenkaas",
+      "price": 0.99,
+      "categories": [
+        "Bakkerij",
+        "Crackers",
+        "Ontbijtcrackers"
+      ],
+      "filterScore": 65.305
+    },
+    {
+      "id": "481414",
+      "name": "AH Gerookte zalm",
+      "price": 0.89,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Verse vis",
+        "Zalm (vers)",
+        "Verse zalmfilet"
+      ],
+      "filterScore": 62.27
+    },
+    {
+      "id": "559251",
+      "name": "AH Gesuikerde pinda's",
+      "price": 2.19,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 62.485
+    },
+    {
+      "id": "458823",
+      "name": "AH Gezouten cashewnoten",
+      "price": 2.39,
+      "categories": [],
+      "filterScore": 60.825
+    },
+    {
+      "id": "559256",
+      "name": "AH Gezouten katjang pedis",
+      "price": 2.19,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 64.36
+    },
+    {
+      "id": "426105",
+      "name": "AH Olijven notenmix gezouten",
+      "price": 2.19,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Notenmix"
+      ],
+      "filterScore": 63.85999999999999
+    },
+    {
+      "id": "467516",
+      "name": "AH Spicy cashew & pindamix gezouten",
+      "price": 1.99,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Cashewnoten"
+      ],
+      "filterScore": 63.54
+    },
+    {
+      "id": "471360",
+      "name": "Marhaba Kipfilet",
+      "price": 2.49,
+      "categories": [
+        "Vlees, vis",
+        "Halal vlees",
+        "Halal vleeswaren"
+      ],
+      "filterScore": 82.03999999999999
+    },
+    {
+      "id": "414990",
+      "name": "Verstegen Mix voor gehakt bretons",
+      "price": 1.69,
+      "categories": [
+        "Soepen, sauzen, kruiden, olie",
+        "Kruiden, smaakmakers, garnering",
+        "Kruiden",
+        "Vleeskruiden"
+      ],
+      "filterScore": 67.6925
+    },
+    {
+      "id": "217671",
+      "name": "AH Pepitamix gezouten",
+      "price": 1.39,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Notenmix"
+      ],
+      "filterScore": 66.1875
+    },
+    {
+      "id": "458836",
+      "name": "AH Pistachenoten gezouten",
+      "price": 1.99,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pistachenoten"
+      ],
+      "filterScore": 64.4225
+    },
+    {
+      "id": "558553",
+      "name": "AH Scharrel kipfilet",
+      "price": 1.99,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Vleeswaren",
+        "Vleeswaren vers",
+        "Kipfilet en kalkoenfilet (versafdeling)"
+      ],
+      "filterScore": 81.57499999999999
+    },
+    {
+      "id": "457475",
+      "name": "AH Terra Plantaardige spekreepjes",
+      "price": 1.99,
+      "categories": [
+        "Vegetarisch, vegan en plantaardig",
+        "Vegetarische en plantaardige vleeswaren",
+        "Plantaardige vleeswaren"
+      ],
+      "filterScore": 73.8475
+    },
+    {
+      "id": "518840",
+      "name": "Body & Fit Smart protein chips paprika flavour",
+      "price": 1.69,
+      "categories": [
+        "Gezondheid, sport",
+        "Dieetvoeding",
+        "Gezonde snacks"
+      ],
+      "filterScore": 68.0925
+    },
+    {
+      "id": "521767",
+      "name": "Body & Fit Smart protein chips sour cream & onion",
+      "price": 1.69,
+      "categories": [
+        "Gezondheid, sport",
+        "Dieetvoeding",
+        "Gezonde snacks"
+      ],
+      "filterScore": 68.41
+    },
+    {
+      "id": "575898",
+      "name": "Galbani Mozzarella fio di Latte",
+      "price": 1.72,
+      "categories": [],
+      "filterScore": 65.30250000000001
+    },
+    {
+      "id": "518779",
+      "name": "The Organic Crave Protein chips salt & pepper",
+      "price": 1.69,
+      "categories": [
+        "Gezondheid, sport",
+        "Dieetvoeding",
+        "Gezonde snacks"
+      ],
+      "filterScore": 66.4875
+    },
+    {
+      "id": "517329",
+      "name": "AH Multimix BBQ stijl",
+      "price": 1.65,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Overig noten"
+      ],
+      "filterScore": 64.45750000000001
+    },
+    {
+      "id": "38403",
+      "name": "Conimex Bami kruidenmix",
+      "price": 0.99,
+      "categories": [
+        "Soepen, sauzen, kruiden, olie",
+        "Kruiden, smaakmakers, garnering",
+        "Kruiden",
+        "Maaltijd Kruidenmixen"
+      ],
+      "filterScore": 65.08999999999999
+    },
+    {
+      "id": "53862",
+      "name": "Honig Basis voor roerbakmie",
+      "price": 1.99,
+      "categories": [
+        "Pasta, rijst en wereldkeuken",
+        "Maaltijdpakketten, mixen",
+        "Maaltijdpakketten",
+        "Chinees maaltijdpakket"
+      ],
+      "filterScore": 68.1925
+    },
+    {
+      "id": "215238",
+      "name": "Honig Maaltijdsoep basis voor erwtensoep",
+      "price": 1.99,
+      "categories": [
+        "Soepen, sauzen, kruiden, olie",
+        "Soepen",
+        "Soep (zelf bereiden)",
+        "Tomatensoep (zelf bereiden)"
+      ],
+      "filterScore": 68.55
+    },
+    {
+      "id": "518720",
+      "name": "The Organic Crave Protein chips sour cream & onion",
+      "price": 1.69,
+      "categories": [
+        "Gezondheid, sport",
+        "Dieetvoeding",
+        "Gezonde snacks"
+      ],
+      "filterScore": 65.59
+    },
+    {
+      "id": "559253",
+      "name": "AH Gezouten pinda's",
+      "price": 2.19,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 63.595
+    },
+    {
+      "id": "559258",
+      "name": "AH Huismix gezouten",
+      "price": 2.39,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Notenmix"
+      ],
+      "filterScore": 60.6075
+    },
+    {
+      "id": "367768",
+      "name": "AH Kipkrokant",
+      "price": 1.19,
+      "categories": [
+        "Diepvries",
+        "Diepvries snacks",
+        "Frituur snacks",
+        "Kipnuggets/kipfingers (frituur)"
+      ],
+      "filterScore": 64.285
+    },
+    {
+      "id": "397898",
+      "name": "AH Ongebrande cashewnoten",
+      "price": 2.45,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Cashewnoten"
+      ],
+      "filterScore": 62.0025
+    },
+    {
+      "id": "458839",
+      "name": "AH Ongezouten cashewnoten",
+      "price": 2.39,
+      "categories": [],
+      "filterScore": 60.239999999999995
+    },
+    {
+      "id": "559291",
+      "name": "AH Ongezouten cashewnoten",
+      "price": 2.49,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Cashewnoten"
+      ],
+      "filterScore": 61.339999999999996
+    },
+    {
+      "id": "549766",
+      "name": "AH Rundergehakt",
+      "price": 2.29,
+      "categories": [
+        "Vlees, vis",
+        "Rundvlees",
+        "Rundergehakt"
+      ],
+      "filterScore": 59.805
+    },
+    {
+      "id": "198170",
+      "name": "Chan's Asi no moto",
+      "price": 0.75,
+      "categories": [
+        "Pasta, rijst en wereldkeuken",
+        "Surinaams, Antilliaans",
+        "Surinaamse mix"
+      ],
+      "filterScore": 74.2525
+    },
+    {
+      "id": "173422",
+      "name": "Duyvis Peanuts salted",
+      "price": 2.39,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 63.605000000000004
+    },
+    {
+      "id": "456091",
+      "name": "Molensteen Biologisch Kokosmeel",
+      "price": 2.09,
+      "categories": [],
+      "filterScore": 67.44500000000001
+    },
+    {
+      "id": "202346",
+      "name": "Princes Ansjovisfilets in olijfolie",
+      "price": 2.39,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Ansjovis (conserven)"
+      ],
+      "filterScore": 70.83666666666666
+    },
+    {
+      "id": "565864",
+      "name": "Princes Ansjovisfilets in zonnebloemolie",
+      "price": 1.99,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Ansjovis (conserven)"
+      ],
+      "filterScore": 70.83333333333333
+    },
+    {
+      "id": "195676",
+      "name": "Princes Ansjovisfilets met kappertjes",
+      "price": 2.09,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Ansjovis (conserven)"
+      ],
+      "filterScore": 68.73666666666666
+    },
+    {
+      "id": "518741",
+      "name": "The Organic Crave Protein chips paprika onion",
+      "price": 1.69,
+      "categories": [
+        "Gezondheid, sport",
+        "Dieetvoeding",
+        "Gezonde snacks"
+      ],
+      "filterScore": 66.4475
+    },
+    {
+      "id": "53220",
+      "name": "AH Cocktail garnalen",
+      "price": 2.39,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Verse vis",
+        "Garnalen (vers)"
+      ],
+      "filterScore": 84.44
+    },
+    {
+      "id": "518044",
+      "name": "AH Dunne crackers zaden en pitten",
+      "price": 0.99,
+      "categories": [
+        "Bakkerij",
+        "Crackers",
+        "Ontbijtcrackers"
+      ],
+      "filterScore": 66.2775
+    },
+    {
+      "id": "576349",
+      "name": "AH Ongezouten macadamia mix",
+      "price": 2.49,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Macadamianoten"
+      ],
+      "filterScore": 59.52499999999999
+    },
+    {
+      "id": "467589",
+      "name": "AH Pinda's gezouten",
+      "price": 1.59,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 63.3975
+    },
+    {
+      "id": "467592",
+      "name": "AH Pinda's gezouten",
+      "price": 0.99,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 63.3975
+    },
+    {
+      "id": "128420",
+      "name": "Galbani Mozzarella light",
+      "price": 1.64,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Mozzarella, burrata",
+        "Mozzarella"
+      ],
+      "filterScore": 68.7375
+    },
+    {
+      "id": "496390",
+      "name": "John West Ansjovis zonnebloemolie",
+      "price": 1.59,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Ansjovis (conserven)"
+      ],
+      "filterScore": 73.05
+    },
+    {
+      "id": "218618",
+      "name": "Marhaba Kalkoen bacon",
+      "price": 2.29,
+      "categories": [
+        "Vlees, vis",
+        "Halal vlees",
+        "Halal vleeswaren"
+      ],
+      "filterScore": 79.285
+    },
+    {
+      "id": "426106",
+      "name": "AH Amandelen gezouten",
+      "price": 1.49,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Amandelen"
+      ],
+      "filterScore": 61.0625
+    },
+    {
+      "id": "375962",
+      "name": "AH Amandelen met rooksmaak gezouten",
+      "price": 1.49,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Amandelen"
+      ],
+      "filterScore": 61.2325
+    },
+    {
+      "id": "559254",
+      "name": "AH Ongezouten pinda's",
+      "price": 2.19,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 63.6025
+    },
+    {
+      "id": "520117",
+      "name": "AH Ongezouten pistaches",
+      "price": 1.99,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pistachenoten"
+      ],
+      "filterScore": 62.912499999999994
+    },
+    {
+      "id": "467588",
+      "name": "AH Pinda's ongezouten",
+      "price": 0.99,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 63.6025
+    },
+    {
+      "id": "441350",
+      "name": "Van der Meulen Melba toast meergranen",
+      "price": 1.55,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Toastjes",
+        "Toast"
+      ],
+      "filterScore": 66.365
+    },
+    {
+      "id": "570305",
+      "name": "Zonnatura Cashew & cranberry notenreep",
+      "price": 1.99,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Fruit, noten, haver, mueslirepen",
+        "Notenrepen"
+      ],
+      "filterScore": 62.93000000000001
+    },
+    {
+      "id": "168514",
+      "name": "Zonnatura Crunch pinda repen",
+      "price": 1.79,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Fruit, noten, haver, mueslirepen",
+        "Notenrepen"
+      ],
+      "filterScore": 62.5275
+    },
+    {
+      "id": "559289",
+      "name": "AH Cranberry & pinda mix",
+      "price": 2.49,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 63.0575
+    },
+    {
+      "id": "217701",
+      "name": "AH Cranberry notenmix ongezouten",
+      "price": 1.69,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Notenmix"
+      ],
+      "filterScore": 61.025
+    },
+    {
+      "id": "559257",
+      "name": "AH Huismix ongezouten",
+      "price": 2.39,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Notenmix"
+      ],
+      "filterScore": 60.355000000000004
+    },
+    {
+      "id": "426104",
+      "name": "AH Macadamia mix gezouten",
+      "price": 2.19,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Notenmix"
+      ],
+      "filterScore": 60.982499999999995
+    },
+    {
+      "id": "582889",
+      "name": "AH Pinda's ongezouten",
+      "price": 1.79,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 63.6375
+    },
+    {
+      "id": "524470",
+      "name": "AH Proteine crisps sweet chili",
+      "price": 1.69,
+      "categories": [
+        "Gezondheid, sport",
+        "Dieetvoeding",
+        "Gezonde snacks"
+      ],
+      "filterScore": 66.6075
+    },
+    {
+      "id": "559288",
+      "name": "AH Studentenhaver ongezouten",
+      "price": 2.49,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Notenmix"
+      ],
+      "filterScore": 62.935
+    },
+    {
+      "id": "111121",
+      "name": "AH Walnoten",
+      "price": 2.09,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Walnoten"
+      ],
+      "filterScore": 52.905
+    },
+    {
+      "id": "570104",
+      "name": "John West Makreel olie",
+      "price": 2.19,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Makreel (conserven)"
+      ],
+      "filterScore": 60.60999999999999
+    },
+    {
+      "id": "183216",
+      "name": "Zonnatura Amandel notenreep",
+      "price": 1.99,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Fruit, noten, haver, mueslirepen",
+        "Notenrepen"
+      ],
+      "filterScore": 65.5575
+    },
+    {
+      "id": "503772",
+      "name": "AH Koolhydraat verlaagd meerzaden half",
+      "price": 1.59,
+      "categories": [
+        "Bakkerij",
+        "Brood",
+        "Koolhydraatarm brood"
+      ],
+      "filterScore": 68.4025
+    },
+    {
+      "id": "426102",
+      "name": "AH Notenmix ongezouten",
+      "price": 2.19,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Notenmix"
+      ],
+      "filterScore": 57.3375
+    },
+    {
+      "id": "412929",
+      "name": "AH Ongebrande walnoten",
+      "price": 2.29,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Walnoten"
+      ],
+      "filterScore": 53.2275
+    },
+    {
+      "id": "559293",
+      "name": "AH Walnoten",
+      "price": 2.49,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Walnoten"
+      ],
+      "filterScore": 53.2275
+    },
+    {
+      "id": "583241",
+      "name": "Echte Smeerkaas Proteine",
+      "price": 1.89,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Hartig broodbeleg",
+        "Smeerkaas"
+      ],
+      "filterScore": 70.3275
+    },
+    {
+      "id": "570103",
+      "name": "John West Makreel water",
+      "price": 2.19,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Makreel (conserven)"
+      ],
+      "filterScore": 69.76333333333334
+    },
+    {
+      "id": "537038",
+      "name": "John West Sardines extra vierge olijfolie",
+      "price": 2.29,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Sardines (conserven)"
+      ],
+      "filterScore": 62.89333333333334
+    },
+    {
+      "id": "537035",
+      "name": "John West Sardines olie",
+      "price": 1.99,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Sardines (conserven)"
+      ],
+      "filterScore": 62.89333333333334
+    },
+    {
+      "id": "537036",
+      "name": "John West Sardines olijfolie",
+      "price": 1.99,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Sardines (conserven)"
+      ],
+      "filterScore": 62.89333333333334
+    },
+    {
+      "id": "537039",
+      "name": "John West Sardines tomatensaus",
+      "price": 1.99,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Sardines (conserven)"
+      ],
+      "filterScore": 75.43249999999999
+    },
+    {
+      "id": "37506",
+      "name": "Knorr Smaakverfijner aromat natriumarm",
+      "price": 2.49,
+      "categories": [
+        "Soepen, sauzen, kruiden, olie",
+        "Kruiden, smaakmakers, garnering",
+        "Kruiden",
+        "Aromat"
+      ],
+      "filterScore": 67.565
+    },
+    {
+      "id": "226267",
+      "name": "Statesman Sardines in zonnebloemolie",
+      "price": 1.79,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Sardines (conserven)"
+      ],
+      "filterScore": 68.27
+    },
+    {
+      "id": "170090",
+      "name": "AH Geroosterde salade pittenmix",
+      "price": 1.49,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pitten, zaden en notengarnering",
+        "Pittenmix"
+      ],
+      "filterScore": 63.145
+    },
+    {
+      "id": "455671",
+      "name": "AH Knäckebröd pompoenpit",
+      "price": 1.59,
+      "categories": [
+        "Bakkerij",
+        "Crackers",
+        "Knackebrod"
+      ],
+      "filterScore": 61.015
+    },
+    {
+      "id": "183027",
+      "name": "AH Koolhydraat verlaagd volkoren half",
+      "price": 1.99,
+      "categories": [
+        "Bakkerij",
+        "Brood",
+        "Koolhydraatarm brood"
+      ],
+      "filterScore": 68.0525
+    },
+    {
+      "id": "397829",
+      "name": "AH Notenmix ongebrand",
+      "price": 2.49,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Notenmix"
+      ],
+      "filterScore": 58.9975
+    },
+    {
+      "id": "576339",
+      "name": "Clif Bar Chocolate chip",
+      "price": 2.49,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Fruit, noten, haver, mueslirepen",
+        "Mueslirepen, havermoutrepen"
+      ],
+      "filterScore": 65.6275
+    },
+    {
+      "id": "198368",
+      "name": "Morjon Sardines in soja olie",
+      "price": 1.49,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Sardines (conserven)"
+      ],
+      "filterScore": 62.89333333333334
+    },
+    {
+      "id": "456417",
+      "name": "AH Dunne crackers spelt",
+      "price": 2.49,
+      "categories": [
+        "Bakkerij",
+        "Crackers",
+        "Ontbijtcrackers"
+      ],
+      "filterScore": 64.39
+    },
+    {
+      "id": "553424",
+      "name": "AH Nori vellen",
+      "price": 2.29,
+      "categories": [
+        "Pasta, rijst en wereldkeuken",
+        "Oosterse keuken",
+        "Japans",
+        "Sushi benodigdheden"
+      ],
+      "filterScore": 71.4325
+    },
+    {
+      "id": "564870",
+      "name": "AH Terra Plantaardige mini frikandel",
+      "price": 1.99,
+      "categories": [
+        "Vegetarisch, vegan en plantaardig",
+        "Vega(n) Snacks"
+      ],
+      "filterScore": 66.9925
+    },
+    {
+      "id": "161494",
+      "name": "AH Zonnebloempitten",
+      "price": 2.39,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pitten, zaden en notengarnering",
+        "Overige pitten"
+      ],
+      "filterScore": 62.64
+    },
+    {
+      "id": "496942",
+      "name": "Princes Tonijnstukken in zonnebloemolie",
+      "price": 2.39,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Tonijn (conserven)",
+        "Tonijn in zonnebloemolie"
+      ],
+      "filterScore": 71.32333333333334
+    },
+    {
+      "id": "451669",
+      "name": "Statesman Tonijn stukken in olijfolie",
+      "price": 2.49,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Tonijn (conserven)",
+        "Tonijn in olijfolie"
+      ],
+      "filterScore": 71.32333333333334
+    },
+    {
+      "id": "420788",
+      "name": "Statesman Tonijn stukken in zonnebloemolie",
+      "price": 1.79,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Tonijn (conserven)",
+        "Tonijn in zonnebloemolie"
+      ],
+      "filterScore": 71.32333333333334
+    },
+    {
+      "id": "161499",
+      "name": "AH Amandelschaafsel",
+      "price": 1.99,
+      "categories": [
+        "Bakkerij",
+        "Bakproducten",
+        "Toevoegingen, toppings, versiering",
+        "Noten garnering"
+      ],
+      "filterScore": 58.64
+    },
+    {
+      "id": "438895",
+      "name": "AH Amandelstiften",
+      "price": 1.99,
+      "categories": [
+        "Bakkerij",
+        "Bakproducten",
+        "Toevoegingen, toppings, versiering",
+        "Taart decoratie"
+      ],
+      "filterScore": 58.540000000000006
+    },
+    {
+      "id": "562337",
+      "name": "AH Excellent Ultimate kipburger",
+      "price": 2.39,
+      "categories": [],
+      "filterScore": 68.36
+    },
+    {
+      "id": "559295",
+      "name": "AH Geroosterde amandelen ongezouten",
+      "price": 2.49,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Amandelen"
+      ],
+      "filterScore": 61.9275
+    },
+    {
+      "id": "456078",
+      "name": "AH Meerzadenbeschuit",
+      "price": 2.19,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Beschuiten",
+        "Beschuit"
+      ],
+      "filterScore": 66.09
+    },
+    {
+      "id": "447633",
+      "name": "AH Ongebrande amandelen",
+      "price": 1.99,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Amandelen"
+      ],
+      "filterScore": 61.75749999999999
+    },
+    {
+      "id": "509517",
+      "name": "AH Protein maiswafels",
+      "price": 1.49,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Crackers, rijstwafels",
+        "Maiswafels"
+      ],
+      "filterScore": 66.625
+    },
+    {
+      "id": "456077",
+      "name": "AH Spelt Beschuit",
+      "price": 2.19,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Beschuiten",
+        "Beschuit"
+      ],
+      "filterScore": 63.8475
+    },
+    {
+      "id": "572430",
+      "name": "AH Terra Biologische gerookte tofu",
+      "price": 1.99,
+      "categories": [
+        "Vegetarisch, vegan en plantaardig",
+        "Tofu, tempeh, seitan",
+        "Tofu"
+      ],
+      "filterScore": 67.88
+    },
+    {
+      "id": "397372",
+      "name": "AH Vegetarische balletjes",
+      "price": 1.69,
+      "categories": [
+        "Vegetarisch, vegan en plantaardig",
+        "Vleesvervangers",
+        "Falafel, vega balletjes",
+        "Vega Balletjes"
+      ],
+      "filterScore": 72.4975
+    },
+    {
+      "id": "482834",
+      "name": "AH Vegetarische balletjes",
+      "price": 2.25,
+      "categories": [
+        "Vegetarisch, vegan en plantaardig",
+        "Vleesvervangers",
+        "Falafel, vega balletjes",
+        "Vega Balletjes"
+      ],
+      "filterScore": 72.39750000000001
+    },
+    {
+      "id": "439403",
+      "name": "Bolletje Oerknack Robuust Volkoren",
+      "price": 2.39,
+      "categories": [
+        "Bakkerij",
+        "Crackers",
+        "Knackebrod"
+      ],
+      "filterScore": 64.955
+    },
+    {
+      "id": "563580",
+      "name": "Bolletje Pro-fit kräckebröd proteïne",
+      "price": 2.19,
+      "categories": [
+        "Bakkerij",
+        "Crackers",
+        "Knackebrod"
+      ],
+      "filterScore": 65.5325
+    },
+    {
+      "id": "565960",
+      "name": "Leev Linzenwafels karamel 3-pack",
+      "price": 2.29,
+      "categories": [
+        "Bakkerij",
+        "Zoete snacks",
+        "Cake (vers)"
+      ],
+      "filterScore": 66.395
+    },
+    {
+      "id": "536151",
+      "name": "AH Eiwitrijke broodjes",
+      "price": 2.49,
+      "categories": [
+        "Bakkerij",
+        "Afbakbrood",
+        "Afbakbroodjes bruin"
+      ],
+      "filterScore": 67.095
+    },
+    {
+      "id": "562338",
+      "name": "AH Excellent Ultimate black garlic kipburger",
+      "price": 2.39,
+      "categories": [],
+      "filterScore": 73.4375
+    },
+    {
+      "id": "483969",
+      "name": "AH Greenfields Rosbief peper kleinverpakking",
+      "price": 1.98,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Vleeswaren",
+        "Vleeswaren vers",
+        "Rosbief en fricandeau (versafdeling)"
+      ],
+      "filterScore": 79.60333333333334
+    },
+    {
+      "id": "524468",
+      "name": "AH Proteine crisps paprika",
+      "price": 1.69,
+      "categories": [
+        "Gezondheid, sport",
+        "Dieetvoeding",
+        "Gezonde snacks"
+      ],
+      "filterScore": 67.69749999999999
+    },
+    {
+      "id": "509630",
+      "name": "AH Stevig eiwitrijk half",
+      "price": 1.55,
+      "categories": [
+        "Bakkerij",
+        "Brood",
+        "Koolhydraatarm brood"
+      ],
+      "filterScore": 67.82499999999999
+    },
+    {
+      "id": "478433",
+      "name": "AH Volkoren bollen",
+      "price": 1.39,
+      "categories": [
+        "Bakkerij",
+        "Afbakbrood",
+        "Afbakbroodjes volkoren"
+      ],
+      "filterScore": 67.0775
+    },
+    {
+      "id": "201956",
+      "name": "Brunswick Canadian style sardines",
+      "price": 1.79,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Sardines (conserven)"
+      ],
+      "filterScore": 71.45
+    },
+    {
+      "id": "496941",
+      "name": "Princes Tonijnstukken in water",
+      "price": 2.39,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Tonijn (conserven)",
+        "Tonijn in water"
+      ],
+      "filterScore": 86.17333333333335
+    },
+    {
+      "id": "420789",
+      "name": "Statesman Tonijn stukken in water",
+      "price": 1.49,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Tonijn (conserven)",
+        "Tonijn in water"
+      ],
+      "filterScore": 86.17333333333335
+    },
+    {
+      "id": "492706",
+      "name": "AH Chiazaad",
+      "price": 1.99,
+      "categories": [
+        "Bakkerij",
+        "Bakproducten",
+        "Toevoegingen, toppings, versiering",
+        "Noten garnering"
+      ],
+      "filterScore": 62.115
+    },
+    {
+      "id": "492704",
+      "name": "AH Lijnzaad",
+      "price": 1.99,
+      "categories": [
+        "Bakkerij",
+        "Bakproducten",
+        "Toevoegingen, toppings, versiering",
+        "Noten garnering"
+      ],
+      "filterScore": 58.515
+    },
+    {
+      "id": "564861",
+      "name": "AH Terra Plantaardig rulgehakt Mexicaans",
+      "price": 2.29,
+      "categories": [
+        "Vegetarisch, vegan en plantaardig",
+        "Vleesvervangers",
+        "Vegetarisch gehakt"
+      ],
+      "filterScore": 82.6425
+    },
+    {
+      "id": "564865",
+      "name": "AH Terra Plantaardige schnitzel",
+      "price": 1.79,
+      "categories": [
+        "Vegetarisch, vegan en plantaardig",
+        "Vleesvervangers",
+        "Vegetarische schnitzel"
+      ],
+      "filterScore": 67.0075
+    },
+    {
+      "id": "471000",
+      "name": "AH Volkoren havermout proteine",
+      "price": 1.99,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Ontbijtgranen",
+        "Havermout en pap",
+        "Havermout",
+        "Havermout (regular)"
+      ],
+      "filterScore": 67.1025
+    },
+    {
+      "id": "465740",
+      "name": "Miras Kikkererwten dubbel geroosterd",
+      "price": 2.39,
+      "categories": [
+        "Aardappel, groente, fruit",
+        "Groente",
+        "Sperziebonen, snijbonen en peulvruchten",
+        "Kikkererwten"
+      ],
+      "filterScore": 67.065
+    },
+    {
+      "id": "564790",
+      "name": "AH Terra Plantaardig rulgehakt Italiaans",
+      "price": 2.29,
+      "categories": [
+        "Vegetarisch, vegan en plantaardig",
+        "Vleesvervangers",
+        "Vegetarisch gehakt"
+      ],
+      "filterScore": 71.4025
+    },
+    {
+      "id": "564794",
+      "name": "AH Terra Plantaardige shoarma",
+      "price": 1.99,
+      "categories": [
+        "Vegetarisch, vegan en plantaardig",
+        "Vleesvervangers",
+        "Vegetarische shoarma, gyros"
+      ],
+      "filterScore": 67.8325
+    },
+    {
+      "id": "126368",
+      "name": "Conimex Djintan",
+      "price": 2.29,
+      "categories": [],
+      "filterScore": 65.255
+    },
+    {
+      "id": "367533",
+      "name": "Morjon Pilchards in tomatensaus",
+      "price": 2.19,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Sardines (conserven)"
+      ],
+      "filterScore": 82.5675
+    },
+    {
+      "id": "507908",
+      "name": "Smaakt Vegan eivervanger",
+      "price": 1.49,
+      "categories": [
+        "Pasta, rijst en wereldkeuken",
+        "Bakbenodigdheden",
+        "Bindmiddel"
+      ],
+      "filterScore": 70.46
+    },
+    {
+      "id": "406403",
+      "name": "TastyBasics Brood lijnzaad",
+      "price": 2.45,
+      "categories": [
+        "Bakkerij",
+        "Brood",
+        "Brood en crackers (koolhydraatarm)"
+      ],
+      "filterScore": 66.54249999999999
+    },
+    {
+      "id": "462246",
+      "name": "Valle del sole Soja stukjes",
+      "price": 1.89,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pitten, zaden en notengarnering",
+        "Zaden (diverse)"
+      ],
+      "filterScore": 74.3925
+    },
+    {
+      "id": "449009",
+      "name": "AH Greenfields Rosbief kleinverpakking",
+      "price": 1.98,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Vleeswaren",
+        "Vleeswaren vers",
+        "Rosbief en fricandeau (versafdeling)"
+      ],
+      "filterScore": 80.07
+    },
+    {
+      "id": "564796",
+      "name": "AH Terra Plantaardig rulgehakt",
+      "price": 1.75,
+      "categories": [
+        "Vegetarisch, vegan en plantaardig",
+        "Vleesvervangers",
+        "Vegetarisch gehakt"
+      ],
+      "filterScore": 82.97
+    },
+    {
+      "id": "564798",
+      "name": "AH Terra Plantaardig rulgehakt",
+      "price": 2.49,
+      "categories": [
+        "Vegetarisch, vegan en plantaardig",
+        "Vleesvervangers",
+        "Vegetarisch gehakt"
+      ],
+      "filterScore": 82.97
+    },
+    {
+      "id": "507903",
+      "name": "Leev Linzenwafels naturel",
+      "price": 2.29,
+      "categories": [
+        "Bakkerij",
+        "Crackers",
+        "Ontbijtcrackers"
+      ],
+      "filterScore": 67.57249999999999
+    },
+    {
+      "id": "569943",
+      "name": "AH Biologisch 100% spelt",
+      "price": 1.99,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Ontbijtgranen",
+        "Graanvlokken, gepoft"
+      ],
+      "filterScore": 65.355
+    },
+    {
+      "id": "569935",
+      "name": "AH Biologisch 100% volkoren haver gepoft",
+      "price": 1.99,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Ontbijtgranen",
+        "Graanvlokken, gepoft"
+      ],
+      "filterScore": 64.18
+    },
+    {
+      "id": "583853",
+      "name": "AH Biologisch Haverzemelen",
+      "price": 2.49,
+      "categories": [
+        "Pasta, rijst en wereldkeuken",
+        "Bakbenodigdheden",
+        "Basismeel, bloem",
+        "Melen (superfood)"
+      ],
+      "filterScore": 66.3625
+    },
+    {
+      "id": "469875",
+      "name": "AH Biologisch Spliterwten",
+      "price": 2.19,
+      "categories": [
+        "Aardappel, groente, fruit",
+        "Groente",
+        "Sperziebonen, snijbonen en peulvruchten"
+      ],
+      "filterScore": 69.5525
+    },
+    {
+      "id": "510687",
+      "name": "Molensteen Haverzemelen",
+      "price": 2.29,
+      "categories": [],
+      "filterScore": 65.33250000000001
+    },
+    {
+      "id": "566104",
+      "name": "Olvarit Kikkererwt knabbels 12m+",
+      "price": 1.29,
+      "categories": [
+        "Baby en kind",
+        "Babyvoeding",
+        "Tussendoortjes (baby en kind)",
+        "Snacks (baby en kind)",
+        "Vanaf 12 maanden"
+      ],
+      "filterScore": 65.2625
+    },
+    {
+      "id": "227860",
+      "name": "Smaakt Volkoren speltmeel",
+      "price": 2.09,
+      "categories": [
+        "Pasta, rijst en wereldkeuken",
+        "Bakbenodigdheden",
+        "Basismeel, bloem",
+        "Melen (superfood)"
+      ],
+      "filterScore": 66.57
+    },
+    {
+      "id": "198409",
+      "name": "Valle del sole Gele spliterwten",
+      "price": 1.99,
+      "categories": [
+        "Aardappel, groente, fruit",
+        "Groente",
+        "Groenteconserven",
+        "Bonen, peulvruchten (conserven)",
+        "Spliterwten",
+        "Gele spliterwten"
+      ],
+      "filterScore": 69.5375
+    },
+    {
+      "id": "198415",
+      "name": "Valle del sole Groene spliterwten",
+      "price": 2.09,
+      "categories": [
+        "Aardappel, groente, fruit",
+        "Groente",
+        "Groenteconserven",
+        "Bonen, peulvruchten (conserven)",
+        "Spliterwten",
+        "Groene spliterwten"
+      ],
+      "filterScore": 69.5375
+    },
+    {
+      "id": "235711",
+      "name": "Valle del sole Groene spliterwten",
+      "price": 1.45,
+      "categories": [
+        "Aardappel, groente, fruit",
+        "Groente",
+        "Groenteconserven",
+        "Bonen, peulvruchten (conserven)",
+        "Spliterwten",
+        "Groene spliterwten"
+      ],
+      "filterScore": 68.99000000000001
+    },
+    {
+      "id": "564894",
+      "name": "AH Terra Plantaardige tempeh",
+      "price": 1.49,
+      "categories": [
+        "Vegetarisch, vegan en plantaardig",
+        "Tofu, tempeh, seitan",
+        "Tempeh"
+      ],
+      "filterScore": 67.305
+    },
+    {
+      "id": "572429",
+      "name": "AH Terra Tempeh",
+      "price": 2.29,
+      "categories": [
+        "Vegetarisch, vegan en plantaardig",
+        "Tofu, tempeh, seitan",
+        "Tempeh"
+      ],
+      "filterScore": 68.055
+    },
+    {
+      "id": "553416",
+      "name": "AH Volkoren woknoedels",
+      "price": 1.15,
+      "categories": [
+        "Pasta, rijst en wereldkeuken",
+        "Pasta, rijst, noedels",
+        "Noedels, mie",
+        "Noedels"
+      ],
+      "filterScore": 66.5025
+    },
+    {
+      "id": "541507",
+      "name": "Leev Kikkererwten wafels",
+      "price": 2.29,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Crackers, rijstwafels",
+        "Rijstwafels"
+      ],
+      "filterScore": 65.3675
+    },
+    {
+      "id": "566103",
+      "name": "Olvarit Erwten knabbels 15m+",
+      "price": 1.29,
+      "categories": [
+        "Baby en kind",
+        "Babyvoeding",
+        "Tussendoortjes (baby en kind)",
+        "Snacks (baby en kind)",
+        "Vanaf 12 maanden"
+      ],
+      "filterScore": 66.1325
+    },
+    {
+      "id": "235715",
+      "name": "Valle del sole Groene linzen",
+      "price": 1.89,
+      "categories": [
+        "Aardappel, groente, fruit",
+        "Groente",
+        "Groenteconserven",
+        "Bonen, peulvruchten (conserven)",
+        "Linzen",
+        "Linzen (gedroogd)"
+      ],
+      "filterScore": 69.5375
+    },
+    {
+      "id": "235717",
+      "name": "Valle del sole Kikkererwten",
+      "price": 1.69,
+      "categories": [
+        "Aardappel, groente, fruit",
+        "Groente",
+        "Sperziebonen, snijbonen en peulvruchten",
+        "Kikkererwten"
+      ],
+      "filterScore": 69.815
+    },
+    {
+      "id": "235716",
+      "name": "Valle del sole Rode splitlinzen",
+      "price": 1.89,
+      "categories": [
+        "Aardappel, groente, fruit",
+        "Groente",
+        "Groenteconserven",
+        "Bonen, peulvruchten (conserven)",
+        "Linzen",
+        "Linzen (gedroogd)"
+      ],
+      "filterScore": 69.725
+    },
+    {
+      "id": "235720",
+      "name": "Valle del sole Zwarte bonen",
+      "price": 1.39,
+      "categories": [
+        "Aardappel, groente, fruit",
+        "Groente",
+        "Sperziebonen, snijbonen en peulvruchten",
+        "Zwarte bonen"
+      ],
+      "filterScore": 69.9625
+    },
+    {
+      "id": "235719",
+      "name": "Valle del sole Zwarte mung splitbonen",
+      "price": 1.99,
+      "categories": [
+        "Aardappel, groente, fruit",
+        "Groente",
+        "Sperziebonen, snijbonen en peulvruchten",
+        "Zwarte bonen"
+      ],
+      "filterScore": 70.55250000000001
+    },
+    {
+      "id": "443202",
+      "name": "AH Biologisch Verse fusilli alle lenticchie",
+      "price": 2.49,
+      "categories": [
+        "Salades, pizza, maaltijden",
+        "Verse pasta en pastasaus",
+        "Verse pasta"
+      ],
+      "filterScore": 68.325
+    },
+    {
+      "id": "469675",
+      "name": "Smaakt Tarwezemelen",
+      "price": 1.25,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Ontbijtgranen",
+        "Zemelen"
+      ],
+      "filterScore": 67.3975
+    },
+    {
+      "id": "235721",
+      "name": "Valle del sole Donkergroene linzen",
+      "price": 1.55,
+      "categories": [
+        "Aardappel, groente, fruit",
+        "Groente",
+        "Groenteconserven",
+        "Bonen, peulvruchten (conserven)",
+        "Linzen",
+        "Linzen (gedroogd)"
+      ],
+      "filterScore": 70.5875
+    },
+    {
+      "id": "188818",
+      "name": "AH Rookkaas naturel 45+ plakken",
+      "price": 2.29,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Plakken kaas",
+        "Rookkaas (plakken)"
+      ],
+      "filterScore": 58.6325
+    },
+    {
+      "id": "47131",
+      "name": "Apetina White cheese",
+      "price": 2.19,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor maaltijden",
+        "Feta, geitenkaas, witte kaas",
+        "Witte kaas"
+      ],
+      "filterScore": 56.55666666666667
+    },
+    {
+      "id": "454102",
+      "name": "Babybel Original mini",
+      "price": 1.99,
+      "categories": [
+        "Ontbijtgranen en beleg",
+        "Kaas beleg",
+        "Kaas (portieverpakking)"
+      ],
+      "filterScore": 57.723333333333336
+    },
+    {
+      "id": "201935",
+      "name": "Brunswick Sardines hot peppers",
+      "price": 1.79,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Sardines (conserven)"
+      ],
+      "filterScore": 71.54333333333334
+    },
+    {
+      "id": "167135",
+      "name": "Duyvis Pinda's ongezouten",
+      "price": 2.39,
+      "categories": [
+        "Chips, noten, toast, popcorn",
+        "Noten",
+        "Pinda's"
+      ],
+      "filterScore": 63.71000000000001
+    },
+    {
+      "id": "223394",
+      "name": "Fish Tales Witte tonijn in water",
+      "price": 2.49,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Tonijn (conserven)",
+        "Tonijn in water"
+      ],
+      "filterScore": 82.5275
+    },
+    {
+      "id": "560687",
+      "name": "Livradois Bleu d'auvergne AOP 50+",
+      "price": 2.49,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Blauwe kazen, roquefort, gorgonzola",
+        "Blauwe kaas"
+      ],
+      "filterScore": 60.3925
+    },
+    {
+      "id": "478351",
+      "name": "Président Mini brie",
+      "price": 2.19,
+      "categories": [
+        "Kaas, vleeswaren, tapas",
+        "Kaas",
+        "Kaas voor borrel",
+        "Witte korst kaas, brie"
+      ],
+      "filterScore": 54.836666666666666
+    },
+    {
+      "id": "159714",
+      "name": "Princes Makreel in water",
+      "price": 1.99,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Makreel (conserven)"
+      ],
+      "filterScore": 66.24666666666667
+    },
+    {
+      "id": "183607",
+      "name": "Princes Makreel in zonnebloemolie",
+      "price": 1.99,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Makreel (conserven)"
+      ],
+      "filterScore": 66.24666666666667
+    },
+    {
+      "id": "561057",
+      "name": "Prins & Dingemanse Gekookte mosselen in azijn",
+      "price": 1.99,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Verse vis",
+        "Mosselen (vers)"
+      ],
+      "filterScore": 84.48249999999999
+    },
+    {
+      "id": "386081",
+      "name": "Statesman Makreel op de huid in zonnebloemolie",
+      "price": 1.39,
+      "categories": [
+        "Vlees, vis",
+        "Vis",
+        "Visconserven",
+        "Makreel (conserven)"
+      ],
+      "filterScore": 57.35
+    }
+  ],
+  "metadata": {
+    "totalProducts": 284,
+    "version": "1.0.0"
+  }
+}

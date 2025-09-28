@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Bakkerij > Gebak en taart > Taart",
+  "breadcrumbs": "Bakkerij > Gebak en taart > Taart",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "taart-vers",
+      "displayName": "Taart Vers",
+      "productCount": 18,
+      "filePath": "taart-vers.jsonl",
+      "indexPath": "taart-vers-index.json",
+      "statsPath": "taart-vers-stats.json",
+      "averageProtein": 3.7,
+      "halalCompliance": 44
+    }
+  ],
+  "totalProducts": 18,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Gebak En Taart",
+        "path": "../index.json"
+      },
+      {
+        "name": "Taart",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bakkerij/gebak-en-taart"
+  }
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "569548",
+    "name": "Boon Linzen in kruidige tomatensaus",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238343837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195554",
+    "name": "Bonduelle Linzen",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303435343630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569514",
+    "name": "Hak Linzen",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036343135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569515",
+    "name": "Hak Linzen",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036343036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "513764",
+    "name": "Bonduelle Beluga linzen 2 mini's",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303434303734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104082",
+    "name": "Bonduelle Linzen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303432363438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365957",
+    "name": "AH Biologisch Linzen",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "167872",
+    "name": "AH Linzen",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468585",
+    "name": "AH Linzen",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936383139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "374223",
+    "name": "Hak Linzen",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "546332",
+    "name": "AH Linzen 4-pack",
+    "price": 4.14,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393130373835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468583",
+    "name": "Bonduelle Linzen bio",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303432363235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571004",
+    "name": "Hak Salade met linzen maaltijdpakket",
+    "price": 8.71,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Linzen",
+      "Linzen (conserven)"
+    ],
+    "isFood": true
+  }
+]

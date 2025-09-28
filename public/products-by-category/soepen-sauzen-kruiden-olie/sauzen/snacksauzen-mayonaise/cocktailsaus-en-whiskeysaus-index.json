@@ -1,0 +1,93 @@
+[
+  {
+    "id": "239720",
+    "name": "Remia Blazin Luke smokey hot cocktail",
+    "price": 3.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532303438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Cocktailsaus en whiskeysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558413",
+    "name": "Jean Bâton Classiques cocktail sauce",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137353134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Cocktailsaus en whiskeysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223426",
+    "name": "Yildriz Schotse cocktailsaus",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933393932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Cocktailsaus en whiskeysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429266",
+    "name": "Remia Whisky cocktail tafelsaus",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353338353037?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Cocktailsaus en whiskeysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475323",
+    "name": "AH Whisky cocktailsaus",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383432383831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Cocktailsaus en whiskeysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415378",
+    "name": "AH Cocktail saus",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Cocktailsaus en whiskeysaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193445",
+    "name": "Calvé Whisky cocktail saus",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437343230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Cocktailsaus en whiskeysaus"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "vleeswaren",
+      "displayName": "Vleeswaren",
+      "productCount": 380,
+      "hasSubdirectories": true,
+      "indexPath": "vleeswaren/index.json"
+    },
+    {
+      "name": "kaas",
+      "displayName": "Kaas",
+      "productCount": 240,
+      "hasSubdirectories": true,
+      "indexPath": "kaas/index.json"
+    },
+    {
+      "name": "borrelhapjes",
+      "displayName": "Borrelhapjes",
+      "productCount": 128,
+      "hasSubdirectories": false,
+      "indexPath": "borrelhapjes/index.json"
+    },
+    {
+      "name": "droge-worst",
+      "displayName": "Droge Worst",
+      "productCount": 114,
+      "hasSubdirectories": false,
+      "indexPath": "droge-worst/index.json"
+    },
+    {
+      "name": "smeersels-dips",
+      "displayName": "Smeersels Dips",
+      "productCount": 76,
+      "hasSubdirectories": true,
+      "indexPath": "smeersels-dips/index.json"
+    },
+    {
+      "name": "hummus",
+      "displayName": "Hummus",
+      "productCount": 35,
+      "hasSubdirectories": false,
+      "indexPath": "hummus/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "verse-olijven",
+      "displayName": "Verse Olijven",
+      "productCount": 18,
+      "filePath": "verse-olijven.jsonl",
+      "indexPath": "verse-olijven-index.json",
+      "statsPath": "verse-olijven-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 89
+    }
+  ],
+  "totalProducts": 991,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 991,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

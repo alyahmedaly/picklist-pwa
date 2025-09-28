@@ -1,0 +1,128 @@
+[
+  {
+    "id": "384407",
+    "name": "Quaker Cruesli cookies & cream",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036323637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577537",
+    "name": "Quaker Cruesli de Ruijter puur",
+    "price": 4.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "478691",
+    "name": "Quaker Cruesli chocolate",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038383938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569938",
+    "name": "AH Krokante muesli noten",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "426006",
+    "name": "Zonnatura Krokante muesli pure chocolade",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373330393636?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508381",
+    "name": "AH Biologisch Krokante muesli chocolade & hazelnoot",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331353031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475238",
+    "name": "AH Chocosmaak crisps",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303333393934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "538556",
+    "name": "Quaker Zero sugar added cocoa & banana",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331363138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (chocolade)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569795",
+    "name": "Quaker Cruesli zero sugar added chocolate",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303331393334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Krokante muesli",
+      "Muesli krokant",
+      "Krokante muesli (chocolade)"
+    ],
+    "isFood": true
+  }
+]

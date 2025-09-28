@@ -1,0 +1,67 @@
+[
+  {
+    "id": "448235",
+    "name": "Huls Achterhoekse metworst",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536363337?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Metworst",
+      "Metworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448259",
+    "name": "Huls Amb Groninger metworst",
+    "price": 10.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536363336?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Metworst",
+      "Metworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186633",
+    "name": "AH Boerenmetworst",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Metworst",
+      "Metworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "419909",
+    "name": "AH Boerenmetworst",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037393135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Metworst",
+      "Metworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "236286",
+    "name": "AH Brabantse metworst gesneden voorverpakt",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313935343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Metworst",
+      "Metworst (voorverpakt)"
+    ],
+    "isFood": true
+  }
+]

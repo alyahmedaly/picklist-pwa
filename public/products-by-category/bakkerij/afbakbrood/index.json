@@ -1,0 +1,112 @@
+{
+  "categoryPath": "Bakkerij > Afbakbrood",
+  "breadcrumbs": "Bakkerij > Afbakbrood",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "afbakbroodjes-wit",
+      "displayName": "Afbakbroodjes Wit",
+      "productCount": 19,
+      "filePath": "afbakbroodjes-wit.jsonl",
+      "indexPath": "afbakbroodjes-wit-index.json",
+      "statsPath": "afbakbroodjes-wit-stats.json",
+      "averageProtein": 8.5,
+      "halalCompliance": 84
+    },
+    {
+      "name": "stokbrood-en-ciabatta",
+      "displayName": "Stokbrood En Ciabatta",
+      "productCount": 17,
+      "filePath": "stokbrood-en-ciabatta.jsonl",
+      "indexPath": "stokbrood-en-ciabatta-index.json",
+      "statsPath": "stokbrood-en-ciabatta-stats.json",
+      "averageProtein": 8.3,
+      "halalCompliance": 88
+    },
+    {
+      "name": "naanbrood-en-pappadum",
+      "displayName": "Naanbrood En Pappadum",
+      "productCount": 16,
+      "filePath": "naanbrood-en-pappadum.jsonl",
+      "indexPath": "naanbrood-en-pappadum-index.json",
+      "statsPath": "naanbrood-en-pappadum-stats.json",
+      "averageProtein": 9.5,
+      "halalCompliance": 94
+    },
+    {
+      "name": "thuis-afbakken-glutenvrij",
+      "displayName": "Thuis Afbakken Glutenvrij",
+      "productCount": 13,
+      "filePath": "thuis-afbakken-glutenvrij.jsonl",
+      "indexPath": "thuis-afbakken-glutenvrij-index.json",
+      "statsPath": "thuis-afbakken-glutenvrij-stats.json",
+      "averageProtein": 4.8,
+      "halalCompliance": 92
+    },
+    {
+      "name": "thuisbakkers",
+      "displayName": "Thuisbakkers",
+      "productCount": 11,
+      "filePath": "thuisbakkers.jsonl",
+      "indexPath": "thuisbakkers-index.json",
+      "statsPath": "thuisbakkers-stats.json",
+      "averageProtein": 9.9,
+      "halalCompliance": 91
+    },
+    {
+      "name": "afbakbroodjes-bruin",
+      "displayName": "Afbakbroodjes Bruin",
+      "productCount": 9,
+      "filePath": "afbakbroodjes-bruin.jsonl",
+      "indexPath": "afbakbroodjes-bruin-index.json",
+      "statsPath": "afbakbroodjes-bruin-stats.json",
+      "averageProtein": 10.1,
+      "halalCompliance": 89
+    },
+    {
+      "name": "pitabroodjes",
+      "displayName": "Pitabroodjes",
+      "productCount": 8,
+      "filePath": "pitabroodjes.jsonl",
+      "indexPath": "pitabroodjes-index.json",
+      "statsPath": "pitabroodjes-stats.json",
+      "averageProtein": 8,
+      "halalCompliance": 50
+    },
+    {
+      "name": "afbakbroodjes-volkoren",
+      "displayName": "Afbakbroodjes Volkoren",
+      "productCount": 5,
+      "filePath": "afbakbroodjes-volkoren.jsonl",
+      "indexPath": "afbakbroodjes-volkoren-index.json",
+      "statsPath": "afbakbroodjes-volkoren-stats.json",
+      "averageProtein": 9.9,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 98,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 98,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../index.json"
+      },
+      {
+        "name": "Afbakbrood",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "bakkerij"
+  }
+}

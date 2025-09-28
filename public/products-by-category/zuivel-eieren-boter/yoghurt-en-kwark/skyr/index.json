@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Yoghurt en kwark > Skyr",
+  "breadcrumbs": "Zuivel, eieren, boter > Yoghurt en kwark > Skyr",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "skyr-met-smaak",
+      "displayName": "Skyr Met Smaak",
+      "productCount": 17,
+      "filePath": "skyr-met-smaak.jsonl",
+      "indexPath": "skyr-met-smaak-index.json",
+      "statsPath": "skyr-met-smaak-stats.json",
+      "averageProtein": 7.8,
+      "halalCompliance": 53
+    },
+    {
+      "name": "skyr-naturel",
+      "displayName": "Skyr Naturel",
+      "productCount": 10,
+      "filePath": "skyr-naturel.jsonl",
+      "indexPath": "skyr-naturel-index.json",
+      "statsPath": "skyr-naturel-stats.json",
+      "averageProtein": 8,
+      "halalCompliance": 70
+    }
+  ],
+  "totalProducts": 27,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 27,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Yoghurt En Kwark",
+        "path": "../index.json"
+      },
+      {
+        "name": "Skyr",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "zuivel-eieren-boter/yoghurt-en-kwark"
+  }
+}

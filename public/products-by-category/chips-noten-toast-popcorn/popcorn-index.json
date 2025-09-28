@@ -1,0 +1,200 @@
+[
+  {
+    "id": "486388",
+    "name": "Werther's Original Popcorn Classic Caramel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363736363633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526750",
+    "name": "Jimmy's Popcorn sweet & salt",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939383335?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579876",
+    "name": "AH Popcorn karamel",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574666",
+    "name": "Chupa Chups Popcorn caramel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637313032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574667",
+    "name": "Chupa Chups Popcorn strawberry",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238818",
+    "name": "Chio Popcorn sweet & salty",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638333337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574668",
+    "name": "Chupa Chups Popcorn cola",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637313033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526751",
+    "name": "Jimmy's Popcorn salted",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939383337?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135674",
+    "name": "AH Magnetron Popcorn Zout",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373333393739?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574595",
+    "name": "Chio Popcorn cheese",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233288",
+    "name": "Proper Sweet & salty popcorn",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353836343031?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574284",
+    "name": "AH Popcorn zoet",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537303533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "526749",
+    "name": "Jimmy's Popcorn sweet",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939373234?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574594",
+    "name": "Chio Popcorn paprika",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536313137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135675",
+    "name": "AH Magnetron Popcorn Zoet",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373333393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187874",
+    "name": "AH Zoute popcorn",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214065",
+    "name": "Chio Popcorn salt",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303435343730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233289",
+    "name": "Proper Sea salted popcorn",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353836343030?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Popcorn"
+    ],
+    "isFood": true
+  }
+]

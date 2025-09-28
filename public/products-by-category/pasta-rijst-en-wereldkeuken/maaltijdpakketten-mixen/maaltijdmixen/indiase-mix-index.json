@@ -1,0 +1,132 @@
+[
+  {
+    "id": "123672",
+    "name": "Honig Basis voor indiase tandoori",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130353638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indiase mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203815",
+    "name": "Patak's Kruidenpasta korma",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536333139?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indiase mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553530",
+    "name": "Patak's Butter chicken kruidenpasta",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393335353437?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indiase mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "37914",
+    "name": "Honig Basis voor kip kerrie",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indiase mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203812",
+    "name": "Patak's Kruidenpasta tandoori",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indiase mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388362",
+    "name": "Kokki Djawa Tamarinde pasta",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733313538?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indiase mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553571",
+    "name": "Tilda Chana masala",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638323236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indiase mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553573",
+    "name": "Tilda Dal palak",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indiase mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553558",
+    "name": "Tilda Dal tarka",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638323237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indiase mix"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553557",
+    "name": "Tilda Dal makhani",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638323234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Maaltijdpakketten, mixen",
+      "Maaltijdmixen",
+      "Indiase mix"
+    ],
+    "isFood": true
+  }
+]

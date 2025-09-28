@@ -1,0 +1,74 @@
+[
+  {
+    "id": "67845",
+    "name": "AH Biologisch Zonnebloemolie",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363435363032?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Zonnebloemolie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "906",
+    "name": "AH Zonnebloemolie",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373335363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Zonnebloemolie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575766",
+    "name": "AH Zonnebloemolie",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534303435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Zonnebloemolie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211394",
+    "name": "Reddy Zonnebloemolie",
+    "price": 3.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638373435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Zonnebloemolie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3481",
+    "name": "Becel Olie brend met zonnebloemolie",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363538303133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Zonnebloemolie"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233271",
+    "name": "Reddy Premium zonnebloemolie",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393638373333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Olie, frituurvet, azijn",
+      "Zonnebloemolie"
+    ],
+    "isFood": true
+  }
+]

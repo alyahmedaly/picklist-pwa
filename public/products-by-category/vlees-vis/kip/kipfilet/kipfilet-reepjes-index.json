@@ -1,0 +1,158 @@
+[
+  {
+    "id": "477573",
+    "name": "AH Scharrel kipfiletreepjes gerookt",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - reepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531865",
+    "name": "AH Scharrel kipfiletreepjes gerookt",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - reepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477885",
+    "name": "AH Scharrel gebraden kipflakes kebab",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - reepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531830",
+    "name": "AH Scharrel krokante kipfilethaasjes",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - reepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454769",
+    "name": "AH Scharrel gebraden kipfiletreep Italiaans",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - reepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582033",
+    "name": "AH Scharrel kipdijfiletreepjes gyros",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - reepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531983",
+    "name": "AH Scharrel kipfilethaasjes gele curry bel",
+    "price": 5.1,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536393836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - reepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531854",
+    "name": "AH Scharrel kipfilethaasjes sweet chili",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - reepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531832",
+    "name": "AH Scharrel kipdijfiletreepjes naturel",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - reepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451171",
+    "name": "AH Scharrel kipfiletreepjes",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - reepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "531836",
+    "name": "AH Scharrel kipfilethaasjes",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - reepjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577858",
+    "name": "AH Scharrel gebraden kipflakes kebab 3-pack",
+    "price": 11.37,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Kipfilet",
+      "Kipfilet - reepjes"
+    ],
+    "isFood": true
+  }
+]

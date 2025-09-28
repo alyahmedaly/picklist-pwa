@@ -1,0 +1,275 @@
+[
+  {
+    "id": "195916",
+    "name": "Maaza Tropical fruit drink",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033343037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548179",
+    "name": "Maaza Tropical fruit drink",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935383839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "119819",
+    "name": "Roosvicee Multivit perzik",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037333139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436028",
+    "name": "Taksi Exotisch fruit",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238373131?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124420",
+    "name": "Taksi Tropisch fruit",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238373038?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "119820",
+    "name": "Roosvicee Multivit appel & rode vruchten",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137343436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164401",
+    "name": "AH Djoezz! bosvruchten",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160135",
+    "name": "AH Djoezz! tropisch fruit",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485572",
+    "name": "AH Multivitamine",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485745",
+    "name": "AH Multivitamine 6-pack",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363934313738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386612",
+    "name": "AH Multivitamine ACE",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363931383637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386608",
+    "name": "AH Multivitamine met oranje fruit",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171022",
+    "name": "Taksi Tropisch fruit geen suiker toegevoegd",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383237383231?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123334",
+    "name": "AH Multifruit drink",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630383337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196210",
+    "name": "Roosvicee Multivit aardbei-sinaasappel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "119818",
+    "name": "Roosvicee Multivit bosvruchten",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582256",
+    "name": "Roosvicee Multivit bosvruchten 2-pack",
+    "price": 3.98,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131353332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "119821",
+    "name": "Roosvicee Multivit kiwi-sinaasappel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577368",
+    "name": "Taksi Geen Suiker Toegevoegd pakket",
+    "price": 4.14,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577376",
+    "name": "Taksi Tropisch Fruit 3-pack",
+    "price": 4.06,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577375",
+    "name": "Taksi Tropisch Fruit Geen Suiker 3-pack",
+    "price": 4.06,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Multivitamine drank",
+      "Multivitamine (pakken)"
+    ],
+    "isFood": true
+  }
+]

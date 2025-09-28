@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Kool > Rode kool",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Kool > Rode kool",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "rode-kool-conserven",
+      "displayName": "Rode Kool Conserven",
+      "productCount": 14,
+      "filePath": "rode-kool-conserven.jsonl",
+      "indexPath": "rode-kool-conserven-index.json",
+      "statsPath": "rode-kool-conserven-stats.json",
+      "averageProtein": 0.9,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 14,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kool",
+        "path": "../index.json"
+      },
+      {
+        "name": "Rode Kool",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/kool"
+  }
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "127728",
+    "name": "AH Aardappelen iets kruimig",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - iets kruimig",
+      "Aardappel iets kruimig - met schil"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202049",
+    "name": "AH Friet aardappelen",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632313639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - iets kruimig",
+      "Aardappel iets kruimig - met schil"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187351",
+    "name": "AH Gourmande aardappelen",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - iets kruimig",
+      "Aardappel iets kruimig - met schil"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "96049",
+    "name": "AH Iets kruimige aardappelen",
+    "price": 4.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - iets kruimig",
+      "Aardappel iets kruimig - met schil"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "115055",
+    "name": "AH Iets kruimige roodschillige aardappelen",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - iets kruimig",
+      "Aardappel iets kruimig - met schil"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "108672",
+    "name": "AH Biologisch Iets kruimige aardappelen",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632313534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - iets kruimig",
+      "Aardappel iets kruimig - met schil"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169198",
+    "name": "AH Biologisch Iets kruimige aardappelen",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632313636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - iets kruimig",
+      "Aardappel iets kruimig - met schil"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "428726",
+    "name": "AH Biologisch Iets kruimige roodschillige aardappelen",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - iets kruimig",
+      "Aardappel iets kruimig - met schil"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "111388",
+    "name": "AH Iets kruimige aardappelen",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - iets kruimig",
+      "Aardappel iets kruimig - met schil"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225858",
+    "name": "AH Iets kruimige aardappelen",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533333836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - iets kruimig",
+      "Aardappel iets kruimig - met schil"
+    ],
+    "isFood": true
+  }
+]

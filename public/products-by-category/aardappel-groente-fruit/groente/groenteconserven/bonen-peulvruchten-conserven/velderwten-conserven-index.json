@@ -1,0 +1,100 @@
+[
+  {
+    "id": "203284",
+    "name": "Hak Malse veldertjes jonge kapucijners",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Velderwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203285",
+    "name": "Hak Veldertjes jonge kapucijners",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Velderwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "53938",
+    "name": "AH Jonge kapucijners",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383832393539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Velderwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164338",
+    "name": "Bonduelle Jonge kapucijners",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732373535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Velderwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "825",
+    "name": "AH Kapucijners",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Velderwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202195",
+    "name": "Hak Kapucijners",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036343032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Velderwten (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202198",
+    "name": "Hak Kapucijners",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Velderwten (conserven)"
+    ],
+    "isFood": true
+  }
+]

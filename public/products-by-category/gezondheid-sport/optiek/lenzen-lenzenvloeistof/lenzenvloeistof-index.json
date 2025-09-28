@@ -1,0 +1,145 @@
+[
+  {
+    "id": "171872",
+    "name": "Bausch & Lomb Concentrated cleaner",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333373636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Lenzen, lenzenvloeistof",
+      "Lenzenvloeistof"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "71340",
+    "name": "Bausch & Lomb Multipurpose",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333373634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Lenzen, lenzenvloeistof",
+      "Lenzenvloeistof"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "71342",
+    "name": "Boston Cleaner",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333373139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Lenzen, lenzenvloeistof",
+      "Lenzenvloeistof"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446612",
+    "name": "Care All in one zachte lenzenvloeistof",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531333630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Lenzen, lenzenvloeistof",
+      "Lenzenvloeistof"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "446618",
+    "name": "Care All in one zachte lenzenvloeistof",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393531333439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Lenzen, lenzenvloeistof",
+      "Lenzenvloeistof"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "130214",
+    "name": "Etos All-in-one lenzenvloeistof harde lenzen",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131393034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Lenzen, lenzenvloeistof",
+      "Lenzenvloeistof"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "174908",
+    "name": "Etos All-in-one lenzenvloeistof zachte lenzen",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131393234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Lenzen, lenzenvloeistof",
+      "Lenzenvloeistof"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "421509",
+    "name": "Etos Harde lenzen all-in-1 vloeistof",
+    "price": 4.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373736383134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Lenzen, lenzenvloeistof",
+      "Lenzenvloeistof"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435861",
+    "name": "Etos Harde lenzen cleaner vloeistof",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131373931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Lenzen, lenzenvloeistof",
+      "Lenzenvloeistof"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "174071",
+    "name": "Etos Oogdruppels",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131393032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Lenzen, lenzenvloeistof",
+      "Lenzenvloeistof"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435857",
+    "name": "Etos Zachte lenzen all-in-1 vloeistof",
+    "price": 5.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131373635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Lenzen, lenzenvloeistof",
+      "Lenzenvloeistof"
+    ],
+    "isFood": true
+  }
+]

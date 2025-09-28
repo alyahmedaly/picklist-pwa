@@ -1,0 +1,67 @@
+[
+  {
+    "id": "195915",
+    "name": "Maaza Mango fruit drink",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Diverse sappen & dranken",
+      "Mangosap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548181",
+    "name": "Maaza Mango fruit drink",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303935383934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Diverse sappen & dranken",
+      "Mangosap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369323",
+    "name": "Mogu Mogu Mango",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236363731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Diverse sappen & dranken",
+      "Mangosap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520745",
+    "name": "Appelsientje Fruit & groente mango komkommer passie",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383736343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Diverse sappen & dranken",
+      "Mangosap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436027",
+    "name": "Appelsientje Mango volle smaak",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838363337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Diverse sappen & dranken",
+      "Mangosap & drank"
+    ],
+    "isFood": true
+  }
+]

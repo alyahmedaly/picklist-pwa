@@ -1,0 +1,72 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Chocoladeletters",
+  "breadcrumbs": "Snoep, chocolade, koek > Chocoladeletters",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "chocoladeletters-melk",
+      "displayName": "Chocoladeletters Melk",
+      "productCount": 64,
+      "filePath": "chocoladeletters-melk.jsonl",
+      "indexPath": "chocoladeletters-melk-index.json",
+      "statsPath": "chocoladeletters-melk-stats.json",
+      "averageProtein": 7.1,
+      "halalCompliance": 41
+    },
+    {
+      "name": "chocoladeletters-wit",
+      "displayName": "Chocoladeletters Wit",
+      "productCount": 7,
+      "filePath": "chocoladeletters-wit.jsonl",
+      "indexPath": "chocoladeletters-wit-index.json",
+      "statsPath": "chocoladeletters-wit-stats.json",
+      "averageProtein": 6.1,
+      "halalCompliance": 29
+    },
+    {
+      "name": "chocoladeletters-met-smaak",
+      "displayName": "Chocoladeletters Met Smaak",
+      "productCount": 6,
+      "filePath": "chocoladeletters-met-smaak.jsonl",
+      "indexPath": "chocoladeletters-met-smaak-index.json",
+      "statsPath": "chocoladeletters-met-smaak-stats.json",
+      "averageProtein": 6.6,
+      "halalCompliance": 50
+    },
+    {
+      "name": "chocoladeletters-puur",
+      "displayName": "Chocoladeletters Puur",
+      "productCount": 5,
+      "filePath": "chocoladeletters-puur.jsonl",
+      "indexPath": "chocoladeletters-puur-index.json",
+      "statsPath": "chocoladeletters-puur-stats.json",
+      "averageProtein": 5.3,
+      "halalCompliance": 40
+    }
+  ],
+  "totalProducts": 82,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 82,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../index.json"
+      },
+      {
+        "name": "Chocoladeletters",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "snoep-chocolade-koek"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Olie, frituurvet, azijn > Azijn",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Olie, frituurvet, azijn > Azijn",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "balsamico-azijn",
+      "displayName": "Balsamico Azijn",
+      "productCount": 17,
+      "filePath": "balsamico-azijn.jsonl",
+      "indexPath": "balsamico-azijn-index.json",
+      "statsPath": "balsamico-azijn-stats.json",
+      "averageProtein": 0.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "ambachtelijke-azijn",
+      "displayName": "Ambachtelijke Azijn",
+      "productCount": 5,
+      "filePath": "ambachtelijke-azijn.jsonl",
+      "indexPath": "ambachtelijke-azijn-index.json",
+      "statsPath": "ambachtelijke-azijn-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "natuurazijn",
+      "displayName": "Natuurazijn",
+      "productCount": 5,
+      "filePath": "natuurazijn.jsonl",
+      "indexPath": "natuurazijn-index.json",
+      "statsPath": "natuurazijn-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 27,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 27,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Olie Frituurvet Azijn",
+        "path": "../index.json"
+      },
+      {
+        "name": "Azijn",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/olie-frituurvet-azijn"
+  }
+}

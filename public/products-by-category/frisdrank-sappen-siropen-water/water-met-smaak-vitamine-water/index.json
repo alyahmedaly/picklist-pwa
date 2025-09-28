@@ -1,0 +1,52 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Water met smaak, vitamine water",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Water met smaak, vitamine water",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "water-met-smaak",
+      "displayName": "Water Met Smaak",
+      "productCount": 51,
+      "filePath": "water-met-smaak.jsonl",
+      "indexPath": "water-met-smaak-index.json",
+      "statsPath": "water-met-smaak-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 92
+    },
+    {
+      "name": "vitamine-water",
+      "displayName": "Vitamine Water",
+      "productCount": 30,
+      "filePath": "vitamine-water.jsonl",
+      "indexPath": "vitamine-water-index.json",
+      "statsPath": "vitamine-water-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 81,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 81,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../index.json"
+      },
+      {
+        "name": "Water Met Smaak Vitamine Water",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "frisdrank-sappen-siropen-water"
+  }
+}

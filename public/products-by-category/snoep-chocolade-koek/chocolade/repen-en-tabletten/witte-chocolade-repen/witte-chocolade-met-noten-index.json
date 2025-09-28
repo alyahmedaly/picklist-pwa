@@ -1,0 +1,86 @@
+[
+  {
+    "id": "532264",
+    "name": "Ferrero Rocher hazelnoot wit",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303231303538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569840",
+    "name": "L'Atelier Witte chocoladereep amandel & cranberry",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "402620",
+    "name": "Ritter Sport Wit hele hazelnoot",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373336353131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507961",
+    "name": "Delicata Reep witte chocolade pistache cranberry",
+    "price": 3.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393032303834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "540306",
+    "name": "iChoc Vegan white nougat crisp",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393031383538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade met noten"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556473",
+    "name": "Lindt Les grandes witte chocolade amandelen",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Witte chocolade repen",
+      "Witte chocolade met noten"
+    ],
+    "isFood": true
+  }
+]

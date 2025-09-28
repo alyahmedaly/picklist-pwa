@@ -1,0 +1,110 @@
+[
+  {
+    "id": "234100",
+    "name": "Roosvicee Multivit perzik 6-pack",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Multivitamine drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "171029",
+    "name": "Taksi Tropisch fruit 10-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239333938?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Multivitamine drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218333",
+    "name": "AH Djoezz bosvruchten",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Multivitamine drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218332",
+    "name": "AH Djoezz tropisch fruit 10-pack",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Multivitamine drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485744",
+    "name": "AH Multivitamine",
+    "price": 0.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638353136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Multivitamine drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196034",
+    "name": "Taksi Tropisch fruit geen suiker 10-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239333936?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Multivitamine drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203343",
+    "name": "Capri-Sun Multi vitamin 10-pack",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393035323637?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Multivitamine drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230794",
+    "name": "Capri-Sun Multivitam pouch 0,2l",
+    "price": 0.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393035323333?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Multivitamine drinkpakjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "234099",
+    "name": "Roosvicee Multivit Bosvruchten 6pk",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130393139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Drinkpakjes",
+      "Multivitamine drinkpakjes"
+    ],
+    "isFood": true
+  }
+]

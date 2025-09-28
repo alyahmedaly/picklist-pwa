@@ -1,0 +1,408 @@
+[
+  {
+    "id": "570455",
+    "name": "Big Belly Brewing Mo phi all day IPA",
+    "price": 2.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336343730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556675",
+    "name": "Brouwerij 't IJ Berrie raspberry",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548583",
+    "name": "Jacobins Rouge max",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239313235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548584",
+    "name": "Jacobins Rouge max 4-pack",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383239313234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548544",
+    "name": "Kasteelbier Rouge",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237383232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483705",
+    "name": "La Chouffe Cherry 4-pack",
+    "price": 9.25,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383030333838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570001",
+    "name": "La Chouffe Lite 4.0%",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303139353933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210277",
+    "name": "Leffe Ruby 6-pack",
+    "price": 6.26,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739363131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166755",
+    "name": "Liefmans Fruitesse",
+    "price": 1.6,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363830313938?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500264",
+    "name": "Liefmans Fruitesse",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373232353138?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "173604",
+    "name": "Liefmans Fruitesse 4-pack",
+    "price": 6.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363538333231?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451090",
+    "name": "Liefmans fruitesse blik 25cl",
+    "price": 1.73,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393637393232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451111",
+    "name": "Liefmans Fruitesse on the rocks 4-pack",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393337303038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570085",
+    "name": "Liefmans Kriek brut",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335323539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569999",
+    "name": "Liefmans Peach",
+    "price": 1.6,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332363633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570000",
+    "name": "Liefmans Peach 4-pack",
+    "price": 6.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332363634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462426",
+    "name": "Lindeboom Kersenradler 2.0%",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383637323835?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "385803",
+    "name": "Lindeman's Framboise",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373430313839?revLabel=11&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "385802",
+    "name": "Lindeman's Kriek",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234303431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "235472",
+    "name": "Lindeman's Kriek lambic beer bel",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836353532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222804",
+    "name": "Lindeman's Pecheresse bel",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303139363239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548529",
+    "name": "Lowlander Lemon elderflower",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393139323830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468224",
+    "name": "Lowlander Tropical ale",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373132303838?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492085",
+    "name": "Rodenbach Fruitage",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935343632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492087",
+    "name": "Rodenbach Fruitage 4-pack",
+    "price": 6.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393231333331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560989",
+    "name": "Rodenbach Grand cru red ale",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303133333338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "360900",
+    "name": "Somersby Apple cider",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373432353031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524987",
+    "name": "Somersby Blackberry beer drink",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437323931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569783",
+    "name": "Two Chefs Brewing Sunset suzy",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Bier",
+      "Radler, cider, fruitbier, Mexicaans",
+      "Rosé bier, fruitbier",
+      "Kriek en fruitbier met alcohol"
+    ],
+    "isFood": true
+  }
+]

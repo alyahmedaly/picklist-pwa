@@ -1,0 +1,134 @@
+[
+  {
+    "id": "556866",
+    "name": "Lay's Family mix",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433313239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Uitdeelzakjes chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579884",
+    "name": "Cheetos Nibb-it sticks 30-pack",
+    "price": 20.7,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393635383438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Uitdeelzakjes chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238764",
+    "name": "Croky Partymix",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353431393538?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Uitdeelzakjes chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576297",
+    "name": "Lay's Moviebox chips 20 uitdeelzakjes",
+    "price": 11.76,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233343334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Uitdeelzakjes chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579889",
+    "name": "Lay's Bolognese 20-pack",
+    "price": 13.8,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031303936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Uitdeelzakjes chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556867",
+    "name": "Lay's Party mix",
+    "price": 4.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Uitdeelzakjes chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574336",
+    "name": "Lay's Max flavour mix",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233363139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Uitdeelzakjes chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579887",
+    "name": "Lay's Max paprika 20-pack",
+    "price": 13.8,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632363731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Uitdeelzakjes chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570424",
+    "name": "Lay's Max naturel 20-pack",
+    "price": 13.8,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Uitdeelzakjes chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570425",
+    "name": "Lay's Naturel 20-pack",
+    "price": 13.8,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535323939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Uitdeelzakjes chips"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570417",
+    "name": "Lay's Paprika 20-pack",
+    "price": 13.8,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393635333731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Uitdeelzakjes chips"
+    ],
+    "isFood": true
+  }
+]

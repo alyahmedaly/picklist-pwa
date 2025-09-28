@@ -1,0 +1,184 @@
+[
+  {
+    "id": "201009",
+    "name": "AH Volkoren muesli notenbrood",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939353433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Dagvers volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "507191",
+    "name": "AH Volkoren muesli notenbrood plakken",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939353634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Dagvers volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523355",
+    "name": "AH Extra lang lekker tijger volkoren half",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433333839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Dagvers volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523365",
+    "name": "AH Extra lang lekker tijger volkoren heel",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Dagvers volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553742",
+    "name": "AH Extra lang lekker tostibrood volkoren",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Dagvers volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582991",
+    "name": "AH Extra lang lekker Zaans volkoren half",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032353033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Dagvers volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582990",
+    "name": "AH Extra lang lekker Zaans volkoren heel",
+    "price": 1.7,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032353032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Dagvers volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582986",
+    "name": "AH Extra lang lekker zaans volkoren sesam",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032353037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Dagvers volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582987",
+    "name": "AH Extra lang lekker zaans volkoren sesam",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032353038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Dagvers volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "112356",
+    "name": "AH Volkoren heel",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434323434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Dagvers volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "512392",
+    "name": "AH Waldkorn volkoren half",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383334383838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Dagvers volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "512388",
+    "name": "AH Waldkorn volkoren heel",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383331393033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Dagvers volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "48715",
+    "name": "AH Allinson volkoren",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434323036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Dagvers volkoren"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562110",
+    "name": "AH Vloerbrood waldkorn",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535343237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Volkoren brood",
+      "Dagvers volkoren"
+    ],
+    "isFood": true
+  }
+]

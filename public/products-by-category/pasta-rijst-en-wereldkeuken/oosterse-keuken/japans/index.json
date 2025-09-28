@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Oosterse keuken > Japans",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Oosterse keuken > Japans",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "sushi-benodigdheden",
+      "displayName": "Sushi Benodigdheden",
+      "productCount": 12,
+      "filePath": "sushi-benodigdheden.jsonl",
+      "indexPath": "sushi-benodigdheden-index.json",
+      "statsPath": "sushi-benodigdheden-stats.json",
+      "averageProtein": 12.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "japanse-sojasaus",
+      "displayName": "Japanse Sojasaus",
+      "productCount": 8,
+      "filePath": "japanse-sojasaus.jsonl",
+      "indexPath": "japanse-sojasaus-index.json",
+      "statsPath": "japanse-sojasaus-stats.json",
+      "averageProtein": 8.4,
+      "halalCompliance": 88
+    },
+    {
+      "name": "japanse-woksaus",
+      "displayName": "Japanse Woksaus",
+      "productCount": 7,
+      "filePath": "japanse-woksaus.jsonl",
+      "indexPath": "japanse-woksaus-index.json",
+      "statsPath": "japanse-woksaus-stats.json",
+      "averageProtein": 4,
+      "halalCompliance": 71
+    }
+  ],
+  "totalProducts": 27,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 27,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Oosterse Keuken",
+        "path": "../index.json"
+      },
+      {
+        "name": "Japans",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "pasta-rijst-en-wereldkeuken/oosterse-keuken"
+  }
+}

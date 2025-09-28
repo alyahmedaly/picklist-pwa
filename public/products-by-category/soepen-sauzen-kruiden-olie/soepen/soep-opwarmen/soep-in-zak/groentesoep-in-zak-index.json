@@ -1,0 +1,128 @@
+[
+  {
+    "id": "169448",
+    "name": "Unox Heldere groentesoep",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034343134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Groentesoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570121",
+    "name": "AH Biologisch Champignon soep met room",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837393738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Groentesoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "369363",
+    "name": "AH Biologisch Courgettesoep",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031363636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Groentesoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400153",
+    "name": "Unox Romige vergeten groentesoep",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Groentesoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570123",
+    "name": "AH Biologisch Broccoli spinazie soep",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837393831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Groentesoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447901",
+    "name": "Unox Vegetarische groentesoep",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933373331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Groentesoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570276",
+    "name": "AH Mediterrane bloemkool soep",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837393639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Groentesoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570274",
+    "name": "AH Perzische aubergine soep",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837393633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Groentesoep in zak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570122",
+    "name": "AH Biologisch Bloemkool kerrie soep",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soep (opwarmen)",
+      "Soep in zak",
+      "Groentesoep in zak"
+    ],
+    "isFood": true
+  }
+]

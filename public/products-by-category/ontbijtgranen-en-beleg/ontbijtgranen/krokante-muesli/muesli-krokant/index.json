@@ -1,0 +1,80 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Ontbijtgranen > Krokante muesli > Muesli krokant",
+  "breadcrumbs": "Ontbijtgranen en beleg > Ontbijtgranen > Krokante muesli > Muesli krokant",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "krokante-muesli-fruit",
+      "displayName": "Krokante Muesli Fruit",
+      "productCount": 15,
+      "filePath": "krokante-muesli-fruit.jsonl",
+      "indexPath": "krokante-muesli-fruit-index.json",
+      "statsPath": "krokante-muesli-fruit-stats.json",
+      "averageProtein": 8,
+      "halalCompliance": 80
+    },
+    {
+      "name": "krokante-muesli-naturel",
+      "displayName": "Krokante Muesli Naturel",
+      "productCount": 12,
+      "filePath": "krokante-muesli-naturel.jsonl",
+      "indexPath": "krokante-muesli-naturel-index.json",
+      "statsPath": "krokante-muesli-naturel-stats.json",
+      "averageProtein": 9.8,
+      "halalCompliance": 75
+    },
+    {
+      "name": "krokante-muesli-chocolade",
+      "displayName": "Krokante Muesli Chocolade",
+      "productCount": 9,
+      "filePath": "krokante-muesli-chocolade.jsonl",
+      "indexPath": "krokante-muesli-chocolade-index.json",
+      "statsPath": "krokante-muesli-chocolade-stats.json",
+      "averageProtein": 8.6,
+      "halalCompliance": 56
+    },
+    {
+      "name": "krokante-muesli-noten",
+      "displayName": "Krokante Muesli Noten",
+      "productCount": 9,
+      "filePath": "krokante-muesli-noten.jsonl",
+      "indexPath": "krokante-muesli-noten-index.json",
+      "statsPath": "krokante-muesli-noten-stats.json",
+      "averageProtein": 11.7,
+      "halalCompliance": 89
+    }
+  ],
+  "totalProducts": 45,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 45,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Ontbijtgranen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Krokante Muesli",
+        "path": "../index.json"
+      },
+      {
+        "name": "Muesli Krokant",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "ontbijtgranen-en-beleg/ontbijtgranen/krokante-muesli"
+  }
+}

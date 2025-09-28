@@ -1,0 +1,223 @@
+[
+  {
+    "id": "141486",
+    "name": "LU Time Out granenbiscuits melkchocolade",
+    "price": 2.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450907",
+    "name": "McVitie's Digestive original",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450910",
+    "name": "McVitie's Digestive Original dubbelpak",
+    "price": 3.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339363533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "484027",
+    "name": "McVitie's Gingernuts",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169357",
+    "name": "LU Time Out granenbiscuits speculaas",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543069",
+    "name": "McVitie's Crunchy haverkoek",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036353130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517283",
+    "name": "AH Biologisch Haverkoekjes naturel",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132024",
+    "name": "LU Time Out granenbiscuits naturel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130323138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435755",
+    "name": "Liga Belvita chocolade koekjes",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638363436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237271",
+    "name": "Liga Belvita honing & hazelnoot koekjes",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734323736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221046",
+    "name": "Liga Belvita meergranen koekjes",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221045",
+    "name": "Liga Belvita melk & granen koekjes",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353735373639?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407150",
+    "name": "Liga Belvita soft chocolade stukjes",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031323533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "30182",
+    "name": "AH Haverkoekjes naturel",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517312",
+    "name": "AH Digestive 0% suiker",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576014",
+    "name": "AH Haverkoekjes honing",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303533333938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "524788",
+    "name": "De Kleine Keuken Biologische haverkoekjes 12m+",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934383739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Biscuits",
+      "Granenbiscuits"
+    ],
+    "isFood": true
+  }
+]

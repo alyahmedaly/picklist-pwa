@@ -1,0 +1,142 @@
+[
+  {
+    "id": "197430",
+    "name": "Zandvliet Gelderse gekookte worst",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373437393037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Kookworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "462551",
+    "name": "Zandvliet Gelderse gekookte worst",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373533333232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Kookworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132222",
+    "name": "AH Gelderse gekookte worst",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393530353837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Kookworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "186641",
+    "name": "AH Gelderse gekookte worst",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132353832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Kookworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579135",
+    "name": "AH Palingworst",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Kookworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543424",
+    "name": "AH Gelderse gekookte worst",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393136393031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Kookworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "80219",
+    "name": "AH Gerookte Gelderse gekookte worst",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383933333037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Kookworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "32980",
+    "name": "AH Bakbloedworst dikke plak",
+    "price": 1.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Kookworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "188736",
+    "name": "Zandvliet Runder kookworst",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373437393030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Kookworst (voorverpakt)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566661",
+    "name": "AH Gelderse gekookte worst 3-pack",
+    "price": 6.81,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren voorverpakt",
+      "Kookworst, boterhamworst, leverworst (voorverpakt)",
+      "Kookworst (voorverpakt)"
+    ],
+    "isFood": true
+  }
+]

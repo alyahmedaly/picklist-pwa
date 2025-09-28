@@ -1,0 +1,106 @@
+[
+  {
+    "id": "55727",
+    "name": "AH Chocoladepasta wit",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731383332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Chocoladepasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466360",
+    "name": "AH Choco spread",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735363237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Chocoladepasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479181",
+    "name": "OriNoko Chocoladepasta Melk",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353730333136?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Chocoladepasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "55729",
+    "name": "AH Chocoladepasta melk",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731383238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Chocoladepasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "55732",
+    "name": "AH Chocoladepasta puur",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731383331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Chocoladepasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563625",
+    "name": "So Vegan So Fine Amandel chocoladepasta",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Chocoladepasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563652",
+    "name": "Flower Farm Chocopasta zonder palmolie",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131353030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Chocoladepasta"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563651",
+    "name": "Flower Farm Duopasta zonder palmolie",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131353232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Zoet broodbeleg",
+      "Hazelnoot- en chocoladepasta",
+      "Chocoladepasta"
+    ],
+    "isFood": true
+  }
+]

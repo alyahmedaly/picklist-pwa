@@ -1,0 +1,171 @@
+[
+  {
+    "id": "502977",
+    "name": "AH Snoepkrijtjes",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439313034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoete drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383073",
+    "name": "Oldtimers Scheepsknopen",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373134353332?revLabel=11&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoete drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547685",
+    "name": "Venco Katjesdrop",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoete drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221689",
+    "name": "Venco Tikkels drop",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393137323437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoete drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502423",
+    "name": "AH Honingdrop",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438313635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoete drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547671",
+    "name": "Venco Honingdrop",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoete drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547721",
+    "name": "Venco Honingdrop XL",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoete drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547708",
+    "name": "Venco Muntendrop",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330313731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoete drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "502075",
+    "name": "AH Muntendrop",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438313638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoete drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "508481",
+    "name": "Klene Laurier ontdekkingsreizen",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393938343939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoete drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547688",
+    "name": "Klene Muntdrop mild zoet",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338353633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoete drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "547778",
+    "name": "Klene Muntdrop mild zoet voordeelverpakking",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393338353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoete drop (hard)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "383072",
+    "name": "Oldtimers Zoethouders",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373134353239?revLabel=17&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Snoep",
+      "Harde snoep",
+      "Zoete drop (hard)"
+    ],
+    "isFood": true
+  }
+]

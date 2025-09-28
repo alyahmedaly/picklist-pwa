@@ -1,0 +1,146 @@
+[
+  {
+    "id": "195096",
+    "name": "AH Meergranen triangel",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Meergranen brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230731",
+    "name": "AH Triangel meergranen bruin",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383631393930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Meergranen brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485701",
+    "name": "AH Stevig donker meergranen half",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363930353634?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Meergranen brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485702",
+    "name": "AH Stevig donker meergranen heel",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363930343735?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Meergranen brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485711",
+    "name": "AH Liefde & Passie Meergranen ongesneden",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363930343738?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Meergranen brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230777",
+    "name": "AH Stevig volkoren meergranen half",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934363037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Meergranen brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561013",
+    "name": "AH Liefde & Passie Meergranen",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932383334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Meergranen brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562095",
+    "name": "AH Liefde & Passie Meergranen gesneden",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393639363138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Meergranen brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562401",
+    "name": "AH Liefde & Passie Meergranen ongesneden",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933333336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Meergranen brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "252839",
+    "name": "AH Vloerbrood meergranen half",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Meergranen brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417147",
+    "name": "AH Vloerbrood meergranen heel",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303130373036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Meergranen brood"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485698",
+    "name": "AH Vloerbrood meergranen heel",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038313537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Brood",
+      "Meergranen brood"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Wortel, pompoen, knollen > Rode bieten",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Wortel, pompoen, knollen > Rode bieten",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "bietjes-conserven",
+      "displayName": "Bietjes Conserven",
+      "productCount": 9,
+      "filePath": "bietjes-conserven.jsonl",
+      "indexPath": "bietjes-conserven-index.json",
+      "statsPath": "bietjes-conserven-stats.json",
+      "averageProtein": 1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "bietjes-vers",
+      "displayName": "Bietjes Vers",
+      "productCount": 6,
+      "filePath": "bietjes-vers.jsonl",
+      "indexPath": "bietjes-vers-index.json",
+      "statsPath": "bietjes-vers-stats.json",
+      "averageProtein": 1.2,
+      "halalCompliance": 83
+    }
+  ],
+  "totalProducts": 15,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 15,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Wortel Pompoen Knollen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Rode Bieten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/wortel-pompoen-knollen"
+  }
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "62024",
+    "name": "AH Tagliatelle",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232353935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Tagliatelle, pappardelle",
+      "Tagliatelle"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210485",
+    "name": "De Cecco Tagliatelle all'uovo nr 304",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939393937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Tagliatelle, pappardelle",
+      "Tagliatelle"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "409909",
+    "name": "De Cecco Tagliatelle nr203",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939393932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Tagliatelle, pappardelle",
+      "Tagliatelle"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "2091",
+    "name": "Grand' Italia Tagliatelle all'uovo",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739373930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Tagliatelle, pappardelle",
+      "Tagliatelle"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460334",
+    "name": "Grand' Italia Tagliatelle all'Uovo",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230313633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Tagliatelle, pappardelle",
+      "Tagliatelle"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575922",
+    "name": "Liguori Fettucce no8",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303733363235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Tagliatelle, pappardelle",
+      "Tagliatelle"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565963",
+    "name": "Smaakt Tagliatelle 0% koolhydraten",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136343235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Tagliatelle, pappardelle",
+      "Tagliatelle"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "142442",
+    "name": "AH Tagliatelle all' uovo",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533323832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Tagliatelle, pappardelle",
+      "Tagliatelle"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "543564",
+    "name": "AH Biologisch Tagliatelle volkoren",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393033373833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Pasta, rijst, noedels",
+      "Pasta",
+      "Tagliatelle, pappardelle",
+      "Tagliatelle"
+    ],
+    "isFood": true
+  }
+]

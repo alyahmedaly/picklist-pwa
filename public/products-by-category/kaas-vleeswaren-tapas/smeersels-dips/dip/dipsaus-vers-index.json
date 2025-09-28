@@ -1,0 +1,184 @@
+[
+  {
+    "id": "231529",
+    "name": "AH Mascarpone chili dip",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Dip",
+      "Dipsaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572073",
+    "name": "AH Cocktailsaus",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Dip",
+      "Dipsaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "564823",
+    "name": "AH Vitello tonnato spread",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303031363838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Dip",
+      "Dipsaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572078",
+    "name": "AH Chimichurri",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Dip",
+      "Dipsaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553808",
+    "name": "AH Party dip",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537323235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Dip",
+      "Dipsaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217285",
+    "name": "AH Tzatziki",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Dip",
+      "Dipsaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572083",
+    "name": "AH Tzatziki",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Dip",
+      "Dipsaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494566",
+    "name": "AH Tzatziki",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373335363533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Dip",
+      "Dipsaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217356",
+    "name": "AH Guacamole",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637303737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Dip",
+      "Dipsaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469987",
+    "name": "AH Kleintje guacamole",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630313630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Dip",
+      "Dipsaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572079",
+    "name": "AH Mango chutney",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032323134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Dip",
+      "Dipsaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579824",
+    "name": "AH Biologisch Tomaten dip",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138313434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Dip",
+      "Dipsaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576410",
+    "name": "AH Dip pakket",
+    "price": 12.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Dip",
+      "Dipsaus (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570602",
+    "name": "AH Gezonde borrelmix",
+    "price": 5.67,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Smeersels & dips",
+      "Dip",
+      "Dipsaus (vers)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "569601",
+    "name": "AH Rode bietschijfjes zoetzuur",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233373137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124474",
+    "name": "AH Rode bieten",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195527",
+    "name": "AH Rode bieten met ui",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438363136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207336",
+    "name": "Hak Rode bieten",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634393133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207338",
+    "name": "Hak Rode bieten",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207532",
+    "name": "Hak Rode bieten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "207527",
+    "name": "Hak Rode bieten met ui",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335383635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "233982",
+    "name": "Hak Rode bieten sticks",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "492214",
+    "name": "Bonduelle Rode bietenblokjes 2 mini's voor salades",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431323939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Wortel, pompoen, knollen",
+      "Rode bieten",
+      "Bietjes (conserven)"
+    ],
+    "isFood": true
+  }
+]

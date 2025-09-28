@@ -1,0 +1,310 @@
+[
+  {
+    "id": "480788",
+    "name": "AH Cola light",
+    "price": 0.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480795",
+    "name": "AH Cola light 6-pack",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480793",
+    "name": "AH Cola no sugar mini 6-pack",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480789",
+    "name": "AH Cola zero sugar",
+    "price": 0.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "480794",
+    "name": "AH Cola zero sugar 6-pack",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413777",
+    "name": "Coca-Cola Coca Cola Light Caffeinefree 6pack BEL",
+    "price": 3.72,
+    "image": "NA",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413772",
+    "name": "Coca-Cola Coca Cola Light Lemon 6pack BEL",
+    "price": 3.9,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393035313234?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413767",
+    "name": "Coca-Cola Coca Cola Zero Cherry 6pack BEL",
+    "price": 4.14,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363436373538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413765",
+    "name": "Coca-Cola Coca Cola Zero Lemon 6pack BEL",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238333132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476708",
+    "name": "Coca-Cola light",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336303436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476714",
+    "name": "Coca-Cola Light 8-pack",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336303435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477046",
+    "name": "Coca-Cola Vanilla zero sugar",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630363237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "230767",
+    "name": "Coca-Cola Zero blik",
+    "price": 0.62,
+    "image": "NA",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476706",
+    "name": "Coca-Cola Zero sugar",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336303138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519031",
+    "name": "Coca-Cola Zero sugar 12-pack",
+    "price": 10.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038323534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476713",
+    "name": "Coca-Cola Zero sugar 8-pack",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038323132?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162477",
+    "name": "Coca-Cola Zero sugar mini 12-pack",
+    "price": 7.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336313134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "477057",
+    "name": "Coca-Cola Zero sugar vanilla 4-pack",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630363331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518830",
+    "name": "Coca-Cola Zero sugar zero caffeïne",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336303537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568472",
+    "name": "Dr Foots Cola zero sugar",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432373539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496791",
+    "name": "Pepsi Zero",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503255",
+    "name": "Pepsi Zero cola",
+    "price": 0.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534313935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola blikjes",
+      "Cola light & suikervrije blikjes"
+    ],
+    "isFood": true
+  }
+]

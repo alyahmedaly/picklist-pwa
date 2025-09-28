@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Sperziebonen, snijbonen en peulvruchten > Sperziebonen",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Sperziebonen, snijbonen en peulvruchten > Sperziebonen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "sperziebonen-conserven",
+      "displayName": "Sperziebonen Conserven",
+      "productCount": 11,
+      "filePath": "sperziebonen-conserven.jsonl",
+      "indexPath": "sperziebonen-conserven-index.json",
+      "statsPath": "sperziebonen-conserven-stats.json",
+      "averageProtein": 1.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "sperziebonen-vers",
+      "displayName": "Sperziebonen Vers",
+      "productCount": 5,
+      "filePath": "sperziebonen-vers.jsonl",
+      "indexPath": "sperziebonen-vers-index.json",
+      "statsPath": "sperziebonen-vers-stats.json",
+      "averageProtein": 1.9,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 16,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 16,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Sperziebonen Snijbonen En Peulvruchten",
+        "path": "../index.json"
+      },
+      {
+        "name": "Sperziebonen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/sperziebonen-snijbonen-en-peulvruchten"
+  }
+}

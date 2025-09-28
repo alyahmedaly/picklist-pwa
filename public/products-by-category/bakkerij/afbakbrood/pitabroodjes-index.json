@@ -1,0 +1,98 @@
+[
+  {
+    "id": "498340",
+    "name": "AH Flatbread",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735363533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Pitabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582212",
+    "name": "AH Gevouwen flatbread harissa",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Pitabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578973",
+    "name": "AH Gevouwen flatbread naturel",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839393032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Pitabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "239366",
+    "name": "AH Spelt pita's",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738343239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Pitabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221858",
+    "name": "AH Pita broodjes",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Pitabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221857",
+    "name": "AH Witte pita's",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738343033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Pitabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459008",
+    "name": "AH Volkoren pita's",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383738333638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Pitabroodjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568750",
+    "name": "AH Flatbread 2-pack",
+    "price": 3.97,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Pitabroodjes"
+    ],
+    "isFood": true
+  }
+]

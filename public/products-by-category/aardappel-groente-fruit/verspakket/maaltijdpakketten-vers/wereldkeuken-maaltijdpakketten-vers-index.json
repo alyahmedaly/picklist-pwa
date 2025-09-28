@@ -1,0 +1,210 @@
+[
+  {
+    "id": "537161",
+    "name": "AH Pasta funghi verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530323134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "552938",
+    "name": "AH Gesneden verspakket Indiase kip madras",
+    "price": 6.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "469813",
+    "name": "AH Zoete aardappel stamppot verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583542",
+    "name": "AH Pastaschelpen uit de oven verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570333",
+    "name": "AH Italiaanse pasta pesto verspakket",
+    "price": 5.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555107",
+    "name": "AH Gesneden Indiase Kip Madras Verspakket",
+    "price": 12.87,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583784",
+    "name": "AH Gesneden Naan Pizza Verspakket",
+    "price": 10.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544204",
+    "name": "AH Gesneden Nasi Verspakket",
+    "price": 11.88,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583756",
+    "name": "AH Italiaanse Pasta Pesto Verspakket",
+    "price": 15.51,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568401",
+    "name": "AH Pasta Funghi Verspakket",
+    "price": 15.31,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237353136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576350",
+    "name": "AH Vega Gesneden Indiase Madras Verspakket",
+    "price": 11.23,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830393338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583788",
+    "name": "AH Vega Gesneden Naan Pizza Verspakket",
+    "price": 10.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583767",
+    "name": "AH Vega Italiaanse Pasta Pesto Verspakket",
+    "price": 17.7,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541734",
+    "name": "AH Vega Pasta Funghi Verspakket",
+    "price": 10.82,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303439383434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568300",
+    "name": "AH Vega Zoete Aardappel Stamppot Verspakket",
+    "price": 8.18,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235303030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541132",
+    "name": "AH Zoete Aardappel Stamppot Verspakket",
+    "price": 7.24,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034383432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Verspakket",
+      "Maaltijdpakketten (vers)",
+      "Wereldkeuken maaltijdpakketten (vers)"
+    ],
+    "isFood": true
+  }
+]

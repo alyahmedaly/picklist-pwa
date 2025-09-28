@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Groentepasta, rijst, wraps > Groenterijst",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Groentepasta, rijst, wraps > Groenterijst",
+  "totalProducts": 7,
+  "halalCompliance": 100,
+  "averageProtein": 2.8,
+  "averagePrice": 2.66,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 7,
+    "withIngredients": 7,
+    "withHalalCheck": 7
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Ontbijtgranen en beleg > Kaas beleg > Plakken kaas",
+  "breadcrumbs": "Ontbijtgranen en beleg > Kaas beleg > Plakken kaas",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "geitenkaas-plakken",
+      "displayName": "Geitenkaas Plakken",
+      "productCount": 11,
+      "filePath": "geitenkaas-plakken.jsonl",
+      "indexPath": "geitenkaas-plakken-index.json",
+      "statsPath": "geitenkaas-plakken-stats.json",
+      "averageProtein": 24.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "gekruide-kaas-plakken",
+      "displayName": "Gekruide Kaas Plakken",
+      "productCount": 9,
+      "filePath": "gekruide-kaas-plakken.jsonl",
+      "indexPath": "gekruide-kaas-plakken-index.json",
+      "statsPath": "gekruide-kaas-plakken-stats.json",
+      "averageProtein": 23.6,
+      "halalCompliance": 100
+    },
+    {
+      "name": "gatenkaas-plakken",
+      "displayName": "Gatenkaas Plakken",
+      "productCount": 6,
+      "filePath": "gatenkaas-plakken.jsonl",
+      "indexPath": "gatenkaas-plakken-index.json",
+      "statsPath": "gatenkaas-plakken-stats.json",
+      "averageProtein": 26.7,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 26,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 26,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Ontbijtgranen En Beleg",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kaas Beleg",
+        "path": "../index.json"
+      },
+      {
+        "name": "Plakken Kaas",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "ontbijtgranen-en-beleg/kaas-beleg"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "rode-bieten",
+      "displayName": "Rode Bieten",
+      "productCount": 15,
+      "hasSubdirectories": false,
+      "indexPath": "rode-bieten/index.json"
+    },
+    {
+      "name": "wortelen",
+      "displayName": "Wortelen",
+      "productCount": 15,
+      "hasSubdirectories": false,
+      "indexPath": "wortelen/index.json"
+    },
+    {
+      "name": "pompoen",
+      "displayName": "Pompoen",
+      "productCount": 8,
+      "hasSubdirectories": false,
+      "indexPath": "pompoen/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 38,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 38,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../index.json"
+      },
+      {
+        "name": "Wortel Pompoen Knollen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/groente"
+  }
+}

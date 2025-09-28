@@ -1,0 +1,98 @@
+[
+  {
+    "id": "132205",
+    "name": "Bakker Borrelballen classic",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303430313333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Gehaktballetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503756",
+    "name": "AH Gehaktballetjes pikant",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234353839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Gehaktballetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562329",
+    "name": "AH Gehaktballetjes pikant",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036333233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Gehaktballetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197337",
+    "name": "AH Hollandse gehaktballetjes",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303839383830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Gehaktballetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503755",
+    "name": "AH Gehaktbal naturel",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134383936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Gehaktballetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "190607",
+    "name": "Mekkafood Gehaktballetjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353532383634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Gehaktballetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579234",
+    "name": "AH Gehaktbal naturel 3-pack",
+    "price": 7.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Gehaktballetjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579231",
+    "name": "AH Gehaktballetjes pikant 3-pack",
+    "price": 7.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Gehaktballetjes"
+    ],
+    "isFood": true
+  }
+]

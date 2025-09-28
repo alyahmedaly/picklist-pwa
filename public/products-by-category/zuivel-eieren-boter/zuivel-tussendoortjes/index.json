@@ -1,0 +1,62 @@
+{
+  "categoryPath": "Zuivel, eieren, boter > Zuivel tussendoortjes",
+  "breadcrumbs": "Zuivel, eieren, boter > Zuivel tussendoortjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "ijskoffie",
+      "displayName": "Ijskoffie",
+      "productCount": 40,
+      "filePath": "ijskoffie.jsonl",
+      "indexPath": "ijskoffie-index.json",
+      "statsPath": "ijskoffie-stats.json",
+      "averageProtein": 2.6,
+      "halalCompliance": 78
+    },
+    {
+      "name": "yoghurt-tussendoortjes",
+      "displayName": "Yoghurt Tussendoortjes",
+      "productCount": 24,
+      "filePath": "yoghurt-tussendoortjes.jsonl",
+      "indexPath": "yoghurt-tussendoortjes-index.json",
+      "statsPath": "yoghurt-tussendoortjes-stats.json",
+      "averageProtein": 2.8,
+      "halalCompliance": 71
+    },
+    {
+      "name": "health-tussendoortjes",
+      "displayName": "Health Tussendoortjes",
+      "productCount": 23,
+      "filePath": "health-tussendoortjes.jsonl",
+      "indexPath": "health-tussendoortjes-index.json",
+      "statsPath": "health-tussendoortjes-stats.json",
+      "averageProtein": 2.6,
+      "halalCompliance": 87
+    }
+  ],
+  "totalProducts": 87,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 87,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Zuivel Eieren Boter",
+        "path": "../index.json"
+      },
+      {
+        "name": "Zuivel Tussendoortjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "zuivel-eieren-boter"
+  }
+}

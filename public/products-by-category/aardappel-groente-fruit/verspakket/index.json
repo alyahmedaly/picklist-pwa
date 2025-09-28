@@ -1,0 +1,50 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "maaltijdpakketten-vers",
+      "displayName": "Maaltijdpakketten Vers",
+      "productCount": 129,
+      "hasSubdirectories": false,
+      "indexPath": "maaltijdpakketten-vers/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "soeppakketten-vers",
+      "displayName": "Soeppakketten Vers",
+      "productCount": 20,
+      "filePath": "soeppakketten-vers.jsonl",
+      "indexPath": "soeppakketten-vers-index.json",
+      "statsPath": "soeppakketten-vers-stats.json",
+      "averageProtein": 0.9,
+      "halalCompliance": 55
+    }
+  ],
+  "totalProducts": 149,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 149,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Verspakket",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "aardappel-groente-fruit"
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "193450",
+    "name": "Johma Oudekaas salade",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232383739?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Kaassalades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550278",
+    "name": "Johma Oudekaas sweetchilisalade",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238363333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Kaassalades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "413087",
+    "name": "Johma Oudekaas-pesto salade",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336363035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Kaassalades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562163",
+    "name": "AH Oude kaassalade",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638313837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Kaassalades"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489748",
+    "name": "AH Oude kaassalade",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Beleg salades",
+      "Kaassalades"
+    ],
+    "isFood": true
+  }
+]

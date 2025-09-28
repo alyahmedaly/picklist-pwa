@@ -1,0 +1,65 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "speciaalbier",
+      "displayName": "Speciaalbier",
+      "productCount": 427,
+      "hasSubdirectories": true,
+      "indexPath": "speciaalbier/index.json"
+    },
+    {
+      "name": "bier",
+      "displayName": "Bier",
+      "productCount": 233,
+      "hasSubdirectories": true,
+      "indexPath": "bier/index.json"
+    },
+    {
+      "name": "alcoholvrij-bier-en-bier-laag-in-alcohol",
+      "displayName": "Alcoholvrij Bier En Bier Laag In Alcohol",
+      "productCount": 68,
+      "hasSubdirectories": false,
+      "indexPath": "alcoholvrij-bier-en-bier-laag-in-alcohol/index.json"
+    },
+    {
+      "name": "aperitieven",
+      "displayName": "Aperitieven",
+      "productCount": 7,
+      "hasSubdirectories": true,
+      "indexPath": "aperitieven/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "speciaalbier",
+      "displayName": "Speciaalbier",
+      "productCount": 15,
+      "filePath": "speciaalbier.jsonl",
+      "indexPath": "speciaalbier-index.json",
+      "statsPath": "speciaalbier-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 93
+    }
+  ],
+  "totalProducts": 750,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 750,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "rootPath": "../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 1
+  }
+}

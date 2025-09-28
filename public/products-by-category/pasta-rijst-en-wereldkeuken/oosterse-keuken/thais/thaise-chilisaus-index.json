@@ -1,0 +1,80 @@
+[
+  {
+    "id": "429269",
+    "name": "Remia Chili tafelsaus",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353338353039?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Thais",
+      "Thaise chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516327",
+    "name": "Yildriz Thaise sriracha mayo",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934323535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Thais",
+      "Thaise chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516663",
+    "name": "Red Phoenix Sriracha extra hot",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Thais",
+      "Thaise chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553342",
+    "name": "Flying Goose Sriracha hot chili sauce",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393834363739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Thais",
+      "Thaise chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454148",
+    "name": "Yildriz Thaise sriracha saus",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934323531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Thais",
+      "Thaise chilisaus"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199253",
+    "name": "Fairtrade Original Sweet chili saus",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303532323430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Thais",
+      "Thaise chilisaus"
+    ],
+    "isFood": true
+  }
+]

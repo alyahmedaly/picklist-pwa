@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Vlees, vis > Rookworst, ragout > Ragout",
+  "breadcrumbs": "Vlees, vis > Rookworst, ragout > Ragout",
+  "totalProducts": 11,
+  "halalCompliance": 73,
+  "averageProtein": 6.3,
+  "averagePrice": 2.41,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 11,
+    "withIngredients": 11,
+    "withHalalCheck": 11
+  }
+}

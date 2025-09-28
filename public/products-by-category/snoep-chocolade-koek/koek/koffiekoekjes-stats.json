@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Koek > Koffiekoekjes",
+  "breadcrumbs": "Snoep, chocolade, koek > Koek > Koffiekoekjes",
+  "totalProducts": 25,
+  "halalCompliance": 76,
+  "averageProtein": 6,
+  "averagePrice": 2.31,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 25,
+    "withIngredients": 25,
+    "withHalalCheck": 25
+  }
+}

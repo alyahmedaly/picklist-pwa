@@ -1,0 +1,782 @@
+[
+  {
+    "id": "195821",
+    "name": "Red Bull Energy drink",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132313731?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196132",
+    "name": "Red Bull Energy drink",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334313631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496861",
+    "name": "Red Bull Energy drink 12-pack voordeelverpakking",
+    "price": 18.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303735303232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476617",
+    "name": "Red Bull Energy drink 24-pack",
+    "price": 34.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363630353433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67881",
+    "name": "Red Bull Energy drink 4-pack",
+    "price": 6.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334313736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "122021",
+    "name": "Red Bull Energy drink 6-pack voordeelverpakking",
+    "price": 9.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334313739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189331",
+    "name": "Red Bull Energy drink 8-pack voordeelverpakking",
+    "price": 12.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334313632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549745",
+    "name": "Red Bull Energy drink abrikoos-aardbei",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236363234?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568330",
+    "name": "Red Bull Energy drink abrikoos-aardbei 12-pack",
+    "price": 18.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236313238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568192",
+    "name": "Red Bull Energy drink curuba-elderflower",
+    "price": 1.1,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "566555",
+    "name": "Red Bull Energy drink peer-kaneel",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537363030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237882",
+    "name": "Red Bull Energy drink tropisch fruit",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237333931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494478",
+    "name": "Red Bull Energy drink watermeloen",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568328",
+    "name": "Red Bull Energy drink watermeloen 12-pack",
+    "price": 18.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236313230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550510",
+    "name": "Starbucks Triple shot",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632333236?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "141083",
+    "name": "Bullit Energy drink",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333393434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500261",
+    "name": "Bullit Energy drink 24-pack",
+    "price": 21.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333393534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229612",
+    "name": "Bullit Energy drink 6-pack",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437899",
+    "name": "Nalu blik Bel",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238333934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196194",
+    "name": "Red Bull Energy drink bosbes",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237333932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568329",
+    "name": "Red Bull Energy drink bosbes 12-pack",
+    "price": 18.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236313231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515142",
+    "name": "Red Bull Energy drink cactusvrucht",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393132313734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568193",
+    "name": "Red Bull Energy drink juneberry",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337393035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435973",
+    "name": "Red Bull Energy drink kokos-açaibes",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393237333933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583263",
+    "name": "Red Bull Winter edition iced vanilla berry smaak",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032393437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "437919",
+    "name": "Nalu Passion 6pack Bel",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038333534?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519620",
+    "name": "AA Drink Burner zero",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433313534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555244",
+    "name": "AA Drink Zero no sugar",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448504",
+    "name": "E Energy drink",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447809",
+    "name": "E Energy drink tray",
+    "price": 16.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939353736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195842",
+    "name": "Red Bull Energy drink suikervrij",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303436373230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500257",
+    "name": "Red Bull Energy drink suikervrij 24-pack",
+    "price": 34.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373739303731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "112749",
+    "name": "Red Bull Energy drink suikervrij 4-pack",
+    "price": 6.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334313737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496862",
+    "name": "Red Bull Energy drink suikervrij 6-pack voordeel",
+    "price": 9.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334313738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209862",
+    "name": "Red Bull Energy drink zero",
+    "price": 1.1,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373032333138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549658",
+    "name": "Bullit Sugarfree mango miracle",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555240",
+    "name": "Rockstar Energy drink original 4-pack",
+    "price": 5.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039343633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517025",
+    "name": "Rockstar Original",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035383333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448503",
+    "name": "E Energy drink sugarfree",
+    "price": 0.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933383936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "447811",
+    "name": "E Energy drink sugarfree tray",
+    "price": 16.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555241",
+    "name": "Rockstar Energy drink original no sugar 4-pack",
+    "price": 5.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039343934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517027",
+    "name": "Rockstar Original no sugar",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034323338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229611",
+    "name": "Bullit Energy drink suikervrij",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333393535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229610",
+    "name": "Bullit Energy drink suikervrij 24-pack",
+    "price": 21.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333393439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435974",
+    "name": "Bullit Energy drink suikervrij citrus",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333393537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435975",
+    "name": "Bullit Energy drink suikervrij rode bessen",
+    "price": 0.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333393539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519610",
+    "name": "Bullit Sugarfree 6-pack",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393333393531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544485",
+    "name": "Club-Mate Original",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037373739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "544285",
+    "name": "Rockstar Strawberry lime no sugar",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039343535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517026",
+    "name": "Rockstar Tropical guava no sugar",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039343931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "511485",
+    "name": "Tenzing Natural energy pineapple passionfruit",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393239333735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "511482",
+    "name": "Tenzing Natural energy raspberry yuzu",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393239333730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555242",
+    "name": "Tenzing Naturel energy apple & seaberry",
+    "price": 0.97,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330363336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583264",
+    "name": "Tenzing Naturel energy lime & mint",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934353734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575852",
+    "name": "Perfect Ted Matcha green tea energy juicy peach",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730343634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "530560",
+    "name": "NOCCO Mango del sol",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334373339?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454455",
+    "name": "NOCCO Tropical",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334373338?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575851",
+    "name": "Perfect Ted Matcha green tea energy apple raspberry",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730333239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496808",
+    "name": "Nightwatch Extreme 100% plant energy drink",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393431353938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577145",
+    "name": "Red Bull Energy drink juneberry 12-pack",
+    "price": 17.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577144",
+    "name": "Red Bull Energy drink tropical 12-pack",
+    "price": 17.24,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "510199",
+    "name": "Reign Energy melon mania",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030353532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "510253",
+    "name": "Reign Energy orange dreamsicle",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030353536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "555243",
+    "name": "Reign Razzle berry",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339373234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387485",
+    "name": "Shakura Energy drink",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303430333737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Energy drink, sportdrank",
+      "Energy drinks"
+    ],
+    "isFood": true
+  }
+]

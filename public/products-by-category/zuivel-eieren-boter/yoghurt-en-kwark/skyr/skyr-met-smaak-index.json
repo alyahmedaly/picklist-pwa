@@ -1,0 +1,223 @@
+[
+  {
+    "id": "556333",
+    "name": "Isey Skyr air cherry chocolate",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436373538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570897",
+    "name": "Arla Skyr vanille extra creamy 5% fat",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536393739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575471",
+    "name": "Isey Skyr air coconut lemon",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636353038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567538",
+    "name": "Isey Skyr air raspberry lemon",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393838323435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520116",
+    "name": "Isey Skyr lemon cheesecake",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038343930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517634",
+    "name": "Isey Skyr on-the-go toffee",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383438333330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567537",
+    "name": "Isey Skyr perzik",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393736363838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520120",
+    "name": "Isey Skyr blueberry pie",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536353331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575470",
+    "name": "Isey Skyr framboos - granaatappel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393339323432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583275",
+    "name": "Isey Skyr vanille",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039383238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "448363",
+    "name": "Arla Skyr aardbei yoghurt 0% fat",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038333133?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "387960",
+    "name": "Arla Skyr bosfruit yoghurt 0% fat",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038323834?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550202",
+    "name": "Arla Skyr kokos yoghurt 0% fat",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393334393839?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403286",
+    "name": "Arla Skyr vanille yoghurt 0% fat",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038323930?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486417",
+    "name": "Arla Skyr vanille yoghurt 0% fat XL",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038333239?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582873",
+    "name": "Arla Skyr aardbei yoghurt 2-pack",
+    "price": 3.97,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139313736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582874",
+    "name": "Arla Skyr vanille yoghurt 2-pack",
+    "price": 3.97,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139313737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Skyr",
+      "Skyr met smaak"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Drinkpakjes",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Drinkpakjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "fruitdrank-drinkpakjes",
+      "displayName": "Fruitdrank Drinkpakjes",
+      "productCount": 20,
+      "filePath": "fruitdrank-drinkpakjes.jsonl",
+      "indexPath": "fruitdrank-drinkpakjes-index.json",
+      "statsPath": "fruitdrank-drinkpakjes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "multivitamine-drinkpakjes",
+      "displayName": "Multivitamine Drinkpakjes",
+      "productCount": 9,
+      "filePath": "multivitamine-drinkpakjes.jsonl",
+      "indexPath": "multivitamine-drinkpakjes-index.json",
+      "statsPath": "multivitamine-drinkpakjes-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "sinaasappelsap-drinkpakjes",
+      "displayName": "Sinaasappelsap Drinkpakjes",
+      "productCount": 5,
+      "filePath": "sinaasappelsap-drinkpakjes.jsonl",
+      "indexPath": "sinaasappelsap-drinkpakjes-index.json",
+      "statsPath": "sinaasappelsap-drinkpakjes-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 34,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 34,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../index.json"
+      },
+      {
+        "name": "Drinkpakjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "frisdrank-sappen-siropen-water"
+  }
+}

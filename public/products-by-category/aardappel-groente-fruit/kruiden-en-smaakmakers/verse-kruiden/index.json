@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Kruiden en smaakmakers > Verse kruiden",
+  "breadcrumbs": "Aardappel, groente, fruit > Kruiden en smaakmakers > Verse kruiden",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "peterselie-vers",
+      "displayName": "Peterselie Vers",
+      "productCount": 7,
+      "filePath": "peterselie-vers.jsonl",
+      "indexPath": "peterselie-vers-index.json",
+      "statsPath": "peterselie-vers-stats.json",
+      "averageProtein": 3.8,
+      "halalCompliance": 86
+    },
+    {
+      "name": "verse-munt",
+      "displayName": "Verse Munt",
+      "productCount": 5,
+      "filePath": "verse-munt.jsonl",
+      "indexPath": "verse-munt-index.json",
+      "statsPath": "verse-munt-stats.json",
+      "averageProtein": 3.1,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 12,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 12,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kruiden En Smaakmakers",
+        "path": "../index.json"
+      },
+      {
+        "name": "Verse Kruiden",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/kruiden-en-smaakmakers"
+  }
+}

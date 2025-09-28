@@ -1,0 +1,86 @@
+[
+  {
+    "id": "201945",
+    "name": "Coca-Cola Original taste",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835333230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flesjes",
+      "Cola regular flesjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197318",
+    "name": "Pepsi Cola",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534323038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flesjes",
+      "Cola regular flesjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "162462",
+    "name": "Dr Pepper Fles",
+    "price": 1.9,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323131303937?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flesjes",
+      "Cola regular flesjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "257199",
+    "name": "Raak kindercola 0.25 liter",
+    "price": 0.52,
+    "image": "NA",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flesjes",
+      "Cola regular flesjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123392",
+    "name": "Raak Kindercola 6-pack",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535393230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flesjes",
+      "Cola regular flesjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568458",
+    "name": "Fritz Kola",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939343433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Frisdrank",
+      "Cola",
+      "Cola flesjes",
+      "Cola regular flesjes"
+    ],
+    "isFood": true
+  }
+]

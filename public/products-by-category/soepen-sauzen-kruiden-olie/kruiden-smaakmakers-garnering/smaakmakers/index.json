@@ -1,0 +1,43 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "zout",
+      "displayName": "Zout",
+      "productCount": 29,
+      "hasSubdirectories": true,
+      "indexPath": "zout/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 29,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 29,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kruiden Smaakmakers Garnering",
+        "path": "../index.json"
+      },
+      {
+        "name": "Smaakmakers",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "soepen-sauzen-kruiden-olie/kruiden-smaakmakers-garnering"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "categoryPath": "Kaas, vleeswaren, tapas > Kaas > Kaas voor maaltijden",
+  "breadcrumbs": "Kaas, vleeswaren, tapas > Kaas > Kaas voor maaltijden",
+  "subdirectories": [
+    {
+      "name": "feta-geitenkaas-witte-kaas",
+      "displayName": "Feta Geitenkaas Witte Kaas",
+      "productCount": 14,
+      "hasSubdirectories": false,
+      "indexPath": "feta-geitenkaas-witte-kaas/index.json"
+    },
+    {
+      "name": "kaasfondue-raclette",
+      "displayName": "Kaasfondue Raclette",
+      "productCount": 6,
+      "hasSubdirectories": false,
+      "indexPath": "kaasfondue-raclette/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "geraspte-kaas",
+      "displayName": "Geraspte Kaas",
+      "productCount": 48,
+      "filePath": "geraspte-kaas.jsonl",
+      "indexPath": "geraspte-kaas-index.json",
+      "statsPath": "geraspte-kaas-stats.json",
+      "averageProtein": 26.2,
+      "halalCompliance": 92
+    },
+    {
+      "name": "halloumi-en-grilkaas",
+      "displayName": "Halloumi En Grilkaas",
+      "productCount": 5,
+      "filePath": "halloumi-en-grilkaas.jsonl",
+      "indexPath": "halloumi-en-grilkaas-index.json",
+      "statsPath": "halloumi-en-grilkaas-stats.json",
+      "averageProtein": 22.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 73,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 73,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Kaas Vleeswaren Tapas",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kaas",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kaas Voor Maaltijden",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "kaas-vleeswaren-tapas/kaas"
+  }
+}

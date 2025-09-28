@@ -1,0 +1,156 @@
+[
+  {
+    "id": "220411",
+    "name": "Beckers Frikandellen",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532353832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Frikandel",
+      "Frikandel (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420339",
+    "name": "Beckers Frikandellen",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532353930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Frikandel",
+      "Frikandel (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189106",
+    "name": "Mora Originals viandel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353535303930?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Frikandel",
+      "Frikandel (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226514",
+    "name": "Herrenhof frikandel (20 x70g)",
+    "price": 6.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363435393931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Frikandel",
+      "Frikandel (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226510",
+    "name": "Herrenhof frikandel (5x 70g)",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363435393932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Frikandel",
+      "Frikandel (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226515",
+    "name": "Herrenhof frikandellen (40x 70g)",
+    "price": 11.05,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363435393933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Frikandel",
+      "Frikandel (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237607",
+    "name": "Mora Specials slagers frikandellen",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353834313430?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Frikandel",
+      "Frikandel (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191454",
+    "name": "Mora Classics frikandellen",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363936303733?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Frikandel",
+      "Frikandel (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226453",
+    "name": "Mora Cassics frikandellen grootverpakking",
+    "price": 6.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353735383738?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Frikandel",
+      "Frikandel (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "170625",
+    "name": "AH Frikandel",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393036363439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Frikandel",
+      "Frikandel (frituur)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583946",
+    "name": "AH Frikandel 2-pack",
+    "price": 7.18,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234313939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Maaltijdsnacks",
+      "Frikandel",
+      "Frikandel (frituur)"
+    ],
+    "isFood": true
+  }
+]

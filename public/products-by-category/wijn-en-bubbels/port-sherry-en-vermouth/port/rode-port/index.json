@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Wijn en bubbels > Port, sherry en vermouth > Port > Rode port",
+  "breadcrumbs": "Wijn en bubbels > Port, sherry en vermouth > Port > Rode port",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "ruby-port",
+      "displayName": "Ruby Port",
+      "productCount": 12,
+      "filePath": "ruby-port.jsonl",
+      "indexPath": "ruby-port-index.json",
+      "statsPath": "ruby-port-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "tawny-port",
+      "displayName": "Tawny Port",
+      "productCount": 8,
+      "filePath": "tawny-port.jsonl",
+      "indexPath": "tawny-port-index.json",
+      "statsPath": "tawny-port-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 20,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 20,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Wijn En Bubbels",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Port Sherry En Vermouth",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Port",
+        "path": "../index.json"
+      },
+      {
+        "name": "Rode Port",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "wijn-en-bubbels/port-sherry-en-vermouth/port"
+  }
+}

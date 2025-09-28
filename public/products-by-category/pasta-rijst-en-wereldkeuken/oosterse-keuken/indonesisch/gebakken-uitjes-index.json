@@ -1,0 +1,67 @@
+[
+  {
+    "id": "30799",
+    "name": "Go-Tan Gebakken uitjes",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363635363134?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Gebakken uitjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199034",
+    "name": "Go-Tan Gebakken uitjes",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363539383337?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Gebakken uitjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "114269",
+    "name": "Conimex Gebakken uitjes",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132333331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Gebakken uitjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "117611",
+    "name": "AH Gebakken uitjes",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Gebakken uitjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577868",
+    "name": "AH Pinda satesaus mix",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Oosterse keuken",
+      "Indonesisch",
+      "Gebakken uitjes"
+    ],
+    "isFood": true
+  }
+]

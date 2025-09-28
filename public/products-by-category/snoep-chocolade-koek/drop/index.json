@@ -1,0 +1,52 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Drop",
+  "breadcrumbs": "Snoep, chocolade, koek > Drop",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "gemengde-drop",
+      "displayName": "Gemengde Drop",
+      "productCount": 26,
+      "filePath": "gemengde-drop.jsonl",
+      "indexPath": "gemengde-drop-index.json",
+      "statsPath": "gemengde-drop-stats.json",
+      "averageProtein": 3.3,
+      "halalCompliance": 4
+    },
+    {
+      "name": "suikervrije-drop",
+      "displayName": "Suikervrije Drop",
+      "productCount": 18,
+      "filePath": "suikervrije-drop.jsonl",
+      "indexPath": "suikervrije-drop-index.json",
+      "statsPath": "suikervrije-drop-stats.json",
+      "averageProtein": 4.1,
+      "halalCompliance": 11
+    }
+  ],
+  "totalProducts": 44,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 44,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../index.json"
+      },
+      {
+        "name": "Drop",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "snoep-chocolade-koek"
+  }
+}

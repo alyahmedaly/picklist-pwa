@@ -1,0 +1,458 @@
+[
+  {
+    "id": "479239",
+    "name": "AH Chia smoothie sinaasappel mango maracuja",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569878",
+    "name": "CoolBest Fruit ontbijt bosvruchten",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930313736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569879",
+    "name": "CoolBest Fruit ontbijt sinaasappel & aardbei",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930313837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67839",
+    "name": "AH Vers sap ananas meloen mango",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575182",
+    "name": "AH Vers sap pitahaya framboos appel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "509686",
+    "name": "AH Yoghurt smoothie mango",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569892",
+    "name": "CoolBest Fruit ontbijt kiwi, banaan & yoghurt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930313833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569891",
+    "name": "CoolBest Fruit ontbijt perzik, banaan & yoghurt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303930313831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451130",
+    "name": "Innocent Innoc berry set go",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440571",
+    "name": "Innocent Orange tutti frutti juice blend",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633383236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580508",
+    "name": "AH Biologisch Ginger mango",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034373939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218172",
+    "name": "AH Vers sap blauwe bes limoen appel",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393938?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553792",
+    "name": "AH Verse smoothie wortel mango gember",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434353037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203919",
+    "name": "Innocent Tropical juice blend",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633383134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574603",
+    "name": "AH Smoothie rode biet appel",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "104114",
+    "name": "AH Vers sap appel peer framboos",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "141489",
+    "name": "AH Vers sap appel peer framboos",
+    "price": 3.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238123",
+    "name": "AH Vers sap mango sinaasappel appel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "430627",
+    "name": "AH Vers sap mango sinaasappel appel",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "60528",
+    "name": "AH Vers sap sinaasappel banaan",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582183",
+    "name": "Innocent Citrus shield",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313035353137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580524",
+    "name": "AH Biologisch Vers geperst sap sinaasappel appel mango",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575175",
+    "name": "AH Ginger strawberry appel aardbei",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495312",
+    "name": "AH Raw lemonade watermeloen",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737363033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574604",
+    "name": "AH Smoothie komkommer banaan",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574602",
+    "name": "AH Smoothie wortel gember",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580523",
+    "name": "AH Biologisch Vers geperst sap appel aardbei",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62366",
+    "name": "AH Vers sap sinaasappel aardbei",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "475887",
+    "name": "CoolBest Pink grapefruit",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "466013",
+    "name": "Innocent Blue spark",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034323031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451125",
+    "name": "Innocent Bright & juicy blue spark",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130373630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574600",
+    "name": "AH Rood fruit",
+    "price": 3.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630383234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574601",
+    "name": "AH Sinaasappel mango",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630383235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "385408",
+    "name": "AH Vers sap ananas kiwi komkommer",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62365",
+    "name": "AH Vers sap sinaasappel kiwi",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383731393730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553110",
+    "name": "AH Verse sappen pakket",
+    "price": 7,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393336323234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577168",
+    "name": "CoolBest Fruitontbijt Bosvrucht 3-pack",
+    "price": 4.78,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565685",
+    "name": "Innocent Inner winner",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034313831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Koudgeperste sappen & smoothies",
+      "Multivruchtensap (vers)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Gebak en taart > Schnitten en sloffen",
+  "breadcrumbs": "Bakkerij > Gebak en taart > Schnitten en sloffen",
+  "totalProducts": 5,
+  "halalCompliance": 20,
+  "averageProtein": 3.9,
+  "averagePrice": 5.84,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 5,
+    "withIngredients": 5,
+    "withHalalCheck": 5
+  }
+}

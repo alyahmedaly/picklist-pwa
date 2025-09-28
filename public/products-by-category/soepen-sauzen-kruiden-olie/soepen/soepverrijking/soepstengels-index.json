@@ -1,0 +1,80 @@
+[
+  {
+    "id": "443275",
+    "name": "Schär Grissini (Soepstengels)",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373536343836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soepverrijking",
+      "Soepstengels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124127",
+    "name": "Grand' Italia Grissini torinesi soepstengels",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739393733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soepverrijking",
+      "Soepstengels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384508",
+    "name": "Bedo Mini soepstengels",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383830393438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soepverrijking",
+      "Soepstengels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189394",
+    "name": "AH Soepstengels Naturel",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soepverrijking",
+      "Soepstengels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "189395",
+    "name": "AH Soepstengels sesam",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323333313432?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soepverrijking",
+      "Soepstengels"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196672",
+    "name": "AH Soepstengels volkoren",
+    "price": 0.75,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303234323831?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Soepen",
+      "Soepverrijking",
+      "Soepstengels"
+    ],
+    "isFood": true
+  }
+]

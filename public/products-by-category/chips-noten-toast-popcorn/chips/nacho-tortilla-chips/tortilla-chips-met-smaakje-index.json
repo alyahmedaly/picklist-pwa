@@ -1,0 +1,314 @@
+[
+  {
+    "id": "442669",
+    "name": "Doritos Cool american",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933333330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516972",
+    "name": "Doritos Cool American",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "124409",
+    "name": "Doritos Sweet chilli pepper",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933393838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "442595",
+    "name": "Doritos Sweet chilli pepper",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233343636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449690",
+    "name": "Santa Maria Tortilla chips cheese",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034303932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449702",
+    "name": "Santa Maria Tortilla chips cheese",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "553861",
+    "name": "Doritos Dippers a hint of sour cream",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303432383536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516973",
+    "name": "Doritos Pure paprika",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579882",
+    "name": "AH Tortilla chips sweet chili",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574333",
+    "name": "Doritos Flamin' hot",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449688",
+    "name": "Santa Maria Tortilla chips chili",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303034303933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574337",
+    "name": "Doritos Burger King whopper flavour",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "198211",
+    "name": "AH Nacho chips cheese",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303432343438?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "211355",
+    "name": "Doritos Barbecue style",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933333237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579875",
+    "name": "AH Tortilla chips nacho cheese flavour",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938373031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "57521",
+    "name": "Doritos Nacho cheese",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393933393839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436453",
+    "name": "Doritos Nacho cheese",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233343933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436454",
+    "name": "Doritos Nacho cheese",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303432303430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558392",
+    "name": "Doritos Nacho cheese 20-pack",
+    "price": 15.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393635333635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449991",
+    "name": "La Morena Totopos tortilla chips",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536353435?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473618",
+    "name": "La Morena Totopos tortilla chips nacho kaassmaak",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536313031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449697",
+    "name": "Santa Maria Tortilla chips salted",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537343139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "473619",
+    "name": "La Morena Totopos tortilla chips met zout",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536313032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574319",
+    "name": "Santa Maria Tortilla strips sweet chli",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631323231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Chips, noten, toast, popcorn",
+      "Chips",
+      "Nacho tortilla chips",
+      "Tortilla chips (met smaakje)"
+    ],
+    "isFood": true
+  }
+]

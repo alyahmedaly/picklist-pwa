@@ -1,0 +1,144 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Koek",
+  "breadcrumbs": "Snoep, chocolade, koek > Koek",
+  "subdirectories": [
+    {
+      "name": "cake",
+      "displayName": "Cake",
+      "productCount": 42,
+      "hasSubdirectories": false,
+      "indexPath": "cake/index.json"
+    },
+    {
+      "name": "stroopwafel-stroopkoek-wafels",
+      "displayName": "Stroopwafel Stroopkoek Wafels",
+      "productCount": 33,
+      "hasSubdirectories": false,
+      "indexPath": "stroopwafel-stroopkoek-wafels/index.json"
+    },
+    {
+      "name": "biscuits",
+      "displayName": "Biscuits",
+      "productCount": 32,
+      "hasSubdirectories": false,
+      "indexPath": "biscuits/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "koekjes-met-chocolade",
+      "displayName": "Koekjes Met Chocolade",
+      "productCount": 96,
+      "filePath": "koekjes-met-chocolade.jsonl",
+      "indexPath": "koekjes-met-chocolade-index.json",
+      "statsPath": "koekjes-met-chocolade-stats.json",
+      "averageProtein": 6,
+      "halalCompliance": 4
+    },
+    {
+      "name": "alledaagse-koeken",
+      "displayName": "Alledaagse Koeken",
+      "productCount": 46,
+      "filePath": "alledaagse-koeken.jsonl",
+      "indexPath": "alledaagse-koeken-index.json",
+      "statsPath": "alledaagse-koeken-stats.json",
+      "averageProtein": 5.4,
+      "halalCompliance": 63
+    },
+    {
+      "name": "glutenvrije-koek",
+      "displayName": "Glutenvrije Koek",
+      "productCount": 32,
+      "filePath": "glutenvrije-koek.jsonl",
+      "indexPath": "glutenvrije-koek-index.json",
+      "statsPath": "glutenvrije-koek-stats.json",
+      "averageProtein": 5.8,
+      "halalCompliance": 25
+    },
+    {
+      "name": "kinderkoekje",
+      "displayName": "Kinderkoekje",
+      "productCount": 26,
+      "filePath": "kinderkoekje.jsonl",
+      "indexPath": "kinderkoekje-index.json",
+      "statsPath": "kinderkoekje-stats.json",
+      "averageProtein": 6,
+      "halalCompliance": 31
+    },
+    {
+      "name": "koffiekoekjes",
+      "displayName": "Koffiekoekjes",
+      "productCount": 25,
+      "filePath": "koffiekoekjes.jsonl",
+      "indexPath": "koffiekoekjes-index.json",
+      "statsPath": "koffiekoekjes-stats.json",
+      "averageProtein": 6,
+      "halalCompliance": 76
+    },
+    {
+      "name": "speculaas",
+      "displayName": "Speculaas",
+      "productCount": 22,
+      "filePath": "speculaas.jsonl",
+      "indexPath": "speculaas-index.json",
+      "statsPath": "speculaas-stats.json",
+      "averageProtein": 5.7,
+      "halalCompliance": 50
+    },
+    {
+      "name": "koek-bites",
+      "displayName": "Koek Bites",
+      "productCount": 20,
+      "filePath": "koek-bites.jsonl",
+      "indexPath": "koek-bites-index.json",
+      "statsPath": "koek-bites-stats.json",
+      "averageProtein": 5.4,
+      "halalCompliance": 10
+    },
+    {
+      "name": "portieverpakking-koek-en-cake",
+      "displayName": "Portieverpakking Koek En Cake",
+      "productCount": 10,
+      "filePath": "portieverpakking-koek-en-cake.jsonl",
+      "indexPath": "portieverpakking-koek-en-cake-index.json",
+      "statsPath": "portieverpakking-koek-en-cake-stats.json",
+      "averageProtein": 7.2,
+      "halalCompliance": 40
+    },
+    {
+      "name": "gevulde-koeken",
+      "displayName": "Gevulde Koeken",
+      "productCount": 6,
+      "filePath": "gevulde-koeken.jsonl",
+      "indexPath": "gevulde-koeken-index.json",
+      "statsPath": "gevulde-koeken-stats.json",
+      "averageProtein": 5.8,
+      "halalCompliance": 50
+    }
+  ],
+  "totalProducts": 390,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 390,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../index.json"
+      },
+      {
+        "name": "Koek",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "snoep-chocolade-koek"
+  }
+}

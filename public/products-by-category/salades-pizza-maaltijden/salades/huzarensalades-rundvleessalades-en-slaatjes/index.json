@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Salades > Huzarensalades, rundvleessalades en slaatjes",
+  "breadcrumbs": "Salades, pizza, maaltijden > Salades > Huzarensalades, rundvleessalades en slaatjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "vleessalade",
+      "displayName": "Vleessalade",
+      "productCount": 9,
+      "filePath": "vleessalade.jsonl",
+      "indexPath": "vleessalade-index.json",
+      "statsPath": "vleessalade-stats.json",
+      "averageProtein": 4,
+      "halalCompliance": 67
+    },
+    {
+      "name": "aardappelsalade",
+      "displayName": "Aardappelsalade",
+      "productCount": 5,
+      "filePath": "aardappelsalade.jsonl",
+      "indexPath": "aardappelsalade-index.json",
+      "statsPath": "aardappelsalade-stats.json",
+      "averageProtein": 1.7,
+      "halalCompliance": 60
+    },
+    {
+      "name": "huzarensalades",
+      "displayName": "Huzarensalades",
+      "productCount": 5,
+      "filePath": "huzarensalades.jsonl",
+      "indexPath": "huzarensalades-index.json",
+      "statsPath": "huzarensalades-stats.json",
+      "averageProtein": 1.6,
+      "halalCompliance": 60
+    }
+  ],
+  "totalProducts": 19,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 19,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Salades",
+        "path": "../index.json"
+      },
+      {
+        "name": "Huzarensalades Rundvleessalades En Slaatjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "salades-pizza-maaltijden/salades"
+  }
+}

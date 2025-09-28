@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Kant- en-klaar maaltijden > Halal maaltijden",
+  "breadcrumbs": "Salades, pizza, maaltijden > Kant- en-klaar maaltijden > Halal maaltijden",
+  "totalProducts": 7,
+  "halalCompliance": 100,
+  "averageProtein": 5.8,
+  "averagePrice": 5.45,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 7,
+    "withIngredients": 7,
+    "withHalalCheck": 7
+  }
+}

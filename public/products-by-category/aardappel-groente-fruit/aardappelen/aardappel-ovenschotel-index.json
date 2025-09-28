@@ -1,0 +1,74 @@
+[
+  {
+    "id": "525356",
+    "name": "AH Aardappel ovenschaal spek en ui",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634343430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202678",
+    "name": "AH Aardappelgratin naturel",
+    "price": 2.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939353438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "214623",
+    "name": "CêlaVíta Roast potatoes",
+    "price": 3.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "377964",
+    "name": "CêlaVíta Patatas bravas",
+    "price": 3.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632343030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "525354",
+    "name": "AH Aardappel ovenschaal groene kruiden",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel (ovenschotel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561986",
+    "name": "AH Ovenschaal zeezout zwarte peper",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel (ovenschotel)"
+    ],
+    "isFood": true
+  }
+]

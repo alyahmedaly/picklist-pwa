@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Koken, tafelen, vrije tijd > Tafelen > Serviesgoed, bestek > Kommen, schaaltjes",
+  "breadcrumbs": "Koken, tafelen, vrije tijd > Tafelen > Serviesgoed, bestek > Kommen, schaaltjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "aardewerk-kommen",
+      "displayName": "Aardewerk Kommen",
+      "productCount": 16,
+      "filePath": "aardewerk-kommen.jsonl",
+      "indexPath": "aardewerk-kommen-index.json",
+      "statsPath": "aardewerk-kommen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 16,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koken Tafelen Vrije Tijd",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Tafelen",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Serviesgoed Bestek",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kommen Schaaltjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "koken-tafelen-vrije-tijd/tafelen/serviesgoed-bestek"
+  }
+}

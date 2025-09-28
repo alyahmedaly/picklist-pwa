@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Bakkerij > Brood > Volkoren brood",
+  "breadcrumbs": "Bakkerij > Brood > Volkoren brood",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "volkoren-brood-ovenvers",
+      "displayName": "Volkoren Brood Ovenvers",
+      "productCount": 16,
+      "filePath": "volkoren-brood-ovenvers.jsonl",
+      "indexPath": "volkoren-brood-ovenvers-index.json",
+      "statsPath": "volkoren-brood-ovenvers-stats.json",
+      "averageProtein": 11.5,
+      "halalCompliance": 88
+    },
+    {
+      "name": "bakkersbrood-volkoren",
+      "displayName": "Bakkersbrood Volkoren",
+      "productCount": 15,
+      "filePath": "bakkersbrood-volkoren.jsonl",
+      "indexPath": "bakkersbrood-volkoren-index.json",
+      "statsPath": "bakkersbrood-volkoren-stats.json",
+      "averageProtein": 11.6,
+      "halalCompliance": 80
+    },
+    {
+      "name": "dagvers-volkoren",
+      "displayName": "Dagvers Volkoren",
+      "productCount": 14,
+      "filePath": "dagvers-volkoren.jsonl",
+      "indexPath": "dagvers-volkoren-index.json",
+      "statsPath": "dagvers-volkoren-stats.json",
+      "averageProtein": 12,
+      "halalCompliance": 29
+    }
+  ],
+  "totalProducts": 45,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 45,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Brood",
+        "path": "../index.json"
+      },
+      {
+        "name": "Volkoren Brood",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bakkerij/brood"
+  }
+}

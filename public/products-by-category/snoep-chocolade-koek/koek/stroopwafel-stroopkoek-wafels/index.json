@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Koek > Stroopwafel, stroopkoek, wafels",
+  "breadcrumbs": "Snoep, chocolade, koek > Koek > Stroopwafel, stroopkoek, wafels",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "wafels",
+      "displayName": "Wafels",
+      "productCount": 21,
+      "filePath": "wafels.jsonl",
+      "indexPath": "wafels-index.json",
+      "statsPath": "wafels-stats.json",
+      "averageProtein": 5.6,
+      "halalCompliance": 14
+    },
+    {
+      "name": "stroopwafels",
+      "displayName": "Stroopwafels",
+      "productCount": 12,
+      "filePath": "stroopwafels.jsonl",
+      "indexPath": "stroopwafels-index.json",
+      "statsPath": "stroopwafels-stats.json",
+      "averageProtein": 3.8,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 33,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 33,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Koek",
+        "path": "../index.json"
+      },
+      {
+        "name": "Stroopwafel Stroopkoek Wafels",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "snoep-chocolade-koek/koek"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Salades",
+  "breadcrumbs": "Salades, pizza, maaltijden > Salades",
+  "subdirectories": [
+    {
+      "name": "huzarensalades-rundvleessalades-en-slaatjes",
+      "displayName": "Huzarensalades Rundvleessalades En Slaatjes",
+      "productCount": 19,
+      "hasSubdirectories": false,
+      "indexPath": "huzarensalades-rundvleessalades-en-slaatjes/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "maaltijdsalade",
+      "displayName": "Maaltijdsalade",
+      "productCount": 31,
+      "filePath": "maaltijdsalade.jsonl",
+      "indexPath": "maaltijdsalade-index.json",
+      "statsPath": "maaltijdsalade-stats.json",
+      "averageProtein": 5,
+      "halalCompliance": 87
+    },
+    {
+      "name": "kleine-salades",
+      "displayName": "Kleine Salades",
+      "productCount": 25,
+      "filePath": "kleine-salades.jsonl",
+      "indexPath": "kleine-salades-index.json",
+      "statsPath": "kleine-salades-stats.json",
+      "averageProtein": 5,
+      "halalCompliance": 84
+    },
+    {
+      "name": "groene-salade",
+      "displayName": "Groene Salade",
+      "productCount": 8,
+      "filePath": "groene-salade.jsonl",
+      "indexPath": "groene-salade-index.json",
+      "statsPath": "groene-salade-stats.json",
+      "averageProtein": 4,
+      "halalCompliance": 88
+    }
+  ],
+  "totalProducts": 83,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 83,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Salades",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "salades-pizza-maaltijden"
+  }
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "561238",
+    "name": "AH Boomgaard perensap",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313039323232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Perensap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479735",
+    "name": "Flevosap Peer",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939393135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Perensap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568095",
+    "name": "Van de Boom Seizoensfruit",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313139313933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Perensap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "403960",
+    "name": "Van de Boom Peer",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238313931?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Perensap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "404281",
+    "name": "Van de Boom Peer 6-pack",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238373935?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Perensap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195888",
+    "name": "De Appelaere De perelaere",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536333630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Perensap & drank"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577158",
+    "name": "Van de Boom Perensap 1L 3-pack",
+    "price": 5.74,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Perensap & drank"
+    ],
+    "isFood": true
+  }
+]

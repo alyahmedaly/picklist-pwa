@@ -1,0 +1,146 @@
+[
+  {
+    "id": "583325",
+    "name": "AH Mousse caramel crunch",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Chocolademousse"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583337",
+    "name": "AH Mousse chocolate fudge brownie",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Chocolademousse"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583324",
+    "name": "AH Mousse cinnamon spice",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Chocolademousse"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533095",
+    "name": "Almhof Plantaardig chocolade mousse",
+    "price": 2.02,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303430313737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Chocolademousse"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438732",
+    "name": "AH Melkchocolade mousse",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534393934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Chocolademousse"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556371",
+    "name": "AH Witte chocolade mousse",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Chocolademousse"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238020",
+    "name": "Nestlé Bros melkchocolade mousse",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735383334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Chocolademousse"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238023",
+    "name": "Almhof Chocolade mousse",
+    "price": 1.04,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939383936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Chocolademousse"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "533096",
+    "name": "Almhof Chocolade mousse",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039303439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Chocolademousse"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "196212",
+    "name": "AH Chocolade mousse puur",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Chocolademousse"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384061",
+    "name": "Bros Krakende mousse",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383532353631?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Chocolademousse"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458971",
+    "name": "De Zaanse Hoeve Chocolade mousse",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534303336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Toetjes",
+      "Chocolademousse"
+    ],
+    "isFood": true
+  }
+]

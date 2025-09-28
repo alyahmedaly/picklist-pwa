@@ -1,0 +1,79 @@
+[
+  {
+    "id": "467264",
+    "name": "Consenza Kruidnoten choco gluten free",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934363431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Glutenvrij",
+      "Glutenvrij en vegan Sinterklaas assortiment"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532280",
+    "name": "AH Glutenvrij Kruidnoten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236303731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Glutenvrij",
+      "Glutenvrij en vegan Sinterklaas assortiment"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "532279",
+    "name": "AH Glutenvrij Speculaasbrok",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383939363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Glutenvrij",
+      "Glutenvrij en vegan Sinterklaas assortiment"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505678",
+    "name": "Kinder Tin balls",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313234303633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Glutenvrij",
+      "Glutenvrij en vegan Sinterklaas assortiment"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563545",
+    "name": "Maître Mathis Gevulde speculaaskoek glutenvrij",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393634373032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Glutenvrij",
+      "Glutenvrij en vegan Sinterklaas assortiment"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563589",
+    "name": "Consenza Kruidnoten gluten free",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934363634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Glutenvrij",
+      "Glutenvrij en vegan Sinterklaas assortiment"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "483544",
+    "name": "Consenza Taai taai poppetjes gluten free",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934363438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Glutenvrij",
+      "Glutenvrij en vegan Sinterklaas assortiment"
+    ],
+    "isFood": true
+  }
+]

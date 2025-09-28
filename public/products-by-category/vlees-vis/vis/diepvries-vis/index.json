@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Vlees, vis > Vis > Diepvries vis",
+  "breadcrumbs": "Vlees, vis > Vis > Diepvries vis",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "garnalen-diepvries",
+      "displayName": "Garnalen Diepvries",
+      "productCount": 15,
+      "filePath": "garnalen-diepvries.jsonl",
+      "indexPath": "garnalen-diepvries-index.json",
+      "statsPath": "garnalen-diepvries-stats.json",
+      "averageProtein": 11,
+      "halalCompliance": 80
+    },
+    {
+      "name": "kabeljauw-diepvries",
+      "displayName": "Kabeljauw Diepvries",
+      "productCount": 5,
+      "filePath": "kabeljauw-diepvries.jsonl",
+      "indexPath": "kabeljauw-diepvries-index.json",
+      "statsPath": "kabeljauw-diepvries-stats.json",
+      "averageProtein": 15.2,
+      "halalCompliance": 100
+    },
+    {
+      "name": "zalm-diepvries",
+      "displayName": "Zalm Diepvries",
+      "productCount": 5,
+      "filePath": "zalm-diepvries.jsonl",
+      "indexPath": "zalm-diepvries-index.json",
+      "statsPath": "zalm-diepvries-stats.json",
+      "averageProtein": 17.9,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 25,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 25,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Diepvries Vis",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/vis"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Pepermunt, keelpastilles > Pepermunt",
+  "breadcrumbs": "Snoep, chocolade, koek > Pepermunt, keelpastilles > Pepermunt",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "doosje-blikje-pepermunt",
+      "displayName": "Doosje Blikje Pepermunt",
+      "productCount": 28,
+      "filePath": "doosje-blikje-pepermunt.jsonl",
+      "indexPath": "doosje-blikje-pepermunt-index.json",
+      "statsPath": "doosje-blikje-pepermunt-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 75
+    },
+    {
+      "name": "rol-zakje-pepermunt",
+      "displayName": "Rol Zakje Pepermunt",
+      "productCount": 17,
+      "filePath": "rol-zakje-pepermunt.jsonl",
+      "indexPath": "rol-zakje-pepermunt-index.json",
+      "statsPath": "rol-zakje-pepermunt-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 65
+    }
+  ],
+  "totalProducts": 45,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 45,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Pepermunt Keelpastilles",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pepermunt",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "snoep-chocolade-koek/pepermunt-keelpastilles"
+  }
+}

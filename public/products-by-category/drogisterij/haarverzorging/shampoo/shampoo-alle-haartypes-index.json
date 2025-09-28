@@ -1,0 +1,93 @@
+[
+  {
+    "id": "470396",
+    "name": "Nature Box Shampoo bar avocado",
+    "price": 8.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373635353334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Haarverzorging",
+      "Shampoo",
+      "Shampoo alle haartypes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "433838",
+    "name": "Pantene klassiek 3in1 BEL",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303037303236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Haarverzorging",
+      "Shampoo",
+      "Shampoo alle haartypes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565204",
+    "name": "Seepje Shampoo hydrate and nourish",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Haarverzorging",
+      "Shampoo",
+      "Shampoo alle haartypes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565206",
+    "name": "Seepje Shampoo hydrate and nourish navulling",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Haarverzorging",
+      "Shampoo",
+      "Shampoo alle haartypes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571272",
+    "name": "The Green Lab Co. Navulset shampoo lavendel & jasmijn",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635323438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Haarverzorging",
+      "Shampoo",
+      "Shampoo alle haartypes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571271",
+    "name": "The Green Lab Co. Navulset shampoo mint & kamille",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635323532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Haarverzorging",
+      "Shampoo",
+      "Shampoo alle haartypes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571273",
+    "name": "The Green Lab Co. Starterset shampoo mint & lavendel",
+    "price": 13.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635323533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Drogisterij",
+      "Haarverzorging",
+      "Shampoo",
+      "Shampoo alle haartypes"
+    ],
+    "isFood": true
+  }
+]

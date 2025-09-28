@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Bier en aperitieven > Speciaalbier > Wit & Weizen",
+  "breadcrumbs": "Bier en aperitieven > Speciaalbier > Wit & Weizen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "weizen-bier",
+      "displayName": "Weizen Bier",
+      "productCount": 29,
+      "filePath": "weizen-bier.jsonl",
+      "indexPath": "weizen-bier-index.json",
+      "statsPath": "weizen-bier-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "wit-bier",
+      "displayName": "Wit Bier",
+      "productCount": 24,
+      "filePath": "wit-bier.jsonl",
+      "indexPath": "wit-bier-index.json",
+      "statsPath": "wit-bier-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 96
+    }
+  ],
+  "totalProducts": 53,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 53,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Speciaalbier",
+        "path": "../index.json"
+      },
+      {
+        "name": "Wit Weizen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bier-en-aperitieven/speciaalbier"
+  }
+}

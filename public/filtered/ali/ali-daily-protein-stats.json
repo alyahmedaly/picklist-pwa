@@ -1,0 +1,13 @@
+{
+  "originalCount": 30498,
+  "filteredCount": 964,
+  "excludedCount": 29534,
+  "filterSpecific": {
+    "halalCoverage": 964,
+    "proteinCoverage": 964,
+    "postWorkoutCoverage": 471,
+    "fatLossCoverage": 964,
+    "budgetCoverage": 916
+  },
+  "exclusionReasons": {}
+}

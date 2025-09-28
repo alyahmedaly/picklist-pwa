@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Vlees, vis > Kip > Kippenpoten, drumsticks",
+  "breadcrumbs": "Vlees, vis > Kip > Kippenpoten, drumsticks",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "kipdrumsticks",
+      "displayName": "Kipdrumsticks",
+      "productCount": 7,
+      "filePath": "kipdrumsticks.jsonl",
+      "indexPath": "kipdrumsticks-index.json",
+      "statsPath": "kipdrumsticks-stats.json",
+      "averageProtein": 18.8,
+      "halalCompliance": 71
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kip",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kippenpoten Drumsticks",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/kip"
+  }
+}

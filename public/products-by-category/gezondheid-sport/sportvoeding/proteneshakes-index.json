@@ -1,0 +1,170 @@
+[
+  {
+    "id": "576490",
+    "name": "Barebells Fast food drinkmaaltijd aardbei",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736373433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Proteïneshakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576488",
+    "name": "Barebells Fast food drinkmaaltijd vanilla",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736373436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Proteïneshakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576489",
+    "name": "Barebells Fast food drinkmaaltijd chocolate",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303736373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Proteïneshakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576486",
+    "name": "Optimum Nutrition High protein shake vanilla",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Proteïneshakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576491",
+    "name": "Optimum Nutrition High protein shake vanilla",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Proteïneshakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518767",
+    "name": "Barebells Milkshake chocolate",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533343431?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Proteïneshakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518743",
+    "name": "Barebells Milkshake strawberry",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533343330?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Proteïneshakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "518739",
+    "name": "Barebells Milkshake vanilla",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383533343430?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Proteïneshakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570881",
+    "name": "NXT Level Protein shake ice coffee flavour",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Proteïneshakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570882",
+    "name": "NXT Level Protein shake vanilla flavour",
+    "price": 2.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937343134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Proteïneshakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576487",
+    "name": "Optimum Nutrition High protein shake chocolate",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938373038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Proteïneshakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576494",
+    "name": "Optimum Nutrition High protein shake strawberry",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Proteïneshakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576492",
+    "name": "Optimum Nutrition High protein shake chocolate",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Proteïneshakes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576493",
+    "name": "Optimum Nutrition High protein shake strawberry",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938383236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Sportvoeding",
+      "Proteïneshakes"
+    ],
+    "isFood": true
+  }
+]

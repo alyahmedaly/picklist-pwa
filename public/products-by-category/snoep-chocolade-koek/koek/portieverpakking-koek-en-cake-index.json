@@ -1,0 +1,122 @@
+[
+  {
+    "id": "471039",
+    "name": "Jules Destrooper Florentines BEL",
+    "price": 3.99,
+    "image": "NA",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Portieverpakking koek en cake"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "441752",
+    "name": "Echte Enkhuizer Glacé 18-pack",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303432353135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Portieverpakking koek en cake"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471040",
+    "name": "Jules Destrooper Finest BEL",
+    "price": 7.99,
+    "image": "NA",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Portieverpakking koek en cake"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470650",
+    "name": "Jules Destrooper Selection bel",
+    "price": 6.49,
+    "image": "NA",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Portieverpakking koek en cake"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471270",
+    "name": "Côte d'Or Mini Bouche Melk BEL",
+    "price": 5.28,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353930303539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Portieverpakking koek en cake"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471281",
+    "name": "Côte d'Or Mini bouchée puur bel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303433353339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Portieverpakking koek en cake"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471041",
+    "name": "Jules Destrooper Originals bel",
+    "price": 3.89,
+    "image": "NA",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Portieverpakking koek en cake"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580313",
+    "name": "KoRo Energy ball salted peanut",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036373130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Portieverpakking koek en cake"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580315",
+    "name": "KoRo Energy ball salted pistachio",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Portieverpakking koek en cake"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580314",
+    "name": "KoRo Energy ball chocolate raspberry",
+    "price": 1.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036343039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Koek",
+      "Portieverpakking koek en cake"
+    ],
+    "isFood": true
+  }
+]

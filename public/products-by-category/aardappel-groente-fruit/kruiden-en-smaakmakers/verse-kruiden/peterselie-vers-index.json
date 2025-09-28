@@ -1,0 +1,93 @@
+[
+  {
+    "id": "509628",
+    "name": "AH Biologisch Wortelpeterselie",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383236333435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Verse kruiden",
+      "Peterselie (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577885",
+    "name": "AH Biologisch Peterselie plantje",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936363832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Verse kruiden",
+      "Peterselie (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197308",
+    "name": "AH Biologisch Peterselie pot",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323032323530?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Verse kruiden",
+      "Peterselie (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "386429",
+    "name": "AH Biologisch Platte peterselie pot",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323536353432?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Verse kruiden",
+      "Peterselie (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238970",
+    "name": "AH Peterselie",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739333239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Verse kruiden",
+      "Peterselie (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238971",
+    "name": "AH Platte peterselie",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Verse kruiden",
+      "Peterselie (vers)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "418282",
+    "name": "AH Platte peterselie grootverpakking",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303737343839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Kruiden en smaakmakers",
+      "Verse kruiden",
+      "Peterselie (vers)"
+    ],
+    "isFood": true
+  }
+]

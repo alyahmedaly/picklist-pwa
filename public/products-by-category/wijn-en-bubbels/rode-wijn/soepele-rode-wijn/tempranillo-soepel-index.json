@@ -1,0 +1,80 @@
+[
+  {
+    "id": "222352",
+    "name": "AH Soepele Spaanse huiswijn rood",
+    "price": 4.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393632373833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Tempranillo (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561456",
+    "name": "Sangre de Toro Tempranillo",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935323134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Tempranillo (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "225278",
+    "name": "Mesta Tempranillo organic wine",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830353930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Tempranillo (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "63462",
+    "name": "Berberana Red dragon tempranillo",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303936323330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Tempranillo (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222356",
+    "name": "Contenda Red tempranillo",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830363830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Tempranillo (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435571",
+    "name": "Mucho Mas Rood tempranillo",
+    "price": 7.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373234353235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Tempranillo (Soepel)"
+    ],
+    "isFood": true
+  }
+]

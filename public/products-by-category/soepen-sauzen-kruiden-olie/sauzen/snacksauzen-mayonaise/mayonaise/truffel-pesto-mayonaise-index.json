@@ -1,0 +1,184 @@
+[
+  {
+    "id": "551442",
+    "name": "Oliehoorn Truffel mayonaise",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393330303035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Truffel, pesto mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "535174",
+    "name": "Jean Bâton Mayonnaise black truffle",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383932353533?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Truffel, pesto mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216495",
+    "name": "Jean Bâton Truffel mayonaise",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536323534?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Truffel, pesto mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "420244",
+    "name": "Jean Bâton Truffel mayonaise",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363536333731?revLabel=14&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Truffel, pesto mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "429232",
+    "name": "AH Mayo truffel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Truffel, pesto mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "389145",
+    "name": "AH Pesto mayonaise",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336313632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Truffel, pesto mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217313",
+    "name": "AH Truffelmayonaise",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303431393131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Truffel, pesto mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558411",
+    "name": "Jean Bâton Classiques truffle sauce",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313137353739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Truffel, pesto mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579826",
+    "name": "Jean Bâton Dipping sauce black truffle",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131303739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Truffel, pesto mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580691",
+    "name": "Mayoneur Spicy truffel mayo",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130383236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Truffel, pesto mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571940",
+    "name": "Hellmann's Truffle saus",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303330373431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Truffel, pesto mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "558417",
+    "name": "Jean Bâton Classiques truffle sauce",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303337373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Truffel, pesto mayonaise"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579100",
+    "name": "AH Mayo truffel 2-pack",
+    "price": 5.68,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313030343131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Sauzen",
+      "Snacksauzen, mayonaise",
+      "Mayonaise",
+      "Truffel, pesto mayonaise"
+    ],
+    "isFood": true
+  }
+]

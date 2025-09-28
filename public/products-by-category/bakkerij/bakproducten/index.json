@@ -1,0 +1,99 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "toevoegingen-toppings-versiering",
+      "displayName": "Toevoegingen Toppings Versiering",
+      "productCount": 43,
+      "hasSubdirectories": false,
+      "indexPath": "toevoegingen-toppings-versiering/index.json"
+    },
+    {
+      "name": "cake-bakken",
+      "displayName": "Cake Bakken",
+      "productCount": 21,
+      "hasSubdirectories": false,
+      "indexPath": "cake-bakken/index.json"
+    },
+    {
+      "name": "taart-bakken",
+      "displayName": "Taart Bakken",
+      "productCount": 21,
+      "hasSubdirectories": false,
+      "indexPath": "taart-bakken/index.json"
+    },
+    {
+      "name": "bakmix",
+      "displayName": "Bakmix",
+      "productCount": 15,
+      "hasSubdirectories": false,
+      "indexPath": "bakmix/index.json"
+    },
+    {
+      "name": "glutenvrije-bakproducten",
+      "displayName": "Glutenvrije Bakproducten",
+      "productCount": 14,
+      "hasSubdirectories": false,
+      "indexPath": "glutenvrije-bakproducten/index.json"
+    },
+    {
+      "name": "broodmix-croissantdeeg",
+      "displayName": "Broodmix Croissantdeeg",
+      "productCount": 10,
+      "hasSubdirectories": true,
+      "indexPath": "broodmix-croissantdeeg/index.json"
+    },
+    {
+      "name": "bak-accessoires-bakvormen",
+      "displayName": "Bak Accessoires Bakvormen",
+      "productCount": 9,
+      "hasSubdirectories": false,
+      "indexPath": "bak-accessoires-bakvormen/index.json"
+    },
+    {
+      "name": "basis-bakbenodigdheden",
+      "displayName": "Basis Bakbenodigdheden",
+      "productCount": 5,
+      "hasSubdirectories": true,
+      "indexPath": "basis-bakbenodigdheden/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "pudding-desserts",
+      "displayName": "Pudding Desserts",
+      "productCount": 17,
+      "filePath": "pudding-desserts.jsonl",
+      "indexPath": "pudding-desserts-index.json",
+      "statsPath": "pudding-desserts-stats.json",
+      "averageProtein": 3.7,
+      "halalCompliance": 65
+    }
+  ],
+  "totalProducts": 155,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 155,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bakkerij",
+        "path": "../index.json"
+      },
+      {
+        "name": "Bakproducten",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "bakkerij"
+  }
+}

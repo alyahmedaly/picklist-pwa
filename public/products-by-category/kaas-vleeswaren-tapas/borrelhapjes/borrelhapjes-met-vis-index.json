@@ -1,0 +1,74 @@
+[
+  {
+    "id": "421147",
+    "name": "AH Zalmrolletjes met roomkaas",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399016",
+    "name": "AH Garnalen in knoflookmarinade",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "399017",
+    "name": "AH Garnalen in chili olie",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438922",
+    "name": "AH Ansjovis",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313132303134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417468",
+    "name": "AH Garnalen met knoflooksaus",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vis"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580080",
+    "name": "AH Tempura garnalen",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131343736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Borrelhapjes",
+      "Borrelhapjes met vis"
+    ],
+    "isFood": true
+  }
+]

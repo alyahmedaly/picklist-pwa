@@ -1,0 +1,94 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "tonijn-conserven",
+      "displayName": "Tonijn Conserven",
+      "productCount": 70,
+      "hasSubdirectories": false,
+      "indexPath": "tonijn-conserven/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "sardines-conserven",
+      "displayName": "Sardines Conserven",
+      "productCount": 21,
+      "filePath": "sardines-conserven.jsonl",
+      "indexPath": "sardines-conserven-index.json",
+      "statsPath": "sardines-conserven-stats.json",
+      "averageProtein": 19.6,
+      "halalCompliance": 100
+    },
+    {
+      "name": "ansjovis-conserven",
+      "displayName": "Ansjovis Conserven",
+      "productCount": 10,
+      "filePath": "ansjovis-conserven.jsonl",
+      "indexPath": "ansjovis-conserven-index.json",
+      "statsPath": "ansjovis-conserven-stats.json",
+      "averageProtein": 24.1,
+      "halalCompliance": 100
+    },
+    {
+      "name": "haring-conserven",
+      "displayName": "Haring Conserven",
+      "productCount": 10,
+      "filePath": "haring-conserven.jsonl",
+      "indexPath": "haring-conserven-index.json",
+      "statsPath": "haring-conserven-stats.json",
+      "averageProtein": 13.8,
+      "halalCompliance": 100
+    },
+    {
+      "name": "makreel-conserven",
+      "displayName": "Makreel Conserven",
+      "productCount": 10,
+      "filePath": "makreel-conserven.jsonl",
+      "indexPath": "makreel-conserven-index.json",
+      "statsPath": "makreel-conserven-stats.json",
+      "averageProtein": 18.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "zalm-conserven",
+      "displayName": "Zalm Conserven",
+      "productCount": 9,
+      "filePath": "zalm-conserven.jsonl",
+      "indexPath": "zalm-conserven-index.json",
+      "statsPath": "zalm-conserven-stats.json",
+      "averageProtein": 19.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 130,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 130,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vis",
+        "path": "../index.json"
+      },
+      {
+        "name": "Visconserven",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/vis"
+  }
+}

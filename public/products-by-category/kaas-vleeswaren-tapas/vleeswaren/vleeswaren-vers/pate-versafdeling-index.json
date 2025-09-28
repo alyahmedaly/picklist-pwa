@@ -1,0 +1,132 @@
+[
+  {
+    "id": "564833",
+    "name": "AH Paté met truffel",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235383735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Pate (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572369",
+    "name": "AH Paté met zwarte knoflook",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303534363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Pate (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127476",
+    "name": "AH Ardenner paté",
+    "price": 2.82,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038353933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Pate (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "505578",
+    "name": "AH Ardenner paté",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038353935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Pate (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498149",
+    "name": "AH Biologisch Boerenpaté",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038353436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Pate (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "280505",
+    "name": "AH Biologisch Roompate",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Pate (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127477",
+    "name": "AH Cranberry paté",
+    "price": 2.82,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038353637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Pate (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "97025",
+    "name": "AH Cremepaté",
+    "price": 2.82,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393038353531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Pate (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583604",
+    "name": "AH Duo pate wildzwijn en eend met port",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230333234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Pate (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583606",
+    "name": "AH Pate en croute cranberry",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233363533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Pate (versafdeling)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "104087",
+    "name": "Antinori Santa cristina toscana rosso",
+    "price": 9.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830363733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Sangiovese (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62515",
+    "name": "Cecchi Chianti",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303636353636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Sangiovese (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440708",
+    "name": "Fantini Puglia rosso",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4b525436303032353633?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Sangiovese (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135318",
+    "name": "Fantini Sangiovese",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353738343339?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Sangiovese (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440709",
+    "name": "Moncaro Sangiovese marque bio",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d5039363733303137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Sangiovese (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482900",
+    "name": "Riporta Sangiovese",
+    "price": 8.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633313939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Sangiovese (Soepel)"
+    ],
+    "isFood": true
+  }
+]

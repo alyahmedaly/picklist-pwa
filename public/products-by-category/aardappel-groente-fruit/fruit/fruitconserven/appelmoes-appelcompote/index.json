@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Fruit > Fruitconserven > Appelmoes, appelcompote",
+  "breadcrumbs": "Aardappel, groente, fruit > Fruit > Fruitconserven > Appelmoes, appelcompote",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "appelmoes-in-pot",
+      "displayName": "Appelmoes In Pot",
+      "productCount": 27,
+      "filePath": "appelmoes-in-pot.jsonl",
+      "indexPath": "appelmoes-in-pot-index.json",
+      "statsPath": "appelmoes-in-pot-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 85
+    },
+    {
+      "name": "appelmoes-kuipje",
+      "displayName": "Appelmoes Kuipje",
+      "productCount": 5,
+      "filePath": "appelmoes-kuipje.jsonl",
+      "indexPath": "appelmoes-kuipje-index.json",
+      "statsPath": "appelmoes-kuipje-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 32,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 32,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Fruitconserven",
+        "path": "../index.json"
+      },
+      {
+        "name": "Appelmoes Appelcompote",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/fruit/fruitconserven"
+  }
+}

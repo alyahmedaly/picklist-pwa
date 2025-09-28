@@ -1,0 +1,64 @@
+{
+  "categoryPath": "Soepen, sauzen, kruiden, olie > Kruiden, smaakmakers, garnering > Smaakmakers > Zout > Zout (naturel)",
+  "breadcrumbs": "Soepen, sauzen, kruiden, olie > Kruiden, smaakmakers, garnering > Smaakmakers > Zout > Zout (naturel)",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "zeezout",
+      "displayName": "Zeezout",
+      "productCount": 12,
+      "filePath": "zeezout.jsonl",
+      "indexPath": "zeezout-index.json",
+      "statsPath": "zeezout-stats.json",
+      "averageProtein": 0.3,
+      "halalCompliance": 100
+    },
+    {
+      "name": "zout-diverse",
+      "displayName": "Zout Diverse",
+      "productCount": 8,
+      "filePath": "zout-diverse.jsonl",
+      "indexPath": "zout-diverse-index.json",
+      "statsPath": "zout-diverse-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 88
+    }
+  ],
+  "totalProducts": 20,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 20,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Soepen Sauzen Kruiden Olie",
+        "path": "../../../../index.json"
+      },
+      {
+        "name": "Kruiden Smaakmakers Garnering",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Smaakmakers",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Zout",
+        "path": "../index.json"
+      },
+      {
+        "name": "Zout Naturel",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 5,
+    "parentPath": "soepen-sauzen-kruiden-olie/kruiden-smaakmakers-garnering/smaakmakers/zout"
+  }
+}

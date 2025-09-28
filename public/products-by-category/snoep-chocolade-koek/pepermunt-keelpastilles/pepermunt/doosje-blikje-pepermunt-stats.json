@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Pepermunt, keelpastilles > Pepermunt > Doosje, blikje pepermunt",
+  "breadcrumbs": "Snoep, chocolade, koek > Pepermunt, keelpastilles > Pepermunt > Doosje, blikje pepermunt",
+  "totalProducts": 28,
+  "halalCompliance": 75,
+  "averageProtein": 0,
+  "averagePrice": 3.99,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 28,
+    "withIngredients": 28,
+    "withHalalCheck": 28
+  }
+}

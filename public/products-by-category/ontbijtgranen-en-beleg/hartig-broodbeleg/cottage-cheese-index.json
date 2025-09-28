@@ -1,0 +1,74 @@
+[
+  {
+    "id": "560659",
+    "name": "Paysan Breton Madame loik light",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393534323039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Cottage cheese"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400468",
+    "name": "AH Biologisch Cottage cheese",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323732343538?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Cottage cheese"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "1932",
+    "name": "Danone Hüttenkäse original",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303132353831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Cottage cheese"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67552",
+    "name": "Danone Hüttenkäse original",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836393536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Cottage cheese"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400467",
+    "name": "AH Cottage cheese",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353833313530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Cottage cheese"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "560658",
+    "name": "AH Cottage cheese light",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393533393139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Hartig broodbeleg",
+      "Cottage cheese"
+    ],
+    "isFood": true
+  }
+]

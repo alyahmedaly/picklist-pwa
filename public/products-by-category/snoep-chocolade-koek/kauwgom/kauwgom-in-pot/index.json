@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Kauwgom > Kauwgom in pot",
+  "breadcrumbs": "Snoep, chocolade, koek > Kauwgom > Kauwgom in pot",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "pot-mint",
+      "displayName": "Pot Mint",
+      "productCount": 28,
+      "filePath": "pot-mint.jsonl",
+      "indexPath": "pot-mint-index.json",
+      "statsPath": "pot-mint-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 0
+    },
+    {
+      "name": "pot-fruit",
+      "displayName": "Pot Fruit",
+      "productCount": 16,
+      "filePath": "pot-fruit.jsonl",
+      "indexPath": "pot-fruit-index.json",
+      "statsPath": "pot-fruit-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 44,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 44,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kauwgom",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kauwgom In Pot",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "snoep-chocolade-koek/kauwgom"
+  }
+}

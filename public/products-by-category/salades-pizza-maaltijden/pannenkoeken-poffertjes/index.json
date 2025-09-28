@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Pannenkoeken, poffertjes",
+  "breadcrumbs": "Salades, pizza, maaltijden > Pannenkoeken, poffertjes",
+  "subdirectories": [
+    {
+      "name": "pannenkoekenmix",
+      "displayName": "Pannenkoekenmix",
+      "productCount": 16,
+      "hasSubdirectories": false,
+      "indexPath": "pannenkoekenmix/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "pannenkoeken",
+      "displayName": "Pannenkoeken",
+      "productCount": 17,
+      "filePath": "pannenkoeken.jsonl",
+      "indexPath": "pannenkoeken-index.json",
+      "statsPath": "pannenkoeken-stats.json",
+      "averageProtein": 7.6,
+      "halalCompliance": 59
+    },
+    {
+      "name": "stroop-regulier",
+      "displayName": "Stroop Regulier",
+      "productCount": 5,
+      "filePath": "stroop-regulier.jsonl",
+      "indexPath": "stroop-regulier-index.json",
+      "statsPath": "stroop-regulier-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 80
+    }
+  ],
+  "totalProducts": 38,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 38,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pannenkoeken Poffertjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "salades-pizza-maaltijden"
+  }
+}

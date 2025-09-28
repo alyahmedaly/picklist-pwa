@@ -1,0 +1,76 @@
+{
+  "categoryPath": "Vegetarisch, vegan en plantaardig > Plantaardige zuivel alternatieven > Plantaardige drinks",
+  "breadcrumbs": "Vegetarisch, vegan en plantaardig > Plantaardige zuivel alternatieven > Plantaardige drinks",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "haverdrink",
+      "displayName": "Haverdrink",
+      "productCount": 45,
+      "filePath": "haverdrink.jsonl",
+      "indexPath": "haverdrink-index.json",
+      "statsPath": "haverdrink-stats.json",
+      "averageProtein": 1,
+      "halalCompliance": 82
+    },
+    {
+      "name": "sojadrink",
+      "displayName": "Sojadrink",
+      "productCount": 24,
+      "filePath": "sojadrink.jsonl",
+      "indexPath": "sojadrink-index.json",
+      "statsPath": "sojadrink-stats.json",
+      "averageProtein": 1.9,
+      "halalCompliance": 75
+    },
+    {
+      "name": "amandel-cashewdrink",
+      "displayName": "Amandel Cashewdrink",
+      "productCount": 17,
+      "filePath": "amandel-cashewdrink.jsonl",
+      "indexPath": "amandel-cashewdrink-index.json",
+      "statsPath": "amandel-cashewdrink-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 35
+    },
+    {
+      "name": "kokosdrink",
+      "displayName": "Kokosdrink",
+      "productCount": 6,
+      "filePath": "kokosdrink.jsonl",
+      "indexPath": "kokosdrink-index.json",
+      "statsPath": "kokosdrink-stats.json",
+      "averageProtein": 0.4,
+      "halalCompliance": 67
+    }
+  ],
+  "totalProducts": 92,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 92,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vegetarisch Vegan En Plantaardig",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Plantaardige Zuivel Alternatieven",
+        "path": "../index.json"
+      },
+      {
+        "name": "Plantaardige Drinks",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vegetarisch-vegan-en-plantaardig/plantaardige-zuivel-alternatieven"
+  }
+}

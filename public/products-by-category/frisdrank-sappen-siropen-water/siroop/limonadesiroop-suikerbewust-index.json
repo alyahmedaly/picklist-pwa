@@ -1,0 +1,254 @@
+[
+  {
+    "id": "479229",
+    "name": "Van de Boom Groene thee citrus siroop",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833353833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "366747",
+    "name": "Karvan Cévitam Siroop go aardbeien",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034393338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436195",
+    "name": "AH Siroop aardbei 0% suiker toegevoegd",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485681",
+    "name": "AH Siroop cassis 0% suiker toegevoegd",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438353333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485683",
+    "name": "AH Siroop framboos 0% suiker toegevoegd",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439303739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485680",
+    "name": "AH Siroop grenadine 0% suiker toegevoegd",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439303934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485743",
+    "name": "AH Siroop peer 0% suiker toegevoegd",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393438353233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485682",
+    "name": "AH Siroop tropical 0% suiker toegevoegd",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393439313037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "530992",
+    "name": "Karvan Cévitam Zero aardbei siroop",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037383530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "530962",
+    "name": "Karvan Cévitam Zero citroen siroop",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535383736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "530996",
+    "name": "Karvan Cévitam Zero kers siroop",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037383439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "530997",
+    "name": "Karvan Cévitam Zero multivruchten siroop",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037373139?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "530994",
+    "name": "Karvan Cévitam Zero bosvruchten",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "530993",
+    "name": "Karvan Cévitam Zero cassis siroop",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037323335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "530995",
+    "name": "Karvan Cévitam Zero framboos siroop",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535383836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520741",
+    "name": "Slimpie Watermeloen aardbei siroop 0% suiker",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303235333633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568156",
+    "name": "Belvoir Exotic mango & passion fruit cordial",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303039393431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568159",
+    "name": "Belvoir Sicilian lemon & lime cordial",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303232323034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578516",
+    "name": "Karvan Cévitam GO Strawberry 3-pack",
+    "price": 9.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934343339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "578512",
+    "name": "Karvan Cévitam Zero multivruchten 3-pack",
+    "price": 9.58,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934343335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468202",
+    "name": "Raak Vruchtensiroop bosvruchten zero sugar",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536373239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Siroop",
+      "Limonadesiroop (suikerbewust)"
+    ],
+    "isFood": true
+  }
+]

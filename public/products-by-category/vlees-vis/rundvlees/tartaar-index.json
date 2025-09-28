@@ -1,0 +1,86 @@
+[
+  {
+    "id": "436758",
+    "name": "AH Biologisch Duitse biefstuk",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Tartaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187583",
+    "name": "AH Duitse biefstuk",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Tartaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169172",
+    "name": "AH Rundertartaar",
+    "price": 3.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Tartaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169173",
+    "name": "AH Rundertartaar",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Tartaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "187597",
+    "name": "AH Rundertartaar",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Tartaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436749",
+    "name": "AH Biologisch Rundertartaar",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Tartaar"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436754",
+    "name": "AH Biologisch Rundertartaar",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rundvlees",
+      "Tartaar"
+    ],
+    "isFood": true
+  }
+]

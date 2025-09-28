@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Pannenkoeken, poffertjes > Pannenkoeken",
+  "breadcrumbs": "Salades, pizza, maaltijden > Pannenkoeken, poffertjes > Pannenkoeken",
+  "totalProducts": 17,
+  "halalCompliance": 59,
+  "averageProtein": 7.6,
+  "averagePrice": 2.51,
+  "highProteinProducts": 1,
+  "dataQuality": {
+    "withNutrition": 17,
+    "withIngredients": 17,
+    "withHalalCheck": 17
+  }
+}

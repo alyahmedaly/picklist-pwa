@@ -1,0 +1,418 @@
+[
+  {
+    "id": "107669",
+    "name": "AH Biologisch Waterkers",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383233353036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "80217",
+    "name": "AH Botersla",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433333736?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193247",
+    "name": "AH Fijngesneden ijsbergsla",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383934373335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "185200",
+    "name": "AH Gemengde salade",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160705",
+    "name": "AH Gemengde salade grootverpakking",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836303230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "4099",
+    "name": "AH IJsbergsla",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50353037333230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129684",
+    "name": "AH IJsbergsla",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393532383532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "517597",
+    "name": "AH IJsbergsla fijngesneden",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168153",
+    "name": "AH IJsbergsla grootverpakking",
+    "price": 2,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838363939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "3840",
+    "name": "AH IJsbergsla melange",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433333737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435499",
+    "name": "AH IJsbergsla melange",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "382984",
+    "name": "AH Kropsla",
+    "price": 1.15,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323335363438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "455936",
+    "name": "AH Krulslamelange",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197419",
+    "name": "AH Tricolor kluitsla",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383832393732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "449311",
+    "name": "AH Biologisch Baby romaine",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383831353535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "522244",
+    "name": "AH Biologisch Romaine sla",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "96399",
+    "name": "AH Eikenblad slamelange",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "155599",
+    "name": "AH Eikenblad slamelange grootverpakking",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303838363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "133238",
+    "name": "AH Jonge bladsla met rucola",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383937353239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435437",
+    "name": "AH Jonge bladsla met rucola kleinverpakking",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383937353433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435438",
+    "name": "AH Jonge bladsla veldsla kleinverpakking",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383937353431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "193245",
+    "name": "AH Romaine sla",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221221",
+    "name": "AH Salademix",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168154",
+    "name": "AH Slamelange jonge bladsla veldsla",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "67593",
+    "name": "AH Veldsla",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393433333733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "168091",
+    "name": "AH Veldsla grootverpakking",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435436",
+    "name": "AH Biologisch Slamelange rucola veldsla",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383937353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "62661",
+    "name": "AH Rucola slamelange",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936313338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "155598",
+    "name": "AH Rucola slamelange grootverpakking",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303832303439?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "418286",
+    "name": "AH Slamelange rode biet",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936323032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "476742",
+    "name": "AH Biologisch Rucola",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383937353234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568568",
+    "name": "AH Romaine sla 2-pack",
+    "price": 5.68,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237343738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Sla"
+    ],
+    "isFood": true
+  }
+]

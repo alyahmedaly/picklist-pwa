@@ -1,0 +1,62 @@
+[
+  {
+    "id": "556791",
+    "name": "AH Scharrel kip provencaalse",
+    "price": 12.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937373735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Hele kip"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "165536",
+    "name": "AH Scharrel hele kip",
+    "price": 12.22,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938303031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Hele kip"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "375559",
+    "name": "Des Champs Vert Franse scharrel zwartpootkip",
+    "price": 16.03,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323232383534?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Hele kip"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "375558",
+    "name": "Des Champs Vert Franse scharrel maiskip",
+    "price": 14.46,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363532333030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Hele kip"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "375557",
+    "name": "AH Franse scharrelkip",
+    "price": 12.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Kip",
+      "Hele kip"
+    ],
+    "isFood": true
+  }
+]

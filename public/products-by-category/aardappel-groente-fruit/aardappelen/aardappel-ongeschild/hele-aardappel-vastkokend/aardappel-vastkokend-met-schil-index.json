@@ -1,0 +1,86 @@
+[
+  {
+    "id": "169400",
+    "name": "AH Aardappelen vastkokend",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - vastkokend",
+      "Aardappel vastkokend - met schil"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "129869",
+    "name": "AH Rouges",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135373737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - vastkokend",
+      "Aardappel vastkokend - met schil"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "96050",
+    "name": "AH Vastkokende aardappelen",
+    "price": 4.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - vastkokend",
+      "Aardappel vastkokend - met schil"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "123866",
+    "name": "AH Vastkokende aardappelen",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638343838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - vastkokend",
+      "Aardappel vastkokend - met schil"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "127726",
+    "name": "AH Biologisch Vastkokende aardappelen",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630373735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - vastkokend",
+      "Aardappel vastkokend - met schil"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "238140",
+    "name": "AH Biologisch Vastkokende aardappelen",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632313732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - ongeschild",
+      "Hele aardappel - vastkokend",
+      "Aardappel vastkokend - met schil"
+    ],
+    "isFood": true
+  }
+]

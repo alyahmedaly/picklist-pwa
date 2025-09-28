@@ -1,0 +1,106 @@
+[
+  {
+    "id": "577137",
+    "name": "AH Pain de provence",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932373234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Gegrild en gebraden gehakt (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "57251",
+    "name": "Josef Dettelbacher Gegrild gehakt",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373437393036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Gegrild en gebraden gehakt (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "324554",
+    "name": "AH Gehakt cordon bleu",
+    "price": 2.61,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435353339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Gegrild en gebraden gehakt (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "550826",
+    "name": "AH Gebraden gehakt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Gegrild en gebraden gehakt (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229399",
+    "name": "AH Gebraden kipgehakt",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135383039?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Gegrild en gebraden gehakt (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493045",
+    "name": "AH Roasted gehakt",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393437353737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Gegrild en gebraden gehakt (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "377215",
+    "name": "AH Gehakt met ui",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393037393237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Gegrild en gebraden gehakt (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580358",
+    "name": "AH Roasted gehakt 2-pack",
+    "price": 5.02,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Gegrild en gebraden gehakt (versafdeling)"
+    ],
+    "isFood": true
+  }
+]

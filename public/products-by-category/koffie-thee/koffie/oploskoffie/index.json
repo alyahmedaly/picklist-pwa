@@ -1,0 +1,66 @@
+{
+  "categoryPath": "Koffie, thee > Koffie > Oploskoffie",
+  "breadcrumbs": "Koffie, thee > Koffie > Oploskoffie",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "oploskoffie-melkbasis",
+      "displayName": "Oploskoffie Melkbasis",
+      "productCount": 23,
+      "filePath": "oploskoffie-melkbasis.jsonl",
+      "indexPath": "oploskoffie-melkbasis-index.json",
+      "statsPath": "oploskoffie-melkbasis-stats.json",
+      "averageProtein": 3.3,
+      "halalCompliance": 65
+    },
+    {
+      "name": "oploskoffie-divers",
+      "displayName": "Oploskoffie Divers",
+      "productCount": 9,
+      "filePath": "oploskoffie-divers.jsonl",
+      "indexPath": "oploskoffie-divers-index.json",
+      "statsPath": "oploskoffie-divers-stats.json",
+      "averageProtein": 4.1,
+      "halalCompliance": 78
+    },
+    {
+      "name": "oploskoffie-regular",
+      "displayName": "Oploskoffie Regular",
+      "productCount": 9,
+      "filePath": "oploskoffie-regular.jsonl",
+      "indexPath": "oploskoffie-regular-index.json",
+      "statsPath": "oploskoffie-regular-stats.json",
+      "averageProtein": 1.6,
+      "halalCompliance": 89
+    }
+  ],
+  "totalProducts": 41,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 41,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koffie Thee",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Koffie",
+        "path": "../index.json"
+      },
+      {
+        "name": "Oploskoffie",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "koffie-thee/koffie"
+  }
+}

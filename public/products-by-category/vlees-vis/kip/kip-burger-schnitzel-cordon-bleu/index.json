@@ -1,0 +1,54 @@
+{
+  "categoryPath": "Vlees, vis > Kip > Kip- burger, schnitzel, cordon bleu",
+  "breadcrumbs": "Vlees, vis > Kip > Kip- burger, schnitzel, cordon bleu",
+  "subdirectories": [
+    {
+      "name": "kipburger",
+      "displayName": "Kipburger",
+      "productCount": 9,
+      "hasSubdirectories": false,
+      "indexPath": "kipburger/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "schnitzel-kip",
+      "displayName": "Schnitzel Kip",
+      "productCount": 11,
+      "filePath": "schnitzel-kip.jsonl",
+      "indexPath": "schnitzel-kip-index.json",
+      "statsPath": "schnitzel-kip-stats.json",
+      "averageProtein": 8.4,
+      "halalCompliance": 73
+    }
+  ],
+  "totalProducts": 20,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 20,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vlees Vis",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kip",
+        "path": "../index.json"
+      },
+      {
+        "name": "Kip Burger Schnitzel Cordon Bleu",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "vlees-vis/kip"
+  }
+}

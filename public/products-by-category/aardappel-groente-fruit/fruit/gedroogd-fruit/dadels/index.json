@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Fruit > Gedroogd fruit > Dadels",
+  "breadcrumbs": "Aardappel, groente, fruit > Fruit > Gedroogd fruit > Dadels",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "dadels-diverse",
+      "displayName": "Dadels Diverse",
+      "productCount": 7,
+      "filePath": "dadels-diverse.jsonl",
+      "indexPath": "dadels-diverse-index.json",
+      "statsPath": "dadels-diverse-stats.json",
+      "averageProtein": 2,
+      "halalCompliance": 86
+    }
+  ],
+  "totalProducts": 7,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Gedroogd Fruit",
+        "path": "../index.json"
+      },
+      {
+        "name": "Dadels",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/fruit/gedroogd-fruit"
+  }
+}

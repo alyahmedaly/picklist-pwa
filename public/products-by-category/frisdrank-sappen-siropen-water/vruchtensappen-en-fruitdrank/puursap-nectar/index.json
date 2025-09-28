@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Vruchtensappen en fruitdrank > Puursap, nectar",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Vruchtensappen en fruitdrank > Puursap, nectar",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "puursap",
+      "displayName": "Puursap",
+      "productCount": 7,
+      "filePath": "puursap.jsonl",
+      "indexPath": "puursap-index.json",
+      "statsPath": "puursap-stats.json",
+      "averageProtein": 0.4,
+      "halalCompliance": 100
+    },
+    {
+      "name": "nectar-dranken",
+      "displayName": "Nectar Dranken",
+      "productCount": 5,
+      "filePath": "nectar-dranken.jsonl",
+      "indexPath": "nectar-dranken-index.json",
+      "statsPath": "nectar-dranken-stats.json",
+      "averageProtein": 0.2,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 12,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 12,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Vruchtensappen En Fruitdrank",
+        "path": "../index.json"
+      },
+      {
+        "name": "Puursap Nectar",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "frisdrank-sappen-siropen-water/vruchtensappen-en-fruitdrank"
+  }
+}

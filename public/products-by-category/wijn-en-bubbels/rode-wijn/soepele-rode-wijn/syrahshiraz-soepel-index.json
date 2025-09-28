@@ -1,0 +1,106 @@
+[
+  {
+    "id": "222347",
+    "name": "AH Shiraz",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373837393032?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Syrah/Shiraz (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "217370",
+    "name": "Camden park Shiraz",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333343836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Syrah/Shiraz (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "135315",
+    "name": "Château Camplong Corbières",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233343839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Syrah/Shiraz (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "472898",
+    "name": "Inycon Shiraz Appassimento",
+    "price": 7.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632393339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Syrah/Shiraz (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "516787",
+    "name": "Kleinood De herder",
+    "price": 13.99,
+    "image": "NA",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Syrah/Shiraz (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195123",
+    "name": "Rustenberg Malbec cabernet sauvignon merlot",
+    "price": 6.65,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50313238363932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Syrah/Shiraz (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "365524",
+    "name": "Viñas del Vero Luces tinto",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50353433373133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Syrah/Shiraz (Soepel)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "141735",
+    "name": "Wild Pig Shiraz",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303236343630?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Wijn en bubbels",
+      "Rode wijn",
+      "Soepele rode wijn",
+      "Syrah/Shiraz (Soepel)"
+    ],
+    "isFood": true
+  }
+]

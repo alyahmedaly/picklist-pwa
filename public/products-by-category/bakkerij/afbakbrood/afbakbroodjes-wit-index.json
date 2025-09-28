@@ -1,0 +1,230 @@
+[
+  {
+    "id": "570903",
+    "name": "AH Panini ham & kaas",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237373233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570904",
+    "name": "AH Panini caprese",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303237373232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "498339",
+    "name": "AH Mini Turks brood",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "226137",
+    "name": "AH Turks brood",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458903",
+    "name": "AH Kaiserbroodjes",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459023",
+    "name": "AH Schnittbroodjes wit",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937333239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "495949",
+    "name": "Schnitzer Baguettini bianco",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303139363130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191104",
+    "name": "AH Ciabattina's",
+    "price": 1.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735353930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "416971",
+    "name": "AH Panini's",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735303733?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "417081",
+    "name": "AH Pave broodjes met desem bereid",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199378",
+    "name": "AH Schnittbroodjes",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383838303337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458479",
+    "name": "AH Tijgerbollen",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735363537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459007",
+    "name": "AH Witte demi baguettes met desem bereid",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730363337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "536152",
+    "name": "AH Biologisch Witte landbollen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383838303432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "232390",
+    "name": "AH Witte pistolets",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735353931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "536153",
+    "name": "AH Biologisch Meergranen landbollen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383837313136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569994",
+    "name": "AH Kaiserbroodjes",
+    "price": 0.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303637393430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582211",
+    "name": "Bagel Bakery Sesam bagels",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313231373131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569850",
+    "name": "AH Luxe kaiserbroodjes",
+    "price": 0.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236303630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bakkerij",
+      "Afbakbrood",
+      "Afbakbroodjes wit"
+    ],
+    "isFood": true
+  }
+]

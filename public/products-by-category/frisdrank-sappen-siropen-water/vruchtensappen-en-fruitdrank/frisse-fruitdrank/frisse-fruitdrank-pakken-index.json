@@ -1,0 +1,821 @@
+[
+  {
+    "id": "556557",
+    "name": "Appelsientje Witdruifje 100% puur sap",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934363732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568106",
+    "name": "Appelsientje Fruitdrink fruitdruifje",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835363534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568105",
+    "name": "Appelsientje Fruitdrink goudappeltje",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836353837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561871",
+    "name": "Hero Cassis no bubbles",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535303631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568102",
+    "name": "Appelsientje Fruitdrink multifruit",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835333434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440595",
+    "name": "CoolBest Extremely exotic",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932303232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571842",
+    "name": "DubbelFrisss Boost ananas & mango",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933333632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571840",
+    "name": "DubbelFrisss Boost appel & perzik",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933333636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571987",
+    "name": "DubbelFrisss Boost bosvruchten & appel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933333433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571841",
+    "name": "DubbelFrisss Boost framboos & cranberry",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933333431?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "571843",
+    "name": "DubbelFrisss Boost piña colada",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933333633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579896",
+    "name": "AH Frisse fruitdrank framboos cranberry",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303931343233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568085",
+    "name": "Appelsientje Fruitdrink extra appel peer",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230373533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568107",
+    "name": "Appelsientje Fruitdrink extra exotisch",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230373930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568086",
+    "name": "Appelsientje Fruitdrink extra rood fruit",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230373531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568104",
+    "name": "Appelsientje Fruitdrink mango",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230373236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568103",
+    "name": "Appelsientje Fruitdrink sinaasappel",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835333030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132491",
+    "name": "DubbelFrisss Appel & perzik",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383736343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132486",
+    "name": "DubbelFrisss Framboos & cranberry",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383736343132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132488",
+    "name": "DubbelFrisss Sinaasappel & mandarijn",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383736343133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "454475",
+    "name": "Wicky Original aardbei",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135393830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "119825",
+    "name": "Wicky Original fruit",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135393932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "128382",
+    "name": "AH Frisse fruitdrank appel perzik",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383833303434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576682",
+    "name": "Crystal Clear Touch of tea framboos kamille",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576681",
+    "name": "Crystal Clear Touch of tea rooibos mango",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634383135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223858",
+    "name": "Roosvicee 50/50 Roodfruit",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373932383432?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575208",
+    "name": "AH Frisse fruitdrank ananas mango 1kcal",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "576673",
+    "name": "AH Frisse fruitdrank druif-citroen 1kcal",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303336313835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575207",
+    "name": "AH Frisse fruitdrank framboos 1kcal",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303932363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "511095",
+    "name": "AH Licht & zonder prik appel & peer",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "511094",
+    "name": "AH Licht & zonder prik framboos & bosbes",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303732393436?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "511136",
+    "name": "AH Licht&zonder prik limoen & passievrucht",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734343332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561874",
+    "name": "Hero Cassis no bubbles zero",
+    "price": 2.85,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535303632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556537",
+    "name": "Roosvicee 1 kcal aardbei",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037333032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556535",
+    "name": "Roosvicee 1 kcal appel & peer",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034353236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556534",
+    "name": "Roosvicee 1 kcal framboos & bosbes",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037343534?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "128379",
+    "name": "AH Frisse fruitdrank appel perzik 1kcal",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303332303136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568087",
+    "name": "Appelsientje Fris fruit appel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933313432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568088",
+    "name": "Appelsientje Fris fruit sinaasappel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836353931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568089",
+    "name": "Appelsientje Fris fruit zwarte bes",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836363435?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568098",
+    "name": "DubbelFrisss 1Kcal appel & perzik",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933333332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485577",
+    "name": "DubbelFrisss 1Kcal Appel & perzik",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238373135?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520743",
+    "name": "DubbelFrisss 1Kcal Appel & zwarte bessen",
+    "price": 2.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383735373635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "583274",
+    "name": "DubbelFrisss 1kcal framboos & cranberry",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933333334?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485578",
+    "name": "DubbelFrisss 1kcal Framboos & cranberry",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238373034?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "485579",
+    "name": "DubbelFrisss 1kcal Witte druiven & citroen",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238373035?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556542",
+    "name": "DubbelFrisss Pornstar martini passievrucht & limoen",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436373237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "556541",
+    "name": "DubbelFrisss Strawberry mojito aardbei, limoen & munt",
+    "price": 2.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393436373235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568307",
+    "name": "Spa Fruit raspberry blackcurrant",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383535333233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503329",
+    "name": "Van de Boom 1kcal groene ijsthee citrus",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238373330?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503265",
+    "name": "Van de Boom 1kcal groene ijsthee peer & honing",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238393233?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503331",
+    "name": "Van de Boom 1kcal Ijsthee perzik-hibiscus",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383238383030?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577715",
+    "name": "Appelsientje FruitDrink Appel 3-pack",
+    "price": 3.78,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577713",
+    "name": "Appelsientje FruitDrink combi pakket",
+    "price": 3.88,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303837373837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577716",
+    "name": "Appelsientje FruitDrink Sinaasappel 3-pack",
+    "price": 3.98,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582276",
+    "name": "Crystal Clear Touch of Tea pakket",
+    "price": 8.6,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038313031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579731",
+    "name": "DubbelFrisss 1kcal Appel-Perzik 3-pack",
+    "price": 6.12,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579732",
+    "name": "DubbelFrisss 1kcal Framboos-Cranberry 3-pack",
+    "price": 6.46,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033373434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577690",
+    "name": "DubbelFrisss Boost Ananas-Mango 3-pack",
+    "price": 4.78,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577683",
+    "name": "DubbelFrisss Boost Appel-Perzik 3-pack",
+    "price": 4.78,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383234?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577159",
+    "name": "Van de Boom ijsthee Perzik 3-pack",
+    "price": 5.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303836383432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "415220",
+    "name": "Wicky Framboos 0% suiker",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313135393734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "500273",
+    "name": "Wicky Sinaasappel",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313136303934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Frisdrank, sappen, siropen, water",
+      "Vruchtensappen en fruitdrank",
+      "Frisse fruitdrank",
+      "Frisse fruitdrank (pakken)"
+    ],
+    "isFood": true
+  }
+]

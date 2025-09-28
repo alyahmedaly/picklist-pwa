@@ -1,0 +1,50 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "ui",
+      "displayName": "Ui",
+      "productCount": 18,
+      "hasSubdirectories": false,
+      "indexPath": "ui/index.json"
+    },
+    {
+      "name": "prei",
+      "displayName": "Prei",
+      "productCount": 5,
+      "hasSubdirectories": false,
+      "indexPath": "prei/index.json"
+    }
+  ],
+  "files": [],
+  "totalProducts": 23,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 23,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ui Prei En Knoflook",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "aardappel-groente-fruit/groente"
+  }
+}

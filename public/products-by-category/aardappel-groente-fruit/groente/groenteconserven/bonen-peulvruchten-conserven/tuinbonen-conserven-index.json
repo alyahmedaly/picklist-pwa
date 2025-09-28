@@ -1,0 +1,72 @@
+[
+  {
+    "id": "459508",
+    "name": "Hak Rode bieten 0%",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353638383131?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Tuinbonen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "824",
+    "name": "AH Tuinbonen",
+    "price": 1.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383433353530?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Tuinbonen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "39140",
+    "name": "AH Tuinbonen",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383433353531?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Tuinbonen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "190836",
+    "name": "Bonduelle Tuinboontjes",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303536373035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Tuinbonen (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202207",
+    "name": "Hak Tuinboontjes",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393230363635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Groenteconserven",
+      "Bonen, peulvruchten (conserven)",
+      "Tuinbonen (conserven)"
+    ],
+    "isFood": true
+  }
+]

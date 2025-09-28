@@ -1,0 +1,290 @@
+[
+  {
+    "id": "216244",
+    "name": "Melkunie Breaker banaan yoghurt",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034313439?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216238",
+    "name": "Melkunie Breaker aardbei yoghurt",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034313438?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "520087",
+    "name": "Melkunie Breaker straciatella yoghurt",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034313938?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "425567",
+    "name": "Danoontje Knijpyoghurt aardbei",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393636353937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216245",
+    "name": "Melkunie Breaker kers yoghurt zonnebloempitten",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034313531?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575542",
+    "name": "Melkunie Breaker apple pie yoghurt",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303530343131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "493100",
+    "name": "Melkunie Breaker cheesecake framboos yoghurt",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034323030?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216246",
+    "name": "Melkunie Breaker perzik yoghurt zonnebloempitten",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393034313530?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565332",
+    "name": "Melkunie Breaker vanille yoghurt",
+    "price": 1.55,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535373638?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "515726",
+    "name": "Danoontje Knijpyoghurt banaan",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836343532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "237275",
+    "name": "Zuivelhoeve Boer'n muesli bosvruchten",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303835393038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438174",
+    "name": "Zuivelhoeve Boer'n yoghurt vanille & muesli",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235363632?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570721",
+    "name": "Melkunie Breaker zero banaan yoghurt",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238323132?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "209354",
+    "name": "Zuivelhoeve Boer'n muesli aardbei",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235363538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "503341",
+    "name": "Danoontje Knijpyoghurt appel en aardbei",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836343335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570722",
+    "name": "Melkunie Breaker zero aardbei yoghurt",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234373536?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "570913",
+    "name": "Melkunie Breaker zero framboos yoghurt",
+    "price": 1.65,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236393732?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "451646",
+    "name": "Zuivelhoeve Boer'n yoghurt naturel & muesli",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393236343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "548937",
+    "name": "Danoontje Knijpyoghurt aardbei 5-pack",
+    "price": 4.7,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393836383032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "581563",
+    "name": "Danoontje Knijpyoghurt appel en aardbei 5-pack",
+    "price": 4.7,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038303738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568180",
+    "name": "Danoontje Knijpyoghurt banaan 5-pack",
+    "price": 4.7,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303239353930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582007",
+    "name": "Melkunie Breaker Aardbei yoghurt 3-pack",
+    "price": 4.05,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130323733?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582008",
+    "name": "Melkunie Breaker Aardbei yoghurt 5-pack",
+    "price": 6.55,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130323734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582009",
+    "name": "Melkunie Breaker Aardbei yoghurt 6-pack",
+    "price": 7.5,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130323735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Zuivel tussendoortjes",
+      "Yoghurt tussendoortjes"
+    ],
+    "isFood": true
+  }
+]

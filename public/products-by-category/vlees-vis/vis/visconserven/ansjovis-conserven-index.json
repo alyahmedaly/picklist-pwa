@@ -1,0 +1,132 @@
+[
+  {
+    "id": "581474",
+    "name": "John West Ansjovisfilets olijfolie",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Ansjovis (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496876",
+    "name": "Fish Tales Ansjovisfilets met kappertjes",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Ansjovis (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "537132",
+    "name": "Princes Ansjovis in olijfolie",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383937373230?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Ansjovis (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "202346",
+    "name": "Princes Ansjovisfilets in olijfolie",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383437323932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Ansjovis (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "565864",
+    "name": "Princes Ansjovisfilets in zonnebloemolie",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835363130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Ansjovis (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "195676",
+    "name": "Princes Ansjovisfilets met kappertjes",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383437313634?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Ansjovis (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "496390",
+    "name": "John West Ansjovis zonnebloemolie",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303633303831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Ansjovis (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "569103",
+    "name": "Fish Tales Anjovisfilets in olijfolie",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238343235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Ansjovis (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223398",
+    "name": "Fish Tales Ansjovisfilets in olijfolie",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034303032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Ansjovis (conserven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467825",
+    "name": "Fish Tales Ansjovispasta",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313034303233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Visconserven",
+      "Ansjovis (conserven)"
+    ],
+    "isFood": true
+  }
+]

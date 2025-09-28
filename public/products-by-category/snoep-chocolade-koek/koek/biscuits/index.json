@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Koek > Biscuits",
+  "breadcrumbs": "Snoep, chocolade, koek > Koek > Biscuits",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "granenbiscuits",
+      "displayName": "Granenbiscuits",
+      "productCount": 17,
+      "filePath": "granenbiscuits.jsonl",
+      "indexPath": "granenbiscuits-index.json",
+      "statsPath": "granenbiscuits-stats.json",
+      "averageProtein": 7.5,
+      "halalCompliance": 47
+    },
+    {
+      "name": "theebiscuits",
+      "displayName": "Theebiscuits",
+      "productCount": 15,
+      "filePath": "theebiscuits.jsonl",
+      "indexPath": "theebiscuits-index.json",
+      "statsPath": "theebiscuits-stats.json",
+      "averageProtein": 7.3,
+      "halalCompliance": 87
+    }
+  ],
+  "totalProducts": 32,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 32,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Snoep Chocolade Koek",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Koek",
+        "path": "../index.json"
+      },
+      {
+        "name": "Biscuits",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "snoep-chocolade-koek/koek"
+  }
+}

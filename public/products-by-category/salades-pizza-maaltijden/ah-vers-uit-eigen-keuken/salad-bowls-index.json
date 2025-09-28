@@ -1,0 +1,74 @@
+[
+  {
+    "id": "579424",
+    "name": "AH Mini saladbowl sticky chicken",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134333030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Salad Bowls"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579425",
+    "name": "AH Mini saladbowl zalm wasabi",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134333032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Salad Bowls"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579423",
+    "name": "AH Mini saladbowl kip kebab",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134333031?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Salad Bowls"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579430",
+    "name": "AH Saladbowl grote garnalen mango",
+    "price": 5.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Salad Bowls"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579429",
+    "name": "AH Saladbowl gegrilde kip bloemkool",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038333834?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Salad Bowls"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579427",
+    "name": "AH Saladbowl tonijn",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038333832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Salades, pizza, maaltijden",
+      "AH Vers uit eigen keuken",
+      "Salad Bowls"
+    ],
+    "isFood": true
+  }
+]

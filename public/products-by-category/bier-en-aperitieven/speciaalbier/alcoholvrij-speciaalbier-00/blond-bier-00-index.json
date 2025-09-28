@@ -1,0 +1,145 @@
+[
+  {
+    "id": "195864",
+    "name": "Supermalt Alcoholvrije moutdrank",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363235393438?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Blond bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579025",
+    "name": "La Trappe Trappist Epos 0.0%",
+    "price": 1.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639323637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Blond bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "471358",
+    "name": "Leffe Blond 0.0% abdijbier 6-pack",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739323937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Blond bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489161",
+    "name": "Affligem Blond 0.0 abdijbier",
+    "price": 1.22,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303535343235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Blond bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491902",
+    "name": "Affligem Blond 0.0 abdijbier",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303730323335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Blond bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489168",
+    "name": "Affligem Blond 0.0 abdijbier 6-pack",
+    "price": 7.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639333437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Blond bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "491903",
+    "name": "Affligem Blond 0.0 abdijbier 6-pack",
+    "price": 8.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303639343432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Blond bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "450212",
+    "name": "Leffe 0% 4fl bel",
+    "price": 5.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335363633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Blond bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460649",
+    "name": "Leffe Blond 0.0% 6-pack",
+    "price": 6.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303739323433?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Blond bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "460092",
+    "name": "Liefmans Fruitesse on the rocks 4-pack",
+    "price": 5.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363732303331?revLabel=8&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Blond bier 0.0"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580346",
+    "name": "Lowlander Non-alc pumpkin weizen",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031323432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Bier en aperitieven",
+      "Speciaalbier",
+      "Alcoholvrij speciaalbier 0.0",
+      "Blond bier 0.0"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Wortel, pompoen, knollen > Pompoen",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Wortel, pompoen, knollen > Pompoen",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "pompoen-vers",
+      "displayName": "Pompoen Vers",
+      "productCount": 8,
+      "filePath": "pompoen-vers.jsonl",
+      "indexPath": "pompoen-vers-index.json",
+      "statsPath": "pompoen-vers-stats.json",
+      "averageProtein": 0.4,
+      "halalCompliance": 38
+    }
+  ],
+  "totalProducts": 8,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Wortel Pompoen Knollen",
+        "path": "../index.json"
+      },
+      {
+        "name": "Pompoen",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/wortel-pompoen-knollen"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "categoryPath": "",
+  "breadcrumbs": "",
+  "subdirectories": [
+    {
+      "name": "fruit-knijpzakjes-baby-en-kind",
+      "displayName": "Fruit Knijpzakjes Baby En Kind",
+      "productCount": 60,
+      "hasSubdirectories": false,
+      "indexPath": "fruit-knijpzakjes-baby-en-kind/index.json"
+    },
+    {
+      "name": "fruitpotjes",
+      "displayName": "Fruitpotjes",
+      "productCount": 24,
+      "hasSubdirectories": false,
+      "indexPath": "fruitpotjes/index.json"
+    }
+  ],
+  "files": [
+    {
+      "name": "fruitpotjes-vanaf-6-maanden",
+      "displayName": "Fruitpotjes Vanaf 6 Maanden",
+      "productCount": 13,
+      "filePath": "fruitpotjes-vanaf-6-maanden.jsonl",
+      "indexPath": "fruitpotjes-vanaf-6-maanden-index.json",
+      "statsPath": "fruitpotjes-vanaf-6-maanden-stats.json",
+      "averageProtein": 0.6,
+      "halalCompliance": 85
+    },
+    {
+      "name": "fruitpotjes-vanaf-12-maanden",
+      "displayName": "Fruitpotjes Vanaf 12 Maanden",
+      "productCount": 8,
+      "filePath": "fruitpotjes-vanaf-12-maanden.jsonl",
+      "indexPath": "fruitpotjes-vanaf-12-maanden-index.json",
+      "statsPath": "fruitpotjes-vanaf-12-maanden-stats.json",
+      "averageProtein": 1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 105,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 105,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Baby En Kind",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Babyvoeding",
+        "path": "../index.json"
+      },
+      {
+        "name": "Fruithapjes Baby En Kind",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "baby-en-kind/babyvoeding"
+  }
+}

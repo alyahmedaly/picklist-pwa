@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Bakkerij > Afbakbrood > Naanbrood en pappadum",
+  "breadcrumbs": "Bakkerij > Afbakbrood > Naanbrood en pappadum",
+  "totalProducts": 16,
+  "halalCompliance": 94,
+  "averageProtein": 9.5,
+  "averagePrice": 2.77,
+  "highProteinProducts": 3,
+  "dataQuality": {
+    "withNutrition": 15,
+    "withIngredients": 15,
+    "withHalalCheck": 15
+  }
+}

@@ -1,0 +1,374 @@
+[
+  {
+    "id": "400656",
+    "name": "AH Houdbare Gelderse rookworst",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939353430?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "160782",
+    "name": "AH Rookworst",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535353339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229797",
+    "name": "AH Rookworst Gelders",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "400655",
+    "name": "AH Houdbare runderrookworst",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939353339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562278",
+    "name": "AH Rookworst met Zaanlander kaas",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313038343236?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "562389",
+    "name": "AH Rookworst XXL",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393537323336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210296",
+    "name": "AH Veluwse rookworst fijn",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363339353032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465748",
+    "name": "AH Biologisch Rookworst",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303537393835?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "210297",
+    "name": "AH Veluwse rookworst grof",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363339353033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579448",
+    "name": "AH Veluwse rookwost klein",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313133353138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "229795",
+    "name": "AH Rookworst mager",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934373538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "60401",
+    "name": "AH Slagersrookworst Gelders",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580666",
+    "name": "AH Slagersrookworst Gelders",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363636?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580671",
+    "name": "AH Slagersrookworst Gelders",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580668",
+    "name": "AH Slagersrookworst Gelders XXL",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "132903",
+    "name": "Unox Gelderse rookworst magnetron",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393932343331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "215513",
+    "name": "Unox Rookworst pittig",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393839393933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "563177",
+    "name": "AH Rookworst mager",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036373633?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367558",
+    "name": "Unox Rookworst Gelders varken",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393835313535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580670",
+    "name": "AH Slagersrookworst kip",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580672",
+    "name": "AH Slagersrookworst kip",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303938313331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580667",
+    "name": "AH Slagersrookworst mager",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363637?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580669",
+    "name": "AH Slagersrookworst mager XXL",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367555",
+    "name": "Unox Extra magere rookworst",
+    "price": 4.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303036383038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "200106",
+    "name": "Unox Extra magere rookworst magnetron",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303238373030?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367556",
+    "name": "Unox Rookworst extra mager",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393934313337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467801",
+    "name": "Unox Rookworst kip",
+    "price": 4.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303033323331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "444762",
+    "name": "Vegetarische Slager Vegan roockworst",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837343630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "445001",
+    "name": "Unox Rookworst vegetarisch",
+    "price": 4.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393837313830?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580370",
+    "name": "AH Rookworst 3-pack",
+    "price": 8.52,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367557",
+    "name": "Unox Gelderse rookworst",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393935343734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Rookworst, ragout",
+      "Rookworst"
+    ],
+    "isFood": true
+  }
+]

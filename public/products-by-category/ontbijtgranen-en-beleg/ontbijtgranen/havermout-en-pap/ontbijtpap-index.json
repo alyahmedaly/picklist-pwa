@@ -1,0 +1,80 @@
+[
+  {
+    "id": "80172",
+    "name": "Brinta Graanontbijt appel-rozijn",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363437343938?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Ontbijtpap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "54724",
+    "name": "Brinta Wake-up! banaan",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313232363330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Ontbijtpap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "51254",
+    "name": "Brinta Wake-up! drinkontbijt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313037383732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Ontbijtpap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "166916",
+    "name": "Brinta Volkoren graanontbijt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363131343634?revLabel=6&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Ontbijtpap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "494122",
+    "name": "AH Glutenvrij Ontbijtpap",
+    "price": 3.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373130343630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Ontbijtpap"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "227818",
+    "name": "Zonnatura Teff",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353733343235?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Ontbijtgranen",
+      "Havermout en pap",
+      "Ontbijtpap"
+    ],
+    "isFood": true
+  }
+]

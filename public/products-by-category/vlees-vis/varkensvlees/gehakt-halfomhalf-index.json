@@ -1,0 +1,158 @@
+[
+  {
+    "id": "561329",
+    "name": "AH Slagersgehaktbal gepaneerd",
+    "price": 8.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937363432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Gehakt (half-om-half)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561194",
+    "name": "AH Gemengd gekruid gehakt",
+    "price": 7.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363231?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Gehakt (half-om-half)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561364",
+    "name": "AH Gemengd gekruid gehakt",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Gehakt (half-om-half)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561366",
+    "name": "AH Gemengd gekruid gehakt",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303939363136?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Gehakt (half-om-half)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "411618",
+    "name": "AH Boerengehakt",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323835343933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Gehakt (half-om-half)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "411619",
+    "name": "AH Boerengehakt",
+    "price": 2.5,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323837333035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Gehakt (half-om-half)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "561195",
+    "name": "AH Gemengd gehakt",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303233323333?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Gehakt (half-om-half)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "436762",
+    "name": "AH Biologisch Half-om-half gehakt",
+    "price": 3.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937383330?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Gehakt (half-om-half)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "4007",
+    "name": "AH Half-om-half gehakt",
+    "price": 3.95,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Gehakt (half-om-half)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169175",
+    "name": "AH Half-om-half gehakt",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Gehakt (half-om-half)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169176",
+    "name": "AH Half-om-half gehakt",
+    "price": 7.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303937393132?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Gehakt (half-om-half)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567490",
+    "name": "AH Half-om-half gehakt 3-pack",
+    "price": 11.26,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303236333232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Gehakt (half-om-half)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199659",
+    "name": "Weidenaar Gemengd gehakt gekruid",
+    "price": 5.85,
+    "image": "NA",
+    "categories": [
+      "Vlees, vis",
+      "Varkensvlees",
+      "Gehakt (half-om-half)"
+    ],
+    "isFood": true
+  }
+]

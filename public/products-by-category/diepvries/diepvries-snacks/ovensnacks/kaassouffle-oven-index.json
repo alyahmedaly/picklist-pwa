@@ -1,0 +1,80 @@
+[
+  {
+    "id": "377911",
+    "name": "Mora Oven & airfryer goudse kaassoufflés",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353732353039?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaassouffle (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486328",
+    "name": "Mora Oven & airfryer goudse mini kaassoufflés",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363736393435?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaassouffle (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "539731",
+    "name": "AH Kaasbites nacho cheese",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393131303738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaassouffle (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459523",
+    "name": "AH Oven kaassoufflé",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738343838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaassouffle (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "459953",
+    "name": "AH Oven mini kaassoufflé",
+    "price": 3.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738343936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaassouffle (oven)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579296",
+    "name": "AH Oven mini kaassoufflé 2-pack",
+    "price": 6.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313032303036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries snacks",
+      "Ovensnacks",
+      "Kaassouffle (oven)"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "categoryPath": "Drogisterij > Mondhygiene > Tandpasta",
+  "breadcrumbs": "Drogisterij > Mondhygiene > Tandpasta",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "tandpasta-gevoelig-tandvlees",
+      "displayName": "Tandpasta Gevoelig Tandvlees",
+      "productCount": 20,
+      "filePath": "tandpasta-gevoelig-tandvlees.jsonl",
+      "indexPath": "tandpasta-gevoelig-tandvlees-index.json",
+      "statsPath": "tandpasta-gevoelig-tandvlees-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 0
+    }
+  ],
+  "totalProducts": 20,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Drogisterij",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Mondhygiene",
+        "path": "../index.json"
+      },
+      {
+        "name": "Tandpasta",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "drogisterij/mondhygiene"
+  }
+}

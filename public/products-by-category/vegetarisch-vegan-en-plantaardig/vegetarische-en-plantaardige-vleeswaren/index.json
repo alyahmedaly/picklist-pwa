@@ -1,0 +1,52 @@
+{
+  "categoryPath": "Vegetarisch, vegan en plantaardig > Vegetarische en plantaardige vleeswaren",
+  "breadcrumbs": "Vegetarisch, vegan en plantaardig > Vegetarische en plantaardige vleeswaren",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "plantaardige-vleeswaren",
+      "displayName": "Plantaardige Vleeswaren",
+      "productCount": 29,
+      "filePath": "plantaardige-vleeswaren.jsonl",
+      "indexPath": "plantaardige-vleeswaren-index.json",
+      "statsPath": "plantaardige-vleeswaren-stats.json",
+      "averageProtein": 6.7,
+      "halalCompliance": 100
+    },
+    {
+      "name": "vegetarische-vleeswaren",
+      "displayName": "Vegetarische Vleeswaren",
+      "productCount": 7,
+      "filePath": "vegetarische-vleeswaren.jsonl",
+      "indexPath": "vegetarische-vleeswaren-index.json",
+      "statsPath": "vegetarische-vleeswaren-stats.json",
+      "averageProtein": 9.1,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 36,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 36,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Vegetarisch Vegan En Plantaardig",
+        "path": "../index.json"
+      },
+      {
+        "name": "Vegetarische En Plantaardige Vleeswaren",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "vegetarisch-vegan-en-plantaardig"
+  }
+}

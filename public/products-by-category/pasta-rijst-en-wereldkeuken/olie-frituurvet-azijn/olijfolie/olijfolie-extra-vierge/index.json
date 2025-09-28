@@ -1,0 +1,60 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Olie, frituurvet, azijn > Olijfolie > Olijfolie extra vierge",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Olie, frituurvet, azijn > Olijfolie > Olijfolie extra vierge",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "olijfolie-extra-vierge-dagelijks",
+      "displayName": "Olijfolie Extra Vierge Dagelijks",
+      "productCount": 19,
+      "filePath": "olijfolie-extra-vierge-dagelijks.jsonl",
+      "indexPath": "olijfolie-extra-vierge-dagelijks-index.json",
+      "statsPath": "olijfolie-extra-vierge-dagelijks-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "olijfolie-extra-vierge-met-toevoegingen",
+      "displayName": "Olijfolie Extra Vierge Met Toevoegingen",
+      "productCount": 11,
+      "filePath": "olijfolie-extra-vierge-met-toevoegingen.jsonl",
+      "indexPath": "olijfolie-extra-vierge-met-toevoegingen-index.json",
+      "statsPath": "olijfolie-extra-vierge-met-toevoegingen-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 30,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 30,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Olie Frituurvet Azijn",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Olijfolie",
+        "path": "../index.json"
+      },
+      {
+        "name": "Olijfolie Extra Vierge",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "pasta-rijst-en-wereldkeuken/olie-frituurvet-azijn/olijfolie"
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "183521",
+    "name": "Aviko Aardappelkroketjes",
+    "price": 2.89,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393535393937?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Aardappelkroketten (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "430431",
+    "name": "Aviko Mini aardappel kroketjes",
+    "price": 2.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393232363833?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Aardappelkroketten (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "772",
+    "name": "AH Aardappelkroketjes",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638383931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Aardappelkroketten (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "489297",
+    "name": "Aviko Lachebekjes",
+    "price": 2.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393536303336?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Aardappelkroketten (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "490495",
+    "name": "50foods Aardappelkroketten bel",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373033373937?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Diepvries",
+      "Diepvries aardappelproducten",
+      "Aardappelkroketten (diepvries)"
+    ],
+    "isFood": true
+  }
+]

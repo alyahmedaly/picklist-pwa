@@ -1,0 +1,80 @@
+[
+  {
+    "id": "191088",
+    "name": "Iglo Fishcuisine Bretagne",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934313237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vis cuisine (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "541525",
+    "name": "Iglo Fish cuisine broccoli",
+    "price": 6.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934313332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vis cuisine (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191091",
+    "name": "Iglo Fishcuisine Florentine",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303933363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vis cuisine (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "191090",
+    "name": "Iglo Fishcuisine Italiano",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303934383535?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vis cuisine (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479591",
+    "name": "Iglo Fish cuisine pikant",
+    "price": 7.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363931333533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vis cuisine (diepvries)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479590",
+    "name": "Iglo Fish cuisine zomerse groente",
+    "price": 7.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363931333538?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Vlees, vis",
+      "Vis",
+      "Gepaneerde vis",
+      "Vis cuisine (diepvries)"
+    ],
+    "isFood": true
+  }
+]

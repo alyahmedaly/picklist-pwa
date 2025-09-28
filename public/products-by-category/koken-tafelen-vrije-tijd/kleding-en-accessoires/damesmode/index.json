@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Koken, tafelen, vrije tijd > Kleding en accessoires > Damesmode",
+  "breadcrumbs": "Koken, tafelen, vrije tijd > Kleding en accessoires > Damesmode",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "dameskleding-bovenkleding",
+      "displayName": "Dameskleding Bovenkleding",
+      "productCount": 33,
+      "filePath": "dameskleding-bovenkleding.jsonl",
+      "indexPath": "dameskleding-bovenkleding-index.json",
+      "statsPath": "dameskleding-bovenkleding-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "pantys",
+      "displayName": "Pantys",
+      "productCount": 20,
+      "filePath": "pantys.jsonl",
+      "indexPath": "pantys-index.json",
+      "statsPath": "pantys-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 53,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 53,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Koken Tafelen Vrije Tijd",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Kleding En Accessoires",
+        "path": "../index.json"
+      },
+      {
+        "name": "Damesmode",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "koken-tafelen-vrije-tijd/kleding-en-accessoires"
+  }
+}

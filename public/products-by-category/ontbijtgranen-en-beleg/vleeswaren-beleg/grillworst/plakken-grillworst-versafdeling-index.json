@@ -1,0 +1,93 @@
+[
+  {
+    "id": "490757",
+    "name": "AH Grillworst kaas",
+    "price": 4.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393432?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Grillworst",
+      "Plakken grillworst (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197173",
+    "name": "AH Grillworst met zaanlanderkaas",
+    "price": 2.48,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393738353134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Grillworst",
+      "Plakken grillworst (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203333",
+    "name": "AH Grillworst",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632353939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Grillworst",
+      "Plakken grillworst (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "519256",
+    "name": "AH Grillworst kaas mosterd",
+    "price": 2.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131313035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Grillworst",
+      "Plakken grillworst (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "465642",
+    "name": "AH Biologisch Grillworst",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393435343831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Grillworst",
+      "Plakken grillworst (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "192853",
+    "name": "AH Grillworst kip",
+    "price": 2.48,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393138393131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Grillworst",
+      "Plakken grillworst (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567388",
+    "name": "AH Grillworst kip 2-pack",
+    "price": 4.96,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303135333536?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Vleeswaren beleg",
+      "Grillworst",
+      "Plakken grillworst (versafdeling)"
+    ],
+    "isFood": true
+  }
+]

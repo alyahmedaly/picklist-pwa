@@ -1,0 +1,171 @@
+[
+  {
+    "id": "478104",
+    "name": "AH Filet Americain truffel",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370447",
+    "name": "AH Filet americain",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393030393934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370480",
+    "name": "AH Filet americain",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434313838?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370454",
+    "name": "AH Filet americain carpaccio",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579449",
+    "name": "AH Filet americain jalapeño cheddar",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033323238?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370448",
+    "name": "AH Filet americain peper",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323738?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572414",
+    "name": "AH Biologisch Filet americain",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630383233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572415",
+    "name": "AH Biologisch Filet americain",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303630383335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440451",
+    "name": "AH Filet americain ei en ui",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434323032?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370450",
+    "name": "AH Filet americain mager",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363339343036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370479",
+    "name": "AH Filet americain mager",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363335313635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "370449",
+    "name": "AH Filet americain met ui",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393432323933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Filet americain (versafdeling)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "574575",
+    "name": "AH Filet americain 2-pack",
+    "price": 4.38,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303634323638?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Kaas, vleeswaren, tapas",
+      "Vleeswaren",
+      "Vleeswaren vers",
+      "Filet americain (versafdeling)"
+    ],
+    "isFood": true
+  }
+]

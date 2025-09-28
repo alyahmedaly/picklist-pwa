@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Bier en aperitieven > Speciaalbier > IPA",
+  "breadcrumbs": "Bier en aperitieven > Speciaalbier > IPA",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "india-pale-ale",
+      "displayName": "India Pale Ale",
+      "productCount": 61,
+      "filePath": "india-pale-ale.jsonl",
+      "indexPath": "india-pale-ale-index.json",
+      "statsPath": "india-pale-ale-stats.json",
+      "averageProtein": 0.1,
+      "halalCompliance": 98
+    },
+    {
+      "name": "session-ipa",
+      "displayName": "Session Ipa",
+      "productCount": 23,
+      "filePath": "session-ipa.jsonl",
+      "indexPath": "session-ipa-index.json",
+      "statsPath": "session-ipa-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 84,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 84,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Bier En Aperitieven",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Speciaalbier",
+        "path": "../index.json"
+      },
+      {
+        "name": "Ipa",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "bier-en-aperitieven/speciaalbier"
+  }
+}

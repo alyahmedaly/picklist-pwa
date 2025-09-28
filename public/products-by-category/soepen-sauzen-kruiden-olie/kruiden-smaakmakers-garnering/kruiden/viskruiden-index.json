@@ -1,0 +1,93 @@
+[
+  {
+    "id": "216658",
+    "name": "Verstegen Kruidenmix voor zalm",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333230?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Viskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164631",
+    "name": "AH Kruidenm voor zalm",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_434d5038363238313833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Viskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "99917",
+    "name": "Verstegen Kruidenmix voor vis",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303631383035?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Viskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197851",
+    "name": "Verstegen Kruidenmix voor vis",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333638?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Viskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164640",
+    "name": "AH Kruidenmix voor vis",
+    "price": 2.35,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50323230303834?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Viskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216656",
+    "name": "Verstegen Kruidenmix voor vis",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333139?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Viskruiden"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "223820",
+    "name": "Verstegen Kruidenmix voor mosselen",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353534333138?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Soepen, sauzen, kruiden, olie",
+      "Kruiden, smaakmakers, garnering",
+      "Kruiden",
+      "Viskruiden"
+    ],
+    "isFood": true
+  }
+]

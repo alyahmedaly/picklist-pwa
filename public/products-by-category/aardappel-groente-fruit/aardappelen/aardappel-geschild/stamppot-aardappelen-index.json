@@ -1,0 +1,80 @@
+[
+  {
+    "id": "169688",
+    "name": "AH Aardappelen voor de stamppot",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50303434313235?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Stamppot aardappelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "418287",
+    "name": "AH Aardappelen voor de stamppot",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_434d50373330333434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Stamppot aardappelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482757",
+    "name": "AH Aardappel kruimig",
+    "price": 1.45,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363730333935?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Stamppot aardappelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482776",
+    "name": "AH Aardappel vastkokend",
+    "price": 1.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363730343339?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Stamppot aardappelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "208764",
+    "name": "CêlaVíta Kruimige aardappelen",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303632333332?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Stamppot aardappelen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "567054",
+    "name": "AH Stamppot Aardappelen 3-pack",
+    "price": 3.96,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303038333732?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Aardappelen",
+      "Aardappel - geschild",
+      "Stamppot aardappelen"
+    ],
+    "isFood": true
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "categoryPath": "Salades, pizza, maaltijden > Verse pasta en pastasaus",
+  "breadcrumbs": "Salades, pizza, maaltijden > Verse pasta en pastasaus",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "verse-pasta",
+      "displayName": "Verse Pasta",
+      "productCount": 24,
+      "filePath": "verse-pasta.jsonl",
+      "indexPath": "verse-pasta-index.json",
+      "statsPath": "verse-pasta-stats.json",
+      "averageProtein": 9,
+      "halalCompliance": 92
+    },
+    {
+      "name": "pastasaus-vers",
+      "displayName": "Pastasaus Vers",
+      "productCount": 8,
+      "filePath": "pastasaus-vers.jsonl",
+      "indexPath": "pastasaus-vers-index.json",
+      "statsPath": "pastasaus-vers-stats.json",
+      "averageProtein": 3,
+      "halalCompliance": 88
+    }
+  ],
+  "totalProducts": 32,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 32,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Salades Pizza Maaltijden",
+        "path": "../index.json"
+      },
+      {
+        "name": "Verse Pasta En Pastasaus",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 2,
+    "parentPath": "salades-pizza-maaltijden"
+  }
+}

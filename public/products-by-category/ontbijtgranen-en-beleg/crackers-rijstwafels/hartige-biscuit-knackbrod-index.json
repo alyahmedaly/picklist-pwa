@@ -1,0 +1,110 @@
+[
+  {
+    "id": "198058",
+    "name": "Ziegler Kaaswafels",
+    "price": 1.95,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373032303832?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Hartige biscuit, knackbrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549602",
+    "name": "Sultana Crunchers kaas & ui smaak",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235383439?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Hartige biscuit, knackbrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "549600",
+    "name": "Sultana Crunchers kaas tomaat smaak",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393235393235?revLabel=3&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Hartige biscuit, knackbrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "435753",
+    "name": "Wasa Sandwich cheese 3-pack",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363736373932?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Hartige biscuit, knackbrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "178077",
+    "name": "Wasa Sandwich cream cheese tomato basil",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363834323033?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Hartige biscuit, knackbrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "169768",
+    "name": "Wasa Sandwich tomato & basil 3-pack",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533303835?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Hartige biscuit, knackbrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "577551",
+    "name": "Crosta & Mollica Tarallini venkelzaad",
+    "price": 2.46,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303738363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Hartige biscuit, knackbrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177218",
+    "name": "Wasa Sandwich roomkaas bieslook 3-pack",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239353533303930?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Hartige biscuit, knackbrod"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "479944",
+    "name": "Wasa Sandwich sour cream & onion",
+    "price": 2.19,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303830303639?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Ontbijtgranen en beleg",
+      "Crackers, rijstwafels",
+      "Hartige biscuit, knackbrod"
+    ],
+    "isFood": true
+  }
+]

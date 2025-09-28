@@ -1,0 +1,14 @@
+{
+  "categoryPath": "Snoep, chocolade, koek > Koek > Koek bites",
+  "breadcrumbs": "Snoep, chocolade, koek > Koek > Koek bites",
+  "totalProducts": 20,
+  "halalCompliance": 10,
+  "averageProtein": 5.4,
+  "averagePrice": 1.98,
+  "highProteinProducts": 0,
+  "dataQuality": {
+    "withNutrition": 20,
+    "withIngredients": 20,
+    "withHalalCheck": 20
+  }
+}

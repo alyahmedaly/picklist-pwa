@@ -1,0 +1,70 @@
+{
+  "categoryPath": "Frisdrank, sappen, siropen, water > Frisdrank > Cola > Cola blikjes",
+  "breadcrumbs": "Frisdrank, sappen, siropen, water > Frisdrank > Cola > Cola blikjes",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "cola-light-suikervrije-blikjes",
+      "displayName": "Cola Light Suikervrije Blikjes",
+      "productCount": 22,
+      "filePath": "cola-light-suikervrije-blikjes.jsonl",
+      "indexPath": "cola-light-suikervrije-blikjes-index.json",
+      "statsPath": "cola-light-suikervrije-blikjes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "cola-regular-blikjes",
+      "displayName": "Cola Regular Blikjes",
+      "productCount": 17,
+      "filePath": "cola-regular-blikjes.jsonl",
+      "indexPath": "cola-regular-blikjes-index.json",
+      "statsPath": "cola-regular-blikjes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    },
+    {
+      "name": "cola-smaakvarianten-blikjes",
+      "displayName": "Cola Smaakvarianten Blikjes",
+      "productCount": 11,
+      "filePath": "cola-smaakvarianten-blikjes.jsonl",
+      "indexPath": "cola-smaakvarianten-blikjes-index.json",
+      "statsPath": "cola-smaakvarianten-blikjes-stats.json",
+      "averageProtein": 0,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 50,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 50,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Frisdrank Sappen Siropen Water",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Frisdrank",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Cola",
+        "path": "../index.json"
+      },
+      {
+        "name": "Cola Blikjes",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "frisdrank-sappen-siropen-water/frisdrank/cola"
+  }
+}

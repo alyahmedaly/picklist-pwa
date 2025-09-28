@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Pasta > Tagliatelle, pappardelle",
+  "breadcrumbs": "Pasta, rijst en wereldkeuken > Pasta, rijst, noedels > Pasta > Tagliatelle, pappardelle",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "tagliatelle",
+      "displayName": "Tagliatelle",
+      "productCount": 9,
+      "filePath": "tagliatelle.jsonl",
+      "indexPath": "tagliatelle-index.json",
+      "statsPath": "tagliatelle-stats.json",
+      "averageProtein": 11.9,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 9,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Pasta Rijst En Wereldkeuken",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Pasta Rijst Noedels",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Pasta",
+        "path": "../index.json"
+      },
+      {
+        "name": "Tagliatelle Pappardelle",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "pasta-rijst-en-wereldkeuken/pasta-rijst-noedels/pasta"
+  }
+}

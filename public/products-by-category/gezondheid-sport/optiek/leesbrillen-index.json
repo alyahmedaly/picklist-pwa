@@ -1,0 +1,62 @@
+[
+  {
+    "id": "407757",
+    "name": "Etos Leesbril bruin rond +1,5",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131373833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Leesbrillen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "407761",
+    "name": "Etos Leesbril bruin rond +3",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131373836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Leesbrillen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218546",
+    "name": "Etos Leesbril mat zwart +1,5",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131363434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Leesbrillen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218558",
+    "name": "Etos Leesbril mat zwart +2",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131363337?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Leesbrillen"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "218560",
+    "name": "Etos Leesbril mat zwart +3",
+    "price": 3.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373131363338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Gezondheid, sport",
+      "Optiek",
+      "Leesbrillen"
+    ],
+    "isFood": true
+  }
+]

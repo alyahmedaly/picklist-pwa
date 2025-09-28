@@ -1,0 +1,156 @@
+[
+  {
+    "id": "177527",
+    "name": "Arla Biologisch magere yoghurt",
+    "price": 1.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393332313231?revLabel=4&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Magere yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "222022",
+    "name": "Danone Magere yoghurt natuur gesuikerd bel",
+    "price": 3.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313233353133?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Magere yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "61010",
+    "name": "AH Biologisch Magere yoghurt",
+    "price": 1.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383730303533?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Magere yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "33703",
+    "name": "AH Magere yoghurt",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383539?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Magere yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "96643",
+    "name": "AH Magere yoghurt",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033383437?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Magere yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "177476",
+    "name": "AH Magere yoghurt",
+    "price": 1.85,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303335303532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Magere yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "221095",
+    "name": "Campina Magere yoghurt",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313131333739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Magere yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "438115",
+    "name": "Campina Magere yoghurt",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313134373335?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Magere yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "458852",
+    "name": "De Zaanse Hoeve Magere roeryoghurt",
+    "price": 0.79,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393239313034?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Magere yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "568246",
+    "name": "AH Biologisch Magere yoghurt 3-pack",
+    "price": 4.25,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234393438?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Magere yoghurt"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "580323",
+    "name": "Campina magere yoghurt 1L 3-pack",
+    "price": 4.53,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313036323134?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Zuivel, eieren, boter",
+      "Yoghurt en kwark",
+      "Yoghurt",
+      "Yoghurt naturel",
+      "Magere yoghurt"
+    ],
+    "isFood": true
+  }
+]

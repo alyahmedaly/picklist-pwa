@@ -1,0 +1,249 @@
+[
+  {
+    "id": "387839",
+    "name": "AH Tutti frutti",
+    "price": 2.75,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303734363930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "468066",
+    "name": "AH Abrikoos gedroogd",
+    "price": 3.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383531383730?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "164752",
+    "name": "AH Krenten",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303538333833?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412953",
+    "name": "AH Mango gedroogd",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313130363135?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470032",
+    "name": "AH Biologisch Cranberry's",
+    "price": 5.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338333930?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470034",
+    "name": "AH Biologisch Mango gedroogd",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363334303230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470030",
+    "name": "AH Biologisch Dadels gedroogd zonder pit",
+    "price": 4.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363336313635?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412954",
+    "name": "AH Gedroogde pruimen",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333393230?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "467993",
+    "name": "AH Pruimen gedroogd",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383531383731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470035",
+    "name": "AH Biologisch Fruit & pitten mix",
+    "price": 3.49,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033343130?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "388601",
+    "name": "AH Gewelde gedroogde abrikozen",
+    "price": 4.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383630353831?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "243875",
+    "name": "AH Gedroogde vijgen",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545237303339363631?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "554897",
+    "name": "AH Fruit & noten blauwe bessen, walnoten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638393331?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "412952",
+    "name": "AH Gedroogde abrikozen",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383333363036?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470161",
+    "name": "AH Biologisch Pruimen gedroogd zonder pit",
+    "price": 6.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363334303038?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "470027",
+    "name": "AH Biologisch Gedroogde abrikozen",
+    "price": 5.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363338333936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "575796",
+    "name": "AH Fruit & noten blauwe bessen cashewnoten",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303638313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "579712",
+    "name": "AH Gewelde gedroogde abrikozen 2-pack",
+    "price": 8.53,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313033373630?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "486316",
+    "name": "Souq Gekonfijte citroenen",
+    "price": 2.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373138323433?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Fruit",
+      "Gedroogd fruit",
+      "Gedroogd fruit (diverse)"
+    ],
+    "isFood": true
+  }
+]

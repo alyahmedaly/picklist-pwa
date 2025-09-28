@@ -1,0 +1,44 @@
+{
+  "categoryPath": "Aardappel, groente, fruit > Groente > Paprika, courgette, aubergine > Paprika",
+  "breadcrumbs": "Aardappel, groente, fruit > Groente > Paprika, courgette, aubergine > Paprika",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "paprika-vers",
+      "displayName": "Paprika Vers",
+      "productCount": 10,
+      "filePath": "paprika-vers.jsonl",
+      "indexPath": "paprika-vers-index.json",
+      "statsPath": "paprika-vers-stats.json",
+      "averageProtein": 0.5,
+      "halalCompliance": 30
+    }
+  ],
+  "totalProducts": 10,
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Aardappel Groente Fruit",
+        "path": "../../../index.json"
+      },
+      {
+        "name": "Groente",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Paprika Courgette Aubergine",
+        "path": "../index.json"
+      },
+      {
+        "name": "Paprika",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 4,
+    "parentPath": "aardappel-groente-fruit/groente/paprika-courgette-aubergine"
+  }
+}

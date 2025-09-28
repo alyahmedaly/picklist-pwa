@@ -1,0 +1,156 @@
+[
+  {
+    "id": "467273",
+    "name": "Lindt Creation karamel melkchocolade",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383537?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "384656",
+    "name": "Lindt Creation frisse munt melkchocolade",
+    "price": 3.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303437383434?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "367082",
+    "name": "Lindt Excellence karamel zeezout chocolade",
+    "price": 2.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363833333536?revLabel=2&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "523435",
+    "name": "Lindt Creation sinaasappel pure chocolade",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936333233?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "140088",
+    "name": "Ritter Sport Marsepein",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239373336353037?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "501988",
+    "name": "Lindt Creation double chocolate pure chocolade",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936333237?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "474502",
+    "name": "Côte d'Or Bonbonbloc puur chocolade truffel cacao",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239363235393239?revLabel=5&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "159495",
+    "name": "Côte d'Or Bonbonbloc Praline Puur 200gr",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313138323338?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "501986",
+    "name": "Lindt Creation crème brûlée pure chocolade",
+    "price": 3.69,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383936333239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "582802",
+    "name": "Côte d'Or Pure chocolade amandelen",
+    "price": 4.15,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313230333837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met vulling, praliné"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "362175",
+    "name": "JB Diesch FT pure chocolade met babbelaars",
+    "price": 2.39,
+    "image": "NA",
+    "categories": [
+      "Snoep, chocolade, koek",
+      "Chocolade",
+      "Repen en tabletten",
+      "Pure chocolade repen",
+      "Pure chocolade met vulling, praliné"
+    ],
+    "isFood": true
+  }
+]

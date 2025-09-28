@@ -1,0 +1,106 @@
+[
+  {
+    "id": "408052",
+    "name": "Carbonell Groene olijven zonder pit",
+    "price": 2.09,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383830393532?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Groene olijven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408054",
+    "name": "Carbonell Groene olijven zonder pit",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383838303936?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Groene olijven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "408057",
+    "name": "Carbonell Groene olijven gevuld met paprikapasta",
+    "price": 2.49,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383830393731?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Groene olijven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "126428",
+    "name": "AH Groene olijven in plakjes",
+    "price": 0.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131343832?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Groene olijven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "60609",
+    "name": "AH Groene olijven met paprika",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131343739?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Groene olijven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "60607",
+    "name": "AH Groene olijven zonder pit",
+    "price": 0.89,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131343737?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Groene olijven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "199923",
+    "name": "AH Biologisch Groene olijven zonder pit",
+    "price": 1.59,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303234363836?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Groene olijven"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "80110",
+    "name": "AH Groene olijven met knoflook",
+    "price": 1.35,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303131343735?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Pasta, rijst en wereldkeuken",
+      "Mediterrane keuken",
+      "Olijven",
+      "Groene olijven"
+    ],
+    "isFood": true
+  }
+]

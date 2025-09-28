@@ -1,0 +1,158 @@
+[
+  {
+    "id": "203229",
+    "name": "Bieze Rauwkost 4 seizoenen",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539333931?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Rauwkost"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203228",
+    "name": "Bieze Rauwkost komkommer",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539333734?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Rauwkost"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203227",
+    "name": "Bieze Rauwkost farmer",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539323137?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Rauwkost"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "203226",
+    "name": "Bieze Rauwkost coleslaw",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539323232?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Rauwkost"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "440495",
+    "name": "Bieze Witte kool rauwkost",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303539323138?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Rauwkost"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "216034",
+    "name": "AH Rauwkost Amsterdamse ui",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031313839?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Rauwkost"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "197384",
+    "name": "AH Rauwkost komkommer",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031313934?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Rauwkost"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "139463",
+    "name": "AH Rauwkost paprika",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031313837?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Rauwkost"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "139461",
+    "name": "AH Rauwkost radijs",
+    "price": 2.29,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130313031313933?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Rauwkost"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "394819",
+    "name": "AH Biet julienne",
+    "price": 1.99,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239393434323239?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Rauwkost"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "482848",
+    "name": "AH Kool peen",
+    "price": 1.29,
+    "image": "https://static.ah.nl/dam/product/AHI_43545239383935313131?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Rauwkost"
+    ],
+    "isFood": true
+  },
+  {
+    "id": "572142",
+    "name": "AH Koolmix",
+    "price": 1.39,
+    "image": "https://static.ah.nl/dam/product/AHI_4354523130303635333939?revLabel=1&rendition=800x800_JPG_Q90&fileType=binary",
+    "categories": [
+      "Aardappel, groente, fruit",
+      "Groente",
+      "Sla, rauwkost en kiemgroenten",
+      "Rauwkost"
+    ],
+    "isFood": true
+  }
+]

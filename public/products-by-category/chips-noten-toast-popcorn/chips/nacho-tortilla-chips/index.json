@@ -1,0 +1,56 @@
+{
+  "categoryPath": "Chips, noten, toast, popcorn > Chips > Nacho tortilla chips",
+  "breadcrumbs": "Chips, noten, toast, popcorn > Chips > Nacho tortilla chips",
+  "subdirectories": [],
+  "files": [
+    {
+      "name": "tortilla-chips-met-smaakje",
+      "displayName": "Tortilla Chips Met Smaakje",
+      "productCount": 24,
+      "filePath": "tortilla-chips-met-smaakje.jsonl",
+      "indexPath": "tortilla-chips-met-smaakje-index.json",
+      "statsPath": "tortilla-chips-met-smaakje-stats.json",
+      "averageProtein": 6.3,
+      "halalCompliance": 96
+    },
+    {
+      "name": "tortilla-chips-naturel",
+      "displayName": "Tortilla Chips Naturel",
+      "productCount": 9,
+      "filePath": "tortilla-chips-naturel.jsonl",
+      "indexPath": "tortilla-chips-naturel-index.json",
+      "statsPath": "tortilla-chips-naturel-stats.json",
+      "averageProtein": 6.6,
+      "halalCompliance": 100
+    }
+  ],
+  "totalProducts": 33,
+  "aggregatedFile": {
+    "name": "complete-collection",
+    "filePath": "complete-collection.jsonl",
+    "productCount": 33,
+    "displayName": "Complete Collection"
+  },
+  "navigation": {
+    "parentPath": "../index.json",
+    "rootPath": "../../../index.json",
+    "breadcrumbLinks": [
+      {
+        "name": "Chips Noten Toast Popcorn",
+        "path": "../../index.json"
+      },
+      {
+        "name": "Chips",
+        "path": "../index.json"
+      },
+      {
+        "name": "Nacho Tortilla Chips",
+        "path": "index.json"
+      }
+    ]
+  },
+  "metadata": {
+    "depth": 3,
+    "parentPath": "chips-noten-toast-popcorn/chips"
+  }
+}
