@@ -313,9 +313,9 @@
     },
     "highSatietyProducts": 176,
     "processingPenaltyDistribution": {
-      "minimal": 0,
-      "moderate": 0,
-      "high": 0
+      "minimal": 24947,
+      "moderate": 3534,
+      "high": 2017
     },
     "postWorkoutOptimizationComputed": 13145,
     "postWorkoutScoreRange": {
