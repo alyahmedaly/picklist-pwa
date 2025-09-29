@@ -1,8 +1,9 @@
 /**
  * Image URL utilities for handling Albert Heijn product images
  *
- * - Development: Uses Vite proxy (/api/images) to avoid CORS issues
- * - Production: Uses original URLs directly (GitHub Pages can't proxy)
+ * Uses /api/images proxy path for all environments:
+ * - Development: Handled by Vite dev server proxy configuration
+ * - Production: Handled by service worker runtime caching with URL rewriting
  */
 
 /**
@@ -13,14 +14,10 @@
 export function getImageUrl(originalUrl: string): string {
   if (!originalUrl) return '';
 
-  // In development, use the proxy
-  if (import.meta.env.DEV) {
-    return originalUrl.replace('https://static.ah.nl', '/api/images');
-  }
-
-  // In production (GitHub Pages), use original URLs directly
-  // Note: These may have CORS restrictions, but we handle that gracefully in components
-  return originalUrl;
+  // Always use the /api/images proxy path
+  // - Development: Handled by Vite dev server proxy
+  // - Production: Handled by service worker proxy
+  return originalUrl.replace('https://static.ah.nl', '/api/images');
 }
 
 /**

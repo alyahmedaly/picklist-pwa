@@ -81,10 +81,22 @@ export function ProductDetailsModal({ product, isOpen, onClose }: ProductDetails
                   src={getImageUrl(product.images.primary)}
                   alt={product.name}
                   className="w-full h-full object-contain rounded-lg border"
+                  crossOrigin="anonymous"
                   onError={(e) => {
-                    // On error, try fallback data URI
+                    // Multi-stage fallback for GitHub Pages
                     const img = e.target as HTMLImageElement;
+                    const currentSrc = img.src;
+
+                    // Try direct URL if we were using proxy
+                    if (currentSrc.includes('/api/images') && !import.meta.env.DEV) {
+                      console.log('[ProductDetailsModal] Proxy failed, trying direct URL');
+                      img.src = product.images?.primary ?? '';
+                      return;
+                    }
+
+                    // Try fallback data URI
                     if (img.src !== getFallbackImageDataUri()) {
+                      console.log('[ProductDetailsModal] Direct URL failed, using fallback');
                       img.src = getFallbackImageDataUri();
                     }
                   }}

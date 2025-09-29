@@ -159,17 +159,31 @@ export const ProductCard: React.FC<ProductCardProps> = React.memo(({
                 alt={product.name}
                 className="w-full h-48 object-contain p-3"
                 loading="lazy"
+                crossOrigin="anonymous"
                 onError={(e) => {
-                  // On error, try fallback data URI first, then show placeholder
+                  // Multi-stage fallback for GitHub Pages
                   const img = e.target as HTMLImageElement;
+                  const currentSrc = img.src;
+
+                  // Try direct URL if we were using proxy
+                  if (currentSrc.includes('/api/images') && !import.meta.env.DEV) {
+                    console.log('[ProductCard] Proxy failed, trying direct URL');
+                    img.src = product.images.primary;
+                    return;
+                  }
+
+                  // Try fallback data URI
                   if (img.src !== getFallbackImageDataUri()) {
+                    console.log('[ProductCard] Direct URL failed, using fallback');
                     img.src = getFallbackImageDataUri();
-                  } else {
-                    // If even fallback fails, show placeholder
-                    const container = img.parentElement;
-                    if (container) {
-                      container.innerHTML = '<div class="w-full h-48 flex items-center justify-center text-gray-400 text-sm bg-gradient-to-br from-gray-100 to-gray-200 dark:from-gray-700 dark:to-gray-800"><div class="text-center"><div class="text-2xl mb-1">📦</div><div>No Image</div></div></div>';
-                    }
+                    return;
+                  }
+
+                  // Final fallback: show placeholder
+                  console.log('[ProductCard] All strategies failed, showing placeholder');
+                  const container = img.parentElement;
+                  if (container) {
+                    container.innerHTML = '<div class="w-full h-48 flex items-center justify-center text-gray-400 text-sm bg-gradient-to-br from-gray-100 to-gray-200 dark:from-gray-700 dark:to-gray-800"><div class="text-center"><div class="text-2xl mb-1">📦</div><div>No Image</div></div></div>';
                   }
                 }}
               />
