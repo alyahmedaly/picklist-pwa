@@ -19,6 +19,7 @@ import { VStack, HStack } from '../layout/stack';
 import { Macro } from './Macro';
 import { ScoresTooltip } from './ScoresTooltip';
 import type { Product } from '@picklist/types';
+import { getImageUrl, getFallbackImageDataUri } from '../../utils/imageUtils';
 
 // NutritionFacts component for displaying nutrition metrics
 const NutritionFacts: React.FC<{ nutrition?: Product['nutrition'] }> = ({ nutrition }) => {
@@ -154,16 +155,21 @@ export const ProductCard: React.FC<ProductCardProps> = React.memo(({
           {product.images?.primary && (
             <div className="relative flex-shrink-0 bg-gray-50 dark:bg-gray-800 rounded-lg overflow-hidden">
               <img
-                src={product.images.primary.replace('https://static.ah.nl', '/api/images')}
+                src={getImageUrl(product.images.primary)}
                 alt={product.name}
                 className="w-full h-48 object-contain p-3"
                 loading="lazy"
                 onError={(e) => {
-                  // Hide image on error and show placeholder
+                  // On error, try fallback data URI first, then show placeholder
                   const img = e.target as HTMLImageElement;
-                  const container = img.parentElement;
-                  if (container) {
-                    container.innerHTML = '<div class="w-full h-48 flex items-center justify-center text-gray-400 text-sm bg-gradient-to-br from-gray-100 to-gray-200 dark:from-gray-700 dark:to-gray-800"><div class="text-center"><div class="text-2xl mb-1">📦</div><div>No Image</div></div></div>';
+                  if (img.src !== getFallbackImageDataUri()) {
+                    img.src = getFallbackImageDataUri();
+                  } else {
+                    // If even fallback fails, show placeholder
+                    const container = img.parentElement;
+                    if (container) {
+                      container.innerHTML = '<div class="w-full h-48 flex items-center justify-center text-gray-400 text-sm bg-gradient-to-br from-gray-100 to-gray-200 dark:from-gray-700 dark:to-gray-800"><div class="text-center"><div class="text-2xl mb-1">📦</div><div>No Image</div></div></div>';
+                    }
                   }
                 }}
               />

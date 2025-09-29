@@ -46,7 +46,7 @@ export default defineConfig({
       workbox: {
         // Cache ALL files in public directory for complete offline functionality
         globPatterns: [
-          '**/*.{js,css,html,ico,png,svg,wasm,jsonl}',
+          '**/*.{js,css,html,ico,png,svg,jsonl}',
           '**/products-by-category/**/*'
         ],
 
@@ -78,17 +78,6 @@ export default defineConfig({
             }
           },
           {
-            // Cache WASM files for SQLite
-            urlPattern: /.*\.wasm$/,
-            handler: 'CacheFirst',
-            options: {
-              cacheName: 'wasm-cache',
-              expiration: {
-                maxAgeSeconds: 60 * 60 * 24 * 365 // 1 year
-              }
-            }
-          },
-          {
             // Catch-all for any other public files
             urlPattern: /^\/(?!api)/,
             handler: 'CacheFirst',
@@ -103,34 +92,15 @@ export default defineConfig({
         ]
       }
     }),
-    {
-      name: 'configure-response-headers',
-      configureServer: (server) => {
-        server.middlewares.use((_req, res, next) => {
-          res.setHeader('Cross-Origin-Embedder-Policy', 'require-corp');
-          res.setHeader('Cross-Origin-Opener-Policy', 'same-origin');
-          next();
-        });
-      },
-    },
   ],
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
     },
   },
-  optimizeDeps: {
-    exclude: [
-      'sqlocal'
-    ]
-  },
   server: {
     fs: {
       allow: ['..']
-    },
-    headers: {
-      'Cross-Origin-Embedder-Policy': 'require-corp',
-      'Cross-Origin-Opener-Policy': 'same-origin',
     },
     proxy: {
       '/api/images': {
@@ -151,22 +121,5 @@ export default defineConfig({
       }
     }
   },
-  // Ensure WASM files are served with correct MIME type
-  assetsInclude: ['**/*.wasm'],
 
-  // Worker configuration for SQLite compatibility
-  worker: {
-    format: 'es' // Use ES modules for workers instead of IIFE
-  },
-
-  // Build optimizations for PWA
-  build: {
-    rollupOptions: {
-      output: {
-        manualChunks: {
-          sqlite: ['sqlocal']
-        }
-      }
-    }
-  }
 });

@@ -7,6 +7,7 @@ import { X, Package, Euro, Heart, Leaf, Zap, Shield } from 'lucide-react';
 import { NutritionCard } from '../nutrition/nutrition-card';
 import { HealthGrade } from '../nutrition/health-grade';
 import { HalalBadge } from '../nutrition/halal-badge';
+import { getImageUrl, getFallbackImageDataUri } from '../../utils/imageUtils';
 
 interface ProductDetailsModalProps {
   product: Product | null;
@@ -77,9 +78,16 @@ export function ProductDetailsModal({ product, isOpen, onClose }: ProductDetails
             {product.images && (
               <div className="aspect-square w-full max-w-sm mx-auto">
                 <img
-                  src={product.images.primary.replace('https://static.ah.nl', '/api/images')}
+                  src={getImageUrl(product.images.primary)}
                   alt={product.name}
                   className="w-full h-full object-contain rounded-lg border"
+                  onError={(e) => {
+                    // On error, try fallback data URI
+                    const img = e.target as HTMLImageElement;
+                    if (img.src !== getFallbackImageDataUri()) {
+                      img.src = getFallbackImageDataUri();
+                    }
+                  }}
                 />
               </div>
             )}
